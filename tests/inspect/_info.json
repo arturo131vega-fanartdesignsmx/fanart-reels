@@ -1,15 +1,158 @@
 {
- "sq185": {
+ "persian_5": {
   "programs": [],
   "stream_groups": [],
   "streams": [
    {
-    "width": 1080,
-    "height": 1080
+    "width": 2000,
+    "height": 2000
    }
   ],
   "format": {
-   "duration": "4.166667"
+   "duration": "0.040000"
+  }
+ },
+ "yanma_v2": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mantyke_3": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mega_lucario_z_5": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "drapion_6": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "carnivine_3": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "lumineon": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "ninetales_8_10": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "finneon": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mega_lumineon": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mega_mantine": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mega_drapion": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 2000,
+    "height": 2000
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
   }
  }
 }
