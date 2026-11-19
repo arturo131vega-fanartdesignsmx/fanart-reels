@@ -1,0 +1,80 @@
+{
+ "mcy_1": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 1248,
+    "height": 1248
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mcy_2": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 720,
+    "height": 720
+   }
+  ],
+  "format": {
+   "duration": "4.153515"
+  }
+ },
+ "mcy_3": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 4096,
+    "height": 4096
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "bfree_1": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 1248,
+    "height": 1248
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "bfree_3": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 4096,
+    "height": 4096
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ },
+ "mblast_1": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "width": 1248,
+    "height": 1248
+   }
+  ],
+  "format": {
+   "duration": "0.040000"
+  }
+ }
+}
