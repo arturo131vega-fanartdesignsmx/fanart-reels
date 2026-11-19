@@ -16,14 +16,13 @@ concurrency:
 jobs:
   review:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr > /dev/null
           pip install -q numpy opencv-python-headless pillow
       - run: python3 engine/review.py
       - name: Save sheets

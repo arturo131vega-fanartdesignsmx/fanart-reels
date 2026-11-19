@@ -9,8 +9,10 @@ Reel item:
    "script": [...], "voice": "af_heart", "speed": 1.04, "variant_seed": int, "music_seed": int,
    "highlight": [...], "caption_ig": str, "caption_fb": str}
 Carousel item:
-  {"id", "type": "carousel", "publish_at", "slides": [{"image": url} | {"video": url}, ...],
+  {"id", "type": "carousel", "publish_at",
+   "slides": [{"image": url} | {"video": url} | {"collage": [url, url, ...]}, ...],
    "caption_ig": str, "caption_fb": str}
+  A "collage" slide is built here (all designs in one 1080x1080 image, each watermarked).
 """
 import datetime as dt
 import glob
@@ -109,6 +111,28 @@ def warm(url):
         except Exception:
             time.sleep(10)
     raise RuntimeError(f"media not reachable: {url}")
+
+
+def prepare_carousel(it, workdir):
+    from collage import build
+    day = it["publish_at"][:10]
+    slides, files = [], {}
+    for i, sl in enumerate(it["slides"]):
+        if sl.get("collage"):
+            paths = [download(u, os.path.join(workdir, f"s{i}_{j}.jpg")) for j, u in enumerate(sl["collage"])]
+            name = f"{day}_{it['id']}_slide{i + 1}.jpg"
+            files[name] = build(paths, os.path.join(workdir, name))
+            slides.append({"image": name, "_local": True})
+        else:
+            slides.append(dict(sl))
+    if files:
+        urls = push_cdn(files)
+        for sl in slides:
+            if sl.pop("_local", False):
+                sl["image"] = cld_image(urls[sl["image"]])
+    for sl in slides:
+        warm(sl.get("image") or sl.get("video"))
+    return {"slides": slides}
 
 
 def render_item(it, workdir):
@@ -217,7 +241,11 @@ def main():
                 st["render_seconds"] = round(time.time() - t0)
                 changed = True
                 print(f"rendered {it['id']} -> {st['video_url']}")
-            if it.get("dry_run") and st.get("video_url"):
+            if it["type"] == "carousel" and not st.get("slides") and (at - now() <= RENDER_AHEAD or due):
+                st.update(prepare_carousel(it, tempfile.mkdtemp()))
+                changed = True
+                print(f"prepared {it['id']} slides")
+            if it.get("dry_run") and (st.get("video_url") or st.get("slides")):
                 st["done"] = now().isoformat()
                 st["dry_run"] = True
                 changed = True
@@ -233,10 +261,10 @@ def main():
                     changed = True
             elif it["type"] == "carousel":
                 if not st.get("ig"):
-                    st["ig"] = api().ig_carousel(it["slides"], it["caption_ig"])
+                    st["ig"] = api().ig_carousel(st.get("slides") or it["slides"], it["caption_ig"])
                     changed = True
                 if not st.get("fb") and it.get("caption_fb"):
-                    imgs = [s["image"] for s in it["slides"] if s.get("image")]
+                    imgs = [x["image"] for x in (st.get("slides") or it["slides"]) if x.get("image")]
                     st["fb"] = api().fb_album(imgs, it["caption_fb"])
                     changed = True
             if st.get("ig") and (st.get("fb") or not it.get("caption_fb")):

@@ -1,17 +1,21 @@
-"""Real-card check helper (GitHub Actions).
+"""Real-card check (GitHub Actions): is this DESIGN (the artwork) an official card?
 
-review/request.json: {"candidates": [{"key": "...", "name": "Mega Mewtwo Y ex", "pokemon": "Mewtwo",
-                                       "image": "https://..."}]}
-Writes for every candidate:
-  review/out/<key>_design.jpg   our design (card crop, readable size)
-  review/out/<key>_real.jpg     contact sheet of printed / Pocket cards of the same Pokémon (numbered)
-  review/out/<key>.json         those cards: id, set, hp, attacks, abilities, rarity, pocket flag
-The daily planner (Claude) compares them and decides; nothing is decided here.
+Arturo's rule: never post a design that exists as an official Pokémon card. We compare the artwork
+of each design against the official card images (TCGdex: every official English card incl. TCG Pocket,
+plus Japanese cards) with SIFT feature matching + RANSAC. Same artwork -> many geometric inliers.
+
+review/request.json:
+  {"candidates": [{"key": "...", "name": "Pikachu 27", "pokemon": "Pikachu", "dex": 25, "image": "https://..."}]}
+Writes:
+  review/out/<key>_design.jpg   the design (card crop)
+  review/out/<key>_match.jpg    the design next to the 4 most similar official cards (inliers on top)
+  review/out/<key>.json         top matches: id, name, set, pocket flag, inliers
+  review/out/_summary.json      verdict per key: ART_MATCH (official design) / POSSIBLE (look at it) / NO_ART_MATCH
 """
 import json
 import os
 import re
-import sys
+import time
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -21,23 +25,28 @@ import numpy as np
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "review", "out")
-API = "https://api.tcgdex.net/v2/en"
+API = "https://api.tcgdex.net/v2"
 UA = {"User-Agent": "Mozilla/5.0 fanart-reels-review"}
 POCKET = re.compile(r"^(A\d|B\d|P-A)", re.I)
+MATCH, POSSIBLE = 25, 12
 
 
-def get(url, binary=False):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
-    return data if binary else json.loads(data.decode())
+def get(url, binary=False, tries=4):
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+            return data if binary else json.loads(data.decode())
+        except Exception:
+            if i == tries - 1:
+                raise
+            time.sleep(2 + 3 * i)
 
 
-def img_from(url):
-    data = get(url, binary=True)
-    arr = np.frombuffer(data, np.uint8)
-    im = cv2.imdecode(arr, cv2.IMREAD_COLOR)
-    if im is None:  # webp fallback through PIL
+def decode(data):
+    im = cv2.imdecode(np.frombuffer(data, np.uint8), cv2.IMREAD_COLOR)
+    if im is None:
         from PIL import Image
         import io
         im = cv2.cvtColor(np.array(Image.open(io.BytesIO(data)).convert("RGB")), cv2.COLOR_RGB2BGR)
@@ -46,127 +55,148 @@ def img_from(url):
 
 def crop_card(im):
     h, w = im.shape[:2]
-    if abs(w / h - 1) < 0.02:
+    if abs(w / h - 1) < 0.02:  # 2000x2000 mockup
         s = w / 2000.0
         return im[int(140 * s):int(1860 * s), int(384 * s):int(1616 * s)]
     return im
 
 
-def detail(cid):
+SIFT = cv2.SIFT_create(nfeatures=2500)
+
+
+def feats(img, art_only=False):
+    h, w = img.shape[:2]
+    if art_only:  # artwork zone only, so card-frame/template elements can't create false matches
+        img = img[int(0.14 * h):int(0.54 * h), int(0.08 * w):int(0.92 * w)]
+    s = 800 / max(img.shape[:2])
+    img = cv2.resize(img, None, fx=s, fy=s, interpolation=cv2.INTER_AREA)
+    g = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    kp, des = SIFT.detectAndCompute(g, None)
+    return np.float32([k.pt for k in kp]) if kp else None, des
+
+
+BF = cv2.BFMatcher(cv2.NORM_L2)
+
+
+def inliers(fa, fb):
+    pa, da = fa
+    pb, db = fb
+    if da is None or db is None or len(da) < 8 or len(db) < 8:
+        return 0
+    good = [m for m, n in (x for x in BF.knnMatch(da, db, k=2) if len(x) == 2) if m.distance < 0.75 * n.distance]
+    if len(good) < 8:
+        return len(good) // 3
+    A = pa[[m.queryIdx for m in good]]
+    B = pb[[m.trainIdx for m in good]]
+    H, mask = cv2.findHomography(A, B, cv2.RANSAC, 6.0)
+    return int(mask.sum()) if mask is not None else 0
+
+
+def ja_name(dex):
     try:
-        c = get(f"{API}/cards/{urllib.parse.quote(cid)}")
-    except Exception as e:
-        return {"id": cid, "error": str(e)[:80]}
-    return {
-        "id": c.get("id"), "name": c.get("name"), "set": (c.get("set") or {}).get("name"),
-        "hp": c.get("hp"), "rarity": c.get("rarity"), "illustrator": c.get("illustrator"),
-        "attacks": [a.get("name") for a in (c.get("attacks") or [])],
-        "abilities": [a.get("name") for a in (c.get("abilities") or [])],
-        "pocket": bool(POCKET.match(c.get("id") or "")),
-        "image": (c.get("image") + "/low.png") if c.get("image") else None,
-    }
+        sp = get(f"https://pokeapi.co/api/v2/pokemon-species/{dex}")
+        for n in sp.get("names", []):
+            if n["language"]["name"] in ("ja-Hrkt", "ja"):
+                return n["name"]
+    except Exception:
+        pass
+    return None
 
 
-def ocr_text(card_img):
-    """OCR the card (tesseract) - returns lowercase text, or '' if tesseract is missing."""
-    import shutil, subprocess, tempfile
-    if not shutil.which("tesseract"):
-        return ""
-    big = cv2.resize(card_img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
-    gray = cv2.cvtColor(big, cv2.COLOR_BGR2GRAY)
-    texts = []
-    for img in (gray, 255 - gray):
-        f = tempfile.mktemp(suffix=".png")
-        cv2.imwrite(f, img)
-        r = subprocess.run(["tesseract", f, "-", "--psm", "11"], capture_output=True, text=True)
-        texts.append(r.stdout)
-    return " ".join(texts).lower()
-
-
-def match_score(text, card):
-    """Fraction of a real card's attack/ability names found (fuzzily) in the OCR text."""
-    import difflib
-    names = [n for n in (card.get("attacks") or []) + (card.get("abilities") or []) if n and len(n) >= 4]
-    if not names or not text:
-        return 0.0, []
-    words = re.findall(r"[a-z0-9']+", text)
-    hits = []
-    for n in names:
-        nw = re.findall(r"[a-z0-9']+", n.lower())
-        k = len(nw)
-        best = 0.0
-        for i in range(max(1, len(words) - k + 1)):
-            cand = " ".join(words[i:i + k])
-            best = max(best, difflib.SequenceMatcher(None, cand, " ".join(nw)).ratio())
-        if best >= 0.82:
-            hits.append(n)
-    return len(hits) / len(names), hits
-
-
-def sheet(cards, path, cols=8, tw=150, th=210):
-    rows = max(1, (len(cards) + cols - 1) // cols)
-    canvas = np.full((rows * (th + 26), cols * tw, 3), 30, np.uint8)
-
-    def fetch(c):
+def official_cards(pokemon, dex):
+    found, log = {}, {}
+    queries = [("en", f"{API}/en/cards?name={urllib.parse.quote(pokemon)}")]
+    jn = ja_name(dex) if dex else None
+    if jn:
+        queries.append(("ja", f"{API}/ja/cards?name={urllib.parse.quote(jn)}"))
+    for lang, q in queries:
         try:
-            return cv2.resize(img_from(c["image"]), (tw - 6, th - 6)) if c.get("image") else None
-        except Exception:
-            return None
+            res = get(q)
+            log[lang] = len(res)
+            for c in res:
+                if c.get("image"):
+                    found[f"{lang}:{c['id']}"] = {"id": c["id"], "lang": lang, "name": c.get("name"),
+                                                  "image": c["image"], "pocket": bool(POCKET.match(c["id"]))}
+        except Exception as e:
+            log[lang] = f"error {str(e)[:60]}"
+    return list(found.values()), log
 
-    with ThreadPoolExecutor(8) as ex:
-        thumbs = list(ex.map(fetch, cards))
-    for i, (c, t) in enumerate(zip(cards, thumbs)):
-        r, k = divmod(i, cols)
-        y, x = r * (th + 26), k * tw
-        if t is not None:
-            canvas[y + 3:y + th - 3, x + 3:x + tw - 3] = t
-        label = f"{i + 1}{' P' if c.get('pocket') else ''}"
-        cv2.putText(canvas, label, (x + 6, y + th + 18), cv2.FONT_HERSHEY_SIMPLEX, 0.55, (255, 255, 255), 1, cv2.LINE_AA)
-    cv2.imwrite(path, canvas, [cv2.IMWRITE_JPEG_QUALITY, 85])
+
+def load_official(cards):
+    def one(c):
+        for ext in ("/high.webp", "/high.png", "/low.webp"):
+            try:
+                im = decode(get(c["image"] + ext, binary=True, tries=2))
+                return c, im, feats(im)
+            except Exception:
+                continue
+        return c, None, (None, None)
+    with ThreadPoolExecutor(16) as ex:
+        return [r for r in ex.map(one, cards) if r[1] is not None]
+
+
+def detail(c):
+    try:
+        d = get(f"{API}/{c['lang']}/cards/{urllib.parse.quote(c['id'])}")
+        return {"set": (d.get("set") or {}).get("name"), "illustrator": d.get("illustrator"), "hp": d.get("hp"),
+                "attacks": [a.get("name") for a in (d.get("attacks") or [])]}
+    except Exception:
+        return {}
+
+
+def match_sheet(design, top, path, th=520):
+    tiles = [cv2.resize(design, (int(design.shape[1] * th / design.shape[0]), th))]
+    for m, im in top:
+        t = cv2.resize(im, (int(im.shape[1] * th / im.shape[0]), th))
+        col = (0, 0, 255) if m["inliers"] >= MATCH else ((0, 200, 255) if m["inliers"] >= POSSIBLE else (255, 255, 255))
+        cv2.rectangle(t, (0, 0), (t.shape[1], 46), (0, 0, 0), -1)
+        cv2.putText(t, f"{m['inliers']} {m['id']}{' P' if m['pocket'] else ''}", (6, 32),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.8, col, 2)
+        tiles.append(t)
+    cv2.imwrite(path, np.hstack(tiles), [cv2.IMWRITE_JPEG_QUALITY, 85])
 
 
 def main():
     req = json.load(open(os.path.join(ROOT, "review", "request.json")))
     os.makedirs(OUT, exist_ok=True)
-    for f in os.listdir(OUT):
-        os.remove(os.path.join(OUT, f))
-    summary = {}
-    for cand in req.get("candidates", []):
-        key = re.sub(r"[^A-Za-z0-9_-]", "_", cand["key"])
+    cache, summary = {}, {}
+    for cand in req["candidates"]:
+        key = cand["key"]
         try:
-            d = crop_card(img_from(cand["image"]))
-            d = cv2.resize(d, (int(d.shape[1] * 1100 / d.shape[0]), 1100))
-            cv2.imwrite(os.path.join(OUT, f"{key}_design.jpg"), d, [cv2.IMWRITE_JPEG_QUALITY, 88])
+            d = crop_card(decode(get(cand["image"], binary=True)))
         except Exception as e:
-            summary[key] = {"error": f"design image: {e}"}
+            summary[key] = {"name": cand.get("name"), "verdict": "ERROR", "error": f"design image: {e}"}
             continue
-        poke = cand.get("pokemon") or cand["name"].split()[0]
-        try:
-            brief = get(f"{API}/cards?name={urllib.parse.quote(poke)}")
-        except Exception as e:
-            brief = []
-            summary[key] = {"error": f"tcgdex: {e}"}
-        ids = [b["id"] for b in brief][:96]
-        with ThreadPoolExecutor(8) as ex:
-            cards = [c for c in ex.map(detail, ids) if c.get("name")]
-        text = ocr_text(d)
-        matches = []
-        for c in cards:
-            sc, hits = match_score(text, c)
-            if hits:
-                matches.append({"id": c["id"], "name": c["name"], "set": c["set"], "hp": c["hp"],
-                                "pocket": c["pocket"], "score": round(sc, 2), "hits": hits})
-        matches.sort(key=lambda m: (-m["score"], -len(m["hits"])))
-        printed = [m for m in matches if not m["pocket"] and m["score"] >= 0.5]
-        verdict = "REAL_PRINTED_MATCH" if printed else ("POCKET_ONLY_MATCH" if matches else "NO_MATCH")
-        json.dump({"candidate": cand, "ocr": text[:2000], "matches": matches[:10], "real_cards": cards},
-                  open(os.path.join(OUT, f"{key}.json"), "w"), indent=1)
-        sheet(cards, os.path.join(OUT, f"{key}_real.jpg"))
-        summary[key] = {"name": cand["name"], "verdict": verdict, "top_match": matches[0] if matches else None,
-                        "real_cards_found": len(cards)}
-    json.dump(summary, open(os.path.join(OUT, "_summary.json"), "w"), indent=1)
-    print(json.dumps(summary, indent=1))
+        cv2.imwrite(os.path.join(OUT, f"{key}_design.jpg"),
+                    cv2.resize(d, (int(d.shape[1] * 1100 / d.shape[0]), 1100)), [cv2.IMWRITE_JPEG_QUALITY, 88])
+        pk = cand["pokemon"]
+        if pk not in cache:
+            cards, log = official_cards(pk, cand.get("dex"))
+            cache[pk] = (load_official(cards), log)
+        official, log = cache[pk]
+        fd = feats(d, art_only=True)
+        scored = sorted(((inliers(fd, f), c, im) for c, im, f in official), key=lambda x: -x[0])
+        top = []
+        for n, c, im in scored[:4]:
+            m = dict(c, inliers=n)
+            m.pop("image", None)
+            if n >= POSSIBLE:
+                m.update(detail(c))
+            top.append((m, im))
+        match_sheet(d, top, os.path.join(OUT, f"{key}_match.jpg"))
+        best = top[0][0] if top else {"inliers": 0}
+        verdict = ("ART_MATCH" if best["inliers"] >= MATCH else "POSSIBLE" if best["inliers"] >= POSSIBLE
+                   else "NO_ART_MATCH")
+        if not official:
+            verdict = "NO_OFFICIAL_DATA"  # lookup failed: never treat as clean
+        json.dump({"candidate": cand, "official_cards_checked": len(official), "lookup": log,
+                   "top": [m for m, _ in top]}, open(os.path.join(OUT, f"{key}.json"), "w"), indent=1,
+                  ensure_ascii=False)
+        summary[key] = {"name": cand.get("name"), "verdict": verdict, "best": best,
+                        "official_cards_checked": len(official), "lookup": log}
+        print(key, verdict, best.get("inliers"), best.get("id"), len(official))
+    json.dump(summary, open(os.path.join(OUT, "_summary.json"), "w"), indent=1, ensure_ascii=False)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
