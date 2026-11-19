@@ -1875,9 +1875,10 @@
    "pocket_max": 0
   },
   "verdict": "rejected",
-  "reason": "Official artwork: Rotom me02.5-092",
+  "reason": "Official artwork: Rotom me02.5-092 — extended art of that card (official illustration widened to full art); kept out until Arturo decides on extended arts",
   "pocket": false,
-  "added": "2026-11-19"
+  "added": "2026-11-19",
+  "extended_art": true
  },
  "479-rotom-8": {
   "pokemon": "Rotom",
@@ -1892,9 +1893,10 @@
    "pocket_max": 28
   },
   "verdict": "rejected",
-  "reason": "Official artwork: Rotom swsh4.5-34",
+  "reason": "Official artwork: Rotom swsh4.5-34 — extended art of that card (official illustration widened to full art); kept out until Arturo decides on extended arts",
   "pocket": false,
-  "added": "2026-11-19"
+  "added": "2026-11-19",
+  "extended_art": true
  },
  "479-rotom-9": {
   "pokemon": "Rotom",
@@ -1909,9 +1911,10 @@
    "pocket_max": 5
   },
   "verdict": "rejected",
-  "reason": "Official artwork: ロトム SV9a-039",
+  "reason": "Official artwork: ロトム SV9a-039 — extended art of that card (official illustration widened to full art); kept out until Arturo decides on extended arts",
   "pocket": false,
-  "added": "2026-11-19"
+  "added": "2026-11-19",
+  "extended_art": true
  },
  "479-rotom-fan-1": {
   "pokemon": "Rotom",
@@ -2079,8 +2082,9 @@
    "pocket_max": 0
   },
   "verdict": "rejected",
-  "reason": "Official artwork: Snover swsh2-12",
+  "reason": "Official artwork: Snover swsh2-12 — extended art of that card (official illustration widened to full art); kept out until Arturo decides on extended arts",
   "pocket": false,
-  "added": "2026-11-19"
+  "added": "2026-11-19",
+  "extended_art": true
  }
 }
