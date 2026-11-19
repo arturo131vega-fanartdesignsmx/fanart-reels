@@ -1,7 +1,50 @@
 [
  {
-  "name": "sq185",
-  "video": true,
-  "url": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+  "name": "persian_5",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_53_Persian_3/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_45,y_83/l_53_Persian_5/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_691,y_83/l_53_Persian_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_1337,y_83/l_53_Persian_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_368,y_973/l_53_Persian_4/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_1014,y_973/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%205%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1869/q_90/53_Persian_3.jpg"
+ },
+ {
+  "name": "yanma_v2",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_193_Yanma_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_45,y_302/l_193_Yanma_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_1014,y_302/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%202%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1649/q_90/193_Yanma_1.jpg"
+ },
+ {
+  "name": "mantyke_3",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_458_Mantyke_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_45,y_302/l_458_Mantyke_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_1014,y_302/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%203%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1649/q_90/458_Mantyke_1.jpg"
+ },
+ {
+  "name": "mega_lucario_z_5",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_448_Mega_Lucario_Z_3/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1174/r_52/fl_layer_apply,g_north_west,x_111,y_139/l_448_Mega_Lucario_Z_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_139/l_448_Mega_Lucario_Z_Shiny_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_974/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%205%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1812/q_90/448_Mega_Lucario_Z_3.jpg"
+ },
+ {
+  "name": "drapion_6",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_452_Drapion_3/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1174/r_52/fl_layer_apply,g_north_west,x_111,y_139/l_452_Drapion_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_139/l_452_Drapion_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_974/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%206%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1812/q_90/452_Drapion_3.jpg"
+ },
+ {
+  "name": "carnivine_3",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_455_Carnivine_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1174/r_52/e_shadow:60,x_0,y_14,co_rgb:000000/fl_layer_apply,g_north_west,x_413,y_139/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%203%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1812/q_90/455_Carnivine_1.jpg"
+ },
+ {
+  "name": "lumineon",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_457_Lumineon_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_45,y_83/l_457_Lumineon_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_691,y_83/l_457_Lumineon_3/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_1337,y_83/l_457_Lumineon_5/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_368,y_973/l_457_Lumineon_4/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_618/r_27/fl_layer_apply,g_north_west,x_1014,y_973/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%205%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1869/q_90/457_Lumineon_2.jpg"
+ },
+ {
+  "name": "ninetales_8_10",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_38_Ninetales_8/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1174/r_52/fl_layer_apply,g_north_west,x_111,y_139/l_38_Ninetales_9/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_139/l_38_Ninetales_10/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_576/r_25/fl_layer_apply,g_north_west,x_1313,y_974/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%203%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1812/q_90/38_Ninetales_8.jpg"
+ },
+ {
+  "name": "finneon",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_456_Finneon_2/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_45,y_302/l_456_Finneon_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_941/r_42/fl_layer_apply,g_north_west,x_1014,y_302/l_text:Arial_64_bold_letter_spacing_6:CHOOSE%201%20OF%202%20DESIGNS,co_rgb:F2F2F2/e_shadow:60,x_4,y_4,co_rgb:000000/fl_layer_apply,g_north,y_1649/q_90/456_Finneon_2.jpg"
+ },
+ {
+  "name": "mega_lumineon",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_457_Mega_Lumineon_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1289/r_58/e_shadow:60,x_0,y_14,co_rgb:000000/fl_layer_apply,g_north_west,x_355,y_100/q_90/457_Mega_Lumineon_1.jpg"
+ },
+ {
+  "name": "mega_mantine",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_226_Mega_Mantine_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1289/r_58/e_shadow:60,x_0,y_14,co_rgb:000000/fl_layer_apply,g_north_west,x_355,y_100/q_90/226_Mega_Mantine_1.jpg"
+ },
+ {
+  "name": "mega_drapion",
+  "url": "https://res.cloudinary.com/rntnboij/image/upload/c_crop,w_1050,h_1295,x_475,y_302/c_fill,w_500,h_500/e_blur:1200/c_scale,w_2000/e_brightness:-12/l_452_Mega_Drapion_1/c_crop,w_1232,h_1720,x_384,y_140/c_scale,w_1289/r_58/e_shadow:60,x_0,y_14,co_rgb:000000/fl_layer_apply,g_north_west,x_355,y_100/q_90/452_Mega_Drapion_1.jpg"
  }
 ]
