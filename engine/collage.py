@@ -34,8 +34,11 @@ def _rounded(card, r):
     return m
 
 
-def _place(bg, card, cx, cy, h, angle=0.0):
-    """Draw a watermarked, rounded card of height h centred at (cx, cy), rotated by angle, with shadow."""
+FAN_MARGIN = 84  # minimum distance between any card and the frame edge
+
+
+def _card_rgba(card, h, angle):
+    """Watermarked rounded card of height h, rotated by angle -> (BGR uint8, alpha float 0..1)."""
     w = int(h * card.shape[1] / card.shape[0])
     c = cv2.resize(card, (w, h), interpolation=cv2.INTER_AREA)
     c = watermark(c, w, h)
@@ -44,67 +47,56 @@ def _place(bg, card, cx, cy, h, angle=0.0):
     big = np.zeros((h + 2 * pad, w + 2 * pad, 4), np.uint8)
     big[pad:pad + h, pad:pad + w, :3] = c
     big[pad:pad + h, pad:pad + w, 3] = a
-    M = cv2.getRotationMatrix2D((big.shape[1] / 2, big.shape[0] / 2), angle, 1.0)
-    big = cv2.warpAffine(big, M, (big.shape[1], big.shape[0]), flags=cv2.INTER_LINEAR)
-    al = big[..., 3].astype(np.float32) / 255
-    sh = cv2.GaussianBlur(al, (0, 0), 14) * 0.6
-    x0, y0 = int(cx - big.shape[1] / 2), int(cy - big.shape[0] / 2)
-    for layer, color, alpha, dx, dy in ((None, 0, sh, 6, 14), (big[..., :3], None, al, 0, 0)):
-        xa, ya = max(0, x0 + dx), max(0, y0 + dy)
-        xb, yb = min(SIZE, x0 + dx + big.shape[1]), min(SIZE, y0 + dy + big.shape[0])
-        sl = (slice(ya - y0 - dy, yb - y0 - dy), slice(xa - x0 - dx, xb - x0 - dx))
-        A = alpha[sl][..., None]
-        roi = bg[ya:yb, xa:xb].astype(np.float32)
-        src = np.zeros_like(roi) if layer is None else layer[sl].astype(np.float32)
-        bg[ya:yb, xa:xb] = (roi * (1 - A) + src * A).astype(np.uint8)
+    if angle:
+        M = cv2.getRotationMatrix2D((big.shape[1] / 2, big.shape[0] / 2), angle, 1.0)
+        big = cv2.warpAffine(big, M, (big.shape[1], big.shape[0]), flags=cv2.INTER_LINEAR)
+    return big[..., :3], big[..., 3].astype(np.float32) / 255
+
+
+def _fan(cards):
+    """Lay out 1-3 cards as a fan (back cards first) on a transparent layer, then scale/centre it so the
+    whole group sits in the middle of the frame with FAN_MARGIN px of free space around it."""
+    n = len(cards)
+    # (index into cards, x offset, y offset, height, angle) - the main card goes last (on top)
+    spec = {1: [(0, 0, 0, 900, 0)],
+            2: [(1, 170, 16, 560, -6), (0, -170, 0, 580, 5)],
+            3: [(1, -272, 26, 540, 6), (2, 272, 26, 540, -6), (0, 0, 0, 640, 0)]}[n]
+    big = 2600
+    rgb = np.zeros((big, big, 3), np.float32)
+    al = np.zeros((big, big), np.float32)
+    for i, dx, dy, h, ang in spec:
+        c, a = _card_rgba(cards[i], h, ang)
+        y0, x0 = big // 2 + dy - c.shape[0] // 2, big // 2 + dx - c.shape[1] // 2
+        sl = (slice(y0, y0 + c.shape[0]), slice(x0, x0 + c.shape[1]))
+        # shadow of this card falls on the cards behind it
+        sh = cv2.GaussianBlur(a, (0, 0), 16) * 0.55
+        rgb[sl] = rgb[sl] * (1 - sh[..., None])
+        al[sl] = np.maximum(al[sl], sh)
+        A = a[..., None]
+        rgb[sl] = rgb[sl] * (1 - A) + c.astype(np.float32) * A
+        al[sl] = al[sl] * (1 - a) + a
+    ys, xs = np.where(al > 0.02)
+    y1, y2, x1, x2 = ys.min(), ys.max() + 1, xs.min(), xs.max() + 1
+    rgb, al = rgb[y1:y2, x1:x2], al[y1:y2, x1:x2]
+    avail = SIZE - 2 * FAN_MARGIN
+    s = min(avail / rgb.shape[1], avail / rgb.shape[0])
+    rgb = cv2.resize(rgb, None, fx=s, fy=s, interpolation=cv2.INTER_AREA)
+    al = cv2.resize(al, None, fx=s, fy=s, interpolation=cv2.INTER_AREA)
+    return rgb, al
 
 
 def build(card_paths, out_path):
-    cards = [load_card(p) for p in card_paths]
-    n = len(cards)
-    if n in (1, 3):  # one big card, or a fan of three (bigger than a row of three)
-        bg = cv2.resize(cards[0], (SIZE, SIZE))
-        bg = (cv2.GaussianBlur(bg, (0, 0), 40).astype(np.float32) * 0.35).astype(np.uint8)
-        if n == 1:
-            _place(bg, cards[0], SIZE / 2, SIZE / 2, 940)
-        else:
-            # symmetric fan, every card at least ~48 px inside the frame
-            _place(bg, cards[1], SIZE / 2 - 284, SIZE / 2 + 20, 520, 5)
-            _place(bg, cards[2], SIZE / 2 + 284, SIZE / 2 + 20, 520, -5)
-            _place(bg, cards[0], SIZE / 2, SIZE / 2, 580)
-        cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
-        return out_path
-    cols, rows = _layout(n)
-    # background: blurred, darkened first card
+    """Slide 3: the other designs of the Pokémon as a centred fan of three (two or one if that's all)."""
+    cards = [load_card(p) for p in card_paths[:3]]
     bg = cv2.resize(cards[0], (SIZE, SIZE))
-    bg = cv2.GaussianBlur(bg, (0, 0), 40)
-    bg = (bg.astype(np.float32) * 0.35).astype(np.uint8)
-    gap = 24 if n > 4 else 36
-    margin = 56  # keep every card well inside the frame
-    ar = cards[0].shape[1] / cards[0].shape[0]  # ~0.716
-    cell_w = (SIZE - 2 * margin - gap * (cols - 1)) / cols
-    cell_h = (SIZE - 2 * margin - gap * (rows - 1)) / rows
-    ch = int(min(cell_h, cell_w / ar))
-    cw = int(ch * ar)
-    total_w = cols * cw + (cols - 1) * gap
-    total_h = rows * ch + (rows - 1) * gap
-    x0, y0 = (SIZE - total_w) // 2, (SIZE - total_h) // 2
-    for i, c in enumerate(cards):
-        r, k = divmod(i, cols)
-        in_row = min(cols, n - r * cols)  # center an incomplete last row
-        xr = (SIZE - (in_row * cw + (in_row - 1) * gap)) // 2 if r == rows - 1 else x0
-        x, y = xr + k * (cw + gap), y0 + r * (ch + gap)
-        c = cv2.resize(c, (cw, ch), interpolation=cv2.INTER_AREA)
-        c = watermark(c, cw, ch)
-        m = _rounded(c, max(6, cw // 28)).astype(np.float32)[..., None] / 255
-        # soft shadow
-        sh = np.zeros((SIZE, SIZE), np.float32)
-        sh[y + 8:y + ch + 8, x + 4:x + cw + 4] = 1
-        sh = cv2.GaussianBlur(sh, (0, 0), 10)[..., None] * 0.55
-        bg = (bg.astype(np.float32) * (1 - sh)).astype(np.uint8)
-        roi = bg[y:y + ch, x:x + cw].astype(np.float32)
-        bg[y:y + ch, x:x + cw] = (roi * (1 - m) + c.astype(np.float32) * m).astype(np.uint8)
-    cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
+    bg = (cv2.GaussianBlur(bg, (0, 0), 40).astype(np.float32) * 0.35)
+    rgb, al = _fan(cards)
+    h, w = al.shape
+    y0, x0 = (SIZE - h) // 2, (SIZE - w) // 2
+    A = al[..., None]
+    roi = bg[y0:y0 + h, x0:x0 + w]
+    bg[y0:y0 + h, x0:x0 + w] = roi * (1 - A) + rgb * A
+    cv2.imwrite(out_path, np.clip(bg, 0, 255).astype(np.uint8), [cv2.IMWRITE_JPEG_QUALITY, 92])
     return out_path
 
 

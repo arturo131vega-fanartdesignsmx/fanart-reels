@@ -1,613 +1,186 @@
 {
  "candidates": [
   {
-   "key": "pikachu-1",
-   "name": "Pikachu 1",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_1.jpg"
-  },
-  {
-   "key": "pikachu-2",
-   "name": "Pikachu 2",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_2.jpg"
-  },
-  {
-   "key": "pikachu-3",
-   "name": "Pikachu 3",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_3.jpg"
-  },
-  {
-   "key": "pikachu-4",
-   "name": "Pikachu 4",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_4.jpg"
-  },
-  {
-   "key": "pikachu-5",
-   "name": "Pikachu 5",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_5.jpg"
-  },
-  {
-   "key": "pikachu-6",
-   "name": "Pikachu 6",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_6.jpg"
-  },
-  {
-   "key": "pikachu-7",
-   "name": "Pikachu 7",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_7.jpg"
-  },
-  {
-   "key": "pikachu-8",
-   "name": "Pikachu 8",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_8.jpg"
-  },
-  {
-   "key": "pikachu-9",
-   "name": "Pikachu 9",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_9.jpg"
-  },
-  {
-   "key": "pikachu-11",
-   "name": "Pikachu 11",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_11.jpg"
-  },
-  {
-   "key": "pikachu-13",
-   "name": "Pikachu 13",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_13.jpg"
-  },
-  {
-   "key": "pikachu-14",
-   "name": "Pikachu 14",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_14.jpg"
-  },
-  {
-   "key": "pikachu-15",
-   "name": "Pikachu 15",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_15.jpg"
-  },
-  {
-   "key": "pikachu-16",
-   "name": "Pikachu 16",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_16.jpg"
-  },
-  {
-   "key": "pikachu-17",
-   "name": "Pikachu 17",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_17.jpg"
-  },
-  {
-   "key": "pikachu-18",
-   "name": "Pikachu 18",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_18.jpg"
-  },
-  {
-   "key": "pikachu-19",
-   "name": "Pikachu 19",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_19.jpg"
-  },
-  {
-   "key": "pikachu-20",
-   "name": "Pikachu 20",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_20.jpg"
-  },
-  {
-   "key": "pikachu-21",
-   "name": "Pikachu 21",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_21.jpg"
-  },
-  {
-   "key": "pikachu-22",
-   "name": "Pikachu 22",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_22.jpg"
-  },
-  {
-   "key": "pikachu-23",
-   "name": "Pikachu 23",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_23.jpg"
-  },
-  {
-   "key": "pikachu-24",
-   "name": "Pikachu 24",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_24.jpg"
-  },
-  {
-   "key": "pikachu-25",
-   "name": "Pikachu 25",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_25.jpg"
-  },
-  {
-   "key": "pikachu-26",
-   "name": "Pikachu 26",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_26.jpg"
-  },
-  {
-   "key": "pikachu-27",
-   "name": "Pikachu 27",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_27.jpg"
-  },
-  {
-   "key": "pikachu-28",
-   "name": "Pikachu 28",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_28.jpg"
-  },
-  {
-   "key": "pikachu-29",
-   "name": "Pikachu 29",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_29.jpg"
-  },
-  {
-   "key": "pikachu-30",
-   "name": "Pikachu 30",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_30.jpg"
-  },
-  {
-   "key": "pikachu-31",
-   "name": "Pikachu 31",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_31.jpg"
-  },
-  {
-   "key": "pikachu-32",
-   "name": "Pikachu 32",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_32.jpg"
-  },
-  {
-   "key": "pikachu-33",
-   "name": "Pikachu 33",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_33.jpg"
-  },
-  {
-   "key": "pikachu-34",
-   "name": "Pikachu 34",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_34.jpg"
-  },
-  {
-   "key": "pikachu-35",
-   "name": "Pikachu 35",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_35.jpg"
-  },
-  {
-   "key": "pikachu-36",
-   "name": "Pikachu 36",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_36.jpg"
-  },
-  {
-   "key": "pikachu-37",
-   "name": "Pikachu 37",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_37.jpg"
-  },
-  {
-   "key": "pikachu-38",
-   "name": "Pikachu 38",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_38.jpg"
-  },
-  {
-   "key": "pikachu-39",
-   "name": "Pikachu 39",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_39.jpg"
-  },
-  {
-   "key": "pikachu-40",
-   "name": "Pikachu 40.pg",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_40.pg.jpg"
-  },
-  {
-   "key": "pikachu-tera_1",
-   "name": "Pikachu Tera_1",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Tera_1.jpg"
-  },
-  {
-   "key": "pikachu-tera_2",
-   "name": "Pikachu Tera_2",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Tera_2.jpg"
-  },
-  {
-   "key": "pikachu-tera_3",
-   "name": "Pikachu Tera_3",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Tera_3.jpg"
-  },
-  {
-   "key": "pikachu-ash_1",
-   "name": "Pikachu Ash_1",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Ash_1.jpg"
-  },
-  {
-   "key": "pikachu-ash_2",
-   "name": "Pikachu Ash_2",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Ash_2.jpg"
-  },
-  {
-   "key": "pikachu-ash_3",
-   "name": "Pikachu Ash_3",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Ash_3.jpg"
-  },
-  {
-   "key": "pikachu-astronauta",
-   "name": "Pikachu Astronauta",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Astronauta.jpg"
-  },
-  {
-   "key": "pikachu-vmax",
-   "name": "Pikachu VMAX",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX.jpg"
-  },
-  {
-   "key": "pikachu-vmax_2",
-   "name": "Pikachu VMAX_2",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX_2.jpg"
-  },
-  {
-   "key": "pikachu-vmax_3",
-   "name": "Pikachu VMAX_3",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX_3.jpg"
-  },
-  {
-   "key": "pikachu-ho-oh",
-   "name": "Pikachu Ho-Oh",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Ho-Oh.jpg"
-  },
-  {
-   "key": "pikachu-rayquaza",
-   "name": "Pikachu Rayquaza",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Rayquaza.jpg"
-  },
-  {
-   "key": "pikachu-shiny_1",
-   "name": "Pikachu Shiny_1",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Shiny_1.jpg"
-  },
-  {
-   "key": "pikachu-mario",
-   "name": "Pikachu Mario",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Mario.jpg"
-  },
-  {
-   "key": "pikachu-luigi",
-   "name": "Pikachu Luigi",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Luigi.jpg"
-  },
-  {
-   "key": "pikachu-lugia",
-   "name": "Pikachu Lugia",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Lugia.jpg"
-  },
-  {
-   "key": "pikachu-lucario",
-   "name": "Pikachu Lucario",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Lucario.jpg"
-  },
-  {
-   "key": "pikachu-charizard_x",
-   "name": "Pikachu Charizard_X",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Charizard_X.jpg"
-  },
-  {
-   "key": "pikachu-charizard_y",
-   "name": "Pikachu Charizard_Y",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Charizard_Y.jpg"
-  },
-  {
-   "key": "pikachu-gyarados",
-   "name": "Pikachu Gyarados",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Gyarados.jpg"
-  },
-  {
-   "key": "pikachu-futuro_1",
-   "name": "Pikachu Futuro_1",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Futuro_1.jpg"
-  },
-  {
-   "key": "pikachu-futuro_2",
-   "name": "Pikachu Futuro_2",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Futuro_2.jpg"
-  },
-  {
-   "key": "pikachu-altaria",
-   "name": "Pikachu Altaria",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Altaria.jpg"
-  },
-  {
-   "key": "pikachu-gengar",
-   "name": "Pikachu Gengar",
-   "pokemon": "Pikachu",
-   "dex": 25,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Gengar.jpg"
-  },
-  {
-   "key": "4605371798-1",
-   "name": "Greninja 4605371798-1",
-   "pokemon": "Greninja",
-   "dex": 658,
-   "image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg"
-  },
-  {
-   "key": "4543722630-1",
-   "name": "Lucario 4543722630-1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://i.etsystatic.com/66814655/r/il/4bb660/8872973958/il_fullxfull.8872973958_89io.jpg"
-  },
-  {
-   "key": "4543722630-2",
-   "name": "Lucario 4543722630-2",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://i.etsystatic.com/66814655/r/il/46c6fe/8872976124/il_fullxfull.8872976124_jjg0.jpg"
-  },
-  {
-   "key": "4543722630-4",
-   "name": "Lucario 4543722630-4",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://i.etsystatic.com/66814655/r/il/0c6fb4/8920755885/il_fullxfull.8920755885_lrdx.jpg"
-  },
-  {
-   "key": "4543722630-5",
-   "name": "Lucario 4543722630-5",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://i.etsystatic.com/66814655/r/il/45613d/8920757697/il_fullxfull.8920757697_7b1f.jpg"
-  },
-  {
-   "key": "4543718514-1",
-   "name": "Gengar 4543718514-1",
-   "pokemon": "Gengar",
-   "dex": 94,
-   "image": "https://i.etsystatic.com/66814655/r/il/d3ceda/8924698761/il_fullxfull.8924698761_gkae.jpg"
-  },
-  {
-   "key": "4543718514-2",
-   "name": "Gengar 4543718514-2",
-   "pokemon": "Gengar",
-   "dex": 94,
-   "image": "https://i.etsystatic.com/66814655/r/il/7a13ee/8924700783/il_fullxfull.8924700783_5l1i.jpg"
-  },
-  {
-   "key": "4543718514-3",
-   "name": "Gengar 4543718514-3",
-   "pokemon": "Gengar",
-   "dex": 94,
-   "image": "https://i.etsystatic.com/66814655/r/il/72e1fd/8924702791/il_fullxfull.8924702791_g3d7.jpg"
-  },
-  {
-   "key": "4543718514-4",
-   "name": "Gengar 4543718514-4",
-   "pokemon": "Gengar",
-   "dex": 94,
-   "image": "https://i.etsystatic.com/66814655/r/il/b486eb/8924704599/il_fullxfull.8924704599_tcqe.jpg"
-  },
-  {
-   "key": "4543718514-5",
-   "name": "Gengar 4543718514-5",
-   "pokemon": "Gengar",
-   "dex": 94,
-   "image": "https://i.etsystatic.com/66814655/r/il/83d448/8876932060/il_fullxfull.8876932060_amgb.jpg"
-  },
-  {
-   "key": "4543648954-1",
-   "name": "Charizard 4543648954-1",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/69bcf6/8906067429/il_fullxfull.8906067429_pifu.jpg"
-  },
-  {
-   "key": "4543648954-2",
-   "name": "Charizard 4543648954-2",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/349e46/8905860093/il_fullxfull.8905860093_zk8b.jpg"
-  },
-  {
-   "key": "4543648954-3",
-   "name": "Charizard 4543648954-3",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/55e882/8858088164/il_fullxfull.8858088164_o168.jpg"
-  },
-  {
-   "key": "4543648954-5",
-   "name": "Charizard 4543648954-5",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/0a65ac/8906285285/il_fullxfull.8906285285_m32c.jpg"
-  },
-  {
-   "key": "4543725931-1",
-   "name": "Umbreon 4543725931-1",
+   "key": "197-umbreon-1",
+   "name": "197_Umbreon_1",
    "pokemon": "Umbreon",
    "dex": 197,
-   "image": "https://i.etsystatic.com/66814655/r/il/9cc949/8866487138/il_fullxfull.8866487138_7hy9.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_1.jpg"
   },
   {
-   "key": "4543725931-2",
-   "name": "Umbreon 4543725931-2",
+   "key": "197-umbreon-2",
+   "name": "197_Umbreon_2",
    "pokemon": "Umbreon",
    "dex": 197,
-   "image": "https://i.etsystatic.com/66814655/r/il/eb7efa/8914267995/il_fullxfull.8914267995_c6dl.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_2.jpg"
   },
   {
-   "key": "4543725931-3",
-   "name": "Umbreon 4543725931-3",
+   "key": "197-umbreon-3",
+   "name": "197_Umbreon_3",
    "pokemon": "Umbreon",
    "dex": 197,
-   "image": "https://i.etsystatic.com/66814655/r/il/5930f1/8866487676/il_fullxfull.8866487676_bspv.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_3.jpg"
   },
   {
-   "key": "4543725931-4",
-   "name": "Umbreon 4543725931-4",
+   "key": "197-umbreon-4",
+   "name": "197_Umbreon_4",
    "pokemon": "Umbreon",
    "dex": 197,
-   "image": "https://i.etsystatic.com/66814655/r/il/5c3759/8866487860/il_fullxfull.8866487860_pyz4.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_4.jpg"
   },
   {
-   "key": "4543725931-5",
-   "name": "Umbreon 4543725931-5",
+   "key": "197-umbreon-5",
+   "name": "197_Umbreon_5",
    "pokemon": "Umbreon",
    "dex": 197,
-   "image": "https://i.etsystatic.com/66814655/r/il/233773/8866488122/il_fullxfull.8866488122_e0ri.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_5.jpg"
   },
   {
-   "key": "4563374016-1",
-   "name": "Arcanine 4563374016-1",
+   "key": "197-umbreon-6",
+   "name": "197_Umbreon_6",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_6.jpg"
+  },
+  {
+   "key": "197-umbreon-7",
+   "name": "197_Umbreon_7",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_7.jpg"
+  },
+  {
+   "key": "197-umbreon-8",
+   "name": "197_Umbreon_8",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_8.jpg"
+  },
+  {
+   "key": "197-umbreon-shiny-1",
+   "name": "197_Umbreon_Shiny_1",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_1.jpg"
+  },
+  {
+   "key": "197-umbreon-shiny-2",
+   "name": "197_Umbreon_Shiny_2",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_2.jpg"
+  },
+  {
+   "key": "197-umbreon-tera",
+   "name": "197_Umbreon_Tera",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Tera.jpg"
+  },
+  {
+   "key": "197-umbreon-vmax",
+   "name": "197_Umbreon_VMAX",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_VMAX.jpg"
+  },
+  {
+   "key": "59-arcanine-1",
+   "name": "59_Arcanine_1",
    "pokemon": "Arcanine",
    "dex": 59,
-   "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_1.jpg"
   },
   {
-   "key": "4563374016-2",
-   "name": "Arcanine 4563374016-2",
+   "key": "59-arcanine-2",
+   "name": "59_Arcanine_2",
    "pokemon": "Arcanine",
    "dex": 59,
-   "image": "https://i.etsystatic.com/66814655/r/il/f6d18e/8861293058/il_fullxfull.8861293058_6wel.jpg"
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_2.jpg"
   },
   {
-   "key": "4560874458-1",
-   "name": "Ninetales 4560874458-1",
-   "pokemon": "Ninetales",
-   "dex": 38,
-   "image": "https://i.etsystatic.com/66814655/r/il/d92bbb/8860370094/il_fullxfull.8860370094_reci.jpg"
+   "key": "59-arcanine-3",
+   "name": "59_Arcanine_3",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_3.jpg"
   },
   {
-   "key": "4560874458-2",
-   "name": "Ninetales 4560874458-2",
-   "pokemon": "Ninetales",
-   "dex": 38,
-   "image": "https://i.etsystatic.com/66814655/r/il/b920aa/8908144081/il_fullxfull.8908144081_dyqz.jpg"
+   "key": "59-arcanine-4",
+   "name": "59_Arcanine_4",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_4.jpg"
   },
   {
-   "key": "alakazam-d1",
-   "name": "Alakazam alakazam-d1",
-   "pokemon": "Alakazam",
-   "dex": 65,
-   "image": "https://i.etsystatic.com/66814655/r/il/eec8d0/8861363548/il_fullxfull.8861363548_6na7.jpg"
+   "key": "59-arcanine-5",
+   "name": "59_Arcanine_5",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_5.jpg"
   },
   {
-   "key": "alakazam-d2",
-   "name": "Alakazam alakazam-d2",
-   "pokemon": "Alakazam",
-   "dex": 65,
-   "image": "https://i.etsystatic.com/66814655/r/il/98b9ce/8861364394/il_fullxfull.8861364394_f98p.jpg"
+   "key": "59-arcanine-6",
+   "name": "59_Arcanine_6",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_6.jpg"
+  },
+  {
+   "key": "59-arcanine-7",
+   "name": "59_Arcanine_7",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_7.jpg"
+  },
+  {
+   "key": "59-arcanine-shiny",
+   "name": "59_Arcanine_Shiny",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Shiny.jpg"
+  },
+  {
+   "key": "59-arcanine-tera-1",
+   "name": "59_Arcanine_Tera_1",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_1.jpg"
+  },
+  {
+   "key": "59-arcanine-tera-2",
+   "name": "59_Arcanine_Tera_2",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_2.jpg"
+  },
+  {
+   "key": "59-arcanine-hisui-1",
+   "name": "59_Arcanine_Hisui_1",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_1.jpg"
+  },
+  {
+   "key": "59-arcanine-hisui-2",
+   "name": "59_Arcanine_Hisui_2",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_2.jpg"
+  },
+  {
+   "key": "59-mega-arcanine-1",
+   "name": "59_Mega_Arcanine_1",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_1.jpg"
+  },
+  {
+   "key": "59-mega-arcanine-2",
+   "name": "59_Mega_Arcanine_2",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_2.jpg"
   }
  ]
 }
