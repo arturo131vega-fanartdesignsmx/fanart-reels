@@ -179,7 +179,7 @@ def render_item(it, workdir):
     mp4 = os.path.join(workdir, f"{day}_{it['id']}.mp4")
     cover = os.path.join(workdir, f"{day}_{it['id']}.jpg")
     info = render(card, meta, wav, mp4, int(it.get("variant_seed", 0)), int(it.get("music_seed", 0)),
-                  it.get("highlight", []), cover_path=cover)
+                  it.get("highlight", []), cover_path=cover, card_has_watermark=it.get("card_has_watermark"))
     urls = push_cdn({os.path.basename(mp4): mp4, os.path.basename(cover): cover})
     v = cld_video(urls[os.path.basename(mp4)])
     c = cld_image(urls[os.path.basename(cover)])
@@ -208,6 +208,11 @@ def main():
     if mode == "fbfix":  # delete / edit Page posts listed in tests/fbfix.json (requested by Arturo)
         from meta import call
         m, cfg, res = api(), json.load(open("tests/fbfix.json")), {}
+        for mid in cfg.get("ig_delete", []):
+            try:
+                res["ig:" + mid] = call("DELETE", mid, token=m.page_token)
+            except Exception as e:
+                res["ig:" + mid] = {"error": str(e)[:300]}
         for pid in cfg.get("delete", []):
             try:
                 res[pid] = call("DELETE", pid, token=m.page_token)
@@ -301,15 +306,15 @@ def main():
                 st["dry_run"] = True
                 changed = True
                 continue
-            if (not due and mode == "run" and not only and (st.get("video_url") or st.get("slides"))
+            if (not due and mode == "run" and not only and not it.get("hold") and (st.get("video_url") or st.get("slides"))
                     and at - now() <= WAIT_AHEAD):
                 # GitHub's */15 cron really fires about once an hour: wait here so the post goes out on time
                 secs = max(0.0, (at - now()).total_seconds())
                 print(f"waiting {secs / 60:.0f} min to publish {it['id']} at {at.isoformat()}", flush=True)
                 time.sleep(secs)
                 due = True
-            if not due or mode == "render":
-                continue
+            if not due or mode == "render" or it.get("hold"):
+                continue  # "hold": render now, publish only after the video is checked
             if it["type"] == "reel" and st.get("video_url"):
                 if not st.get("ig"):
                     st["ig"] = api().ig_reel(st["video_url"], fix_caption(it["caption_ig"]), st.get("cover_url"))

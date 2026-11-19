@@ -7,13 +7,14 @@
   "used": [
    "2026-11-19"
   ],
-  "reason": "No official card with this artwork",
-  "pocket": false,
-  "own": true,
+  "reason": "TCG Pocket design (Arturo, 19-nov-2026): not his own, no official printed card with this artwork",
+  "pocket": true,
+  "own": false,
   "art_check": {
    "printed_max": 6,
    "pocket_max": 0
-  }
+  },
+  "own_note": "Not confirmed as Arturo's own design: never claim authorship (19-nov-2026)"
  },
  "4543722630-1": {
   "pokemon": "Lucario",
@@ -287,11 +288,12 @@
   ],
   "reason": "Fan-made Mega, artwork not official",
   "pocket": false,
-  "own": true,
+  "own": false,
   "art_check": {
    "printed_max": 5,
    "pocket_max": 5
-  }
+  },
+  "own_note": "Not confirmed as Arturo's own design: never claim authorship (19-nov-2026)"
  },
  "4563374016-2": {
   "pokemon": "Arcanine",
@@ -303,11 +305,12 @@
   ],
   "reason": "Fan-made Mega, artwork not official",
   "pocket": false,
-  "own": true,
+  "own": false,
   "art_check": {
    "printed_max": 5,
    "pocket_max": 0
-  }
+  },
+  "own_note": "Not confirmed as Arturo's own design: never claim authorship (19-nov-2026)"
  },
  "4560874458-1": {
   "pokemon": "Ninetales",
@@ -317,11 +320,12 @@
   "used": [],
   "reason": "Fan-made Mega, artwork not official",
   "pocket": false,
-  "own": true,
+  "own": false,
   "art_check": {
    "printed_max": 0,
    "pocket_max": 0
-  }
+  },
+  "own_note": "Not confirmed as Arturo's own design: never claim authorship (19-nov-2026)"
  },
  "4560874458-2": {
   "pokemon": "Ninetales",
@@ -331,11 +335,12 @@
   "used": [],
   "reason": "Fan-made Mega, artwork not official",
   "pocket": false,
-  "own": true,
+  "own": false,
   "art_check": {
    "printed_max": 6,
    "pocket_max": 0
-  }
+  },
+  "own_note": "Not confirmed as Arturo's own design: never claim authorship (19-nov-2026)"
  },
  "alakazam-d1": {
   "pokemon": "Alakazam",

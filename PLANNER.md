@@ -21,16 +21,23 @@ Claude task) only curates designs and writes the queue. Never publish anything b
    A design is "pocket" if its artwork matches a Pocket card OR its name + attacks are a Pocket card
    (web-search the attack name + "TCG Pocket"; TCGdex is missing the newest Pocket sets).
    For pocket designs use neutral wording ("this Pocket-only card, now physical", "handmade proxy").
-   Only designs with `"own": true` in `catalog/designs.json` (fan-made, no official card anywhere) may
-   say "I designed / my own design". When unsure, use neutral wording.
-3. **Watermark always**: reels get the diagonal "Fanart Designs MX" overlay automatically; carousel image
+   **Never claim authorship in any dialogue or caption** ("I designed", "my own design", "I made this art"),
+   not even when the card says "Illus. Arturo Vega" — Arturo corrected this on 19-nov-2026 (Mega Greninja).
+   Only an explicit confirmation from Arturo for that exact design in chat can allow it. Say "handmade",
+   "custom", "every card's handmade" instead.
+3. **Watermark always, but only once**: a 2000x2000 shop mockup already has the shop watermark, so the reel
+   engine does not add a second one; clean card files get the diagonal "Fanart Designs MX" overlay
+   (set `"card_has_watermark": true` if the file is already watermarked). Carousel image
    slides use the Cloudinary text overlay URL; collage slides are watermarked by the pipeline.
 4. **No repeats**: never the same Pokémon twice within 14 days (all formats), never the same design twice.
 5. **Pick Pokémon by popularity** using `catalog/popular.json` (weighted random: tier1 5, tier2 3, other 1).
    Design sources: Cloudinary folder "2000" (`<dex>_<Name>_<n>`, e.g. 25_Pikachu_27 — preferred, these
    are Arturo's watermarked mockups; search with the AnythingMCP Cloudinary search tool, expression
    `public_id:<dex>_<Name>*`) or Etsy listing images (Etsy connector, read-only).
-6. Subtitles: approved Mega Mewtwo Y style only (white with black outline, yellow keywords, no box).
+6. Reel look is fixed to the approved Mega Mewtwo Y 2 template (card tilting left-right, no spin/zoom
+   entrance, "Handmade" in yellow, outlined ETSY pill). Do not add visual variants; vary dialogue, voice,
+   music and card only.
+   Subtitles: approved Mega Mewtwo Y style only (white with black outline, yellow keywords, no box).
 7. Every post gets a **new dialogue** and a **new caption** (never reuse text). Max 5 hashtags.
    Keep the offer exact: "Buy 2+ cards, save 25% with code 25OFF". Always include
    "Fan-made art card. Not an official Pokémon / Nintendo product."

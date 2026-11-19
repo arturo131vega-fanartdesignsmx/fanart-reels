@@ -75,14 +75,15 @@ def ease_out(p):
 
 
 def load_card(path):
+    """Return (card, already_watermarked). 2000x2000 shop mockups already carry the shop watermark."""
     src = cv2.imread(path)
     if src is None:
         raise RuntimeError(f"cannot read card image {path}")
     h, w = src.shape[:2]
     if abs(w / h - 1) < 0.02:  # 2000x2000 Etsy mockup: card sits at this region
         s = w / 2000.0
-        return src[int(140 * s):int(1860 * s), int(384 * s):int(1616 * s)]
-    return src
+        return src[int(140 * s):int(1860 * s), int(384 * s):int(1616 * s)], True
+    return src, False
 
 
 def watermark(card, cw, ch):
@@ -134,32 +135,36 @@ def build_audio(voice_wav, dur, music_seed, out_wav):
 
 # ---------------------------------------------------------------- video
 def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, highlight=(), cover_path=None,
-           check_frames=None):
-    rng = np.random.default_rng(variant_seed)
+           check_frames=None, card_has_watermark=None):
+    # Look locked to the approved Mega Mewtwo Y 2 template (Arturo, 19 Nov 2026): no random entrance, tilt,
+    # title colours or pill styles. Reels differ by card, dialogue, voice and music only.
     V = {
-        "tilt_deg": float(rng.uniform(12, 19)),
-        "period": float(rng.uniform(3.6, 5.0)),
-        "pitch_deg": float(rng.choice([0.0, rng.uniform(3, 6)])),
-        "phase": float(rng.uniform(0, 2 * math.pi)),
-        "card_w": int(rng.integers(596, 640)),
-        "entrance": str(rng.choice(["rise", "zoom", "spin", "none"])),
-        "bg": str(rng.choice(["dark", "tint", "pan"])),
-        "zoom_dir": float(rng.choice([1, -1])),
-        "title_anim": str(rng.choice(["pop", "slide", "drop"])),
-        "title_hl": int(rng.integers(0, 2)),
-        "pill": str(rng.choice(["outline", "filled"])),
-        "subs": "keywords",  # approved Mega Mewtwo Y style only (no box/shading behind subtitles)
+        "tilt_deg": 17.0,
+        "period": 4.3,
+        "pitch_deg": 0.0,
+        "phase": 0.0,
+        "card_w": 620,
+        "entrance": "none",
+        "bg": "dark",
+        "zoom_dir": 1.0,
+        "title_anim": "pop",
+        "title_hl": 0,
+        "pill": "outline",
+        "subs": "keywords",
     }
     keys = BASE_KEYS | {h.lower() for h in highlight}
     D = math.ceil((meta["dur"] + 0.3) * FPS) / FPS
     N = int(D * FPS)
 
     # card
-    card = load_card(card_path)
+    card, has_wm = load_card(card_path)
+    if card_has_watermark is not None:
+        has_wm = bool(card_has_watermark)
     cw = V["card_w"]
     ch = int(cw * card.shape[0] / card.shape[1])
     card = cv2.resize(card, (cw, ch), interpolation=cv2.INTER_AREA)
-    card = watermark(card, cw, ch)
+    if not has_wm:  # one watermark only: never stack ours on top of the shop photo's
+        card = watermark(card, cw, ch)
     am = np.zeros((ch, cw), np.uint8)
     r = int(cw * 0.042)
     cv2.rectangle(am, (r, 0), (cw - r, ch), 255, -1)
