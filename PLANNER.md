@@ -31,6 +31,9 @@ Claude task) only curates designs and writes the queue. Never publish anything b
    slides use the Cloudinary text overlay URL; collage slides are watermarked by the pipeline.
 4. **No repeats**: never the same Pokémon twice within 14 days (all formats), never the same design twice.
 5. **Pick Pokémon by popularity** using `catalog/popular.json` (weighted random: tier1 5, tier2 3, other 1).
+   "Other" = every Pokémon that is not in tier1/tier2 but has approved, unused designs in
+   `catalog/designs.json` — this is how Arturo's NEW designs enter the random rotation (Arturo, 19-nov-2026:
+   every new design that arrives also goes into the random lists of Instagram posts and Pinterest pins).
    Design sources: Cloudinary folder "2000" (`<dex>_<Name>_<n>`, e.g. 25_Pikachu_27 — preferred, these
    are Arturo's watermarked mockups; search with the AnythingMCP Cloudinary search tool, expression
    `public_id:<dex>_<Name>*`) or Etsy listing images (Etsy connector, read-only).
@@ -118,5 +121,13 @@ Carousel:
 ## Records
 - `catalog/designs.json`: {design_key: {pokemon, listing_id, image, verdict (approved/rejected/needs_check),
   reason, pocket, own, art_check, used: [dates]}}. Mark every design shown (main AND collage) as used.
+  Optional fields on newer entries: `card_name` (the name printed on the card, e.g. "Heat Rotom EX" — use it
+  in dialogue/captions instead of the bare species), `design_label` (the Etsy option, e.g. "Design 1 Heat Rotom"),
+  `added` (date the design entered the catalog).
+- **New designs (standing rule, 19-nov-2026):** whenever new designs are added to the shop, the session that
+  publishes them reviews every design with the review tool (rule 1) and adds it to `catalog/designs.json` with
+  its verdict, `listing_id` and Cloudinary image, so the planner can pick it; the same session also adds one
+  pin per design to the Pinterest queue (Mac: Desktop/Pinterest_autopin/cola.json, script add_new.py there).
+  Designs whose artwork is official stay out of Instagram/Facebook but still get their Pinterest pin.
 - `state/status.json`: written by the Action (rendered URLs, IG/FB permalinks, errors).
 Report failures to Arturo with a push notification.

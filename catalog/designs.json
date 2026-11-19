@@ -1623,5 +1623,464 @@
   "verdict": "duplicate",
   "reason": "Same design as 4563374016-2",
   "pocket": false
+ },
+ "479-rotom-1": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Rotom ex (Ruler of the Skies, Junk Spark))",
+  "pocket": true,
+  "added": "2026-11-19"
+ },
+ "479-rotom-6": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 80,
+   "pocket_max": 6
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Rotom ex me02-126",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-4": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 91,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Rotom V swsh11-177",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-shiny-1": {
+  "pokemon": "Rotom",
+  "card_name": "Shiny Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Rotom ex (Junk Spark), shiny colors)",
+  "pocket": true,
+  "added": "2026-11-19"
+ },
+ "479-rotom-10": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 31,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official: 28-31 inliers spread over 4 unrelated cards (card-frame noise), checked by eye 19-nov-2026",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-2": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom EX",
+  "listing_id": 4560875326,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Rotom ex (Ruler of the Skies, Junk Spark))",
+  "pocket": true,
+  "added": "2026-11-19"
+ },
+ "479-rotom-heat-1": {
+  "pokemon": "Rotom",
+  "card_name": "Heat Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 1 Heat Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Heat_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-wash-1": {
+  "pokemon": "Rotom",
+  "card_name": "Wash Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 2 Wash Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Wash_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 9
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-fan-2": {
+  "pokemon": "Rotom",
+  "card_name": "Fan Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 3 Fan Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-dj-1": {
+  "pokemon": "Rotom",
+  "card_name": "DJ Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 4 DJ Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_DJ_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-frost-1": {
+  "pokemon": "Rotom",
+  "card_name": "Frost Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 5 Frost Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Frost_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-mow-1": {
+  "pokemon": "Rotom",
+  "card_name": "Mow Rotom EX",
+  "listing_id": 4560875214,
+  "design_label": "Design 6 Mow Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Mow_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-3": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 241
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (artwork = TCG Pocket Rotom A2-164 (Space-Time Smackdown), no physical card)",
+  "pocket": true,
+  "added": "2026-11-19"
+ },
+ "479-rotom-5": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 177,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Rotom sv10-197",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-7": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 112,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Rotom me02.5-092",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-8": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 47,
+   "pocket_max": 28
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Rotom swsh4.5-34",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-9": {
+  "pokemon": "Rotom",
+  "card_name": "Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 298,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: ロトム SV9a-039",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "479-rotom-fan-1": {
+  "pokemon": "Rotom",
+  "card_name": "Fan Rotom",
+  "listing_id": 4560874292,
+  "design_label": "Design 6 Fan Rotom",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 136,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Fan Rotom me02.5-250",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-abomasnow-1": {
+  "pokemon": "Abomasnow",
+  "card_name": "Abomasnow",
+  "listing_id": 4560874122,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-abomasnow-3": {
+  "pokemon": "Abomasnow",
+  "card_name": "Abomasnow EX",
+  "listing_id": 4560874122,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-abomasnow-2": {
+  "pokemon": "Abomasnow",
+  "card_name": "Abomasnow",
+  "listing_id": 4560874122,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-abomasnow-shiny-1": {
+  "pokemon": "Abomasnow",
+  "card_name": "Shiny Abomasnow EX",
+  "listing_id": 4560874122,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-abomasnow-4": {
+  "pokemon": "Abomasnow",
+  "card_name": "Abomasnow EX",
+  "listing_id": 4560874122,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-mega-abomasnow-2": {
+  "pokemon": "Abomasnow",
+  "card_name": "Mega Abomasnow EX",
+  "listing_id": 4560869318,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "460-mega-abomasnow-1": {
+  "pokemon": "Abomasnow",
+  "card_name": "Mega Abomasnow EX",
+  "listing_id": 4560869318,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 77,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Abomasnow ex me01-157",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "459-snover-1": {
+  "pokemon": "Snover",
+  "card_name": "Snover",
+  "listing_id": 4560869064,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 147,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Snover me01-140",
+  "pocket": false,
+  "added": "2026-11-19"
+ },
+ "459-snover-2": {
+  "pokemon": "Snover",
+  "card_name": "Snover",
+  "listing_id": 4560869064,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 51,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Snover swsh2-12",
+  "pocket": false,
+  "added": "2026-11-19"
  }
 }
