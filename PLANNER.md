@@ -45,6 +45,26 @@ Claude task) only curates designs and writes the queue. Never publish anything b
    offer and the call to action (only the disclaimer line stays fixed). Never reuse a sentence from
    earlier queue files; vary structure too (question, story, comparison, "which one would you pick").
 
+## Descriptions for maximum reach (Instagram, Facebook — Pinterest is handled by its own task)
+Arturo's rule: every description must be the best possible for the niche and put the posted Pokémon first.
+Instagram now indexes captions (and the speech in Reels) like a search engine and allows max 5 hashtags.
+- **Line 1 (what shows before "more", ~125 chars):** hook + the Pokémon's name + "Pokémon card" (e.g.
+  "Would you pull this Mega Gengar EX Pokémon card? 👻"). Never start with something generic.
+- **Body (2–3 short lines):** natural sentences that repeat the Pokémon's name once more and use 3–5 niche
+  keywords: holographic / holo, full art, proxy card, custom Pokémon card, fan art, binder, real card size,
+  TCG Pocket (only for Pocket designs), plus one true fact (type, region, Mega Evolution, Eeveelution…).
+  No keyword stuffing; it must read like a person.
+- **A question** that invites comments (early comments boost reach): "Which one would you pick?",
+  "Would this go in your binder?".
+- Then the offer line (25OFF), the CTA (IG: link in bio; FB: the listing URL), the disclaimer line.
+- **Hashtags — Instagram: exactly 5**, at the end: 2 about the Pokémon (#gengar #megagengar), 2 niche ones
+  rotated from #pokemoncards #pokemontcg #pokemonfanart #pokemonbinder #pokemoncollector #customcards
+  #holocards #tcgpocket (Pocket only) #fakemon (fan-made Megas only), and the brand tag #fanartdesignsmx.
+  **Facebook: 3** — #<pokemon> #pokemoncards #fanartdesignsmx.
+- **Reels:** say the Pokémon's name in the first spoken sentence (Instagram indexes the audio) and keep it
+  in the on-screen subtitles.
+- **Carousels:** give every image slide an "alt" text with the Pokémon's name (pipeline adds a default).
+
 ## Schedule (America/Mexico_City)
 - Weeks 1–4 (from 2026-11-19): 3 reels + 2 carousels per day
   08:00 reel · 12:00 carousel · 14:00 reel · 18:00 carousel · 20:30 reel

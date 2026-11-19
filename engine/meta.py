@@ -106,8 +106,10 @@ class Meta:
                                                              "is_carousel_item": "true"}, token=self.page_token)["id"]
                 self._ig_wait(cid)
             else:
-                cid = call("POST", f"{self.ig_id}/media", {"image_url": s["image"], "is_carousel_item": "true"},
-                           token=self.page_token)["id"]
+                p = {"image_url": s["image"], "is_carousel_item": "true"}
+                if s.get("alt"):
+                    p["alt_text"] = s["alt"][:1000]  # IG alt text (images only), helps search/accessibility
+                cid = call("POST", f"{self.ig_id}/media", p, token=self.page_token)["id"]
             kids.append(cid)
         parent = call("POST", f"{self.ig_id}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
                                                        "caption": caption}, token=self.page_token)["id"]
@@ -141,10 +143,20 @@ class Meta:
             permalink = "https://www.facebook.com" + permalink
         return {"video_id": vid, "permalink": permalink}
 
-    def fb_album(self, image_urls, message):
+    def fb_album(self, image_urls, message, alts=None):
         ids = []
-        for u in image_urls:
-            r = call("POST", f"{self.page_id}/photos", {"url": u, "published": "false"}, token=self.page_token)
+        for i, u in enumerate(image_urls):
+            p = {"url": u, "published": "false"}
+            alt = (alts or [None] * len(image_urls))[i]
+            if alt:
+                p["alt_text_custom"] = alt
+            try:
+                r = call("POST", f"{self.page_id}/photos", p, token=self.page_token)
+            except GraphError:
+                if not alt:
+                    raise
+                p.pop("alt_text_custom")  # retry without alt text if the API refuses it
+                r = call("POST", f"{self.page_id}/photos", p, token=self.page_token)
             ids.append(r["id"])
         params = {"message": message}
         for i, x in enumerate(ids):

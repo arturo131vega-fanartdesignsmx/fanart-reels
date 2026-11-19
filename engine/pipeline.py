@@ -151,6 +151,16 @@ def prepare_carousel(it, workdir):
         for sl in slides:
             if sl.pop("_local", False):
                 sl["image"] = cld_image(urls[sl["image"]])
+    # alt text for every image slide (Instagram/Facebook search + accessibility)
+    pk = it.get("pokemon", "Pokémon")
+    default_alt = [f"{pk} Pokémon fan art card with a holographic full art design, handmade proxy card by Fanart Designs MX",
+                   None,
+                   f"More {pk} Pokémon fan art card designs, handmade holographic proxy cards",
+                   "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"]
+    for i, sl in enumerate(slides):
+        src = it["slides"][i] if i < len(it["slides"]) else {}
+        if sl.get("image") and not sl.get("alt"):
+            sl["alt"] = src.get("alt") or (default_alt[i] if i < len(default_alt) else None) or f"{pk} Pokémon fan art card"
     for sl in slides:
         warm(sl.get("image") or sl.get("video"))
     return {"slides": slides}
@@ -302,8 +312,9 @@ def main():
                     st["ig"] = api().ig_carousel(st.get("slides") or it["slides"], fix_caption(it["caption_ig"]))
                     changed = True
                 if not st.get("fb") and it.get("caption_fb"):
-                    imgs = [x["image"] for x in (st.get("slides") or it["slides"]) if x.get("image")]
-                    st["fb"] = api().fb_album(imgs, fix_caption(it["caption_fb"]))
+                    sl_ = [x for x in (st.get("slides") or it["slides"]) if x.get("image")]
+                    st["fb"] = api().fb_album([x["image"] for x in sl_], fix_caption(it["caption_fb"]),
+                                              [x.get("alt") for x in sl_])
                     changed = True
             if st.get("ig") and (st.get("fb") or not it.get("caption_fb")):
                 st["done"] = now().isoformat()
