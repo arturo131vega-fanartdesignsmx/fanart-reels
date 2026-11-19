@@ -22,7 +22,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install -q numpy opencv-python-headless pillow
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr > /dev/null
+          pip install -q numpy opencv-python-headless pillow
       - run: python3 engine/review.py
       - name: Save sheets
         run: |

@@ -67,6 +67,42 @@ def detail(cid):
     }
 
 
+def ocr_text(card_img):
+    """OCR the card (tesseract) - returns lowercase text, or '' if tesseract is missing."""
+    import shutil, subprocess, tempfile
+    if not shutil.which("tesseract"):
+        return ""
+    big = cv2.resize(card_img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    gray = cv2.cvtColor(big, cv2.COLOR_BGR2GRAY)
+    texts = []
+    for img in (gray, 255 - gray):
+        f = tempfile.mktemp(suffix=".png")
+        cv2.imwrite(f, img)
+        r = subprocess.run(["tesseract", f, "-", "--psm", "11"], capture_output=True, text=True)
+        texts.append(r.stdout)
+    return " ".join(texts).lower()
+
+
+def match_score(text, card):
+    """Fraction of a real card's attack/ability names found (fuzzily) in the OCR text."""
+    import difflib
+    names = [n for n in (card.get("attacks") or []) + (card.get("abilities") or []) if n and len(n) >= 4]
+    if not names or not text:
+        return 0.0, []
+    words = re.findall(r"[a-z0-9']+", text)
+    hits = []
+    for n in names:
+        nw = re.findall(r"[a-z0-9']+", n.lower())
+        k = len(nw)
+        best = 0.0
+        for i in range(max(1, len(words) - k + 1)):
+            cand = " ".join(words[i:i + k])
+            best = max(best, difflib.SequenceMatcher(None, cand, " ".join(nw)).ratio())
+        if best >= 0.82:
+            hits.append(n)
+    return len(hits) / len(names), hits
+
+
 def sheet(cards, path, cols=8, tw=150, th=210):
     rows = max(1, (len(cards) + cols - 1) // cols)
     canvas = np.full((rows * (th + 26), cols * tw, 3), 30, np.uint8)
@@ -113,9 +149,21 @@ def main():
         ids = [b["id"] for b in brief][:96]
         with ThreadPoolExecutor(8) as ex:
             cards = [c for c in ex.map(detail, ids) if c.get("name")]
-        json.dump({"candidate": cand, "real_cards": cards}, open(os.path.join(OUT, f"{key}.json"), "w"), indent=1)
+        text = ocr_text(d)
+        matches = []
+        for c in cards:
+            sc, hits = match_score(text, c)
+            if hits:
+                matches.append({"id": c["id"], "name": c["name"], "set": c["set"], "hp": c["hp"],
+                                "pocket": c["pocket"], "score": round(sc, 2), "hits": hits})
+        matches.sort(key=lambda m: (-m["score"], -len(m["hits"])))
+        printed = [m for m in matches if not m["pocket"] and m["score"] >= 0.5]
+        verdict = "REAL_PRINTED_MATCH" if printed else ("POCKET_ONLY_MATCH" if matches else "NO_MATCH")
+        json.dump({"candidate": cand, "ocr": text[:2000], "matches": matches[:10], "real_cards": cards},
+                  open(os.path.join(OUT, f"{key}.json"), "w"), indent=1)
         sheet(cards, os.path.join(OUT, f"{key}_real.jpg"))
-        summary[key] = {"name": cand["name"], "real_cards_found": len(cards)}
+        summary[key] = {"name": cand["name"], "verdict": verdict, "top_match": matches[0] if matches else None,
+                        "real_cards_found": len(cards)}
     json.dump(summary, open(os.path.join(OUT, "_summary.json"), "w"), indent=1)
     print(json.dumps(summary, indent=1))
 
