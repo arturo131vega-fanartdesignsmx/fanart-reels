@@ -1,58 +1,34 @@
 {
  "candidates": [
   {
-   "key": "arcanine-d1",
-   "name": "Mega Arcanine EX",
-   "pokemon": "Arcanine",
-   "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+   "key": "greninja",
+   "name": "Mega Greninja",
+   "pokemon": "Greninja",
+   "image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg"
   },
   {
-   "key": "arcanine-d2",
-   "name": "Mega Arcanine EX",
-   "pokemon": "Arcanine",
-   "image": "https://i.etsystatic.com/66814655/r/il/f6d18e/8861293058/il_fullxfull.8861293058_6wel.jpg"
+   "key": "lucario-d1",
+   "name": "Mega Lucario EX",
+   "pokemon": "Lucario",
+   "image": "https://i.etsystatic.com/66814655/r/il/4bb660/8872973958/il_fullxfull.8872973958_89io.jpg"
   },
   {
-   "key": "lunala",
-   "name": "Lunala",
-   "pokemon": "Lunala",
-   "image": "https://i.etsystatic.com/66814655/r/il/cf974b/8883836793/il_fullxfull.8883836793_cs6w.jpg"
+   "key": "gengar-d1",
+   "name": "Mega Gengar EX",
+   "pokemon": "Gengar",
+   "image": "https://i.etsystatic.com/66814655/r/il/d3ceda/8924698761/il_fullxfull.8924698761_gkae.jpg"
   },
   {
-   "key": "armarouge",
-   "name": "Armarouge",
-   "pokemon": "Armarouge",
-   "image": "https://i.etsystatic.com/66814655/r/il/1d822b/8836044092/il_fullxfull.8836044092_ftvy.jpg"
+   "key": "charizardy-d1",
+   "name": "Mega Charizard Y",
+   "pokemon": "Charizard",
+   "image": "https://i.etsystatic.com/66814655/r/il/69bcf6/8906067429/il_fullxfull.8906067429_pifu.jpg"
   },
   {
-   "key": "tentacruel",
-   "name": "Mega Tentacruel",
-   "pokemon": "Tentacruel",
-   "image": "https://i.etsystatic.com/66814655/r/il/3b3057/8841871430/il_fullxfull.8841871430_dsvy.jpg"
-  },
-  {
-   "key": "alakazam-d1",
-   "name": "Alakazam",
-   "pokemon": "Alakazam",
-   "image": "https://i.etsystatic.com/66814655/r/il/eec8d0/8861363548/il_fullxfull.8861363548_6na7.jpg"
-  },
-  {
-   "key": "alakazam-d2",
-   "name": "Alakazam",
-   "pokemon": "Alakazam",
-   "image": "https://i.etsystatic.com/66814655/r/il/98b9ce/8861364394/il_fullxfull.8861364394_f98p.jpg"
-  },
-  {
-   "key": "ninetales-d1",
-   "name": "Mega Ninetales EX",
-   "pokemon": "Ninetales",
-   "image": "https://i.etsystatic.com/66814655/r/il/d92bbb/8860370094/il_fullxfull.8860370094_reci.jpg"
-  },
-  {
-   "key": "ninetales-d2",
-   "name": "Mega Ninetales EX",
-   "pokemon": "Ninetales",
-   "image": "https://i.etsystatic.com/66814655/r/il/b920aa/8908144081/il_fullxfull.8908144081_dyqz.jpg"
+   "key": "umbreon-d1",
+   "name": "Umbreon EX",
+   "pokemon": "Umbreon",
+   "image": "https://i.etsystatic.com/66814655/r/il/9cc949/8866487138/il_fullxfull.8866487138_7hy9.jpg"
   }
  ]
 }

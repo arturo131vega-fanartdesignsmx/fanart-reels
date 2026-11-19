@@ -148,7 +148,7 @@ def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, h
         "title_anim": str(rng.choice(["pop", "slide", "drop"])),
         "title_hl": int(rng.integers(0, 2)),
         "pill": str(rng.choice(["outline", "filled"])),
-        "subs": str(rng.choice(["keywords", "box"])),
+        "subs": "keywords",  # approved Mega Mewtwo Y style only (no box/shading behind subtitles)
     }
     keys = BASE_KEYS | {h.lower() for h in highlight}
     D = math.ceil((meta["dur"] + 0.3) * FPS) / FPS
