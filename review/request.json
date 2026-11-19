@@ -435,39 +435,179 @@
    "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Gengar.jpg"
   },
   {
-   "key": "charizardy-d3",
-   "name": "Mega Charizard Y gold (calibration: official)",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/55e882/8858088164/il_fullxfull.8858088164_o168.jpg"
+   "key": "4605371798-1",
+   "name": "Greninja 4605371798-1",
+   "pokemon": "Greninja",
+   "dex": 658,
+   "image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg"
   },
   {
-   "key": "charizardy-d5",
-   "name": "Mega Charizard Y Pocket text",
-   "pokemon": "Charizard",
-   "dex": 6,
-   "image": "https://i.etsystatic.com/66814655/r/il/0a65ac/8906285285/il_fullxfull.8906285285_m32c.jpg"
+   "key": "4543722630-1",
+   "name": "Lucario 4543722630-1",
+   "pokemon": "Lucario",
+   "dex": 448,
+   "image": "https://i.etsystatic.com/66814655/r/il/4bb660/8872973958/il_fullxfull.8872973958_89io.jpg"
   },
   {
-   "key": "gengar-d5",
-   "name": "Mega Gengar Pocket text",
+   "key": "4543722630-2",
+   "name": "Lucario 4543722630-2",
+   "pokemon": "Lucario",
+   "dex": 448,
+   "image": "https://i.etsystatic.com/66814655/r/il/46c6fe/8872976124/il_fullxfull.8872976124_jjg0.jpg"
+  },
+  {
+   "key": "4543722630-4",
+   "name": "Lucario 4543722630-4",
+   "pokemon": "Lucario",
+   "dex": 448,
+   "image": "https://i.etsystatic.com/66814655/r/il/0c6fb4/8920755885/il_fullxfull.8920755885_lrdx.jpg"
+  },
+  {
+   "key": "4543722630-5",
+   "name": "Lucario 4543722630-5",
+   "pokemon": "Lucario",
+   "dex": 448,
+   "image": "https://i.etsystatic.com/66814655/r/il/45613d/8920757697/il_fullxfull.8920757697_7b1f.jpg"
+  },
+  {
+   "key": "4543718514-1",
+   "name": "Gengar 4543718514-1",
+   "pokemon": "Gengar",
+   "dex": 94,
+   "image": "https://i.etsystatic.com/66814655/r/il/d3ceda/8924698761/il_fullxfull.8924698761_gkae.jpg"
+  },
+  {
+   "key": "4543718514-2",
+   "name": "Gengar 4543718514-2",
+   "pokemon": "Gengar",
+   "dex": 94,
+   "image": "https://i.etsystatic.com/66814655/r/il/7a13ee/8924700783/il_fullxfull.8924700783_5l1i.jpg"
+  },
+  {
+   "key": "4543718514-3",
+   "name": "Gengar 4543718514-3",
+   "pokemon": "Gengar",
+   "dex": 94,
+   "image": "https://i.etsystatic.com/66814655/r/il/72e1fd/8924702791/il_fullxfull.8924702791_g3d7.jpg"
+  },
+  {
+   "key": "4543718514-4",
+   "name": "Gengar 4543718514-4",
+   "pokemon": "Gengar",
+   "dex": 94,
+   "image": "https://i.etsystatic.com/66814655/r/il/b486eb/8924704599/il_fullxfull.8924704599_tcqe.jpg"
+  },
+  {
+   "key": "4543718514-5",
+   "name": "Gengar 4543718514-5",
    "pokemon": "Gengar",
    "dex": 94,
    "image": "https://i.etsystatic.com/66814655/r/il/83d448/8876932060/il_fullxfull.8876932060_amgb.jpg"
   },
   {
-   "key": "umbreon-d2",
-   "name": "Umbreon Pocket text",
+   "key": "4543648954-1",
+   "name": "Charizard 4543648954-1",
+   "pokemon": "Charizard",
+   "dex": 6,
+   "image": "https://i.etsystatic.com/66814655/r/il/69bcf6/8906067429/il_fullxfull.8906067429_pifu.jpg"
+  },
+  {
+   "key": "4543648954-2",
+   "name": "Charizard 4543648954-2",
+   "pokemon": "Charizard",
+   "dex": 6,
+   "image": "https://i.etsystatic.com/66814655/r/il/349e46/8905860093/il_fullxfull.8905860093_zk8b.jpg"
+  },
+  {
+   "key": "4543648954-3",
+   "name": "Charizard 4543648954-3",
+   "pokemon": "Charizard",
+   "dex": 6,
+   "image": "https://i.etsystatic.com/66814655/r/il/55e882/8858088164/il_fullxfull.8858088164_o168.jpg"
+  },
+  {
+   "key": "4543648954-5",
+   "name": "Charizard 4543648954-5",
+   "pokemon": "Charizard",
+   "dex": 6,
+   "image": "https://i.etsystatic.com/66814655/r/il/0a65ac/8906285285/il_fullxfull.8906285285_m32c.jpg"
+  },
+  {
+   "key": "4543725931-1",
+   "name": "Umbreon 4543725931-1",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://i.etsystatic.com/66814655/r/il/9cc949/8866487138/il_fullxfull.8866487138_7hy9.jpg"
+  },
+  {
+   "key": "4543725931-2",
+   "name": "Umbreon 4543725931-2",
    "pokemon": "Umbreon",
    "dex": 197,
    "image": "https://i.etsystatic.com/66814655/r/il/eb7efa/8914267995/il_fullxfull.8914267995_c6dl.jpg"
   },
   {
-   "key": "umbreon-d3",
-   "name": "Umbreon Pocket text 2",
+   "key": "4543725931-3",
+   "name": "Umbreon 4543725931-3",
    "pokemon": "Umbreon",
    "dex": 197,
    "image": "https://i.etsystatic.com/66814655/r/il/5930f1/8866487676/il_fullxfull.8866487676_bspv.jpg"
+  },
+  {
+   "key": "4543725931-4",
+   "name": "Umbreon 4543725931-4",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://i.etsystatic.com/66814655/r/il/5c3759/8866487860/il_fullxfull.8866487860_pyz4.jpg"
+  },
+  {
+   "key": "4543725931-5",
+   "name": "Umbreon 4543725931-5",
+   "pokemon": "Umbreon",
+   "dex": 197,
+   "image": "https://i.etsystatic.com/66814655/r/il/233773/8866488122/il_fullxfull.8866488122_e0ri.jpg"
+  },
+  {
+   "key": "4563374016-1",
+   "name": "Arcanine 4563374016-1",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+  },
+  {
+   "key": "4563374016-2",
+   "name": "Arcanine 4563374016-2",
+   "pokemon": "Arcanine",
+   "dex": 59,
+   "image": "https://i.etsystatic.com/66814655/r/il/f6d18e/8861293058/il_fullxfull.8861293058_6wel.jpg"
+  },
+  {
+   "key": "4560874458-1",
+   "name": "Ninetales 4560874458-1",
+   "pokemon": "Ninetales",
+   "dex": 38,
+   "image": "https://i.etsystatic.com/66814655/r/il/d92bbb/8860370094/il_fullxfull.8860370094_reci.jpg"
+  },
+  {
+   "key": "4560874458-2",
+   "name": "Ninetales 4560874458-2",
+   "pokemon": "Ninetales",
+   "dex": 38,
+   "image": "https://i.etsystatic.com/66814655/r/il/b920aa/8908144081/il_fullxfull.8908144081_dyqz.jpg"
+  },
+  {
+   "key": "alakazam-d1",
+   "name": "Alakazam alakazam-d1",
+   "pokemon": "Alakazam",
+   "dex": 65,
+   "image": "https://i.etsystatic.com/66814655/r/il/eec8d0/8861363548/il_fullxfull.8861363548_6na7.jpg"
+  },
+  {
+   "key": "alakazam-d2",
+   "name": "Alakazam alakazam-d2",
+   "pokemon": "Alakazam",
+   "dex": 65,
+   "image": "https://i.etsystatic.com/66814655/r/il/98b9ce/8861364394/il_fullxfull.8861364394_f98p.jpg"
   }
  ]
 }

@@ -88,8 +88,16 @@ def inliers(fa, fb):
         return len(good) // 3
     A = pa[[m.queryIdx for m in good]]
     B = pb[[m.trainIdx for m in good]]
-    H, mask = cv2.findHomography(A, B, cv2.RANSAC, 6.0)
-    return int(mask.sum()) if mask is not None else 0
+    # similarity transform only (scale + rotation + shift): a crop/extension of the same artwork fits it,
+    # while a projective homography can collapse random matches into a degenerate fit
+    M, mask = cv2.estimateAffinePartial2D(A, B, method=cv2.RANSAC, ransacReprojThreshold=6.0,
+                                          maxIters=4000, confidence=0.995)
+    if M is None or mask is None:
+        return 0
+    scale = float(np.hypot(M[0, 0], M[1, 0]))
+    if not 0.25 <= scale <= 4.0:
+        return 0
+    return int(mask.sum())
 
 
 def ja_name(dex):
