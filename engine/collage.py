@@ -34,9 +34,45 @@ def _rounded(card, r):
     return m
 
 
+def _place(bg, card, cx, cy, h, angle=0.0):
+    """Draw a watermarked, rounded card of height h centred at (cx, cy), rotated by angle, with shadow."""
+    w = int(h * card.shape[1] / card.shape[0])
+    c = cv2.resize(card, (w, h), interpolation=cv2.INTER_AREA)
+    c = watermark(c, w, h)
+    a = _rounded(c, max(6, w // 26))
+    pad = int(0.12 * h)
+    big = np.zeros((h + 2 * pad, w + 2 * pad, 4), np.uint8)
+    big[pad:pad + h, pad:pad + w, :3] = c
+    big[pad:pad + h, pad:pad + w, 3] = a
+    M = cv2.getRotationMatrix2D((big.shape[1] / 2, big.shape[0] / 2), angle, 1.0)
+    big = cv2.warpAffine(big, M, (big.shape[1], big.shape[0]), flags=cv2.INTER_LINEAR)
+    al = big[..., 3].astype(np.float32) / 255
+    sh = cv2.GaussianBlur(al, (0, 0), 14) * 0.6
+    x0, y0 = int(cx - big.shape[1] / 2), int(cy - big.shape[0] / 2)
+    for layer, color, alpha, dx, dy in ((None, 0, sh, 6, 14), (big[..., :3], None, al, 0, 0)):
+        xa, ya = max(0, x0 + dx), max(0, y0 + dy)
+        xb, yb = min(SIZE, x0 + dx + big.shape[1]), min(SIZE, y0 + dy + big.shape[0])
+        sl = (slice(ya - y0 - dy, yb - y0 - dy), slice(xa - x0 - dx, xb - x0 - dx))
+        A = alpha[sl][..., None]
+        roi = bg[ya:yb, xa:xb].astype(np.float32)
+        src = np.zeros_like(roi) if layer is None else layer[sl].astype(np.float32)
+        bg[ya:yb, xa:xb] = (roi * (1 - A) + src * A).astype(np.uint8)
+
+
 def build(card_paths, out_path):
     cards = [load_card(p) for p in card_paths]
     n = len(cards)
+    if n in (1, 3):  # one big card, or a fan of three (bigger than a row of three)
+        bg = cv2.resize(cards[0], (SIZE, SIZE))
+        bg = (cv2.GaussianBlur(bg, (0, 0), 40).astype(np.float32) * 0.35).astype(np.uint8)
+        if n == 1:
+            _place(bg, cards[0], SIZE / 2, SIZE / 2, 960)
+        else:
+            _place(bg, cards[1], SIZE / 2 - 332, SIZE / 2 + 22, 566, 6)
+            _place(bg, cards[2], SIZE / 2 + 332, SIZE / 2 + 22, 566, -6)
+            _place(bg, cards[0], SIZE / 2, SIZE / 2, 640)
+        cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
+        return out_path
     cols, rows = _layout(n)
     # background: blurred, darkened first card
     bg = cv2.resize(cards[0], (SIZE, SIZE))
