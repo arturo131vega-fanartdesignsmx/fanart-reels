@@ -1,0 +1,26 @@
+{
+ "ok": true,
+ "check_only": true,
+ "granted": [
+  "business_management",
+  "instagram_basic",
+  "instagram_content_publish",
+  "pages_manage_posts",
+  "pages_read_engagement",
+  "pages_show_list",
+  "public_profile"
+ ],
+ "instagram": {
+  "id": "17841439102137781",
+  "username": "fanartdesignsmx"
+ },
+ "token_kind": "user",
+ "page_id": "1199826319888363",
+ "page_name": "Fanart Designs MX",
+ "user_name": "Arturo Vega López",
+ "token_type": "USER",
+ "token_expires": "never",
+ "data_access_expires": "2027-02-17",
+ "job": "tokencheck3",
+ "finished_at": "2026-11-19T02:07:00Z"
+}
