@@ -9,8 +9,13 @@ Claude task) only curates designs and writes the queue. Never publish anything b
    (often "Illus. Arturo Vega") are fine. Verify every design with the review tool before using it:
    push `review/request.json`, wait for "Real-card review sheets", read `review/out/_summary.json`.
    - `REAL_PRINTED_MATCH` → reject (record in `catalog/designs.json` with the matching card id).
-   - `NO_MATCH` or `POCKET_ONLY_MATCH` → look at `<key>_design.jpg` (and `<key>_real.jpg` if unsure:
-     same artwork as a printed card = reject). Then approve.
+   - The OCR verdict is only a first filter: it MISSES matches (e.g. Lucario d1, Charizard Y d2/d3, Alakazam).
+     Always open `<key>_design.jpg`, read the card name, HP and every attack/ability name yourself, and
+     search them in `<key>.json` `real_cards` (case-insensitive; `attacks`/`abilities` may contain null).
+     If `real_cards` is empty, TCGdex rate-limited: resubmit that key later, never assume "no match".
+   - Any printed (non-Pocket) card with the same attack/ability names → reject. Set numbers like
+     "ASC 294/217" or an illustrator other than Arturo Vega on the card → reject (copy of a real card).
+   - Pocket-only match or no match at all → approve.
 2. **Watermark always**: reels get the diagonal "Fanart Designs MX" overlay automatically; carousel
    image slides must use the Cloudinary fetch URL with the text overlay (see template below).
 3. **No repeats**: never the same Pokémon twice within 14 days (all formats), never the same design twice.
