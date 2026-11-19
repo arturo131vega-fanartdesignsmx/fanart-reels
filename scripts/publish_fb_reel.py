@@ -42,8 +42,33 @@ def call(method, url, params=None, headers=None):
         raise RuntimeError(f"HTTP {e.code} on {url.split('?')[0]} -> {msg}") from None
 
 
-def publish(job):
-    graph = f"https://graph.facebook.com/{V}"
+GRAPH = f"https://graph.facebook.com/{V}"
+PAGE_NAME_HINT = "fanart designs"
+
+
+def resolve_page():
+    """Works with either a Page token or a (long-lived) user token.
+    Returns (page_id, page_token, info) — info never contains a token."""
+    me = call("GET", f"{GRAPH}/me?" + urllib.parse.urlencode({"fields": "id,name", "access_token": TOKEN}))
+    try:
+        acc = call("GET", f"{GRAPH}/me/accounts?" + urllib.parse.urlencode(
+            {"fields": "id,name,access_token", "limit": 100, "access_token": TOKEN}))
+        pages = acc.get("data", [])
+    except RuntimeError:
+        pages = None  # a Page token has no /accounts edge
+    if pages is None:
+        return me["id"], TOKEN, {"token_kind": "page", "page_id": me["id"], "page_name": me.get("name")}
+    for p in pages:
+        if p.get("id") == PAGE or PAGE_NAME_HINT in (p.get("name") or "").lower():
+            return p["id"], p["access_token"], {"token_kind": "user", "page_id": p["id"], "page_name": p.get("name"),
+                                                  "user_name": me.get("name")}
+    names = [p.get("name") for p in pages]
+    raise RuntimeError(f"token belongs to '{me.get('name')}' but no matching Page in /me/accounts (pages seen: {names})")
+
+
+def publish(job, page, token):
+    graph = GRAPH
+    PAGE, TOKEN = page, token  # local overrides: page id/token resolved at runtime
     start = call("POST", f"{graph}/{PAGE}/video_reels", {"upload_phase": "start", "access_token": TOKEN})
     vid = start["video_id"]
     up = call("POST", f"https://rupload.facebook.com/video-upload/{V}/{vid}",
@@ -85,13 +110,16 @@ def main():
             print(f"{path}: already processed")
             continue
         job = json.load(open(path))
-        if not TOKEN or not PAGE:
-            res = {"ok": False, "error": "FB_PAGE_TOKEN secret or FB_PAGE_ID is missing"}
+        if not TOKEN:
+            res = {"ok": False, "error": "FB_PAGE_TOKEN secret is missing"}
         else:
+            info = {}
             try:
-                res = publish(job)
+                page_id, page_token, info = resolve_page()
+                res = publish(job, page_id, page_token)
+                res.update(info)
             except Exception as e:  # message never includes the token
-                res = {"ok": False, "error": str(e).replace(TOKEN, "***") if TOKEN else str(e)}
+                res = {"ok": False, "error": str(e).replace(TOKEN, "***"), **info}
         res["job"] = job.get("id")
         res["finished_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
         json.dump(res, open(res_path, "w"), indent=1, ensure_ascii=False)
