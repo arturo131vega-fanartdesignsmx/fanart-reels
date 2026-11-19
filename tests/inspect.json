@@ -1,12 +1,12 @@
 [
  {
-  "name": "holo_orig",
+  "name": "sq200",
   "video": true,
-  "url": "https://res.cloudinary.com/rntnboij/video/upload/v1795034320/ig_holo_video.mp4"
+  "url": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_200/q_auto/v1795034320/ig_holo_video.mp4"
  },
  {
-  "name": "holo_fill",
+  "name": "sq170",
   "video": true,
-  "url": "https://res.cloudinary.com/rntnboij/video/upload/e_accelerate:-50/c_fill,w_1080,h_1080,g_center/q_auto/v1795034320/ig_holo_video.mp4"
+  "url": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_170/q_auto/v1795034320/ig_holo_video.mp4"
  }
 ]
