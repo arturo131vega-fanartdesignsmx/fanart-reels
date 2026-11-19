@@ -1,0 +1,1028 @@
+{
+ "candidate": {
+  "key": "gengar-d2",
+  "name": "Mega Gengar EX",
+  "pokemon": "Gengar",
+  "image": "https://i.etsystatic.com/66814655/r/il/7a13ee/8924700783/il_fullxfull.8924700783_5l1i.jpg"
+ },
+ "ocr": "a\n\na= mesa geng:\n\nevolves from haunter\n\n7,\n\nit\n\n\\ vr\n\n. -\n\n+\n\n@\n\nyn\n\nnv\n\n\u00a9 /\n\nxf\n\n%\n\ndq- 4\n\nfn,\n\n\\\\\n\nsha\n\nwysco ealment\n\nif | of yout pok\u00e9mon sn we out yey damag\n\nranattackef\n\nyou lm opponentys pe sin onuexzae\n\nwm\n\nplayermtakes\\lifewenrizeycard. thexeffectlofsshadowyans\n\ngoncealment doesnitystacks\n\noo\n\nvoid gale\n\n230\n\nmovesanmeenengy, this pok\u00e9mon to\u2014l~of_y.our.\n\nbenched pok\u00e9mon\n\nweakness\n\n@+20\n\nretreat\n\nok\n\nillus: arturoyvega\n\nmega evolution @x rule\n\nwhen your mega evolution\n\nas w_we\u00ae\n\nld py\n\npok\u00e9mon @x is knocked out, your opponent gets 3 points.\n a\n\na= mesa geng:\n\nevolves from haunter\n\n7,\n\nt\n\n\\ ar\n\n-\n\n+\n\n@\n\nyen\n\nnvey\n\n\u00a9 /\n\nyf\n\n%\n\ndq- 4\n\nfn,\n\n\\\\\n\nsha\n\nwysco ealment\n\nif | of yout pok\u00e9mon se: out yey damag\n\nranattackesf\n\nyou lm opponentys pe sinonuexza\n\nvie\n\nplayermtakes\\lifewembrizeycard. thexeffectlofsshadowyan\n\ngoncealment doesnitystacks\n\noo\n\nvoid gale\n\n230\n\nmovesanmeenengy, this pok\u00e9mon to-l~of_y.our.\n\nbenched pok\u00e9mon\n\nweakness\n\n@+20\n\nretreat\n\nok\n\nillus: arturoyvega\n\nmega evolution @x rule\n\nwhen your mega evolution\n\nas ww we\u00ae\n\nld py\n\npok\u00e9mon @x is knocked out, your opponent gets 3 points.\n",
+ "matches": [
+  {
+   "id": "me02-056",
+   "name": "Mega Gengar ex",
+   "set": "Phantasmal Flames",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  },
+  {
+   "id": "mep-073",
+   "name": "Mega Gengar ex",
+   "set": "MEP Black Star Promos",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  },
+  {
+   "id": "me02.5-125",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  },
+  {
+   "id": "me02.5-269",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  },
+  {
+   "id": "me02.5-284",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  }
+ ],
+ "real_cards": [
+  {
+   "id": "base3-5",
+   "name": "Gengar",
+   "set": "Fossil",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Keiji Kinebuchi",
+   "attacks": [
+    "Dark Mind"
+   ],
+   "abilities": [
+    "Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base3/5/low.png"
+  },
+  {
+   "id": "ex12-5",
+   "name": "Gengar",
+   "set": "Legend Maker",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Cursed Reaction",
+    "Super Psy Bolt"
+   ],
+   "abilities": [
+    "Shadow Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex12/5/low.png"
+  },
+  {
+   "id": "neo4-6",
+   "name": "Dark Gengar",
+   "set": "Neo Destiny",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Aya Kusube",
+   "attacks": [
+    "Pull In"
+   ],
+   "abilities": [
+    "Deep Sleep"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo4/6/low.png"
+  },
+  {
+   "id": "ecard3-10",
+   "name": "Gengar",
+   "set": "Skyridge",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Kyoko Umemoto",
+   "attacks": [
+    "Hydrokinesis"
+   ],
+   "abilities": [
+    "Manipulate"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/10/low.png"
+  },
+  {
+   "id": "lc-11",
+   "name": "Gengar",
+   "set": "Legendary Collection",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Keiji Kinebuchi",
+   "attacks": [
+    "Dark Mind"
+   ],
+   "abilities": [
+    "Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/lc/lc/11/low.png"
+  },
+  {
+   "id": "ecard1-13",
+   "name": "Gengar",
+   "set": "Expedition Base Set",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Yukiko Baba",
+   "attacks": [
+    "Hide in Shadows"
+   ],
+   "abilities": [
+    "Chaos Move"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/13/low.png"
+  },
+  {
+   "id": "gym1-14",
+   "name": "Sabrina's Gengar",
+   "set": "Gym Heroes",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Pain Amplifier",
+    "Call of the Night"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym1/14/low.png"
+  },
+  {
+   "id": "pl4-16",
+   "name": "Gengar",
+   "set": "Arceus",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Midori Harada",
+   "attacks": [
+    "Shadow Skip"
+   ],
+   "abilities": [
+    "Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl4/16/low.png"
+  },
+  {
+   "id": "pl4-17",
+   "name": "Gengar",
+   "set": "Arceus",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Sharpshooting",
+    "Poison Jab"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl4/17/low.png"
+  },
+  {
+   "id": "30th-c-018",
+   "name": "Gengar",
+   "set": "30th Classic Collection",
+   "hp": 130,
+   "rarity": "None",
+   "illustrator": "Takashi Yamaguchi",
+   "attacks": [
+    "Hurl into Darkness",
+    "Cursed Drop"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "dp7-18",
+   "name": "Gengar",
+   "set": "Stormfront",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Hajime Kusajima",
+   "attacks": [
+    "Shadow Room",
+    "Poltergeist"
+   ],
+   "abilities": [
+    "Fainting Spell"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp7/18/low.png"
+  },
+  {
+   "id": "base3-20",
+   "name": "Gengar",
+   "set": "Fossil",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Keiji Kinebuchi",
+   "attacks": [
+    "Dark Mind"
+   ],
+   "abilities": [
+    "Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base3/20/low.png"
+  },
+  {
+   "id": "dp1-27",
+   "name": "Gengar",
+   "set": "Diamond & Pearl",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Life Drain",
+    "Shadow Dance"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp1/27/low.png"
+  },
+  {
+   "id": "gym2-29",
+   "name": "Sabrina's Gengar",
+   "set": "Gym Challenge",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Dark Wave",
+    "Shadow Bind"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym2/29/low.png"
+  },
+  {
+   "id": "A2a-033",
+   "name": "Gengar",
+   "set": "Triumphant Light",
+   "hp": 140,
+   "rarity": "Two Diamond",
+   "illustrator": "Midori Harada",
+   "attacks": [
+    "Hypnoblast"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2a/033/low.png"
+  },
+  {
+   "id": "xy4-34",
+   "name": "Gengar EX",
+   "set": "Phantom Forces",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "Eske Yoshinob",
+   "attacks": [
+    "Night Attack",
+    "Dark Corridor"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy4/34/low.png"
+  },
+  {
+   "id": "g1-35",
+   "name": "Gengar",
+   "set": "Generations",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Saya Tsuruta",
+   "attacks": [
+    "Sinister Fog",
+    "Creep Show"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/g1/35/low.png"
+  },
+  {
+   "id": "xy4-35",
+   "name": "M Gengar EX",
+   "set": "Phantom Forces",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Phantom Gate"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy4/35/low.png"
+  },
+  {
+   "id": "sm4-38",
+   "name": "Gengar",
+   "set": "Crimson Invasion",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Fade to Black"
+   ],
+   "abilities": [
+    "Gnawing Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm4/38/low.png"
+  },
+  {
+   "id": "pl2-40",
+   "name": "Gengar GL",
+   "set": "Rising Rivals",
+   "hp": 70,
+   "rarity": "Uncommon",
+   "illustrator": "Naoyo Kimura",
+   "attacks": [
+    "Confuse Ray",
+    "Attack and Hide"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl2/40/low.png"
+  },
+  {
+   "id": "ecard1-48",
+   "name": "Gengar",
+   "set": "Expedition Base Set",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Yukiko Baba",
+   "attacks": [
+    "Hide in Shadows"
+   ],
+   "abilities": [
+    "Chaos Move"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/48/low.png"
+  },
+  {
+   "id": "me03-050",
+   "name": "Gengar",
+   "set": "Perfect Order",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Masako Tomii",
+   "attacks": [
+    "Mind Jack"
+   ],
+   "abilities": [
+    "Infinite Shadow"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me03/050/low.png"
+  },
+  {
+   "id": "sm9-53",
+   "name": "Gengar & Mimikyu GX",
+   "set": "Team Up",
+   "hp": 240,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Poltergeist",
+    "Horror House GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/53/low.png"
+  },
+  {
+   "id": "me02-056",
+   "name": "Mega Gengar ex",
+   "set": "Phantasmal Flames",
+   "hp": 350,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Void Gale"
+   ],
+   "abilities": [
+    "Shadowy Concealment"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02/056/low.png"
+  },
+  {
+   "id": "sv04.5-057",
+   "name": "Gengar",
+   "set": "Paldean Fates",
+   "hp": 130,
+   "rarity": "Uncommon",
+   "illustrator": "Nelnal",
+   "attacks": [
+    "Nightmare"
+   ],
+   "abilities": [
+    "Night Gate"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/low.png"
+  },
+  {
+   "id": "swsh6-57",
+   "name": "Gengar",
+   "set": "Chilling Reign",
+   "hp": 130,
+   "rarity": "Holo Rare",
+   "illustrator": "Aya Kusube",
+   "attacks": [
+    "Pain Burst"
+   ],
+   "abilities": [
+    "Last Gift"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh6/57/low.png"
+  },
+  {
+   "id": "xy8-60",
+   "name": "Gengar",
+   "set": "BREAKthrough",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Saya Tsuruta",
+   "attacks": [
+    "Sinister Fog",
+    "Creep Show"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy8/60/low.png"
+  },
+  {
+   "id": "swsh11-066",
+   "name": "Gengar",
+   "set": "Lost Origin",
+   "hp": 120,
+   "rarity": "Holo Rare",
+   "illustrator": "Narumi Sato",
+   "attacks": [
+    "Screaming Circle"
+   ],
+   "abilities": [
+    "Netherworld Gate"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh11/066/low.png"
+  },
+  {
+   "id": "sm10-70",
+   "name": "Gengar",
+   "set": "Unbroken Bonds",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "so-taro",
+   "attacks": [
+    "Twilight Poison"
+   ],
+   "abilities": [
+    "Shadow Pain"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/70/low.png"
+  },
+  {
+   "id": "mep-073",
+   "name": "Mega Gengar ex",
+   "set": "MEP Black Star Promos",
+   "hp": 350,
+   "rarity": "Promo",
+   "illustrator": "Ultimateinudog",
+   "attacks": [
+    "Void Gale"
+   ],
+   "abilities": [
+    "Shadowy Concealment"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swsh1-85",
+   "name": "Gengar",
+   "set": "Sword & Shield",
+   "hp": 110,
+   "rarity": "Holo Rare",
+   "illustrator": "Eri Yamaki",
+   "attacks": [
+    "Hypnoblast"
+   ],
+   "abilities": [
+    "Life Shaker"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh1/85/low.png"
+  },
+  {
+   "id": "30th-090",
+   "name": "Gengar ex",
+   "set": "30th Celebration",
+   "hp": 280,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Chaotic Pain"
+   ],
+   "abilities": [
+    "Fainting Spell"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/090/low.png"
+  },
+  {
+   "id": "sv03.5-094",
+   "name": "Gengar",
+   "set": "151",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Tomokazu Komiya",
+   "attacks": [
+    "Poltergeist",
+    "Hollow Dive"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/094/low.png"
+  },
+  {
+   "id": "hgss4-94",
+   "name": "Gengar",
+   "set": "Triumphant",
+   "hp": 130,
+   "rarity": "Rare PRIME",
+   "illustrator": "Takashi Yamaguchi",
+   "attacks": [
+    "Hurl into Darkness",
+    "Cursed Drop"
+   ],
+   "abilities": [
+    "Catastrophe"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss4/94/low.png"
+  },
+  {
+   "id": "xy4-95",
+   "name": "Gengar Spirit Link",
+   "set": "Phantom Forces",
+   "hp": null,
+   "rarity": "Uncommon",
+   "illustrator": "5ban Graphics",
+   "attacks": [],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy4/95/low.png"
+  },
+  {
+   "id": "pl4-97",
+   "name": "Gengar LV.X",
+   "set": "Arceus",
+   "hp": 140,
+   "rarity": "Rare Holo LV.X",
+   "illustrator": "Shizurow",
+   "attacks": [
+    "Compound Pain"
+   ],
+   "abilities": [
+    "Level-Down"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl4/97/low.png"
+  },
+  {
+   "id": "sv05-104",
+   "name": "Gengar ex",
+   "set": "Temporal Forces",
+   "hp": 310,
+   "rarity": "Double rare",
+   "illustrator": "Nisota Niso",
+   "attacks": [
+    "Tricky Steps"
+   ],
+   "abilities": [
+    "Gnawing Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv05/104/low.png"
+  },
+  {
+   "id": "ex6-108",
+   "name": "Gengar ex",
+   "set": "FireRed & LeafGreen",
+   "hp": 150,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Poltergeist",
+    "Prize Count"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex6/108/low.png"
+  },
+  {
+   "id": "xy4-114",
+   "name": "Gengar EX",
+   "set": "Phantom Forces",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Night Attack",
+    "Dark Corridor"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy4/114/low.png"
+  },
+  {
+   "id": "xy4-121",
+   "name": "M Gengar EX",
+   "set": "Phantom Forces",
+   "hp": 220,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Phantom Gate"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy4/121/low.png"
+  },
+  {
+   "id": "A1-122",
+   "name": "Gengar",
+   "set": "Genetic Apex",
+   "hp": 130,
+   "rarity": "Three Diamond",
+   "illustrator": "Naoyo Kimura",
+   "attacks": [
+    "Bother"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/122/low.png"
+  },
+  {
+   "id": "A1-123",
+   "name": "Gengar ex",
+   "set": "Genetic Apex",
+   "hp": 170,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Spooky Shot"
+   ],
+   "abilities": [
+    "Shadowy Spellbind"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/123/low.png"
+  },
+  {
+   "id": "me02.5-125",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Void Gale"
+   ],
+   "abilities": [
+    "Shadowy Concealment"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02.5/125/low.png"
+  },
+  {
+   "id": "30th-154",
+   "name": "Gengar ex",
+   "set": "30th Celebration",
+   "hp": 280,
+   "rarity": "Special illustration rare",
+   "illustrator": "CHORISO",
+   "attacks": [
+    "Chaotic Pain"
+   ],
+   "abilities": [
+    "Fainting Spell"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/154/low.png"
+  },
+  {
+   "id": "swsh8-156",
+   "name": "Gengar V",
+   "set": "Fusion Strike",
+   "hp": 210,
+   "rarity": "Holo Rare V",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Dark Slumber",
+    "Pain Explosion"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/156/low.png"
+  },
+  {
+   "id": "swsh8-157",
+   "name": "Gengar VMAX",
+   "set": "Fusion Strike",
+   "hp": 320,
+   "rarity": "Holo Rare VMAX",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Fear and Panic",
+    "G-Max Swallow Up"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/157/low.png"
+  },
+  {
+   "id": "sm9-164",
+   "name": "Gengar & Mimikyu GX",
+   "set": "Team Up",
+   "hp": 240,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Poltergeist",
+    "Horror House GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/164/low.png"
+  },
+  {
+   "id": "sm9-165",
+   "name": "Gengar & Mimikyu GX",
+   "set": "Team Up",
+   "hp": 240,
+   "rarity": "Ultra Rare",
+   "illustrator": "Midori Harada",
+   "attacks": [
+    "Poltergeist",
+    "Horror House GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/165/low.png"
+  },
+  {
+   "id": "sm9-186",
+   "name": "Gengar & Mimikyu GX",
+   "set": "Team Up",
+   "hp": 240,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Poltergeist",
+    "Horror House GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/186/low.png"
+  },
+  {
+   "id": "sv05-193",
+   "name": "Gengar ex",
+   "set": "Temporal Forces",
+   "hp": 310,
+   "rarity": "Ultra Rare",
+   "illustrator": "Satoshi Shirai",
+   "attacks": [
+    "Tricky Steps"
+   ],
+   "abilities": [
+    "Gnawing Curse"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv05/193/low.png"
+  },
+  {
+   "id": "A3-222",
+   "name": "Gengar",
+   "set": "Celestial Guardians",
+   "hp": 130,
+   "rarity": "One Shiny",
+   "illustrator": "kurumitsu",
+   "attacks": [
+    "Bother"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3/222/low.png"
+  },
+  {
+   "id": "A3-234",
+   "name": "Gengar ex",
+   "set": "Celestial Guardians",
+   "hp": 170,
+   "rarity": "Two Shiny",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Spooky Shot"
+   ],
+   "abilities": [
+    "Shadowy Spellbind"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3/234/low.png"
+  },
+  {
+   "id": "A1-261",
+   "name": "Gengar ex",
+   "set": "Genetic Apex",
+   "hp": 170,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Spooky Shot"
+   ],
+   "abilities": [
+    "Shadowy Spellbind"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/261/low.png"
+  },
+  {
+   "id": "me02.5-269",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "rarity": "Mega Attack Rare",
+   "illustrator": "Taiga Kasai",
+   "attacks": [
+    "Void Gale"
+   ],
+   "abilities": [
+    "Shadowy Concealment"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02.5/269/low.png"
+  },
+  {
+   "id": "swsh8-271",
+   "name": "Gengar VMAX",
+   "set": "Fusion Strike",
+   "hp": 320,
+   "rarity": "Secret Rare",
+   "illustrator": "sowsow",
+   "attacks": [
+    "Fear and Panic",
+    "G-Max Swallow Up"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/271/low.png"
+  },
+  {
+   "id": "A1-277",
+   "name": "Gengar ex",
+   "set": "Genetic Apex",
+   "hp": 170,
+   "rarity": "Two Star",
+   "illustrator": "NC Empire",
+   "attacks": [
+    "Spooky Shot"
+   ],
+   "abilities": [
+    "Shadowy Spellbind"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/277/low.png"
+  },
+  {
+   "id": "me02.5-284",
+   "name": "Mega Gengar ex",
+   "set": "Ascended Heroes",
+   "hp": 350,
+   "rarity": "Special illustration rare",
+   "illustrator": "danciao",
+   "attacks": [
+    "Void Gale"
+   ],
+   "abilities": [
+    "Shadowy Concealment"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02.5/284/low.png"
+  },
+  {
+   "id": "ecard3-H09",
+   "name": "Gengar",
+   "set": "Skyridge",
+   "hp": 100,
+   "rarity": "Holo Rare",
+   "illustrator": "Kyoko Umemoto",
+   "attacks": [
+    "Hydrokinesis"
+   ],
+   "abilities": [
+    "Manipulate"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swshp-SWSH052",
+   "name": "Gengar",
+   "set": "SWSH Black Star Promos",
+   "hp": 110,
+   "rarity": "Promo",
+   "illustrator": "Shibuzoh.",
+   "attacks": [
+    "Hypnoblast"
+   ],
+   "abilities": [
+    "Life Shaker"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH052/low.png"
+  },
+  {
+   "id": "swshp-SWSH241",
+   "name": "Gengar",
+   "set": "SWSH Black Star Promos",
+   "hp": 120,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Screaming Circle"
+   ],
+   "abilities": [
+    "Netherworld Gate"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH241/low.png"
+  },
+  {
+   "id": "swsh11tg-TG06",
+   "name": "Gengar",
+   "set": "Lost Origin Trainer Gallery",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Akira Komayama",
+   "attacks": [
+    "Screaming Circle"
+   ],
+   "abilities": [
+    "Netherworld Gate"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xyp-XY166",
+   "name": "M Gengar-EX",
+   "set": "XY Black Star Promos",
+   "hp": 210,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Hollow Geist"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY166/low.png"
+  }
+ ]
+}

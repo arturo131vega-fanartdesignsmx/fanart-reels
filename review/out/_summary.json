@@ -1,22 +1,206 @@
 {
  "greninja": {
   "name": "Mega Greninja",
+  "verdict": "NO_MATCH",
+  "top_match": null,
   "real_cards_found": 48
  },
  "lucario-d1": {
   "name": "Mega Lucario EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
   "real_cards_found": 71
  },
- "gengar-d1": {
+ "lucario-d2": {
+  "name": "Mega Lucario EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "mep-012",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  "real_cards_found": 71
+ },
+ "lucario-d4": {
+  "name": "Mega Lucario EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "mep-012",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "pocket": false,
+   "score": 1.0,
+   "hits": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  "real_cards_found": 71
+ },
+ "lucario-d5": {
+  "name": "Mega Lucario EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "mep-012",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "pocket": false,
+   "score": 1.0,
+   "hits": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  "real_cards_found": 71
+ },
+ "gengar-d2": {
   "name": "Mega Gengar EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "me02-056",
+   "name": "Mega Gengar ex",
+   "set": "Phantasmal Flames",
+   "hp": 350,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Void Gale"
+   ]
+  },
   "real_cards_found": 62
  },
- "charizardy-d1": {
+ "gengar-d3": {
+  "name": "Mega Gengar EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 62
+ },
+ "gengar-d4": {
+  "name": "Mega Gengar EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 0
+ },
+ "gengar-d5": {
+  "name": "Mega Gengar EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 0
+ },
+ "charizardy-d2": {
   "name": "Mega Charizard Y",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 0
+ },
+ "charizardy-d3": {
+  "name": "Mega Charizard Y",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 0
+ },
+ "charizardy-d5": {
+  "name": "Mega Charizard Y",
+  "verdict": "NO_MATCH",
+  "top_match": null,
   "real_cards_found": 96
  },
- "umbreon-d1": {
+ "umbreon-d2": {
   "name": "Umbreon EX",
+  "verdict": "POCKET_ONLY_MATCH",
+  "top_match": {
+   "id": "A3b-043",
+   "name": "Umbreon",
+   "set": "Eevee Grove",
+   "hp": 100,
+   "pocket": true,
+   "score": 1.0,
+   "hits": [
+    "Dark Binding"
+   ]
+  },
   "real_cards_found": 55
+ },
+ "umbreon-d3": {
+  "name": "Umbreon EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 55
+ },
+ "umbreon-d4": {
+  "name": "Umbreon EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "sv08.5-059",
+   "name": "Umbreon",
+   "set": "Prismatic Evolutions",
+   "hp": 110,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Pitch-Black Blade"
+   ]
+  },
+  "real_cards_found": 55
+ },
+ "umbreon-d5": {
+  "name": "Umbreon EX",
+  "verdict": "REAL_PRINTED_MATCH",
+  "top_match": {
+   "id": "30th-092",
+   "name": "Umbreon ex",
+   "set": "30th Celebration",
+   "hp": 270,
+   "pocket": false,
+   "score": 1.0,
+   "hits": [
+    "Lunatic Claw"
+   ]
+  },
+  "real_cards_found": 55
+ },
+ "arcanine-d1": {
+  "name": "Mega Arcanine EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 51
+ },
+ "arcanine-d2": {
+  "name": "Mega Arcanine EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 51
+ },
+ "ninetales-d1": {
+  "name": "Mega Ninetales EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 64
+ },
+ "ninetales-d2": {
+  "name": "Mega Ninetales EX",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 64
+ },
+ "alakazam-d1": {
+  "name": "Alakazam",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 35
+ },
+ "alakazam-d2": {
+  "name": "Alakazam",
+  "verdict": "NO_MATCH",
+  "top_match": null,
+  "real_cards_found": 35
  }
 }

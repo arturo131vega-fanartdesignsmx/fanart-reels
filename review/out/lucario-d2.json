@@ -1,0 +1,1169 @@
+{
+ "candidate": {
+  "key": "lucario-d2",
+  "name": "Mega Lucario EX",
+  "pokemon": "Lucario",
+  "image": "https://i.etsystatic.com/66814655/r/il/46c6fe/8872976124/il_fullxfull.8872976124_jjg0.jpg"
+ },
+ "ocr": "srace 1 fv orr [ly nehioex ox 340 408\n\nevolves from riolu\n\na\n\n\\a\n\n)\n\n|\n\na\n\n4\n\nney\n\n)\n\n\\)\n\n\\\n\nvine te\n\n,\n\n1)\n\nq\n\nhor\n\nyn\n\n| |\n\nb\n\n(4\n\n1 we\n\nvy,\n\n\\v\n\na)\n\nva z|\n\ngg\n\n130\n\nattach up\\togsmbasic #\n\nem energy_from your diseard pile\n\nto dyouy '.bertehed rok\u00e9monlinfany way y,oullike.\n\n\u2014\\_f\n\n4\n\n270\n\nmega brave\n\ninextpturn, this pok\u00e9mon, canjtiusesmega\n\nweakness\n\n\u00a9+20\n\nretreat\n\nok\n\nillus. arturo vega\n\nwww\n\nmega evolution @x rule\n\nevolution\n\ngets 3 points\n smack 1 fv orr [ly nehivex ox 340 408\n\nevolves from riolu\n\nn\n\n\\a\n\n)\n\n|\n\na\n\n4\n\nney\n\n)\n\n\\)\n\n\\\n\n| een\n\n_~,\n\ntt\n\nq\n\na\n\nan\n\n| |\n\nb\n\n(4,\n\n1) we\n\n\\\n\n\\v\n\na)\n\nvea zf |\n\ngg\n\n130\n\nattach up\\togsmbasic 8\n\nem energy_from your diseard pile\n\nto sys }bertehed rok\u00e9monjlinfany way y,oullike.\n\n\u2014*_f\n\nd\n\n270\n\nmega brave\n\ninextpturn, this pok\u00e9mon, canjtiusesmega\n\nweakness\n\n\u00a9+20\n\nretreat\n\nok\n\nillus. arturo vega\n\nwww\n\nmega evolution @x rule\n\nevolution\n\ngets 3 points\n",
+ "matches": [
+  {
+   "id": "mep-012",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "mep-033",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "me01-077",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "me02.5-113",
+   "name": "Mega Lucario ex",
+   "set": "Ascended Heroes",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "me01-160",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "me01-179",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "me01-188",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "pocket": false,
+   "score": 0.5,
+   "hits": [
+    "Mega Brave"
+   ]
+  }
+ ],
+ "real_cards": [
+  {
+   "id": "pop6-2",
+   "name": "Lucario",
+   "set": "POP Series 6",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Feint",
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pop/pop6/2/low.png"
+  },
+  {
+   "id": "pop8-2",
+   "name": "Lucario",
+   "set": "POP Series 8",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Kent Kanetsuna",
+   "attacks": [
+    "Blocking Punch",
+    "Striking Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pop/pop8/2/low.png"
+  },
+  {
+   "id": "tk-dp-l-3",
+   "name": "Lucario",
+   "set": "DP trainer Kit (Lucario)",
+   "hp": 90,
+   "rarity": "None",
+   "illustrator": "Kent Kanetsuna",
+   "attacks": [
+    "Feint",
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "dp1-6",
+   "name": "Lucario",
+   "set": "Diamond & Pearl",
+   "hp": 90,
+   "rarity": "Rare Holo",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Feint",
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp1/6/low.png"
+  },
+  {
+   "id": "pl2-8",
+   "name": "Lucario GL",
+   "set": "Rising Rivals",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Combo Throw"
+   ],
+   "abilities": [
+    "Boundary Aura"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl2/8/low.png"
+  },
+  {
+   "id": "ru1-12",
+   "name": "Lucario",
+   "set": "Pok\u00e9mon Rumble",
+   "hp": 90,
+   "rarity": "None",
+   "illustrator": null,
+   "attacks": [
+    "Metal Claw",
+    "Pulse Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/ru1/12/low.png"
+  },
+  {
+   "id": "mep-012",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "col1-14",
+   "name": "Lucario",
+   "set": "Call of Legends",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Takashi Yamaguchi",
+   "attacks": [
+    "Dimension Sphere",
+    "Sky Uppercut"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/col/col1/14/low.png"
+  },
+  {
+   "id": "svp-017",
+   "name": "Lucario ex",
+   "set": "SVP Black Star Promos",
+   "hp": 260,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Low Sweep",
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/017/low.png"
+  },
+  {
+   "id": "hgss2-19",
+   "name": "Lucario",
+   "set": "Unleashed",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Bulk Up",
+    "Magnum Punch"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss2/19/low.png"
+  },
+  {
+   "id": "swsh3.5-27",
+   "name": "Lucario V",
+   "set": "Champion's Path",
+   "hp": 210,
+   "rarity": "Holo Rare V",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Aura Sphere",
+    "Beatdown Smash"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/27/low.png"
+  },
+  {
+   "id": "pl3-31",
+   "name": "Lucario C",
+   "set": "Supreme Victors",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "kawayoo",
+   "attacks": [
+    "Metal Claw",
+    "Mid-air Strike"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl3/31/low.png"
+  },
+  {
+   "id": "mep-033",
+   "name": "Mega Lucario ex",
+   "set": "MEP Black Star Promos",
+   "hp": 340,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "A2b-043",
+   "name": "Lucario ex",
+   "set": "Shining Revelry",
+   "hp": 150,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/043/low.png"
+  },
+  {
+   "id": "xy10-47",
+   "name": "Lucario",
+   "set": "Fates Collide",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Beatdown",
+    "Magnum Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy10/47/low.png"
+  },
+  {
+   "id": "sv08.5-051",
+   "name": "Lucario ex",
+   "set": "Prismatic Evolutions",
+   "hp": 260,
+   "rarity": "Double rare",
+   "illustrator": "PLANETA Tsuji",
+   "attacks": [
+    "Aura Uppercut",
+    "Tornado Rush"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08.5/051/low.png"
+  },
+  {
+   "id": "pl1-53",
+   "name": "Lucario",
+   "set": "Platinum",
+   "hp": 90,
+   "rarity": "Uncommon",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Aura Sphere",
+    "Do the Wave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl1/53/low.png"
+  },
+  {
+   "id": "xy3-54",
+   "name": "Lucario EX",
+   "set": "Furious Fists",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Eske Yoshinob",
+   "attacks": [
+    "Missile Jab",
+    "Corkscrew Smash",
+    "Somersault Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy3/54/low.png"
+  },
+  {
+   "id": "xy3-55a",
+   "name": "M Lucario EX",
+   "set": "Furious Fists",
+   "hp": 220,
+   "rarity": "Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rising Fist"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy3/55a/low.png"
+  },
+  {
+   "id": "xy3-55",
+   "name": "M Lucario EX",
+   "set": "Furious Fists",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rising Fist"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy3/55/low.png"
+  },
+  {
+   "id": "xya-55a",
+   "name": "M Lucario-EX",
+   "set": "Yellow A Alternate",
+   "hp": 220,
+   "rarity": "Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rising Fist"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "dp6-61",
+   "name": "Lucario",
+   "set": "Legends Awakened",
+   "hp": 90,
+   "rarity": "Uncommon",
+   "illustrator": "Naoyo Kimura",
+   "attacks": [
+    "Focus Blast",
+    "Spike Lariat"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp6/61/low.png"
+  },
+  {
+   "id": "xy10-63",
+   "name": "Lucario",
+   "set": "Fates Collide",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Hitoshi Ariga",
+   "attacks": [
+    "Vacuum Wave",
+    "Fight Alone"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy10/63/low.png"
+  },
+  {
+   "id": "bw4-64",
+   "name": "Lucario",
+   "set": "Next Destinies",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Naoki Saito",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [
+    "Reflexive Retaliation"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw4/64/low.png"
+  },
+  {
+   "id": "sm5-67",
+   "name": "Lucario",
+   "set": "Ultra Prism",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Missile Jab"
+   ],
+   "abilities": [
+    "Precognitive Aura"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm5/67/low.png"
+  },
+  {
+   "id": "sm3-71",
+   "name": "Lucario",
+   "set": "Burning Shadows",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "nagimiso",
+   "attacks": [
+    "Submarine Blow"
+   ],
+   "abilities": [
+    "Stance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm3/71/low.png"
+  },
+  {
+   "id": "bw8-77",
+   "name": "Lucario",
+   "set": "Plasma Storm",
+   "hp": 90,
+   "rarity": "Uncommon",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Kick",
+    "Mach Cross"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw8/77/low.png"
+  },
+  {
+   "id": "me01-077",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me01/077/low.png"
+  },
+  {
+   "id": "bw8-78",
+   "name": "Lucario",
+   "set": "Plasma Storm",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Satoshi Shirai",
+   "attacks": [
+    "Hurricane Kick"
+   ],
+   "abilities": [
+    "Dual Armor"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw8/78/low.png"
+  },
+  {
+   "id": "swsh10-078",
+   "name": "Lucario V",
+   "set": "Astral Radiance",
+   "hp": 210,
+   "rarity": "Holo Rare V",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Crushing Punch",
+    "Cyclone Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh10/078/low.png"
+  },
+  {
+   "id": "swsh9-079",
+   "name": "Lucario",
+   "set": "Brilliant Stars",
+   "hp": 120,
+   "rarity": "Holo Rare",
+   "illustrator": "GIDORA",
+   "attacks": [
+    "Aura Sphere Volley"
+   ],
+   "abilities": [
+    "Roaring Resolve"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/079/low.png"
+  },
+  {
+   "id": "bw11-80",
+   "name": "Lucario",
+   "set": "Legendary Treasures",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "MAHOU",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [
+    "Reflexive Retaliation"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw11/80/low.png"
+  },
+  {
+   "id": "sv07-082",
+   "name": "Lucario ex",
+   "set": "Stellar Crown",
+   "hp": 250,
+   "rarity": "Double rare",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Low Kick",
+    "Aura Knuckle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv07/082/low.png"
+  },
+  {
+   "id": "30th-083",
+   "name": "Lucario",
+   "set": "30th Celebration",
+   "hp": 120,
+   "rarity": "Common",
+   "illustrator": "Hideki Ishikawa",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/083/low.png"
+  },
+  {
+   "id": "A2b-084",
+   "name": "Lucario ex",
+   "set": "Shining Revelry",
+   "hp": 150,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/084/low.png"
+  },
+  {
+   "id": "A2-092",
+   "name": "Lucario",
+   "set": "Space-Time Smackdown",
+   "hp": 100,
+   "rarity": "Three Diamond",
+   "illustrator": "nagimiso",
+   "attacks": [
+    "Submarine Blow"
+   ],
+   "abilities": [
+    "Fighting Coach"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2/092/low.png"
+  },
+  {
+   "id": "mep-095",
+   "name": "Lucario",
+   "set": "MEP Black Star Promos",
+   "hp": 120,
+   "rarity": "Promo",
+   "illustrator": "Taiga Kasai",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xy3-107",
+   "name": "Lucario EX",
+   "set": "Furious Fists",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Missile Jab",
+    "Corkscrew Smash",
+    "Somersault Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy3/107/low.png"
+  },
+  {
+   "id": "A2b-110",
+   "name": "Lucario ex",
+   "set": "Shining Revelry",
+   "hp": 150,
+   "rarity": "Two Shiny",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/110/low.png"
+  },
+  {
+   "id": "me02.5-113",
+   "name": "Mega Lucario ex",
+   "set": "Ascended Heroes",
+   "hp": 340,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02.5/113/low.png"
+  },
+  {
+   "id": "xy3-113",
+   "name": "M Lucario EX",
+   "set": "Furious Fists",
+   "hp": 220,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rising Fist"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy3/113/low.png"
+  },
+  {
+   "id": "sv01-114",
+   "name": "Lucario",
+   "set": "Scarlet & Violet",
+   "hp": 130,
+   "rarity": "Uncommon",
+   "illustrator": "Nurikabe",
+   "attacks": [
+    "Avenging Knuckle",
+    "Accelerating Stab"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv01/114/low.png"
+  },
+  {
+   "id": "sm11-117",
+   "name": "Lucario",
+   "set": "Unified Minds",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "kirisAki",
+   "attacks": [
+    "Mach Cross"
+   ],
+   "abilities": [
+    "Tag Coach"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm11/117/low.png"
+  },
+  {
+   "id": "swsh4-120",
+   "name": "Lucario",
+   "set": "Vivid Voltage",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "kodama",
+   "attacks": [
+    "Spike Draw",
+    "Knuckle Impact"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh4/120/low.png"
+  },
+  {
+   "id": "sm10-120",
+   "name": "Lucario & Melmetal GX",
+   "set": "Unbroken Bonds",
+   "hp": 260,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Steel Fist",
+    "Heavy Impact",
+    "Full Metal Wall GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/120/low.png"
+  },
+  {
+   "id": "sm6-122",
+   "name": "Lucario GX",
+   "set": "Forbidden Light",
+   "hp": 210,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Strike",
+    "Cyclone Kick",
+    "Cantankerous Beatdown GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "dp2-122",
+   "name": "Lucario",
+   "set": "Mysterious Treasures",
+   "hp": 110,
+   "rarity": "Rare Holo LV.X",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Close Combat"
+   ],
+   "abilities": [
+    "Stance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp2/122/low.png"
+  },
+  {
+   "id": "sm10-126",
+   "name": "Lucario",
+   "set": "Unbroken Bonds",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Midori Harada",
+   "attacks": [
+    "Low Sweep",
+    "Rush Up"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/126/low.png"
+  },
+  {
+   "id": "sm6-135",
+   "name": "Lucario GX",
+   "set": "Forbidden Light",
+   "hp": 210,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Strike",
+    "Cyclone Kick",
+    "Cantankerous Beatdown GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm6/135/low.png"
+  },
+  {
+   "id": "swsh8-146",
+   "name": "Lucario V",
+   "set": "Fusion Strike",
+   "hp": 210,
+   "rarity": "Holo Rare V",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Aura Sphere"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/146/low.png"
+  },
+  {
+   "id": "me01-160",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "rarity": "Ultra Rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me01/160/low.png"
+  },
+  {
+   "id": "A2-170",
+   "name": "Lucario",
+   "set": "Space-Time Smackdown",
+   "hp": 100,
+   "rarity": "One Star",
+   "illustrator": "Akira Komayama",
+   "attacks": [
+    "Submarine Blow"
+   ],
+   "abilities": [
+    "Fighting Coach"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2/170/low.png"
+  },
+  {
+   "id": "sv04.5-174",
+   "name": "Lucario",
+   "set": "Paldean Fates",
+   "hp": 130,
+   "rarity": "Shiny rare",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Avenging Knuckle",
+    "Accelerating Stab"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/174/low.png"
+  },
+  {
+   "id": "me01-179",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "rarity": "Special illustration rare",
+   "illustrator": "Atsushi Furusawa",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me01/179/low.png"
+  },
+  {
+   "id": "me01-188",
+   "name": "Mega Lucario ex",
+   "set": "Mega Evolution",
+   "hp": 340,
+   "rarity": "Mega Hyper Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me01/188/low.png"
+  },
+  {
+   "id": "sm10-203",
+   "name": "Lucario & Melmetal GX",
+   "set": "Unbroken Bonds",
+   "hp": 260,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Steel Fist",
+    "Heavy Impact",
+    "Full Metal Wall GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/203/low.png"
+  },
+  {
+   "id": "sm10-224",
+   "name": "Lucario & Melmetal GX",
+   "set": "Unbroken Bonds",
+   "hp": 260,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Steel Fist",
+    "Heavy Impact",
+    "Full Metal Wall GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/224/low.png"
+  },
+  {
+   "id": "bwp-BW85",
+   "name": "Lucario",
+   "set": "BW Black Star Promos",
+   "hp": 100,
+   "rarity": "Common",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Fast Punch"
+   ],
+   "abilities": [
+    "Intuition"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bwp/BW85/low.png"
+  },
+  {
+   "id": "dpp-DP12",
+   "name": "Lucario",
+   "set": "DP Black Star Promos",
+   "hp": 110,
+   "rarity": "Common",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Close Combat"
+   ],
+   "abilities": [
+    "Stance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dpp/DP12/low.png"
+  },
+  {
+   "id": "smp-SM100",
+   "name": "Lucario GX",
+   "set": "SM Black Star Promos",
+   "hp": 210,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Strike",
+    "Cyclone Kick",
+    "Cantankerous Beatdown GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/smp/SM100/low.png"
+  },
+  {
+   "id": "smp-SM192",
+   "name": "Lucario & Melmetal GX",
+   "set": "SM Black Star Promos",
+   "hp": 260,
+   "rarity": "Promo",
+   "illustrator": "nagimiso",
+   "attacks": [
+    "Steel Fist",
+    "Heavy Impact",
+    "Full Metal Wall GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "smp-SM54",
+   "name": "Lucario",
+   "set": "SM Black Star Promos",
+   "hp": 120,
+   "rarity": "Promo",
+   "illustrator": "Anesaki Dynamic",
+   "attacks": [
+    "Submarine Blow"
+   ],
+   "abilities": [
+    "Stance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/smp/SM54/low.png"
+  },
+  {
+   "id": "smp-SM95",
+   "name": "Lucario",
+   "set": "SM Black Star Promos",
+   "hp": 110,
+   "rarity": "Promo",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Missile Jab"
+   ],
+   "abilities": [
+    "Precognitive Aura"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/smp/SM95/low.png"
+  },
+  {
+   "id": "sma-SV22",
+   "name": "Lucario",
+   "set": "Hidden Fates Shiny Vault",
+   "hp": 110,
+   "rarity": "Shiny rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Missile Jab"
+   ],
+   "abilities": [
+    "Precognitive Aura"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sma/SV22/low.png"
+  },
+  {
+   "id": "sma-SV64",
+   "name": "Lucario-GX",
+   "set": "Hidden Fates Shiny Vault",
+   "hp": 210,
+   "rarity": "Shiny rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Aura Strike",
+    "Cyclone Kick",
+    "Cantankerous Beatdown-GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sma/SV64/low.png"
+  },
+  {
+   "id": "swshp-SWSH186",
+   "name": "Lucario",
+   "set": "SWSH Black Star Promos",
+   "hp": 120,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Aura Sphere Volley"
+   ],
+   "abilities": [
+    "Roaring Resolve"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH186/low.png"
+  },
+  {
+   "id": "swshp-SWSH213",
+   "name": "Lucario V",
+   "set": "SWSH Black Star Promos",
+   "hp": 210,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Crushing Punch",
+    "Cyclone Kick"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH213/low.png"
+  },
+  {
+   "id": "swshp-SWSH214",
+   "name": "Lucario VSTAR",
+   "set": "SWSH Black Star Promos",
+   "hp": 270,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Fighting Knuckle",
+    "Aura Star"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH214/low.png"
+  },
+  {
+   "id": "swshp-SWSH291",
+   "name": "Lucario VSTAR",
+   "set": "SWSH Black Star Promos",
+   "hp": 270,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Fighting Knuckle",
+    "Aura Star"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH291/low.png"
+  },
+  {
+   "id": "xyp-XY140",
+   "name": "Lucario",
+   "set": "XY Black Star Promos",
+   "hp": 100,
+   "rarity": "Promo",
+   "illustrator": "Naoki Saito",
+   "attacks": [
+    "Bone Rush",
+    "Mach Claw"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY140/low.png"
+  },
+  {
+   "id": "xyp-XY211",
+   "name": "Lucario Spirit Link",
+   "set": "XY Black Star Promos",
+   "hp": null,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY211/low.png"
+  }
+ ]
+}

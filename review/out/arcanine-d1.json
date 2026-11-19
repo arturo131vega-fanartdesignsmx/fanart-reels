@@ -1,0 +1,787 @@
+{
+ "candidate": {
+  "key": "arcanine-d1",
+  "name": "Mega Arcanine EX",
+  "pokemon": "Arcanine",
+  "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+ },
+ "ocr": "yo\n\ngaa mesa arcanine x 7320 q\n\nevolves from growlithe\n\nas 20,\n\nz arcanineys\n\nd\u00e9\n\ncn\n\n}\n\nx\n\nyy\n\n=\n\ny\n\nqi\n\n4\n\naus\n\nak\n\nna\n\n*\n\nss)\n\n1 \\j\n\nci\n\nri\n\nrn\n\ni a\n\nwe\n\nepmyrosring in inf nay es\n\n@nce vduring your\u2122 turn, \u00bbyou! hay >attach a aw enka ,\n\n<a\n\nfrom) yo\n\ndiscard pile totthis \u2018pok\u00e9mon\n\n\\ | 2\n\non\n\nhy\n\ni\n\nwn\n\nss\n\non\n\ny);\n\noe)\n\n* dragon rang? \u2014\n\n40\n\ndus en\n\nthisfattack{does)40sdamage forgeach)\n\n\\\n\nfan\n\ncngy,\n\nattached to) all ofyourhokemen:\n\n\\\n\n=\n\n>>\n\n7\n\nyaw a 4\n\nretreat\n\nok ok\n\niilluss\n\nyarturo)\n\n\u201c40 | 7) ed\n\nxe\n\nmega evolution@x rule (peers evolution\n\n|\n\npok\u00e9mon @x is knocked out, your opponent gets 3 points.\n\n-_\u2014\n\n\u2014\n yo\n\ngaa mesa arcanine @e 7320 q\n\nevolves from growlithe\n\nas 20,\n\nz arcanineys\n\na.\n\nan\n\n}\n\nyy\n\n=\n\ny\n\nqi\n\n4\n\naus\n\nak\n\nna\n\n*\n\nsy\n\n1 \\j\n\nci\n\nri\n\nrn\n\ni ae\n\nwe\n\neomyrosring in inf nag es\n\n@nce vduring your \u2122 turn, \u00bbyou) hay >attach a aw aka ,\n\n<a\n\nfrom yo\n\ndiscard pile totthis \u2018pok\u00e9mon\n\n} \u00bb 2\n\n~,\n\nhy\n\na\n\nwn\n\ns\n\nps\n\nwy);\n\noe)\n\n* dragon rang? \u2014\n\n40\n\ndus en\n\nthisfattack{does,40sdamage forgeach)\n\n\\\n\nfan\n\nngy,\n\nattached to)all ofyourrokemen:\n\n\\\n\n=\n\n>\n\n7\n\nyal a ya\n\nretreat\n\nok ok\n\nlilluss\n\nagt\n\n\u201c40 / 7) ed\n\nx\n\nmega evolution@xrule (vers evolution\n\n|\n\npok\u00e9mon @x is knocked out, your opponent gets 3 points.\n\n-_\n\n\u2014\n",
+ "matches": [],
+ "real_cards": [
+  {
+   "id": "tk-ex-m-1",
+   "name": "Arcanine",
+   "set": "EX trainer Kit 2 (Minun)",
+   "hp": 90,
+   "rarity": "None",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Flare",
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "pl2-1",
+   "name": "Arcanine",
+   "set": "Rising Rivals",
+   "hp": 100,
+   "rarity": "Holo Rare",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Burn Out",
+    "Flames of Rage"
+   ],
+   "abilities": [
+    "Flare Condition"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl2/1/low.png"
+  },
+  {
+   "id": "hgss1-1",
+   "name": "Arcanine",
+   "set": "HeartGold SoulSilver",
+   "hp": 110,
+   "rarity": "Holo Rare",
+   "illustrator": "Naoki Saito",
+   "attacks": [
+    "Sharp Fang",
+    "Fire Mane"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss1/1/low.png"
+  },
+  {
+   "id": "gym2-1",
+   "name": "Blaine's Arcanine",
+   "set": "Gym Challenge",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Heat Tackle",
+    "Firestorm"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym2/1/low.png"
+  },
+  {
+   "id": "ecard2-2",
+   "name": "Arcanine",
+   "set": "Aquapolis",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Kyoko Umemoto",
+   "attacks": [
+    "Fire Blow"
+   ],
+   "abilities": [
+    "Extreme Speed"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard2/2/low.png"
+  },
+  {
+   "id": "ecard3-3",
+   "name": "Arcanine",
+   "set": "Skyridge",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Aya Kusube",
+   "attacks": [
+    "Shake",
+    "White Flames"
+   ],
+   "abilities": [
+    "Energy Recharge"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/3/low.png"
+  },
+  {
+   "id": "det1-6",
+   "name": "Arcanine",
+   "set": "Detective Pikachu",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "MPC Film",
+   "attacks": [
+    "Sharp Fang"
+   ],
+   "abilities": [
+    "Security Guard"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/det1/6/low.png"
+  },
+  {
+   "id": "basep-6",
+   "name": "Arcanine",
+   "set": "Wizards Black Star Promos",
+   "hp": 70,
+   "rarity": "Common",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Quick Attack",
+    "Flames of Rage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/basep/6/low.png"
+  },
+  {
+   "id": "svp-011",
+   "name": "Arcanine",
+   "set": "SVP Black Star Promos",
+   "hp": 130,
+   "rarity": "Promo",
+   "illustrator": "Ryuta Fuse",
+   "attacks": [
+    "Crunch",
+    "Fire Mane"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/011/low.png"
+  },
+  {
+   "id": "xy9-11",
+   "name": "Arcanine",
+   "set": "BREAKpoint",
+   "hp": 110,
+   "rarity": "Uncommon",
+   "illustrator": "match",
+   "attacks": [
+    "Flop",
+    "Flamethrower"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy9/11/low.png"
+  },
+  {
+   "id": "bw4-12",
+   "name": "Arcanine",
+   "set": "Next Destinies",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Blazing Mane"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw4/12/low.png"
+  },
+  {
+   "id": "neo4-12",
+   "name": "Light Arcanine",
+   "set": "Neo Destiny",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Gentle Flames"
+   ],
+   "abilities": [
+    "Drive Off"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo4/12/low.png"
+  },
+  {
+   "id": "bw4-13",
+   "name": "Arcanine",
+   "set": "Next Destinies",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Crunch",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw4/13/low.png"
+  },
+  {
+   "id": "mfb-14",
+   "name": "Arcanine",
+   "set": "My First Battle",
+   "hp": 140,
+   "rarity": "None",
+   "illustrator": "nisimana",
+   "attacks": [
+    "Flare Blitz"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "pl3-15",
+   "name": "Arcanine G",
+   "set": "Supreme Victors",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Yusuke Ishikawa",
+   "attacks": [
+    "Overrun"
+   ],
+   "abilities": [
+    "Extreme Speed"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl3/15/low.png"
+  },
+  {
+   "id": "ex2-15",
+   "name": "Arcanine",
+   "set": "Sandstorm",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Hajime Kusajima",
+   "attacks": [
+    "Burn Up"
+   ],
+   "abilities": [
+    "Fire Veil"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex2/15/low.png"
+  },
+  {
+   "id": "xy12-18",
+   "name": "Arcanine",
+   "set": "Evolutions",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Scorching Breath"
+   ],
+   "abilities": [
+    "Burning Road"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/18/low.png"
+  },
+  {
+   "id": "ex6-18",
+   "name": "Arcanine",
+   "set": "FireRed & LeafGreen",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Flare",
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex6/18/low.png"
+  },
+  {
+   "id": "me06-019",
+   "name": "Arcanine",
+   "set": "Delta Reign",
+   "hp": 150,
+   "rarity": "Rare",
+   "illustrator": "Felicia Chen",
+   "attacks": [
+    "Fervent Fang",
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me06/019/low.png"
+  },
+  {
+   "id": "swsh12-020",
+   "name": "Arcanine",
+   "set": "Silver Tempest",
+   "hp": 140,
+   "rarity": "Rare",
+   "illustrator": "OKACHEKE",
+   "attacks": [
+    "Flame Cloak",
+    "Fighting Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12/020/low.png"
+  },
+  {
+   "id": "sm1-22",
+   "name": "Arcanine",
+   "set": "Sun & Moon",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "kodama",
+   "attacks": [
+    "Searing Flame",
+    "Firestorm"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm1/22/low.png"
+  },
+  {
+   "id": "sm10-22",
+   "name": "Arcanine",
+   "set": "Unbroken Bonds",
+   "hp": 140,
+   "rarity": "Rare",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Grand Flame",
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/22/low.png"
+  },
+  {
+   "id": "dp3-22",
+   "name": "Arcanine",
+   "set": "Secret Wonders",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [
+    "Flame Dash"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp3/22/low.png"
+  },
+  {
+   "id": "base1-23",
+   "name": "Arcanine",
+   "set": "Base Set",
+   "hp": 100,
+   "rarity": "Uncommon",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Flamethrower",
+    "Take Down"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base1/23/low.png"
+  },
+  {
+   "id": "A3-026",
+   "name": "Arcanine",
+   "set": "Celestial Guardians",
+   "hp": 130,
+   "rarity": "Two Diamond",
+   "illustrator": "match",
+   "attacks": [
+    "Fire Mane"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3/026/low.png"
+  },
+  {
+   "id": "sv10-028",
+   "name": "Arcanine",
+   "set": "Destined Rivals",
+   "hp": 140,
+   "rarity": "Uncommon",
+   "illustrator": "Nisota Niso",
+   "attacks": [
+    "Flare",
+    "Punishing Fang"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv10/028/low.png"
+  },
+  {
+   "id": "swsh2-28",
+   "name": "Arcanine",
+   "set": "Rebel Clash",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Hasuno",
+   "attacks": [
+    "Fire Mane"
+   ],
+   "abilities": [
+    "Warming Up"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh2/28/low.png"
+  },
+  {
+   "id": "B1-029",
+   "name": "Arcanine",
+   "set": "Mega Rising",
+   "hp": 120,
+   "rarity": "Two Diamond",
+   "illustrator": "Yuu Nishida",
+   "attacks": [
+    "Fire Fang"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1/029/low.png"
+  },
+  {
+   "id": "sv01-032",
+   "name": "Arcanine ex",
+   "set": "Scarlet & Violet",
+   "hp": 280,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Raging Claws",
+    "Bright Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv01/032/low.png"
+  },
+  {
+   "id": "swsh8-33",
+   "name": "Arcanine",
+   "set": "Fusion Strike",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Yuu Nishida",
+   "attacks": [
+    "Fire Claws",
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/33/low.png"
+  },
+  {
+   "id": "base4-33",
+   "name": "Arcanine",
+   "set": "Base Set 2",
+   "hp": 100,
+   "rarity": "Uncommon",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Flamethrower",
+    "Take Down"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base4/33/low.png"
+  },
+  {
+   "id": "lc-36",
+   "name": "Arcanine",
+   "set": "Legendary Collection",
+   "hp": 100,
+   "rarity": "Uncommon",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Flamethrower",
+    "Take Down"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/lc/lc/36/low.png"
+  },
+  {
+   "id": "A1-040",
+   "name": "Arcanine",
+   "set": "Genetic Apex",
+   "hp": 130,
+   "rarity": "Three Diamond",
+   "illustrator": "kodama",
+   "attacks": [
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/040/low.png"
+  },
+  {
+   "id": "A1-041",
+   "name": "Arcanine ex",
+   "set": "Genetic Apex",
+   "hp": 150,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA Saito",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/041/low.png"
+  },
+  {
+   "id": "pl3-50",
+   "name": "Arcanine",
+   "set": "Supreme Victors",
+   "hp": 80,
+   "rarity": "Uncommon",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Overrun",
+    "Combustion"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl3/50/low.png"
+  },
+  {
+   "id": "sv03.5-059",
+   "name": "Arcanine",
+   "set": "151",
+   "hp": 150,
+   "rarity": "Uncommon",
+   "illustrator": "Atsushi Furusawa",
+   "attacks": [
+    "Torrid Torrent",
+    "Dynamite Fang"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/059/low.png"
+  },
+  {
+   "id": "swsh10-071",
+   "name": "Hisuian Arcanine",
+   "set": "Astral Radiance",
+   "hp": 150,
+   "rarity": "Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Boulder Crush",
+    "Scorching Horn"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh10/071/low.png"
+  },
+  {
+   "id": "ex12-83",
+   "name": "Arcanine ex",
+   "set": "Legend Maker",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Hikaru Koike",
+   "attacks": [
+    "Overrun",
+    null
+   ],
+   "abilities": [
+    "Fire Remedy"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex12/83/low.png"
+  },
+  {
+   "id": "swsh11-084",
+   "name": "Hisuian Arcanine",
+   "set": "Lost Origin",
+   "hp": 130,
+   "rarity": "Holo Rare",
+   "illustrator": "Oswaldo KATO",
+   "attacks": [
+    "Very Vulnerable",
+    "Sharp Fang"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh11/084/low.png"
+  },
+  {
+   "id": "swsh12-090",
+   "name": "Hisuian Arcanine V",
+   "set": "Silver Tempest",
+   "hp": 230,
+   "rarity": "Holo Rare V",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rock Bullet"
+   ],
+   "abilities": [
+    "Irresistible Force"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12/090/low.png"
+  },
+  {
+   "id": "A3a-090",
+   "name": "Arcanine",
+   "set": "Extradimensional Crisis",
+   "hp": 130,
+   "rarity": "One Shiny",
+   "illustrator": "Saya Tsuruta",
+   "attacks": [
+    "Heat Tackle"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3a/090/low.png"
+  },
+  {
+   "id": "sv06-100",
+   "name": "Hisuian Arcanine",
+   "set": "Twilight Masquerade",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "SIE NANAHARA",
+   "attacks": [
+    "Proud Fangs",
+    "Searing Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv06/100/low.png"
+  },
+  {
+   "id": "A3a-100",
+   "name": "Arcanine ex",
+   "set": "Extradimensional Crisis",
+   "hp": 150,
+   "rarity": "Two Shiny",
+   "illustrator": "PLANETA Saito",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3a/100/low.png"
+  },
+  {
+   "id": "swsh12-179",
+   "name": "Hisuian Arcanine V",
+   "set": "Silver Tempest",
+   "hp": 230,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Rock Bullet"
+   ],
+   "abilities": [
+    "Irresistible Force"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12/179/low.png"
+  },
+  {
+   "id": "sv01-224",
+   "name": "Arcanine ex",
+   "set": "Scarlet & Violet",
+   "hp": 280,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Raging Claws",
+    "Bright Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv01/224/low.png"
+  },
+  {
+   "id": "A1-254",
+   "name": "Arcanine ex",
+   "set": "Genetic Apex",
+   "hp": 150,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA Saito",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/254/low.png"
+  },
+  {
+   "id": "ecard2-H02",
+   "name": "Arcanine",
+   "set": "Aquapolis",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Kyoko Umemoto",
+   "attacks": [
+    "Fire Blow"
+   ],
+   "abilities": [
+    "Extreme Speed"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "ecard3-H02",
+   "name": "Arcanine",
+   "set": "Skyridge",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Aya Kusube",
+   "attacks": [
+    "Shake",
+    "White Flames"
+   ],
+   "abilities": [
+    "Energy Recharge"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swshp-SWSH304",
+   "name": "Arcanine",
+   "set": "SWSH Black Star Promos",
+   "hp": 130,
+   "rarity": "Promo",
+   "illustrator": "REND",
+   "attacks": [
+    "Sun-Drenched Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swsh11tg-TG08",
+   "name": "Hisuian Arcanine",
+   "set": "Lost Origin Trainer Gallery",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "You Iribi",
+   "attacks": [
+    "Very Vulnerable",
+    "Sharp Fang"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xyp-XY180",
+   "name": "Arcanine BREAK",
+   "set": "XY Black Star Promos",
+   "hp": 160,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Turbo Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY180/low.png"
+  }
+ ]
+}
