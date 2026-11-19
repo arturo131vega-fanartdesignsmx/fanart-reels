@@ -46,6 +46,18 @@ GRAPH = f"https://graph.facebook.com/{V}"
 PAGE_NAME_HINT = "fanart designs"
 
 
+def token_expiry():
+    """Expiry of the stored token (no token value is returned)."""
+    try:
+        d = call("GET", f"{GRAPH}/debug_token?" + urllib.parse.urlencode(
+            {"input_token": TOKEN, "access_token": TOKEN})).get("data", {})
+        fmt = lambda t: ("never" if t == 0 else time.strftime("%Y-%m-%d", time.gmtime(t))) if isinstance(t, int) else None
+        return {"token_type": d.get("type"), "token_expires": fmt(d.get("expires_at")),
+                "data_access_expires": fmt(d.get("data_access_expires_at"))}
+    except Exception as e:
+        return {"token_expires": f"unknown ({str(e)[:120]})"}
+
+
 def resolve_page():
     """Works with either a Page token or a (long-lived) user token.
     Returns (page_id, page_token, info) — info never contains a token."""
@@ -122,7 +134,11 @@ def main():
             info = {}
             try:
                 page_id, page_token, info = resolve_page()
-                res = publish(job, page_id, page_token)
+                info.update(token_expiry())
+                if job.get("check_only"):
+                    res = {"ok": True, "check_only": True}
+                else:
+                    res = publish(job, page_id, page_token)
                 res.update(info)
             except Exception as e:  # message never includes the token
                 res = {"ok": False, "error": str(e).replace(TOKEN, "***"), **info}

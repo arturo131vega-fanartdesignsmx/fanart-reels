@@ -24,7 +24,7 @@ jobs:
         continue-on-error: true
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-          FB_PAGE_ID: '61593485906686'  # profile id; the real Page id is resolved from the token
+          FB_PAGE_ID: '1199826319888363'  # Fanart Designs MX (Graph Page id)
         run: python3 scripts/publish_fb_reel.py
 
       - name: Save results back to the branch
