@@ -13,32 +13,32 @@
  },
  "top": [
   {
-   "id": "sm12-241",
+   "id": "fut2020-1",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu on the Ball",
    "pocket": false,
-   "inliers": 10
+   "inliers": 5
   },
   {
-   "id": "sv02-062",
+   "id": "ex13-104",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu Star",
    "pocket": false,
-   "inliers": 8
+   "inliers": 5
   },
   {
-   "id": "neo1-70",
+   "id": "swshp-SWSH145",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu V",
    "pocket": false,
-   "inliers": 8
+   "inliers": 5
   },
   {
-   "id": "g1-RC29",
+   "id": "basep-1",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 8
+   "inliers": 4
   }
  ]
 }

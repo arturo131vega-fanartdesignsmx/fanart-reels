@@ -26,44 +26,25 @@
    ]
   },
   {
-   "id": "30th-043",
+   "id": "hgss3-61",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 17,
-   "set": "30th Celebration",
-   "illustrator": "OOYAMA",
-   "hp": 70,
-   "attacks": [
-    "Tropical Vibes"
-   ]
+   "inliers": 8
   },
   {
-   "id": "30th-028",
+   "id": "pop6-9",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "30th Celebration",
-   "illustrator": "sowsow",
-   "hp": 60,
-   "attacks": [
-    "Pika Ball"
-   ]
+   "inliers": 5
   },
   {
-   "id": "xyp-XY89",
+   "id": "sm115-19",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "XY Black Star Promos",
-   "illustrator": "Masakazu Fukuda",
-   "hp": 60,
-   "attacks": [
-    "Thunder Wave",
-    "Electric Ring"
-   ]
+   "inliers": 5
   }
  ]
 }

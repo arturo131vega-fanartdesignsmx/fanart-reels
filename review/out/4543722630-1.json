@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "4543722630-1",
+  "name": "Lucario 4543722630-1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://i.etsystatic.com/66814655/r/il/4bb660/8872973958/il_fullxfull.8872973958_89io.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "me01-179",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 149,
+   "set": "Mega Evolution",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 340,
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "sm11-117",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh4-120",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl3-31",
+   "lang": "en",
+   "name": "Lucario C",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

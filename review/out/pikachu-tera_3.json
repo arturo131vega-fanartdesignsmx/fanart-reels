@@ -43,7 +43,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": true,
-   "inliers": 32,
+   "inliers": 23,
    "set": "Mythical Island",
    "illustrator": "Naoyo Kimura",
    "hp": 60,
@@ -52,16 +52,16 @@
    ]
   },
   {
-   "id": "sv08.5-179",
+   "id": "A2b-022",
    "lang": "en",
    "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 30,
-   "set": "Prismatic Evolutions",
-   "illustrator": "aky CG Works",
-   "hp": 200,
+   "pocket": true,
+   "inliers": 22,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 120,
    "attacks": [
-    "Topaz Bolt"
+    "Thunderbolt"
    ]
   }
  ]

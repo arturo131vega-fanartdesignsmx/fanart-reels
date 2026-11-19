@@ -13,57 +13,32 @@
  },
  "top": [
   {
-   "id": "pl2-114",
-   "lang": "en",
-   "name": "Surfing Pikachu",
-   "pocket": false,
-   "inliers": 26,
-   "set": "Rising Rivals",
-   "illustrator": "Toshinao Aoki",
-   "hp": 50,
-   "attacks": [
-    "Surf"
-   ]
-  },
-  {
-   "id": "30th-023",
+   "id": "pop4-13",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 24,
-   "set": "30th Celebration",
-   "illustrator": "Ken Sugimori",
-   "hp": 70,
-   "attacks": [
-    "Thunder Shock"
-   ]
+   "inliers": 5
   },
   {
-   "id": "smp-SM98",
+   "id": "smp-SM81",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 24,
-   "set": "SM Black Star Promos",
-   "illustrator": "Saya Tsuruta",
-   "hp": 60,
-   "attacks": [
-    "Tail Whap",
-    "Thunder Shock"
-   ]
+   "inliers": 4
   },
   {
-   "id": "swshp-SWSH285",
+   "id": "smp-SM206",
    "lang": "en",
-   "name": "Pikachu V",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 24,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 200,
-   "attacks": [
-    "Pika Drive"
-   ]
+   "inliers": 3
+  },
+  {
+   "id": "swshp-SWSH062",
+   "lang": "en",
+   "name": "Pikachu VMAX",
+   "pocket": false,
+   "inliers": 3
   }
  ]
 }

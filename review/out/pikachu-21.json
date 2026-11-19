@@ -27,46 +27,25 @@
    ]
   },
   {
-   "id": "neo1-70",
+   "id": "30th-037",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 23,
-   "set": "Neo Genesis",
-   "illustrator": "Naoyo Kimura",
-   "hp": 50,
-   "attacks": [
-    "Quick Attack",
-    "Agility"
-   ]
+   "inliers": 6
   },
   {
-   "id": "sv02-063",
+   "id": "A1-259",
    "lang": "en",
    "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 19,
-   "set": "Paldea Evolved",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 190,
-   "attacks": [
-    "Pika Punch",
-    "Dynamic Bolt"
-   ]
+   "pocket": true,
+   "inliers": 6
   },
   {
-   "id": "30th-053",
+   "id": "30th-024",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 18,
-   "set": "30th Celebration",
-   "illustrator": "5ban Graphics",
-   "hp": 190,
-   "attacks": [
-    "Pika-Pika Parade",
-    "Thunderbolt"
-   ]
+   "inliers": 5
   }
  ]
 }

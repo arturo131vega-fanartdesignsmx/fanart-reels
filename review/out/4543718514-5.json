@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543718514-5",
+  "name": "Gengar 4543718514-5",
+  "pokemon": "Gengar",
+  "dex": 94,
+  "image": "https://i.etsystatic.com/66814655/r/il/83d448/8876932060/il_fullxfull.8876932060_amgb.jpg"
+ },
+ "official_cards_checked": 65,
+ "lookup": {
+  "en": 62,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "A1-277",
+   "lang": "en",
+   "name": "Gengar ex",
+   "pocket": true,
+   "inliers": 8
+  },
+  {
+   "id": "sv04.5-057",
+   "lang": "en",
+   "name": "Gengar",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S10a-074",
+   "lang": "ja",
+   "name": "ゲンガー",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm10-70",
+   "lang": "en",
+   "name": "Gengar",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 140,
+   "inliers": 125,
    "set": "Cosmic Eclipse",
    "illustrator": "Hitoshi Ariga",
    "hp": 70,
@@ -27,43 +27,25 @@
    ]
   },
   {
-   "id": "swsh12.5-160",
+   "id": "sm3-40",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 99,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 5
   },
   {
-   "id": "A1-096",
+   "id": "30th-050",
    "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 96,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
-  },
-  {
-   "id": "me02.5-057",
-   "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 93,
-   "set": "Ascended Heroes",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 5
+  },
+  {
+   "id": "smp-SM157",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

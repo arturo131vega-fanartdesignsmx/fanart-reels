@@ -13,57 +13,32 @@
  },
  "top": [
   {
-   "id": "xyp-XY89",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 186,
-   "set": "XY Black Star Promos",
-   "illustrator": "Masakazu Fukuda",
-   "hp": 60,
-   "attacks": [
-    "Thunder Wave",
-    "Electric Ring"
-   ]
-  },
-  {
-   "id": "30th-028",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 182,
-   "set": "30th Celebration",
-   "illustrator": "sowsow",
-   "hp": 60,
-   "attacks": [
-    "Pika Ball"
-   ]
-  },
-  {
-   "id": "30th-033",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 182,
-   "set": "30th Celebration",
-   "illustrator": "Narumi Sato",
-   "hp": 60,
-   "attacks": [
-    "Tiny Charge"
-   ]
-  },
-  {
-   "id": "sv08-057",
+   "id": "svp-106",
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": false,
-   "inliers": 182,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 4
+  },
+  {
+   "id": "SV2a-173",
+   "lang": "ja",
+   "name": "ピカチュウ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex6-74",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "fut2020-1",
+   "lang": "en",
+   "name": "Pikachu on the Ball",
+   "pocket": false,
+   "inliers": 0
   }
  ]
 }

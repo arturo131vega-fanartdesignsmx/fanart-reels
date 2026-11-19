@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543648954-5",
+  "name": "Charizard 4543648954-5",
+  "pokemon": "Charizard",
+  "dex": 6,
+  "image": "https://i.etsystatic.com/66814655/r/il/0a65ac/8906285285/il_fullxfull.8906285285_m32c.jpg"
+ },
+ "official_cards_checked": 132,
+ "lookup": {
+  "en": 126,
+  "ja": 50
+ },
+ "top": [
+  {
+   "id": "ex16-6",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV2a-185",
+   "lang": "ja",
+   "name": "リザードンex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base4-4",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh9-017",
+   "lang": "en",
+   "name": "Charizard V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

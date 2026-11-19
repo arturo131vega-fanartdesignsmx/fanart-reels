@@ -26,44 +26,25 @@
    ]
   },
   {
-   "id": "np-35",
-   "lang": "en",
-   "name": "Pikachu δ",
-   "pocket": false,
-   "inliers": 20,
-   "set": "Nintendo Black Star Promos",
-   "illustrator": "Ryo Ueda",
-   "hp": 40,
-   "attacks": [
-    "Thunder Wave",
-    "Iron Tail"
-   ]
-  },
-  {
-   "id": "dp2-94",
+   "id": "ru1-7",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "Mysterious Treasures",
-   "illustrator": "Sumiyoshi Kizuki",
-   "hp": 60,
-   "attacks": [
-    "BikaBika"
-   ]
+   "inliers": 6
   },
   {
-   "id": "cel25-7",
+   "id": "A1-285",
    "lang": "en",
-   "name": "Flying Pikachu VMAX",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "xy3-27",
+   "lang": "en",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 13,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 310,
-   "attacks": [
-    "Max Balloon"
-   ]
+   "inliers": 4
   }
  ]
 }

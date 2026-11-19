@@ -13,57 +13,38 @@
  },
  "top": [
   {
-   "id": "sv08-057",
+   "id": "swshp-SWSH143",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu V",
    "pocket": false,
-   "inliers": 126,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  {
-   "id": "sv08.5-028",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 125,
-   "set": "Prismatic Evolutions",
-   "illustrator": "N-DESIGN Inc.",
+   "inliers": 115,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
    "hp": 190,
    "attacks": [
-    "Tail Whap",
-    "Thunder"
+    "Volt Tackle"
    ]
   },
   {
-   "id": "30th-043",
+   "id": "A1-285",
    "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 123,
-   "set": "30th Celebration",
-   "illustrator": "OOYAMA",
-   "hp": 70,
-   "attacks": [
-    "Tropical Vibes"
-   ]
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 6
   },
   {
-   "id": "30th-051",
+   "id": "gym2-84",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Lt. Surge's Pikachu",
    "pocket": false,
-   "inliers": 122,
-   "set": "30th Celebration",
-   "illustrator": "nagimiso",
-   "hp": 70,
-   "attacks": [
-    "Lightning Crash"
-   ]
+   "inliers": 4
+  },
+  {
+   "id": "fut2020-1",
+   "lang": "en",
+   "name": "Pikachu on the Ball",
+   "pocket": false,
+   "inliers": 0
   }
  ]
 }

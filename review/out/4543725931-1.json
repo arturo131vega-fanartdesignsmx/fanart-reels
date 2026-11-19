@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543725931-1",
+  "name": "Umbreon 4543725931-1",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://i.etsystatic.com/66814655/r/il/9cc949/8866487138/il_fullxfull.8866487138_7hy9.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "SV3-070",
+   "lang": "ja",
+   "name": "ブラッキー",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV8a-093",
+   "lang": "ja",
+   "name": "ブラッキーex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08.5-161",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV8a-217",
+   "lang": "ja",
+   "name": "ブラッキーex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

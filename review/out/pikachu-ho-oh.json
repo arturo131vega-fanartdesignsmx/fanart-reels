@@ -13,58 +13,32 @@
  },
  "top": [
   {
-   "id": "sv02-063",
+   "id": "xyp-XY95",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "hgss3-61",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "gym1-81",
+   "lang": "en",
+   "name": "Lt. Surge's Pikachu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A2b-092",
    "lang": "en",
    "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 75,
-   "set": "Paldea Evolved",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 190,
-   "attacks": [
-    "Pika Punch",
-    "Dynamic Bolt"
-   ]
-  },
-  {
-   "id": "me02.5-277",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 58,
-   "set": "Ascended Heroes",
-   "illustrator": "James Turner",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  {
-   "id": "swshp-SWSH145",
-   "lang": "en",
-   "name": "Pikachu V",
-   "pocket": false,
-   "inliers": 46,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 190,
-   "attacks": [
-    "Volt Tackle"
-   ]
-  },
-  {
-   "id": "smp-SM109",
-   "lang": "en",
-   "name": "Ash's Pikachu",
-   "pocket": false,
-   "inliers": 45,
-   "set": "SM Black Star Promos",
-   "illustrator": "2017 Pikachu Project",
-   "hp": 70,
-   "attacks": [
-    "Agility",
-    "Thunder"
-   ]
+   "pocket": true,
+   "inliers": 5
   }
  ]
 }

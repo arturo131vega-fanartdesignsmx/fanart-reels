@@ -13,59 +13,32 @@
  },
  "top": [
   {
-   "id": "sm12-241",
+   "id": "sv05-051",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 20,
-   "set": "Cosmic Eclipse",
-   "illustrator": "Hitoshi Ariga",
-   "hp": 70,
-   "attacks": [
-    "Nuzzle",
-    "Volt Tackle"
-   ]
+   "inliers": 7
   },
   {
-   "id": "sm115-19",
+   "id": "smp-SM81",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 17,
-   "set": "Hidden Fates",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 70,
-   "attacks": [
-    "Quick Attack",
-    "Electro Ball"
-   ]
+   "inliers": 7
   },
   {
-   "id": "xy6-20",
+   "id": "swshp-SWSH140",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu V-UNION",
    "pocket": false,
-   "inliers": 16,
-   "set": "Roaring Skies",
-   "illustrator": "Naoki Saito",
-   "hp": 60,
-   "attacks": [
-    "Tail Whip",
-    "Electro Ball"
-   ]
+   "inliers": 6
   },
   {
-   "id": "30th-047",
+   "id": "cel25-9",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Surfing Pikachu VMAX",
    "pocket": false,
-   "inliers": 16,
-   "set": "30th Celebration",
-   "illustrator": "Atsuko Nishida",
-   "hp": 70,
-   "attacks": [
-    "Play Rough"
-   ]
+   "inliers": 5
   }
  ]
 }

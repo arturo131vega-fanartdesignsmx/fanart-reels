@@ -13,58 +13,32 @@
  },
  "top": [
   {
-   "id": "g1-RC29",
+   "id": "swshp-SWSH039",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 61,
-   "set": "Generations",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Quick Attack"
-   ]
+   "inliers": 6
   },
   {
-   "id": "P-A-026",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": true,
-   "inliers": 38,
-   "set": "Promos-A",
-   "illustrator": "Kouki Saitou",
-   "hp": 60,
-   "attacks": [
-    "Gnaw"
-   ]
-  },
-  {
-   "id": "30th-043",
+   "id": "basep-4",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 26,
-   "set": "30th Celebration",
-   "illustrator": "OOYAMA",
-   "hp": 70,
-   "attacks": [
-    "Tropical Vibes"
-   ]
+   "inliers": 5
   },
   {
-   "id": "xyp-XY89",
+   "id": "cel25-8",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Surfing Pikachu V",
    "pocket": false,
-   "inliers": 25,
-   "set": "XY Black Star Promos",
-   "illustrator": "Masakazu Fukuda",
-   "hp": 60,
-   "attacks": [
-    "Thunder Wave",
-    "Electric Ring"
-   ]
+   "inliers": 5
+  },
+  {
+   "id": "cel25-9",
+   "lang": "en",
+   "name": "Surfing Pikachu VMAX",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

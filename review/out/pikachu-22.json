@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": true,
-   "inliers": 31,
+   "inliers": 32,
    "set": "Genetic Apex",
    "illustrator": "PLANETA CG Works",
    "hp": 120,
@@ -26,44 +26,25 @@
    ]
   },
   {
-   "id": "swsh12.5-160",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 16,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
-  },
-  {
-   "id": "30th-047",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 14,
-   "set": "30th Celebration",
-   "illustrator": "Atsuko Nishida",
-   "hp": 70,
-   "attacks": [
-    "Play Rough"
-   ]
-  },
-  {
-   "id": "sv02-063",
+   "id": "A1-259",
    "lang": "en",
    "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sv03.5-173",
+   "lang": "en",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 14,
-   "set": "Paldea Evolved",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 190,
-   "attacks": [
-    "Pika Punch",
-    "Dynamic Bolt"
-   ]
+   "inliers": 6
+  },
+  {
+   "id": "P-A-009",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 5
   }
  ]
 }

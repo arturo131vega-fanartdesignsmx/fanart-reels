@@ -13,32 +13,32 @@
  },
  "top": [
   {
-   "id": "xy12-110",
+   "id": "gym1-81",
    "lang": "en",
-   "name": "Flying Pikachu",
+   "name": "Lt. Surge's Pikachu",
    "pocket": false,
-   "inliers": 10
-  },
-  {
-   "id": "ru1-7",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 9
+   "inliers": 7
   },
   {
    "id": "P-A-009",
    "lang": "en",
    "name": "Pikachu",
    "pocket": true,
-   "inliers": 8
+   "inliers": 6
   },
   {
    "id": "xy12-35",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 8
+   "inliers": 6
+  },
+  {
+   "id": "sv02-062",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

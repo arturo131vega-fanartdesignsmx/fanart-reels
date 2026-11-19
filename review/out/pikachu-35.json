@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 242,
+   "inliers": 237,
    "set": "Crimson Invasion",
    "illustrator": "Shibuzoh.",
    "hp": 60,
@@ -27,45 +27,25 @@
    ]
   },
   {
-   "id": "bw11-RC7",
+   "id": "basep-24",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "___________'s Pikachu",
    "pocket": false,
-   "inliers": 25,
-   "set": "Legendary Treasures",
-   "illustrator": "Atsuko Nishida",
-   "hp": 60,
-   "attacks": [
-    "Thundershock",
-    "Tail Whap"
-   ]
+   "inliers": 7
   },
   {
-   "id": "xyp-XY84",
-   "lang": "en",
-   "name": "Pikachu EX",
-   "pocket": false,
-   "inliers": 24,
-   "set": "XY Black Star Promos",
-   "illustrator": "Hitoshi Ariga",
-   "hp": 130,
-   "attacks": [
-    "Iron Tail",
-    "Overspark"
-   ]
-  },
-  {
-   "id": "me02.5-277",
+   "id": "svp-106",
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": false,
-   "inliers": 23,
-   "set": "Ascended Heroes",
-   "illustrator": "James Turner",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 7
+  },
+  {
+   "id": "swsh8-86",
+   "lang": "en",
+   "name": "Pikachu V",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

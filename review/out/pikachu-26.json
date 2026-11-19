@@ -13,45 +13,32 @@
  },
  "top": [
   {
-   "id": "basep-25",
+   "id": "swsh4-43",
    "lang": "en",
-   "name": "Flying Pikachu",
+   "name": "Pikachu V",
    "pocket": false,
-   "inliers": 14,
-   "set": "Wizards Black Star Promos",
-   "illustrator": "Toshinao Aoki",
-   "hp": 40,
-   "attacks": [
-    "Thundershock",
-    "Fly"
-   ]
+   "inliers": 5
   },
   {
-   "id": "30th-043",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 13,
-   "set": "30th Celebration",
-   "illustrator": "OOYAMA",
-   "hp": 70,
-   "attacks": [
-    "Tropical Vibes"
-   ]
-  },
-  {
-   "id": "30th-051",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 11
-  },
-  {
-   "id": "sv08-057",
+   "id": "A2b-082",
    "lang": "en",
    "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "g1-RC29",
+   "lang": "en",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 11
+   "inliers": 5
+  },
+  {
+   "id": "smp-SM111",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

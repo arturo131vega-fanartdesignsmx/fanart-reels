@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543648954-1",
+  "name": "Charizard 4543648954-1",
+  "pokemon": "Charizard",
+  "dex": 6,
+  "image": "https://i.etsystatic.com/66814655/r/il/69bcf6/8906067429/il_fullxfull.8906067429_pifu.jpg"
+ },
+ "official_cards_checked": 132,
+ "lookup": {
+  "en": 126,
+  "ja": 50
+ },
+ "top": [
+  {
+   "id": "A2b-080",
+   "lang": "en",
+   "name": "Charizard ex",
+   "pocket": true,
+   "inliers": 7
+  },
+  {
+   "id": "swsh3-19",
+   "lang": "en",
+   "name": "Charizard V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "svp-074",
+   "lang": "en",
+   "name": "Charizard ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B1a-091",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

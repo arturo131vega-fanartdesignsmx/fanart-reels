@@ -13,58 +13,32 @@
  },
  "top": [
   {
-   "id": "ex2-72",
+   "id": "S10a-014",
+   "lang": "ja",
+   "name": "ピカチュウ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV4a-055",
+   "lang": "ja",
+   "name": "ピカチュウ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "30th-034",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 22,
-   "set": "Sandstorm",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 50,
-   "attacks": [
-    "Scratch",
-    "Pika Bolt"
-   ]
+   "inliers": 5
   },
   {
-   "id": "sv08-057",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 19,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  {
-   "id": "sm115-19",
+   "id": "30th-050",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 18,
-   "set": "Hidden Fates",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 70,
-   "attacks": [
-    "Quick Attack",
-    "Electro Ball"
-   ]
-  },
-  {
-   "id": "30th-028",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 18,
-   "set": "30th Celebration",
-   "illustrator": "sowsow",
-   "hp": 60,
-   "attacks": [
-    "Pika Ball"
-   ]
+   "inliers": 5
   }
  ]
 }

@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 330,
+   "inliers": 306,
    "set": "30th Celebration",
    "illustrator": "DOM",
    "hp": 60,
@@ -26,45 +26,25 @@
    ]
   },
   {
-   "id": "swshp-SWSH020",
+   "id": "smp-SM206",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 25,
-   "set": "SWSH Black Star Promos",
-   "illustrator": "Hideki Ishikawa",
-   "hp": 70,
-   "attacks": [
-    "Iron Tail",
-    "Electro Ball"
-   ]
+   "inliers": 6
   },
   {
-   "id": "sv08-057",
+   "id": "swshp-SWSH143",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu V",
    "pocket": false,
-   "inliers": 23,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 6
   },
   {
-   "id": "bw11-RC7",
+   "id": "ru1-7",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 22,
-   "set": "Legendary Treasures",
-   "illustrator": "Atsuko Nishida",
-   "hp": 60,
-   "attacks": [
-    "Thundershock",
-    "Tail Whap"
-   ]
+   "inliers": 5
   }
  ]
 }

@@ -13,60 +13,32 @@
  },
  "top": [
   {
-   "id": "np-35",
-   "lang": "en",
-   "name": "Pikachu δ",
-   "pocket": false,
-   "inliers": 18,
-   "set": "Nintendo Black Star Promos",
-   "illustrator": "Ryo Ueda",
-   "hp": 40,
-   "attacks": [
-    "Thunder Wave",
-    "Iron Tail"
-   ]
-  },
-  {
-   "id": "g1-RC29",
+   "id": "pop9-15",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 18,
-   "set": "Generations",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Quick Attack"
-   ]
+   "inliers": 6
   },
   {
-   "id": "swsh7-49",
+   "id": "xyp-XY124",
+   "lang": "en",
+   "name": "Pikachu EX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "ru1-7",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 17,
-   "set": "Evolving Skies",
-   "illustrator": "chibi",
-   "hp": 60,
-   "attacks": [
-    "Energize",
-    "Electro Ball"
-   ]
+   "inliers": 5
   },
   {
-   "id": "smp-SM111",
+   "id": "np-12",
    "lang": "en",
-   "name": "Ash's Pikachu",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 17,
-   "set": "SM Black Star Promos",
-   "illustrator": "2017 Pikachu Project",
-   "hp": 70,
-   "attacks": [
-    "Quick Attack",
-    "Volt Tackle"
-   ]
+   "inliers": 5
   }
  ]
 }

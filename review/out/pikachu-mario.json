@@ -13,59 +13,32 @@
  },
  "top": [
   {
-   "id": "sv08-057",
+   "id": "ru1-7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "swshp-SWSH061",
+   "lang": "en",
+   "name": "Pikachu V",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "svp-106",
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": false,
-   "inliers": 38,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 6
   },
   {
-   "id": "xyp-XY89",
+   "id": "basep-4",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 35,
-   "set": "XY Black Star Promos",
-   "illustrator": "Masakazu Fukuda",
-   "hp": 60,
-   "attacks": [
-    "Thunder Wave",
-    "Electric Ring"
-   ]
-  },
-  {
-   "id": "xy1-42",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 34,
-   "set": "XY",
-   "illustrator": "MAHOU",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Quick Attack"
-   ]
-  },
-  {
-   "id": "bw11-RC7",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 32,
-   "set": "Legendary Treasures",
-   "illustrator": "Atsuko Nishida",
-   "hp": 60,
-   "attacks": [
-    "Thundershock",
-    "Tail Whap"
-   ]
+   "inliers": 5
   }
  ]
 }

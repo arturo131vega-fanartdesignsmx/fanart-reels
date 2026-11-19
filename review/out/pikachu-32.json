@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 178,
+   "inliers": 172,
    "set": "SVP Black Star Promos",
    "illustrator": "Atsushi Furusawa",
    "hp": 60,
@@ -26,44 +26,25 @@
    ]
   },
   {
-   "id": "30th-044",
+   "id": "pop4-13",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 45,
-   "set": "30th Celebration",
-   "illustrator": "akagi",
-   "hp": 60,
-   "attacks": [
-    "Agility"
-   ]
+   "inliers": 6
   },
   {
-   "id": "sv08-057",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 45,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  {
-   "id": "xyp-XY89",
+   "id": "basep-27",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 42,
-   "set": "XY Black Star Promos",
-   "illustrator": "Masakazu Fukuda",
-   "hp": 60,
-   "attacks": [
-    "Thunder Wave",
-    "Electric Ring"
-   ]
+   "inliers": 6
+  },
+  {
+   "id": "hgss3-61",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

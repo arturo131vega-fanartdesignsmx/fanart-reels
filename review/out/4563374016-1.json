@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4563374016-1",
+  "name": "Arcanine 4563374016-1",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "B1-029",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "swsh8-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy9-11",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A1-041",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

@@ -26,43 +26,42 @@
    ]
   },
   {
-   "id": "30th-024",
+   "id": "A1a-025",
    "lang": "en",
    "name": "Pikachu",
-   "pocket": false,
-   "inliers": 45,
-   "set": "30th Celebration",
-   "illustrator": "danciao",
-   "hp": 70,
+   "pocket": true,
+   "inliers": 23,
+   "set": "Mythical Island",
+   "illustrator": "Naoyo Kimura",
+   "hp": 60,
    "attacks": [
-    "Volt Tackle"
+    "Circle Circuit"
    ]
   },
   {
-   "id": "ex2-72",
+   "id": "A2b-022",
    "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 42,
-   "set": "Sandstorm",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 50,
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 22,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 120,
    "attacks": [
-    "Scratch",
-    "Pika Bolt"
+    "Thunderbolt"
    ]
   },
   {
-   "id": "swsh12-049",
+   "id": "A1-096",
    "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 36,
-   "set": "Silver Tempest",
-   "illustrator": "Souichirou Gunjima",
-   "hp": 70,
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 20,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
    "attacks": [
-    "Pika Strike"
+    "Circle Circuit"
    ]
   }
  ]

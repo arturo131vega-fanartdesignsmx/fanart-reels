@@ -13,58 +13,32 @@
  },
  "top": [
   {
-   "id": "swsh12.5-160",
+   "id": "P-A-009",
    "lang": "en",
    "name": "Pikachu",
-   "pocket": false,
-   "inliers": 25,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
-  },
-  {
-   "id": "A1-096",
-   "lang": "en",
-   "name": "Pikachu ex",
    "pocket": true,
-   "inliers": 21,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
+   "inliers": 8
   },
   {
-   "id": "smp-SM98",
+   "id": "30th-050",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 20,
-   "set": "SM Black Star Promos",
-   "illustrator": "Saya Tsuruta",
-   "hp": 60,
-   "attacks": [
-    "Tail Whap",
-    "Thunder Shock"
-   ]
+   "inliers": 8
   },
   {
-   "id": "swsh7-49",
+   "id": "smp-SM157",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 19,
-   "set": "Evolving Skies",
-   "illustrator": "chibi",
-   "hp": 60,
-   "attacks": [
-    "Energize",
-    "Electro Ball"
-   ]
+   "inliers": 7
+  },
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

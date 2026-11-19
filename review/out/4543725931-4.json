@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "4543725931-4",
+  "name": "Umbreon 4543725931-4",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://i.etsystatic.com/66814655/r/il/5c3759/8866487860/il_fullxfull.8866487860_pyz4.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "SV3-070",
+   "lang": "ja",
+   "name": "ブラッキー",
+   "pocket": false,
+   "inliers": 90,
+   "set": "黒炎の支配者",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "だましうち",
+    "しっこくのやいば"
+   ]
+  },
+  {
+   "id": "sv03-130",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 54,
+   "set": "Obsidian Flames",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Feint Attack",
+    "Pitch-Black Blade"
+   ]
+  },
+  {
+   "id": "swsh7-215",
+   "lang": "en",
+   "name": "Umbreon VMAX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "neo2-13",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

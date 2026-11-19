@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": true,
-   "inliers": 109,
+   "inliers": 108,
    "set": "Shining Revelry",
    "illustrator": "PLANETA Igarashi",
    "hp": 120,
@@ -26,45 +26,25 @@
    ]
   },
   {
-   "id": "sm12-241",
+   "id": "A2b-022",
    "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 33,
-   "set": "Cosmic Eclipse",
-   "illustrator": "Hitoshi Ariga",
-   "hp": 70,
-   "attacks": [
-    "Nuzzle",
-    "Volt Tackle"
-   ]
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 5
   },
   {
-   "id": "30th-049",
+   "id": "30th-042",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 30,
-   "set": "30th Celebration",
-   "illustrator": "Nurikabe",
-   "hp": 80,
-   "attacks": [
-    "Fighting Lightning"
-   ]
+   "inliers": 5
   },
   {
-   "id": "sv03.5-173",
+   "id": "fut2020-1",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu on the Ball",
    "pocket": false,
-   "inliers": 28,
-   "set": "151",
-   "illustrator": "Hiroyuki Yamamoto",
-   "hp": 60,
-   "attacks": [
-    "Charge",
-    "Pika Punch"
-   ]
+   "inliers": 4
   }
  ]
 }

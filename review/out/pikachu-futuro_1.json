@@ -13,50 +13,32 @@
  },
  "top": [
   {
-   "id": "30th-051",
+   "id": "sv03.5-025",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 15,
-   "set": "30th Celebration",
-   "illustrator": "nagimiso",
-   "hp": 70,
-   "attacks": [
-    "Lightning Crash"
-   ]
+   "inliers": 6
   },
   {
-   "id": "30th-033",
+   "id": "30th-047",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 14,
-   "set": "30th Celebration",
-   "illustrator": "Narumi Sato",
-   "hp": 60,
-   "attacks": [
-    "Tiny Charge"
-   ]
+   "inliers": 6
   },
   {
-   "id": "sv08-057",
+   "id": "sm9-33",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu & Zekrom GX",
    "pocket": false,
-   "inliers": 12,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 5
   },
   {
-   "id": "A1-096",
+   "id": "xy8-48",
    "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 11
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

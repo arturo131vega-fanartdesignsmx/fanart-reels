@@ -13,57 +13,32 @@
  },
  "top": [
   {
-   "id": "swsh12.5-160",
+   "id": "xy6-20",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 25,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 7
   },
   {
-   "id": "dp2-94",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 23,
-   "set": "Mysterious Treasures",
-   "illustrator": "Sumiyoshi Kizuki",
-   "hp": 60,
-   "attacks": [
-    "BikaBika"
-   ]
-  },
-  {
-   "id": "A1-096",
+   "id": "sv08-238",
    "lang": "en",
    "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 23,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
+   "pocket": false,
+   "inliers": 6
   },
   {
-   "id": "ex2-72",
+   "id": "smp-SM206",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 21,
-   "set": "Sandstorm",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 50,
-   "attacks": [
-    "Scratch",
-    "Pika Bolt"
-   ]
+   "inliers": 6
+  },
+  {
+   "id": "xyp-XY202",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

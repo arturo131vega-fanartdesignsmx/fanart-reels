@@ -13,56 +13,32 @@
  },
  "top": [
   {
-   "id": "swsh12.5-160",
+   "id": "xy3-27",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 42,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 6
   },
   {
-   "id": "A1-096",
+   "id": "smp-SM108",
    "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 41,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
-  },
-  {
-   "id": "me02.5-057",
-   "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Ash's Pikachu",
    "pocket": false,
-   "inliers": 40,
-   "set": "Ascended Heroes",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 6
   },
   {
-   "id": "cel25-7",
+   "id": "swshp-SWSH062",
    "lang": "en",
-   "name": "Flying Pikachu VMAX",
+   "name": "Pikachu VMAX",
    "pocket": false,
-   "inliers": 27,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 310,
-   "attacks": [
-    "Max Balloon"
-   ]
+   "inliers": 6
+  },
+  {
+   "id": "pop9-15",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

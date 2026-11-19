@@ -26,46 +26,25 @@
    ]
   },
   {
-   "id": "30th-053",
+   "id": "cel25-6",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Flying Pikachu V",
    "pocket": false,
-   "inliers": 19,
-   "set": "30th Celebration",
-   "illustrator": "5ban Graphics",
-   "hp": 190,
-   "attacks": [
-    "Pika-Pika Parade",
-    "Thunderbolt"
-   ]
+   "inliers": 9
   },
   {
-   "id": "xy12-35",
+   "id": "basep-4",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "Evolutions",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 60,
-   "attacks": [
-    "Gnaw",
-    "Thunder Jolt"
-   ]
+   "inliers": 7
   },
   {
-   "id": "30th-054",
+   "id": "cel25-9",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Surfing Pikachu VMAX",
    "pocket": false,
-   "inliers": 16,
-   "set": "30th Celebration",
-   "illustrator": "takuyoa",
-   "hp": 190,
-   "attacks": [
-    "Zip-Zap Frenzy",
-    "Thunder"
-   ]
+   "inliers": 7
   }
  ]
 }

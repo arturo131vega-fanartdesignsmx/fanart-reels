@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Flying Pikachu VMAX",
    "pocket": false,
-   "inliers": 20,
+   "inliers": 21,
    "set": "Celebrations",
    "illustrator": "aky CG Works",
    "hp": 310,
@@ -26,45 +26,25 @@
    ]
   },
   {
-   "id": "svp-106",
+   "id": "swsh4-44",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu VMAX",
    "pocket": false,
-   "inliers": 20,
-   "set": "SVP Black Star Promos",
-   "illustrator": "takuyoa",
-   "hp": 200,
-   "attacks": [
-    "Thunderbolt"
-   ]
+   "inliers": 8
   },
   {
-   "id": "sv08.5-028",
+   "id": "pl2-114",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Surfing Pikachu",
    "pocket": false,
-   "inliers": 18,
-   "set": "Prismatic Evolutions",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 190,
-   "attacks": [
-    "Tail Whap",
-    "Thunder"
-   ]
+   "inliers": 8
   },
   {
-   "id": "sm11-56",
+   "id": "swsh4-188",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu VMAX",
    "pocket": false,
-   "inliers": 18,
-   "set": "Unified Minds",
-   "illustrator": "Misa Tsutsui",
-   "hp": 70,
-   "attacks": [
-    "Tail Whap",
-    "Electric Ball"
-   ]
+   "inliers": 8
   }
  ]
 }

@@ -27,24 +27,11 @@
    ]
   },
   {
-   "id": "swsh12.5-160",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 17,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
-  },
-  {
    "id": "xy12-35",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
+   "inliers": 15,
    "set": "Evolutions",
    "illustrator": "Mitsuhiro Arita",
    "hp": 60,
@@ -58,13 +45,20 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": true,
-   "inliers": 15,
+   "inliers": 13,
    "set": "Genetic Apex",
    "illustrator": "Mitsuhiro Arita",
    "hp": 60,
    "attacks": [
     "Gnaw"
    ]
+  },
+  {
+   "id": "ex13-78",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

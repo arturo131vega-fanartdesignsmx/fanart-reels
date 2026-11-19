@@ -13,58 +13,39 @@
  },
  "top": [
   {
-   "id": "swsh12.5-160",
+   "id": "cel25-6",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Flying Pikachu V",
    "pocket": false,
-   "inliers": 30,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
+   "inliers": 17,
+   "set": "Celebrations",
+   "illustrator": "aky CG Works",
+   "hp": 190,
    "attacks": [
-    "Wild Charge"
+    "Thunder Shock",
+    "Fly"
    ]
   },
   {
-   "id": "swshp-SWSH234",
+   "id": "cel25-8",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Surfing Pikachu V",
    "pocket": false,
-   "inliers": 25,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 60,
-   "attacks": [
-    "Gift Delivery",
-    "Pika Ball"
-   ]
+   "inliers": 8
   },
   {
-   "id": "smp-SM98",
+   "id": "smp-SM108",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Ash's Pikachu",
    "pocket": false,
-   "inliers": 20,
-   "set": "SM Black Star Promos",
-   "illustrator": "Saya Tsuruta",
-   "hp": 60,
-   "attacks": [
-    "Tail Whap",
-    "Thunder Shock"
-   ]
+   "inliers": 7
   },
   {
-   "id": "svp-106",
+   "id": "pop5-13",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu δ",
    "pocket": false,
-   "inliers": 19,
-   "set": "SVP Black Star Promos",
-   "illustrator": "takuyoa",
-   "hp": 200,
-   "attacks": [
-    "Thunderbolt"
-   ]
+   "inliers": 6
   }
  ]
 }

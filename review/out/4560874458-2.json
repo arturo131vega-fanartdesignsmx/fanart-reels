@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4560874458-2",
+  "name": "Ninetales 4560874458-2",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://i.etsystatic.com/66814655/r/il/b920aa/8908144081/il_fullxfull.8908144081_dyqz.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "hgss2-20",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "g1-13",
+   "lang": "en",
+   "name": "Ninetales EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-15",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ru1-3",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

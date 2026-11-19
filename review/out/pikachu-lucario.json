@@ -13,57 +13,32 @@
  },
  "top": [
   {
-   "id": "sv08-057",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 121,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  {
-   "id": "xy1-42",
+   "id": "bw4-39",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 107,
-   "set": "XY",
-   "illustrator": "MAHOU",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Quick Attack"
-   ]
+   "inliers": 6
   },
   {
-   "id": "sv08.5-179",
+   "id": "smp-SM108",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Ash's Pikachu",
    "pocket": false,
-   "inliers": 106,
-   "set": "Prismatic Evolutions",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 6
   },
   {
-   "id": "30th-044",
+   "id": "g1-26",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 102,
-   "set": "30th Celebration",
-   "illustrator": "akagi",
-   "hp": 60,
-   "attacks": [
-    "Agility"
-   ]
+   "inliers": 5
+  },
+  {
+   "id": "xyp-XY95",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 5
   }
  ]
 }

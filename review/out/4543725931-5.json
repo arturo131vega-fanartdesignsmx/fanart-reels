@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543725931-5",
+  "name": "Umbreon 4543725931-5",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://i.etsystatic.com/66814655/r/il/233773/8866488122/il_fullxfull.8866488122_e0ri.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "swsh7-215",
+   "lang": "en",
+   "name": "Umbreon VMAX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swshp-SWSH203",
+   "lang": "en",
+   "name": "Umbreon V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "hgss3-10",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "neo2-13",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

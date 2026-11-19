@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4605371798-1",
+  "name": "Greninja 4605371798-1",
+  "pokemon": "Greninja",
+  "dex": 658,
+  "image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg"
+ },
+ "official_cards_checked": 49,
+ "lookup": {
+  "en": 48,
+  "ja": 26
+ },
+ "top": [
+  {
+   "id": "svp-132",
+   "lang": "en",
+   "name": "Greninja ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh10-046",
+   "lang": "en",
+   "name": "Radiant Greninja",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm10-117",
+   "lang": "en",
+   "name": "Greninja",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "30th-148",
+   "lang": "en",
+   "name": "Greninja ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

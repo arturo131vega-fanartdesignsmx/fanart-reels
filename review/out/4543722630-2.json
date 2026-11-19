@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543722630-2",
+  "name": "Lucario 4543722630-2",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://i.etsystatic.com/66814655/r/il/46c6fe/8872976124/il_fullxfull.8872976124_jjg0.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "svp-017",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm5-67",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh9-079",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh8-146",
+   "lang": "en",
+   "name": "Lucario V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

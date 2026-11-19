@@ -13,59 +13,32 @@
  },
  "top": [
   {
-   "id": "sv02-063",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 54,
-   "set": "Paldea Evolved",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 190,
-   "attacks": [
-    "Pika Punch",
-    "Dynamic Bolt"
-   ]
-  },
-  {
-   "id": "sm4-30",
+   "id": "ru1-7",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 48,
-   "set": "Crimson Invasion",
-   "illustrator": "Shibuzoh.",
-   "hp": 60,
-   "attacks": [
-    "Pika Draw",
-    "Quick Attack"
-   ]
+   "inliers": 6
   },
   {
-   "id": "pl2-114",
+   "id": "basep-27",
    "lang": "en",
-   "name": "Surfing Pikachu",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 44,
-   "set": "Rising Rivals",
-   "illustrator": "Toshinao Aoki",
-   "hp": 50,
-   "attacks": [
-    "Surf"
-   ]
+   "inliers": 6
   },
   {
-   "id": "smp-SM109",
+   "id": "A2b-082",
    "lang": "en",
-   "name": "Ash's Pikachu",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "pop5-13",
+   "lang": "en",
+   "name": "Pikachu δ",
    "pocket": false,
-   "inliers": 40,
-   "set": "SM Black Star Promos",
-   "illustrator": "2017 Pikachu Project",
-   "hp": 70,
-   "attacks": [
-    "Agility",
-    "Thunder"
-   ]
+   "inliers": 5
   }
  ]
 }

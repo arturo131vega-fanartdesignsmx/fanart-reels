@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543718514-4",
+  "name": "Gengar 4543718514-4",
+  "pokemon": "Gengar",
+  "dex": 94,
+  "image": "https://i.etsystatic.com/66814655/r/il/b486eb/8924704599/il_fullxfull.8924704599_tcqe.jpg"
+ },
+ "official_cards_checked": 65,
+ "lookup": {
+  "en": 62,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "S10a-023",
+   "lang": "ja",
+   "name": "ゲンガー",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "ex12-5",
+   "lang": "en",
+   "name": "Gengar",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm9-165",
+   "lang": "en",
+   "name": "Gengar & Mimikyu GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A3-222",
+   "lang": "en",
+   "name": "Gengar",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

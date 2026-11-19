@@ -13,60 +13,32 @@
  },
  "top": [
   {
-   "id": "xy12-110",
+   "id": "cel25-7",
    "lang": "en",
-   "name": "Flying Pikachu",
+   "name": "Flying Pikachu VMAX",
    "pocket": false,
-   "inliers": 21,
-   "set": "Evolutions",
-   "illustrator": "Toshinao Aoki",
-   "hp": 40,
-   "attacks": [
-    "Thunder Shock",
-    "Fly"
-   ]
+   "inliers": 8
   },
   {
-   "id": "bw11-RC7",
+   "id": "30th-047",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 21,
-   "set": "Legendary Treasures",
-   "illustrator": "Atsuko Nishida",
-   "hp": 60,
-   "attacks": [
-    "Thundershock",
-    "Tail Whap"
-   ]
+   "inliers": 7
   },
   {
-   "id": "cel25-6",
+   "id": "basep-24",
    "lang": "en",
-   "name": "Flying Pikachu V",
+   "name": "___________'s Pikachu",
    "pocket": false,
-   "inliers": 20,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 190,
-   "attacks": [
-    "Thunder Shock",
-    "Fly"
-   ]
+   "inliers": 6
   },
   {
-   "id": "pop5-13",
+   "id": "A1a-025",
    "lang": "en",
-   "name": "Pikachu δ",
-   "pocket": false,
-   "inliers": 20,
-   "set": "POP Series 5",
-   "illustrator": "Ryo Ueda",
-   "hp": 40,
-   "attacks": [
-    "Electric Punch",
-    "Heavy Metal"
-   ]
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 6
   }
  ]
 }

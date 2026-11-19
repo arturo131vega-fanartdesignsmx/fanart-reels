@@ -13,38 +13,32 @@
  },
  "top": [
   {
-   "id": "xy12-111",
+   "id": "cel25-8",
    "lang": "en",
-   "name": "Surfing Pikachu",
+   "name": "Surfing Pikachu V",
    "pocket": false,
-   "inliers": 13,
-   "set": "Evolutions",
-   "illustrator": "Toshinao Aoki",
-   "hp": 50,
-   "attacks": [
-    "Surf"
-   ]
-  },
-  {
-   "id": "smp-SM04",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 9
+   "inliers": 4
   },
   {
    "id": "basep-24",
    "lang": "en",
    "name": "___________'s Pikachu",
    "pocket": false,
-   "inliers": 8
+   "inliers": 4
   },
   {
-   "id": "A1-094",
+   "id": "30th-033",
    "lang": "en",
    "name": "Pikachu",
-   "pocket": true,
-   "inliers": 8
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh4-44",
+   "lang": "en",
+   "name": "Pikachu VMAX",
+   "pocket": false,
+   "inliers": 4
   }
  ]
 }

@@ -13,58 +13,32 @@
  },
  "top": [
   {
-   "id": "smp-SM162",
+   "id": "sm12-66",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "SM Black Star Promos",
-   "illustrator": "Saya Tsuruta",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Thunder Jolt"
-   ]
+   "inliers": 8
   },
   {
-   "id": "svp-106",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 14,
-   "set": "SVP Black Star Promos",
-   "illustrator": "takuyoa",
-   "hp": 200,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  {
-   "id": "30th-054",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 13,
-   "set": "30th Celebration",
-   "illustrator": "takuyoa",
-   "hp": 190,
-   "attacks": [
-    "Zip-Zap Frenzy",
-    "Thunder"
-   ]
-  },
-  {
-   "id": "swsh12.5-160",
+   "id": "smp-SM206",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 13,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 8
+  },
+  {
+   "id": "ru1-7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sm4-30",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 7
   }
  ]
 }

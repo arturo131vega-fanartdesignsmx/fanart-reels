@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "4543718514-2",
+  "name": "Gengar 4543718514-2",
+  "pokemon": "Gengar",
+  "dex": 94,
+  "image": "https://i.etsystatic.com/66814655/r/il/7a13ee/8924700783/il_fullxfull.8924700783_5l1i.jpg"
+ },
+ "official_cards_checked": 65,
+ "lookup": {
+  "en": 62,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "me02.5-269",
+   "lang": "en",
+   "name": "Mega Gengar ex",
+   "pocket": false,
+   "inliers": 225,
+   "set": "Ascended Heroes",
+   "illustrator": "Taiga Kasai",
+   "hp": 350,
+   "attacks": [
+    "Void Gale"
+   ]
+  },
+  {
+   "id": "sv03.5-094",
+   "lang": "en",
+   "name": "Gengar",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sm9-53",
+   "lang": "en",
+   "name": "Gengar & Mimikyu GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy4-95",
+   "lang": "en",
+   "name": "Gengar Spirit Link",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

@@ -13,32 +13,32 @@
  },
  "top": [
   {
-   "id": "hgss1-78",
+   "id": "swsh4-44",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Pikachu VMAX",
    "pocket": false,
-   "inliers": 10
+   "inliers": 5
   },
   {
-   "id": "30th-042",
+   "id": "xy12-111",
    "lang": "en",
-   "name": "Pikachu",
+   "name": "Surfing Pikachu",
    "pocket": false,
-   "inliers": 9
+   "inliers": 5
   },
   {
-   "id": "A1-096",
+   "id": "swsh4-188",
    "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 9
+   "name": "Pikachu VMAX",
+   "pocket": false,
+   "inliers": 5
   },
   {
-   "id": "30th-149",
+   "id": "cel25-6",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Flying Pikachu V",
    "pocket": false,
-   "inliers": 9
+   "inliers": 4
   }
  ]
 }

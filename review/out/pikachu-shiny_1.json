@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": true,
-   "inliers": 49,
+   "inliers": 45,
    "set": "Shining Revelry",
    "illustrator": "You Iribi",
    "hp": 120,
@@ -26,44 +26,25 @@
    ]
   },
   {
-   "id": "me02.5-057",
+   "id": "sm3-40",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 13,
-   "set": "Ascended Heroes",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 6
   },
   {
-   "id": "30th-149",
+   "id": "30th-024",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 13,
-   "set": "30th Celebration",
-   "illustrator": "kantaro",
-   "hp": 190,
-   "attacks": [
-    "Pika-Pika Parade",
-    "Thunderbolt"
-   ]
+   "inliers": 5
   },
   {
-   "id": "SV8a-236",
-   "lang": "ja",
-   "name": "ピカチュウex",
+   "id": "30th-051",
+   "lang": "en",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 13,
-   "set": "テラスタルフェスex",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "トパーズボルト"
-   ]
+   "inliers": 5
   }
  ]
 }

@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 182,
+   "inliers": 179,
    "set": "SWSH Black Star Promos",
    "illustrator": "Hideki Ishikawa",
    "hp": 70,
@@ -27,43 +27,25 @@
    ]
   },
   {
-   "id": "swsh12.5-160",
+   "id": "SV2a-025",
+   "lang": "ja",
+   "name": "ピカチュウ",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "smp-SM86",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 69,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 6
   },
   {
-   "id": "gym2-84",
-   "lang": "en",
-   "name": "Lt. Surge's Pikachu",
-   "pocket": false,
-   "inliers": 41,
-   "set": "Gym Challenge",
-   "illustrator": "Atsuko Nishida",
-   "hp": 40,
-   "attacks": [
-    "Quick Attack"
-   ]
-  },
-  {
-   "id": "30th-039",
+   "id": "ru1-7",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 40,
-   "set": "30th Celebration",
-   "illustrator": "Teeziro",
-   "hp": 70,
-   "attacks": [
-    "Iron Tail"
-   ]
+   "inliers": 5
   }
  ]
 }

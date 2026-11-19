@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu ex",
    "pocket": true,
-   "inliers": 43,
+   "inliers": 40,
    "set": "Shining Revelry",
    "illustrator": "You Iribi",
    "hp": 120,
@@ -26,43 +26,25 @@
    ]
   },
   {
-   "id": "cel25-7",
+   "id": "basep-28",
    "lang": "en",
-   "name": "Flying Pikachu VMAX",
+   "name": "Surfing Pikachu",
    "pocket": false,
-   "inliers": 19,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 310,
-   "attacks": [
-    "Max Balloon"
-   ]
+   "inliers": 5
   },
   {
-   "id": "me02.5-057",
+   "id": "30th-045",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 18,
-   "set": "Ascended Heroes",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 5
   },
   {
-   "id": "SV8a-236",
-   "lang": "ja",
-   "name": "ピカチュウex",
-   "pocket": false,
-   "inliers": 17,
-   "set": "テラスタルフェスex",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "トパーズボルト"
-   ]
+   "id": "B2-049",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 5
   }
  ]
 }

@@ -13,56 +13,32 @@
  },
  "top": [
   {
-   "id": "swsh12.5-160",
+   "id": "30th-042",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 30,
-   "set": "Crown Zenith",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Wild Charge"
-   ]
+   "inliers": 7
   },
   {
-   "id": "me02.5-057",
+   "id": "xy1-42",
    "lang": "en",
-   "name": "Pikachu ex",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 28,
-   "set": "Ascended Heroes",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "inliers": 7
   },
   {
-   "id": "gym2-84",
+   "id": "sm10-54",
    "lang": "en",
-   "name": "Lt. Surge's Pikachu",
+   "name": "Pikachu",
    "pocket": false,
-   "inliers": 25,
-   "set": "Gym Challenge",
-   "illustrator": "Atsuko Nishida",
-   "hp": 40,
-   "attacks": [
-    "Quick Attack"
-   ]
+   "inliers": 7
   },
   {
-   "id": "cel25-7",
+   "id": "smp-SM113",
    "lang": "en",
-   "name": "Flying Pikachu VMAX",
+   "name": "Ash's Pikachu",
    "pocket": false,
-   "inliers": 24,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 310,
-   "attacks": [
-    "Max Balloon"
-   ]
+   "inliers": 6
   }
  ]
 }

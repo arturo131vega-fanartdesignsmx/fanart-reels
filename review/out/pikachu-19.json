@@ -17,7 +17,7 @@
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 132,
+   "inliers": 126,
    "set": "Lost Origin",
    "illustrator": "kurumitsu",
    "hp": 60,
@@ -30,7 +30,7 @@
    "lang": "ja",
    "name": "ピカチュウ",
    "pocket": false,
-   "inliers": 122,
+   "inliers": 112,
    "set": "ダークファンタズマ",
    "illustrator": "kurumitsu",
    "hp": 60,
@@ -39,32 +39,18 @@
    ]
   },
   {
-   "id": "sm115-19",
+   "id": "sm12-66",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 22,
-   "set": "Hidden Fates",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 70,
-   "attacks": [
-    "Quick Attack",
-    "Electro Ball"
-   ]
+   "inliers": 8
   },
   {
-   "id": "ex2-72",
+   "id": "xy3-27",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 19,
-   "set": "Sandstorm",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 50,
-   "attacks": [
-    "Scratch",
-    "Pika Bolt"
-   ]
+   "inliers": 7
   }
  ]
 }

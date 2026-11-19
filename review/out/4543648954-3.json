@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "4543648954-3",
+  "name": "Charizard 4543648954-3",
+  "pokemon": "Charizard",
+  "dex": 6,
+  "image": "https://i.etsystatic.com/66814655/r/il/55e882/8858088164/il_fullxfull.8858088164_o168.jpg"
+ },
+ "official_cards_checked": 132,
+ "lookup": {
+  "en": 126,
+  "ja": 50
+ },
+ "top": [
+  {
+   "id": "pl4-1",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "gym2-2",
+   "lang": "en",
+   "name": "Blaine's Charizard",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "lc-3",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp3-3",
+   "lang": "en",
+   "name": "Charizard",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

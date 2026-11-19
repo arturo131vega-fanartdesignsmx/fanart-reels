@@ -27,46 +27,25 @@
    ]
   },
   {
-   "id": "smp-SM113",
+   "id": "swsh8-86",
    "lang": "en",
-   "name": "Ash's Pikachu",
+   "name": "Pikachu V",
    "pocket": false,
-   "inliers": 21,
-   "set": "SM Black Star Promos",
-   "illustrator": "2017 Pikachu Project",
-   "hp": 70,
-   "attacks": [
-    "Iron Tail",
-    "Electro Ball"
-   ]
+   "inliers": 7
   },
   {
-   "id": "smp-SM112",
-   "lang": "en",
-   "name": "Ash's Pikachu",
-   "pocket": false,
-   "inliers": 18,
-   "set": "SM Black Star Promos",
-   "illustrator": "2017 Pikachu Project",
-   "hp": 70,
-   "attacks": [
-    "Quick Attack",
-    "Electro Ball"
-   ]
-  },
-  {
-   "id": "xy6-20",
+   "id": "swsh10.5-027",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 14,
-   "set": "Roaring Skies",
-   "illustrator": "Naoki Saito",
-   "hp": 60,
-   "attacks": [
-    "Tail Whip",
-    "Electro Ball"
-   ]
+   "inliers": 6
+  },
+  {
+   "id": "swsh4-44",
+   "lang": "en",
+   "name": "Pikachu VMAX",
+   "pocket": false,
+   "inliers": 6
   }
  ]
 }

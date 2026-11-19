@@ -13,57 +13,32 @@
  },
  "top": [
   {
-   "id": "sv08-057",
+   "id": "sv02-062",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "A2b-082",
    "lang": "en",
    "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 17,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
+   "pocket": true,
+   "inliers": 6
   },
   {
-   "id": "xy1-42",
+   "id": "S10a-073",
+   "lang": "ja",
+   "name": "ピカチュウ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv03.5-025",
    "lang": "en",
    "name": "Pikachu",
    "pocket": false,
-   "inliers": 16,
-   "set": "XY",
-   "illustrator": "MAHOU",
-   "hp": 60,
-   "attacks": [
-    "Nuzzle",
-    "Quick Attack"
-   ]
-  },
-  {
-   "id": "30th-025",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 15,
-   "set": "30th Celebration",
-   "illustrator": "satoma",
-   "hp": 70,
-   "attacks": [
-    "Spark"
-   ]
-  },
-  {
-   "id": "30th-023",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 14,
-   "set": "30th Celebration",
-   "illustrator": "Ken Sugimori",
-   "hp": 70,
-   "attacks": [
-    "Thunder Shock"
-   ]
+   "inliers": 5
   }
  ]
 }
