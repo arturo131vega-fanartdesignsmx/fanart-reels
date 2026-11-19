@@ -83,6 +83,11 @@ Carousel:
  "caption_ig":"...","caption_fb":"..."}
 ```
 
+## Links
+- Etsy shop: https://www.etsy.com/shop/FanartsDesignsMX (note the **s** in Fanarts). Instagram handle: @fanartdesignsmx.
+  For Facebook captions prefer the listing URL https://www.etsy.com/listing/<id>; for a shop search use
+  https://www.etsy.com/shop/FanartsDesignsMX?search_query=<pokemon>.
+
 ## Records
 - `catalog/designs.json`: {design_key: {pokemon, listing_id, image, verdict (approved/rejected/needs_check),
   reason, pocket, own, art_check, used: [dates]}}. Mark every design shown (main AND collage) as used.

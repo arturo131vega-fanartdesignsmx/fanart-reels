@@ -194,6 +194,23 @@ def main():
         print(json.dumps(api().check(), indent=1))
         return 0
 
+    if mode == "fbfix":  # delete / edit Page posts listed in tests/fbfix.json (requested by Arturo)
+        from meta import call
+        m, cfg, res = api(), json.load(open("tests/fbfix.json")), {}
+        for pid in cfg.get("delete", []):
+            try:
+                res[pid] = call("DELETE", pid, token=m.page_token)
+            except Exception as e:
+                res[pid] = {"error": str(e)[:300]}
+        for e in cfg.get("edit", []):
+            try:
+                res[e["post_id"]] = call("POST", e["post_id"], {"message": e["message"]}, token=m.page_token)
+            except Exception as ex:
+                res[e["post_id"]] = {"error": str(ex)[:300]}
+        json.dump(res, open("tests/fbfix_result.json", "w"), indent=1)
+        print(json.dumps(res, indent=1))
+        return 0
+
     if mode == "igtest":  # build IG containers WITHOUT publishing (they expire on their own in 24 h)
         from meta import call
         m, cfg, res = api(), json.load(open("tests/igtest.json")), {}

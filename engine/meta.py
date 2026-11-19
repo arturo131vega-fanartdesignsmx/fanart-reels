@@ -33,7 +33,7 @@ def call(method, path, params=None, headers=None, token=None, base=GRAPH):
         params["access_token"] = token
     url = path if path.startswith("http") else f"{base}/{path.lstrip('/')}"
     data = None
-    if method == "GET":
+    if method in ("GET", "DELETE"):
         url += ("&" if "?" in url else "?") + urllib.parse.urlencode(params)
     else:
         data = urllib.parse.urlencode(params).encode()

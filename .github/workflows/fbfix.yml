@@ -1,0 +1,30 @@
+name: Facebook post fix (delete / edit)
+
+on:
+  push:
+    branches: [main]
+    paths: ['tests/fbfix.json']
+
+permissions:
+  contents: write
+
+jobs:
+  fbfix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 engine/pipeline.py
+        env:
+          MODE: fbfix
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      - name: Save result
+        run: |
+          git config user.name "fanart-bot"
+          git config user.email "fanart-bot@users.noreply.github.com"
+          git add tests/fbfix_result.json
+          git commit -qm "fbfix result [skip ci]" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
