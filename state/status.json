@@ -276,9 +276,9 @@
   "done": "2026-11-19T14:28:03.221763+00:00"
  },
  "2026-11-19-c1": {
-  "attempts": 1,
+  "attempts": 2,
   "error": "'tuple' object has no attribute 'shape'",
-  "error_at": "2026-11-19T15:25:47.771305+00:00"
+  "error_at": "2026-11-19T16:26:41.606222+00:00"
  },
  "2026-11-19-r2": {
   "attempts": 0
