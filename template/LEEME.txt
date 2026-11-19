@@ -1,0 +1,24 @@
+PLANTILLA DE REELS — FanartDesignsMX
+====================================
+Plantilla aprobada: Reel de Mega Mewtwo Y 2 (noviembre 2026).
+
+Regla de contenido: solo cartas de TCG Pocket, diseños propios (Illus. Arturo Vega)
+o artes extendidos. Nunca cartas que existan en la realidad.
+
+Archivos
+- make_reel.py  → genera el Reel 1080x1920 (carta inclinándose sin brillos, título animado
+                  "Handmade Proxy Cards", botón "ETSY Link in Bio", subtítulos sincronizados).
+- vo_chat.wav   → voz en inglés (Kokoro af_heart), guion genérico ("this one"), sirve para cualquier carta.
+- vo_chat.json  → tiempos de los subtítulos.
+- tts3.py       → regenera la voz (requiere kokoro-onnx + modelos kokoro-v1.0.onnx / voices-v1.0.bin
+                  de github.com/thewh1teagle/kokoro-onnx releases "model-files-v1.0").
+
+Uso
+  python3 make_reel.py "<diseño limpio .jpg (Pokemon ETSY) o mockup 2000x2000>" vo_chat.json vo_chat.wav salida.mp4
+  (requiere python3, opencv-python, numpy, pillow, ffmpeg y la fuente Inter Display)
+
+Guion de la voz
+  Okay, be honest... would you add this one to your binder?
+  Every card's handmade, it's holographic, and it's real trading card size.
+  Oh, and if you grab two or more, you save twenty-five percent with code twenty-five off.
+  Link's in my bio!
