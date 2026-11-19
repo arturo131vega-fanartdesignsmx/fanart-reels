@@ -10,9 +10,10 @@ Reel item:
    "highlight": [...], "caption_ig": str, "caption_fb": str}
 Carousel item:
   {"id", "type": "carousel", "publish_at",
-   "slides": [{"image": url} | {"video": url} | {"collage": [url, url, ...]}, ...],
+   "slides": [{"hero": url} | {"image": url} | {"video": url} | {"collage": [url, url, ...]}, ...],
    "caption_ig": str, "caption_fb": str}
-  A "collage" slide is built here (all designs in one 1080x1080 image, each watermarked).
+  "hero" = main image built here (design + "Handmade Proxy Cards" + "ETSY Link in Bio").
+  "collage" = the other designs in one 1080x1080 image, each watermarked.
 """
 import datetime as dt
 import glob
@@ -113,15 +114,24 @@ def warm(url):
     raise RuntimeError(f"media not reachable: {url}")
 
 
+def fix_caption(text):
+    """Arturo's rule: write EX in capitals (Pikachu EX, Mega Gengar EX)."""
+    import re
+    return re.sub(r"(?<![#\w])ex\b", "EX", text or "")
+
+
 def prepare_carousel(it, workdir):
-    from collage import build
+    from collage import build, hero
     day = it["publish_at"][:10]
     slides, files = [], {}
     for i, sl in enumerate(it["slides"]):
+        name = f"{day}_{it['id']}_slide{i + 1}.jpg"
         if sl.get("collage"):
             paths = [download(u, os.path.join(workdir, f"s{i}_{j}.jpg")) for j, u in enumerate(sl["collage"])]
-            name = f"{day}_{it['id']}_slide{i + 1}.jpg"
             files[name] = build(paths, os.path.join(workdir, name))
+            slides.append({"image": name, "_local": True})
+        elif sl.get("hero"):
+            files[name] = hero(download(sl["hero"], os.path.join(workdir, f"s{i}.jpg")), os.path.join(workdir, name))
             slides.append({"image": name, "_local": True})
         else:
             slides.append(dict(sl))
@@ -254,18 +264,18 @@ def main():
                 continue
             if it["type"] == "reel" and st.get("video_url"):
                 if not st.get("ig"):
-                    st["ig"] = api().ig_reel(st["video_url"], it["caption_ig"], st.get("cover_url"))
+                    st["ig"] = api().ig_reel(st["video_url"], fix_caption(it["caption_ig"]), st.get("cover_url"))
                     changed = True
                 if not st.get("fb") and it.get("caption_fb"):
-                    st["fb"] = api().fb_reel(st["video_url"], it["caption_fb"])
+                    st["fb"] = api().fb_reel(st["video_url"], fix_caption(it["caption_fb"]))
                     changed = True
             elif it["type"] == "carousel":
                 if not st.get("ig"):
-                    st["ig"] = api().ig_carousel(st.get("slides") or it["slides"], it["caption_ig"])
+                    st["ig"] = api().ig_carousel(st.get("slides") or it["slides"], fix_caption(it["caption_ig"]))
                     changed = True
                 if not st.get("fb") and it.get("caption_fb"):
                     imgs = [x["image"] for x in (st.get("slides") or it["slides"]) if x.get("image")]
-                    st["fb"] = api().fb_album(imgs, it["caption_fb"])
+                    st["fb"] = api().fb_album(imgs, fix_caption(it["caption_fb"]))
                     changed = True
             if st.get("ig") and (st.get("fb") or not it.get("caption_fb")):
                 st["done"] = now().isoformat()

@@ -68,3 +68,68 @@ def build(card_paths, out_path):
         bg[y:y + ch, x:x + cw] = (roi * (1 - m) + c.astype(np.float32) * m).astype(np.uint8)
     cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
     return out_path
+
+
+# ------------------------------------------------------------------ carousel main image (slide 1)
+def _over(dst, rgba, cx, cy):
+    """Alpha-composite an RGBA float image (0..1, BGR order) centred at (cx, cy) on a uint8 BGR canvas."""
+    h, w = rgba.shape[:2]
+    x0, y0 = int(cx - w / 2), int(cy - h / 2)
+    xa, ya = max(0, x0), max(0, y0)
+    xb, yb = min(dst.shape[1], x0 + w), min(dst.shape[0], y0 + h)
+    sub = rgba[ya - y0:yb - y0, xa - x0:xb - x0]
+    a = sub[..., 3:4]
+    roi = dst[ya:yb, xa:xb].astype(np.float32) / 255
+    dst[ya:yb, xa:xb] = np.clip((roi * (1 - a) + sub[..., :3] * a) * 255, 0, 255).astype(np.uint8)
+
+
+def hero(mockup_path, out_path):
+    """Main carousel image: the design mockup look (its own background), the card, the
+    "Handmade Proxy Cards" title and the "ETSY Link in Bio" button of the approved Reel template."""
+    from PIL import Image, ImageDraw, ImageFont
+    from render_reel import text_img, FB, YEL, ORG, WHITE
+    src = cv2.imread(mockup_path)
+    bg = cv2.resize(src, (SIZE, SIZE), interpolation=cv2.INTER_AREA)
+    bg = cv2.GaussianBlur(bg, (0, 0), 22)
+    bg = (bg.astype(np.float32) * 0.70).astype(np.uint8)
+    card = load_card(mockup_path)
+    ch = 742
+    cw = int(ch * card.shape[1] / card.shape[0])
+    card = cv2.resize(card, (cw, ch), interpolation=cv2.INTER_AREA)
+    card = watermark(card, cw, ch)
+    cy = 528
+    x, y = (SIZE - cw) // 2, cy - ch // 2
+    sh = np.zeros((SIZE, SIZE), np.float32)
+    sh[y + 14:y + ch + 14, x + 6:x + cw + 6] = 1
+    sh = cv2.GaussianBlur(sh, (0, 0), 16)[..., None] * 0.6
+    bg = (bg.astype(np.float32) * (1 - sh)).astype(np.uint8)
+    m = _rounded(card, max(8, cw // 24)).astype(np.float32)[..., None] / 255
+    roi = bg[y:y + ch, x:x + cw].astype(np.float32)
+    bg[y:y + ch, x:x + cw] = (roi * (1 - m) + card.astype(np.float32) * m).astype(np.uint8)
+    # title (same words/colours as the Reels)
+    words = [("Handmade", YEL), ("Proxy", WHITE), ("Cards", WHITE)]
+    ts = 80
+    while True:
+        f = ImageFont.truetype(FB, ts)
+        tot = sum(f.getbbox(w, stroke_width=3)[2] for w, _ in words) + int(ts * 0.28) * 2
+        if tot <= 900:
+            break
+        ts -= 2
+    _over(bg, text_img(words, ts, FB, stroke=3), SIZE / 2, 82)
+    # ETSY Link in Bio button (outline style of the Reels)
+    txt = text_img([("ETSY", ORG), ("Link in Bio", WHITE)], 54, FB, stroke=0, shadow=False, pad=0)
+    ph, pw = txt.shape[:2]
+    PW, PH = pw + 80, ph + 22
+    pim = Image.new("RGBA", (PW + 20, PH + 20), (0, 0, 0, 0))
+    ImageDraw.Draw(pim).rounded_rectangle((10, 10, 10 + PW, 10 + PH), radius=PH // 2,
+                                          fill=(15, 15, 20, 220), outline=(241, 100, 30, 255), width=5)
+    pa = np.array(pim).astype(np.float32) / 255
+    pill = np.dstack([pa[..., 2], pa[..., 1], pa[..., 0], pa[..., 3]])
+    oy, ox = (pill.shape[0] - ph) // 2 + 2, (pill.shape[1] - pw) // 2
+    reg = pill[oy:oy + ph, ox:ox + pw]
+    a = txt[..., 3:4]
+    reg[..., :3] = reg[..., :3] * (1 - a) + txt[..., :3] * a
+    reg[..., 3:4] = np.maximum(reg[..., 3:4], a)
+    _over(bg, pill, SIZE / 2, 990)
+    cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
+    return out_path

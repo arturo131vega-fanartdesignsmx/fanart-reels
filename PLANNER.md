@@ -34,9 +34,16 @@ Claude task) only curates designs and writes the queue. Never publish anything b
 7. Every post gets a **new dialogue** and a **new caption** (never reuse text). Max 5 hashtags.
    Keep the offer exact: "Buy 2+ cards, save 25% with code 25OFF". Always include
    "Fan-made art card. Not an official Pokémon / Nintendo product."
-8. **Carousel = exactly 4 slides**: (1) ONE design only, the main one; (2) the holo video;
-   (3) ONE collage image with the other approved designs of the same Pokémon (2–8 designs, built by the
-   pipeline from `{"collage":[urls]}`); (4) the generic "more designs" image.
+8. **Carousel = exactly 4 slides, square like Arturo's past carousels**:
+   (1) `{"hero": design URL}` — ONE design only, built by the pipeline with the "Handmade Proxy Cards"
+   title and the "ETSY Link in Bio" button; (2) the holo video, square crop with NO blurred background
+   (URL below); (3) ONE collage image with the other approved designs of the same Pokémon (1–8 designs,
+   `{"collage":[urls]}`); (4) the generic "more designs" image.
+9. **Write "EX" in capitals in every description** (Pikachu EX, Mega Gengar EX) — never "ex".
+   (The pipeline also corrects it, but write it right.)
+10. **Every carousel description must read differently** — new opening, new body, new way to say the
+   offer and the call to action (only the disclaimer line stays fixed). Never reuse a sentence from
+   earlier queue files; vary structure too (question, story, comparison, "which one would you pick").
 
 ## Schedule (America/Mexico_City)
 - Weeks 1–4 (from 2026-11-19): 3 reels + 2 carousels per day
@@ -68,8 +75,9 @@ Spell numbers in the spoken part and give the display form as [spoken, display].
 Carousel:
 ```
 {"id":"2026-11-19-c1","type":"carousel","publish_at":"2026-11-19T12:00:00-06:00","pokemon":"...",
- "slides":[{"image":"https://res.cloudinary.com/rntnboij/image/fetch/c_fill,w_1080,h_1080/l_text:Arial_74_bold:Fanart%20Designs%20MX,co_rgb:FFFFFF,o_38,a_-50/fl_layer_apply,g_center/f_jpg,q_90/<design URL>"},
-           {"video":"https://res.cloudinary.com/rntnboij/video/upload/e_accelerate:-50/c_pad,w_1080,h_1080,b_blurred:400:15/q_auto/v1795034320/ig_holo_video.mp4"},
+ "design_keys":["<main>","<others...>"],
+ "slides":[{"hero":"<main design URL (2000x2000 Cloudinary or Etsy mockup)>"},
+           {"video":"https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"},
            {"collage":["<design URL 2>","<design URL 3>","... up to 8 other approved designs of the same Pokémon"]},
            {"image":"https://res.cloudinary.com/rntnboij/image/upload/c_scale,w_1080/f_jpg,q_90/ig_more_designs.jpg"}],
  "caption_ig":"...","caption_fb":"..."}
