@@ -277,7 +277,33 @@
  },
  "2026-11-19-c1": {
   "attempts": 0,
-  "retry_note": "collage load_card bug fixed 19-nov 15:50; republished late on Arturo's request"
+  "retry_note": "collage load_card bug fixed 19-nov 15:50; republished late on Arturo's request",
+  "slides": [
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-c1_slide1.jpg",
+    "alt": "Umbreon Pokémon fan art card with the moon behind it, holographic full art, handmade proxy card by Fanart Designs MX"
+   },
+   {
+    "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-c1_slide3.jpg",
+    "alt": "Three more Umbreon Pokémon fan art cards shown in a fan, handmade holographic proxy cards"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+    "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
+   }
+  ],
+  "ig": {
+   "media_id": "18147180613516774",
+   "permalink": "https://www.instagram.com/p/Df8E2_2lfKu/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120176047449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120176047449530"
+  },
+  "done": "2026-11-19T21:45:06.565707+00:00"
  },
  "2026-11-19-r2": {
   "attempts": 0,
@@ -370,7 +396,24 @@
   "done": "2026-11-19T20:01:06.974685+00:00"
  },
  "2026-11-19-c2": {
-  "attempts": 0
+  "attempts": 0,
+  "slides": [
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-c2_slide1.jpg",
+    "alt": "Mega Arcanine EX fan-made Pokémon card with a holographic full art design, handmade proxy by Fanart Designs MX"
+   },
+   {
+    "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-c2_slide3.jpg",
+    "alt": "Mega Arcanine EX and two Arcanine fan art Pokémon cards shown in a fan, handmade holographic proxies"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+    "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
+   }
+  ]
  },
  "2026-11-19-r3": {
   "attempts": 0
