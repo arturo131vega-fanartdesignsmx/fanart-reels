@@ -267,11 +267,9 @@
   "pokemon": "Umbreon",
   "listing_id": 4543725931,
   "image": "https://i.etsystatic.com/66814655/r/il/233773/8866488122/il_fullxfull.8866488122_e0ri.jpg",
-  "verdict": "approved",
-  "used": [
-   "2026-11-19"
-  ],
-  "reason": "Artwork not official (text copies printed Umbreon ex)",
+  "verdict": "needs_check",
+  "used": [],
+  "reason": "Artwork shows the official 30th Celebration logo - possible copy of the official Umbreon ex; check before using",
   "pocket": false,
   "own": false,
   "art_check": {

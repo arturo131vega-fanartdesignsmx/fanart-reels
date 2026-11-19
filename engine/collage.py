@@ -66,11 +66,12 @@ def build(card_paths, out_path):
         bg = cv2.resize(cards[0], (SIZE, SIZE))
         bg = (cv2.GaussianBlur(bg, (0, 0), 40).astype(np.float32) * 0.35).astype(np.uint8)
         if n == 1:
-            _place(bg, cards[0], SIZE / 2, SIZE / 2, 960)
+            _place(bg, cards[0], SIZE / 2, SIZE / 2, 940)
         else:
-            _place(bg, cards[1], SIZE / 2 - 332, SIZE / 2 + 22, 566, 6)
-            _place(bg, cards[2], SIZE / 2 + 332, SIZE / 2 + 22, 566, -6)
-            _place(bg, cards[0], SIZE / 2, SIZE / 2, 640)
+            # symmetric fan, every card at least ~48 px inside the frame
+            _place(bg, cards[1], SIZE / 2 - 284, SIZE / 2 + 20, 520, 5)
+            _place(bg, cards[2], SIZE / 2 + 284, SIZE / 2 + 20, 520, -5)
+            _place(bg, cards[0], SIZE / 2, SIZE / 2, 580)
         cv2.imwrite(out_path, bg, [cv2.IMWRITE_JPEG_QUALITY, 92])
         return out_path
     cols, rows = _layout(n)
@@ -79,9 +80,10 @@ def build(card_paths, out_path):
     bg = cv2.GaussianBlur(bg, (0, 0), 40)
     bg = (bg.astype(np.float32) * 0.35).astype(np.uint8)
     gap = 24 if n > 4 else 36
+    margin = 56  # keep every card well inside the frame
     ar = cards[0].shape[1] / cards[0].shape[0]  # ~0.716
-    cell_w = (SIZE - gap * (cols + 1)) / cols
-    cell_h = (SIZE - gap * (rows + 1)) / rows
+    cell_w = (SIZE - 2 * margin - gap * (cols - 1)) / cols
+    cell_h = (SIZE - 2 * margin - gap * (rows - 1)) / rows
     ch = int(min(cell_h, cell_w / ar))
     cw = int(ch * ar)
     total_w = cols * cw + (cols - 1) * gap

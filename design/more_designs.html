@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: "Inter Display"; font-weight: 900; src: url("../fonts/InterDisplay-Black.otf"); }
+  @font-face { font-family: "Inter Display"; font-weight: 800; src: url("../fonts/InterDisplay-ExtraBold.otf"); }
+  @font-face { font-family: "Inter Display"; font-weight: 700; src: url("../fonts/InterDisplay-Bold.otf"); }
+  html, body { margin: 0; padding: 0; }
+  body { width: 1080px; height: 1080px; overflow: hidden; background: #060818; }
+  .stage { position: relative; width: 1080px; height: 1080px; overflow: hidden;
+           font-family: "Inter Display", sans-serif; color: #fff; }
+
+  /* background: the logo's own blue/red swirl, blurred, plus vignette and a faint Poké Ball pattern */
+  .swirl { position: absolute; inset: 0;
+           background:
+             radial-gradient(circle at 18% 22%, rgba(40,90,255,.55) 0%, rgba(40,90,255,0) 42%),
+             radial-gradient(circle at 84% 26%, rgba(235,32,62,.50) 0%, rgba(235,32,62,0) 40%),
+             radial-gradient(circle at 50% 108%, rgba(120,40,220,.45) 0%, rgba(120,40,220,0) 48%),
+             radial-gradient(circle at 50% 30%, rgba(20,30,90,.9) 0%, rgba(8,10,30,1) 70%); }
+  .rays { position: absolute; left: 50%; top: 278px; width: 1500px; height: 1500px; margin: -750px 0 0 -750px;
+          background: repeating-conic-gradient(from 0deg, rgba(255,255,255,.045) 0deg 6deg, rgba(255,255,255,0) 6deg 18deg);
+          -webkit-mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.6) 30%, transparent 62%);
+                  mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.6) 30%, transparent 62%); }
+  .vignette { position: absolute; inset: 0;
+              background: radial-gradient(ellipse 80% 70% at 50% 42%, rgba(6,8,24,0) 0%, rgba(6,8,24,.35) 65%, rgba(6,8,24,.85) 100%); }
+  .pattern { position: absolute; inset: 0; opacity: .07;
+             background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><g fill='none' stroke='white' stroke-width='3'><circle cx='60' cy='60' r='24'/><line x1='36' y1='60' x2='51' y2='60'/><line x1='69' y1='60' x2='84' y2='60'/><circle cx='60' cy='60' r='8'/></g></svg>");
+             background-size: 120px 120px; transform: rotate(-12deg) scale(1.3); }
+
+  /* logo badge */
+  .logo { position: absolute; left: 50%; top: 52px; width: 452px; height: 452px; margin-left: -226px;
+          border-radius: 50%; background: url("logo.jpg") center / 103% no-repeat;
+          box-shadow: 0 0 0 7px rgba(255,255,255,.92), 0 0 0 14px rgba(40,110,255,.55),
+                      0 0 70px 18px rgba(64,120,255,.55), 0 0 140px 40px rgba(230,40,70,.30),
+                      0 28px 50px rgba(0,0,0,.6); }
+
+  /* copy */
+  .copy { position: absolute; left: 0; right: 0; top: 548px; text-align: center; }
+  .l1 { font-weight: 800; font-size: 60px; letter-spacing: -1px; line-height: 1.05;
+        text-shadow: 0 4px 18px rgba(0,0,0,.55); }
+  .l2 { font-weight: 900; font-size: 100px; letter-spacing: -2.5px; line-height: 1.0; margin-top: 4px;
+        background: linear-gradient(180deg, #FFE97A 0%, #FFC21A 55%, #FF9D00 100%);
+        -webkit-background-clip: text; background-clip: text; color: transparent;
+        filter: drop-shadow(0 6px 0 rgba(120,40,0,.55)) drop-shadow(0 10px 22px rgba(0,0,0,.5)); }
+  .l3 { font-weight: 800; font-size: 60px; letter-spacing: -1px; line-height: 1.1; margin-top: 6px;
+        text-shadow: 0 4px 18px rgba(0,0,0,.55); }
+  .l3 b { color: #FF4D5E; font-weight: 900; }
+
+  .cta { position: absolute; left: 50%; top: 868px; transform: translateX(-50%); white-space: nowrap;
+         padding: 22px 46px 24px; border-radius: 999px; font-weight: 800; font-size: 40px; letter-spacing: -.4px;
+         background: rgba(10,12,30,.82); border: 4px solid #F1641E;
+         box-shadow: 0 0 0 2px rgba(255,255,255,.08) inset, 0 12px 30px rgba(0,0,0,.5), 0 0 34px rgba(241,100,30,.45); }
+  .cta .etsy { color: #F1641E; font-weight: 900; }
+
+  .ig { position: absolute; left: 0; right: 0; top: 994px; display: flex; align-items: center;
+        justify-content: center; gap: 16px; font-weight: 700; font-size: 34px; opacity: .95; }
+  .ig svg { width: 40px; height: 40px; }
+  .ig span b { font-weight: 800; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="swirl"></div>
+  <div class="rays"></div>
+  <div class="pattern"></div>
+  <div class="vignette"></div>
+  <div class="logo"></div>
+  <div class="copy">
+    <div class="l1">Want to see</div>
+    <div class="l2">more designs</div>
+    <div class="l3">and get <b>your own?</b></div>
+  </div>
+  <div class="cta">Follow me &amp; visit my <span class="etsy">ETSY</span> shop!</div>
+  <div class="ig">
+    <svg viewBox="0 0 48 48" fill="none" stroke="#fff" stroke-width="4"><rect x="4" y="4" width="40" height="40" rx="12"/><circle cx="24" cy="24" r="9.5"/><circle cx="35.5" cy="12.5" r="2.2" fill="#fff" stroke="none"/></svg>
+    <span>Follow <b>@FanartDesignsMX</b></span>
+  </div>
+</div>
+</body>
+</html>

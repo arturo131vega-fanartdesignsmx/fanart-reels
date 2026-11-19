@@ -79,7 +79,7 @@ Carousel:
  "slides":[{"hero":"<main design URL (2000x2000 Cloudinary or Etsy mockup)>"},
            {"video":"https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"},
            {"collage":["<design URL 2>","<design URL 3>","... up to 8 other approved designs of the same Pokémon"]},
-           {"image":"https://res.cloudinary.com/rntnboij/image/upload/c_scale,w_1080/f_jpg,q_90/ig_more_designs.jpg"}],
+           {"image":"https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg"}],
  "caption_ig":"...","caption_fb":"..."}
 ```
 
