@@ -1,8 +1,8 @@
 {
- "1199826319888363_122120082615449530": {
-  "success": true
+ "ig:18106579433022390": {
+  "error": "HTTP 400 on https://graph.facebook.com/v26.0/18106579433022390 -> OAuthException 10/None: (#10) Insufficient permissions to access this data"
  },
- "1199826319888363_122120086719449530": {
+ "1436814071770451": {
   "success": true
  }
 }
