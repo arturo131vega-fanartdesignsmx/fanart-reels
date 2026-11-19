@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "id": "preview-greninja",
+   "type": "reel",
+   "publish_at": "2026-11-18T20:30:00-06:00",
+   "pokemon": "Greninja",
+   "listing_id": 4605371798,
+   "design_key": "4605371798-1",
+   "card_image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg",
+   "script": [
+    {
+     "chunks": [
+      "Okay, look at this...",
+      "Mega Greninja",
+      "like you've never seen it."
+     ],
+     "speed": 0.98,
+     "pause": 0.28
+    },
+    {
+     "chunks": [
+      "I designed this one myself:",
+      "handmade,",
+      "holographic,",
+      "and the exact size of a real card."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Grab two or more",
+      [
+       "and save twenty-five percent",
+       "and save 25%"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "The link's in my bio!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "af_heart",
+   "speed": 1.04,
+   "variant_seed": 832667,
+   "music_seed": 504351,
+   "highlight": [
+    "Greninja",
+    "myself",
+    "holographic"
+   ],
+   "caption_ig": "Mega Greninja ex like you've never seen it 🌊🥷\nMy own full-art design: handmade, holographic and the exact size of a real card.\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Shop link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#greninja #megagreninja #pokemonfanart #pokemoncards #customcards",
+   "caption_fb": "Mega Greninja ex like you've never seen it 🌊🥷\nMy own full-art design: handmade, holographic and the exact size of a real card.\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Get yours here: https://www.etsy.com/listing/4605371798\n\nFan-made art card. Not an official Pokémon / Nintendo product.",
+   "dry_run": true
+  }
+ ]
+}
