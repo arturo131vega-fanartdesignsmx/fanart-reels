@@ -1,186 +1,193 @@
 {
  "candidates": [
   {
-   "key": "197-umbreon-1",
-   "name": "197_Umbreon_1",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_1.jpg"
+   "key": "479-rotom-1",
+   "name": "479_Rotom_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_1.jpg"
   },
   {
-   "key": "197-umbreon-2",
-   "name": "197_Umbreon_2",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_2.jpg"
+   "key": "479-rotom-6",
+   "name": "479_Rotom_6",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_6.jpg"
   },
   {
-   "key": "197-umbreon-3",
-   "name": "197_Umbreon_3",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_3.jpg"
+   "key": "479-rotom-4",
+   "name": "479_Rotom_4",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_4.jpg"
   },
   {
-   "key": "197-umbreon-4",
-   "name": "197_Umbreon_4",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_4.jpg"
+   "key": "479-rotom-shiny-1",
+   "name": "479_Rotom_Shiny_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Shiny_1.jpg"
   },
   {
-   "key": "197-umbreon-5",
-   "name": "197_Umbreon_5",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_5.jpg"
+   "key": "479-rotom-10",
+   "name": "479_Rotom_10",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_10.jpg"
   },
   {
-   "key": "197-umbreon-6",
-   "name": "197_Umbreon_6",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_6.jpg"
+   "key": "479-rotom-2",
+   "name": "479_Rotom_2",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_2.jpg"
   },
   {
-   "key": "197-umbreon-7",
-   "name": "197_Umbreon_7",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_7.jpg"
+   "key": "479-rotom-heat-1",
+   "name": "479_Rotom_Heat_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Heat_1.jpg"
   },
   {
-   "key": "197-umbreon-8",
-   "name": "197_Umbreon_8",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_8.jpg"
+   "key": "479-rotom-wash-1",
+   "name": "479_Rotom_Wash_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Wash_1.jpg"
   },
   {
-   "key": "197-umbreon-shiny-1",
-   "name": "197_Umbreon_Shiny_1",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_1.jpg"
+   "key": "479-rotom-fan-2",
+   "name": "479_Rotom_Fan_2",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_2.jpg"
   },
   {
-   "key": "197-umbreon-shiny-2",
-   "name": "197_Umbreon_Shiny_2",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_2.jpg"
+   "key": "479-rotom-dj-1",
+   "name": "479_Rotom_DJ_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_DJ_1.jpg"
   },
   {
-   "key": "197-umbreon-tera",
-   "name": "197_Umbreon_Tera",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Tera.jpg"
+   "key": "479-rotom-frost-1",
+   "name": "479_Rotom_Frost_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Frost_1.jpg"
   },
   {
-   "key": "197-umbreon-vmax",
-   "name": "197_Umbreon_VMAX",
-   "pokemon": "Umbreon",
-   "dex": 197,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_VMAX.jpg"
+   "key": "479-rotom-mow-1",
+   "name": "479_Rotom_Mow_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Mow_1.jpg"
   },
   {
-   "key": "59-arcanine-1",
-   "name": "59_Arcanine_1",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_1.jpg"
+   "key": "479-rotom-3",
+   "name": "479_Rotom_3",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_3.jpg"
   },
   {
-   "key": "59-arcanine-2",
-   "name": "59_Arcanine_2",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_2.jpg"
+   "key": "479-rotom-5",
+   "name": "479_Rotom_5",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_5.jpg"
   },
   {
-   "key": "59-arcanine-3",
-   "name": "59_Arcanine_3",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_3.jpg"
+   "key": "479-rotom-7",
+   "name": "479_Rotom_7",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_7.jpg"
   },
   {
-   "key": "59-arcanine-4",
-   "name": "59_Arcanine_4",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_4.jpg"
+   "key": "479-rotom-8",
+   "name": "479_Rotom_8",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_8.jpg"
   },
   {
-   "key": "59-arcanine-5",
-   "name": "59_Arcanine_5",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_5.jpg"
+   "key": "479-rotom-9",
+   "name": "479_Rotom_9",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_9.jpg"
   },
   {
-   "key": "59-arcanine-6",
-   "name": "59_Arcanine_6",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_6.jpg"
+   "key": "479-rotom-fan-1",
+   "name": "479_Rotom_Fan_1",
+   "pokemon": "Rotom",
+   "dex": 479,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_1.jpg"
   },
   {
-   "key": "59-arcanine-7",
-   "name": "59_Arcanine_7",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_7.jpg"
+   "key": "460-abomasnow-1",
+   "name": "460_Abomasnow_1",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_1.jpg"
   },
   {
-   "key": "59-arcanine-shiny",
-   "name": "59_Arcanine_Shiny",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Shiny.jpg"
+   "key": "460-abomasnow-3",
+   "name": "460_Abomasnow_3",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_3.jpg"
   },
   {
-   "key": "59-arcanine-tera-1",
-   "name": "59_Arcanine_Tera_1",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_1.jpg"
+   "key": "460-abomasnow-2",
+   "name": "460_Abomasnow_2",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_2.jpg"
   },
   {
-   "key": "59-arcanine-tera-2",
-   "name": "59_Arcanine_Tera_2",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_2.jpg"
+   "key": "460-abomasnow-shiny-1",
+   "name": "460_Abomasnow_Shiny_1",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_Shiny_1.jpg"
   },
   {
-   "key": "59-arcanine-hisui-1",
-   "name": "59_Arcanine_Hisui_1",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_1.jpg"
+   "key": "460-abomasnow-4",
+   "name": "460_Abomasnow_4",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_4.jpg"
   },
   {
-   "key": "59-arcanine-hisui-2",
-   "name": "59_Arcanine_Hisui_2",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_2.jpg"
+   "key": "460-mega-abomasnow-2",
+   "name": "460_Mega_Abomasnow_2",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_2.jpg"
   },
   {
-   "key": "59-mega-arcanine-1",
-   "name": "59_Mega_Arcanine_1",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_1.jpg"
+   "key": "460-mega-abomasnow-1",
+   "name": "460_Mega_Abomasnow_1",
+   "pokemon": "Abomasnow",
+   "dex": 460,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_1.jpg"
   },
   {
-   "key": "59-mega-arcanine-2",
-   "name": "59_Mega_Arcanine_2",
-   "pokemon": "Arcanine",
-   "dex": 59,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_2.jpg"
+   "key": "459-snover-1",
+   "name": "459_Snover_1",
+   "pokemon": "Snover",
+   "dex": 459,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_1.jpg"
+  },
+  {
+   "key": "459-snover-2",
+   "name": "459_Snover_2",
+   "pokemon": "Snover",
+   "dex": 459,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_2.jpg"
   }
  ]
 }
