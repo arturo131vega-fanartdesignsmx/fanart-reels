@@ -232,8 +232,10 @@ def main():
                                "is_carousel_item": "true"}, token=m.page_token)["id"]
                     m._ig_wait(cid)
                 else:
-                    cid = call("POST", f"{m.ig_id}/media", {"image_url": s["image"], "is_carousel_item": "true"},
-                               token=m.page_token)["id"]
+                    pp = {"image_url": s["image"], "is_carousel_item": "true"}
+                    if s.get("alt"):
+                        pp["alt_text"] = s["alt"]
+                    cid = call("POST", f"{m.ig_id}/media", pp, token=m.page_token)["id"]
                 kids.append(cid)
             parent = call("POST", f"{m.ig_id}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
                           "caption": "test (not published)"}, token=m.page_token)["id"]

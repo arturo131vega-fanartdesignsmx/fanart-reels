@@ -109,7 +109,13 @@ class Meta:
                 p = {"image_url": s["image"], "is_carousel_item": "true"}
                 if s.get("alt"):
                     p["alt_text"] = s["alt"][:1000]  # IG alt text (images only), helps search/accessibility
-                cid = call("POST", f"{self.ig_id}/media", p, token=self.page_token)["id"]
+                try:
+                    cid = call("POST", f"{self.ig_id}/media", p, token=self.page_token)["id"]
+                except GraphError:
+                    if "alt_text" not in p:
+                        raise
+                    p.pop("alt_text")  # never lose a post because of the alt text
+                    cid = call("POST", f"{self.ig_id}/media", p, token=self.page_token)["id"]
             kids.append(cid)
         parent = call("POST", f"{self.ig_id}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
                                                        "caption": caption}, token=self.page_token)["id"]
