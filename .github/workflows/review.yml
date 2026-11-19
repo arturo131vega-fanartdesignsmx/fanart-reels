@@ -1,0 +1,35 @@
+name: Real-card review sheets
+
+on:
+  push:
+    branches: [main]
+    paths: ['review/request.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: review
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q numpy opencv-python-headless pillow
+      - run: python3 engine/review.py
+      - name: Save sheets
+        run: |
+          git config user.name "fanart-reels-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review/out
+          git diff --cached --quiet && exit 0
+          git commit -qm "review sheets [skip ci]"
+          for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q && exit 0; sleep 7; done
+          exit 1

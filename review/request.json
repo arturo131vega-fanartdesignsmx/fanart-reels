@@ -1,0 +1,58 @@
+{
+ "candidates": [
+  {
+   "key": "arcanine-d1",
+   "name": "Mega Arcanine EX",
+   "pokemon": "Arcanine",
+   "image": "https://i.etsystatic.com/66814655/r/il/296c4e/8861292964/il_fullxfull.8861292964_3kgo.jpg"
+  },
+  {
+   "key": "arcanine-d2",
+   "name": "Mega Arcanine EX",
+   "pokemon": "Arcanine",
+   "image": "https://i.etsystatic.com/66814655/r/il/f6d18e/8861293058/il_fullxfull.8861293058_6wel.jpg"
+  },
+  {
+   "key": "lunala",
+   "name": "Lunala",
+   "pokemon": "Lunala",
+   "image": "https://i.etsystatic.com/66814655/r/il/cf974b/8883836793/il_fullxfull.8883836793_cs6w.jpg"
+  },
+  {
+   "key": "armarouge",
+   "name": "Armarouge",
+   "pokemon": "Armarouge",
+   "image": "https://i.etsystatic.com/66814655/r/il/1d822b/8836044092/il_fullxfull.8836044092_ftvy.jpg"
+  },
+  {
+   "key": "tentacruel",
+   "name": "Mega Tentacruel",
+   "pokemon": "Tentacruel",
+   "image": "https://i.etsystatic.com/66814655/r/il/3b3057/8841871430/il_fullxfull.8841871430_dsvy.jpg"
+  },
+  {
+   "key": "alakazam-d1",
+   "name": "Alakazam",
+   "pokemon": "Alakazam",
+   "image": "https://i.etsystatic.com/66814655/r/il/eec8d0/8861363548/il_fullxfull.8861363548_6na7.jpg"
+  },
+  {
+   "key": "alakazam-d2",
+   "name": "Alakazam",
+   "pokemon": "Alakazam",
+   "image": "https://i.etsystatic.com/66814655/r/il/98b9ce/8861364394/il_fullxfull.8861364394_f98p.jpg"
+  },
+  {
+   "key": "ninetales-d1",
+   "name": "Mega Ninetales EX",
+   "pokemon": "Ninetales",
+   "image": "https://i.etsystatic.com/66814655/r/il/d92bbb/8860370094/il_fullxfull.8860370094_reci.jpg"
+  },
+  {
+   "key": "ninetales-d2",
+   "name": "Mega Ninetales EX",
+   "pokemon": "Ninetales",
+   "image": "https://i.etsystatic.com/66814655/r/il/b920aa/8908144081/il_fullxfull.8908144081_dyqz.jpg"
+  }
+ ]
+}
