@@ -1,0 +1,95 @@
+{
+ "test-render-1": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-18_test-render-1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-18_test-render-1.jpg",
+  "render": {
+   "duration": 13.633333333333333,
+   "variant": {
+    "tilt_deg": 12.899991419384397,
+    "period": 4.298989007416161,
+    "pitch_deg": 4.804495072870072,
+    "phase": 0.9294470011656759,
+    "card_w": 597,
+    "entrance": "zoom",
+    "bg": "pan",
+    "zoom_dir": -1.0,
+    "title_anim": "pop",
+    "title_hl": 1,
+    "pill": "outline",
+    "subs": "box"
+   },
+   "music": {
+    "bpm": 124,
+    "root": 55,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.18,
+    "text": "Wait for it..."
+   },
+   {
+    "t0": 1.18,
+    "t1": 1.75,
+    "text": "this one never got"
+   },
+   {
+    "t0": 1.75,
+    "t1": 2.781,
+    "text": "a real print."
+   },
+   {
+    "t0": 3.061,
+    "t1": 4.561,
+    "text": "So I made it myself:"
+   },
+   {
+    "t0": 4.561,
+    "t1": 5.251,
+    "text": "handmade,"
+   },
+   {
+    "t0": 5.251,
+    "t1": 5.911,
+    "text": "holographic,"
+   },
+   {
+    "t0": 5.911,
+    "t1": 7.198,
+    "text": "and real card size."
+   },
+   {
+    "t0": 7.458,
+    "t1": 8.268,
+    "text": "Pick any two"
+   },
+   {
+    "t0": 8.268,
+    "t1": 8.578,
+    "text": "and take"
+   },
+   {
+    "t0": 8.578,
+    "t1": 9.878,
+    "text": "25% off"
+   },
+   {
+    "t0": 9.878,
+    "t1": 11.284,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 11.584,
+    "t1": 12.631,
+    "text": "Link's in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-19T02:14:22.938135+00:00",
+  "render_seconds": 77,
+  "done": "2026-11-19T02:14:22.938186+00:00",
+  "dry_run": true
+ }
+}
