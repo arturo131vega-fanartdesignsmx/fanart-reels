@@ -1,0 +1,1462 @@
+{
+ "candidate": {
+  "key": "charizardy-d1",
+  "name": "Mega Charizard Y",
+  "pokemon": "Charizard",
+  "image": "https://i.etsystatic.com/66814655/r/il/69bcf6/8906067429/il_fullxfull.8906067429_pifu.jpg"
+ },
+ "real_cards": [
+  {
+   "id": "pl4-1",
+   "name": "Charizard",
+   "set": "Arceus",
+   "hp": 140,
+   "rarity": "Holo Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Fire Wing",
+    "Burning Tail"
+   ],
+   "abilities": [
+    "Fire Formation"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl4/1/low.png"
+  },
+  {
+   "id": "2024sv-1",
+   "name": "Charizard",
+   "set": "McDonald's Collection 2024",
+   "hp": 170,
+   "rarity": "None",
+   "illustrator": "Ryuta Fuse",
+   "attacks": [
+    "Royal Blaze"
+   ],
+   "abilities": [
+    "Battle Sense"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "30th-c-001",
+   "name": "Charizard",
+   "set": "30th Classic Collection",
+   "hp": 120,
+   "rarity": "None",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "gym2-2",
+   "name": "Blaine's Charizard",
+   "set": "Gym Challenge",
+   "hp": 100,
+   "rarity": "Holo Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Roaring Flames",
+    "Flame Jet"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym2/2/low.png"
+  },
+  {
+   "id": "sm7.5-3",
+   "name": "Charizard",
+   "set": "Dragon Majesty",
+   "hp": 160,
+   "rarity": "Rare",
+   "illustrator": "Ryota Murayama",
+   "attacks": [
+    "Fiery Blast"
+   ],
+   "abilities": [
+    "Resolute Flame"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "lc-3",
+   "name": "Charizard",
+   "set": "Legendary Collection",
+   "hp": 120,
+   "rarity": "Holo Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/lc/lc/3/low.png"
+  },
+  {
+   "id": "dp3-3",
+   "name": "Charizard",
+   "set": "Secret Wonders",
+   "hp": 130,
+   "rarity": "Rare Holo",
+   "illustrator": "Daisuke Ito",
+   "attacks": [
+    "Blast Burn"
+   ],
+   "abilities": [
+    "Fury Blaze"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp3/3/low.png"
+  },
+  {
+   "id": "base5-4",
+   "name": "Dark Charizard",
+   "set": "Team Rocket",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Nail Flick",
+    "Continuous Fireball"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base5/4/low.png"
+  },
+  {
+   "id": "base4-4",
+   "name": "Charizard",
+   "set": "Base Set 2",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base4/4/low.png"
+  },
+  {
+   "id": "base1-4",
+   "name": "Charizard",
+   "set": "Base Set",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base1/4/low.png"
+  },
+  {
+   "id": "ex14-4",
+   "name": "Charizard \u03b4",
+   "set": "Crystal Guardians",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Metal Burn"
+   ],
+   "abilities": [
+    "Peal of Thunder"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex14/4/low.png"
+  },
+  {
+   "id": "det1-5",
+   "name": "Charizard",
+   "set": "Detective Pikachu",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Framestore",
+   "attacks": [
+    "Slash",
+    "Wild Tackle"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/det1/5/low.png"
+  },
+  {
+   "id": "sv03.5-006",
+   "name": "Charizard ex",
+   "set": "151",
+   "hp": 330,
+   "rarity": "Double rare",
+   "illustrator": "PLANETA Mochizuki",
+   "attacks": [
+    "Brave Wing",
+    "Explosive Vortex"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/006/low.png"
+  },
+  {
+   "id": "ex16-6",
+   "name": "Charizard",
+   "set": "Power Keepers",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Combustion",
+    "Bursting Inferno"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex16/6/low.png"
+  },
+  {
+   "id": "ecard1-6",
+   "name": "Charizard",
+   "set": "Expedition Base Set",
+   "hp": 120,
+   "rarity": "Holo Rare",
+   "illustrator": "Hiromichi Sugiyama",
+   "attacks": [
+    "Scorching Whirlwind"
+   ],
+   "abilities": [
+    "Burning Energy"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/6/low.png"
+  },
+  {
+   "id": "sm115-9",
+   "name": "Charizard GX",
+   "set": "Hidden Fates",
+   "hp": 250,
+   "rarity": "Ultra Rare",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Flamethrower",
+    "Flare Blitz GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm115/9/low.png"
+  },
+  {
+   "id": "swsh10.5-010",
+   "name": "Charizard",
+   "set": "Pok\u00e9mon GO",
+   "hp": 170,
+   "rarity": "Holo Rare",
+   "illustrator": "N-DESIGN Inc.",
+   "attacks": [
+    "Flare Blitz"
+   ],
+   "abilities": [
+    "Burn Brightly"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/low.png"
+  },
+  {
+   "id": "A2b-010",
+   "name": "Charizard ex",
+   "set": "Shining Revelry",
+   "hp": 180,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Stoke",
+    "Steam Artillery"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/010/low.png"
+  },
+  {
+   "id": "swsh10.5-011",
+   "name": "Radiant Charizard",
+   "set": "Pok\u00e9mon GO",
+   "hp": 160,
+   "rarity": "Radiant Rare",
+   "illustrator": "Shigenori Negishi",
+   "attacks": [
+    "Combustion Blast"
+   ],
+   "abilities": [
+    "Excited Heart"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/low.png"
+  },
+  {
+   "id": "g1-11",
+   "name": "Charizard EX",
+   "set": "Generations",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Eske Yoshinob",
+   "attacks": [
+    "Flame Cloak",
+    "Burning Breath"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/g1/11/low.png"
+  },
+  {
+   "id": "xy12-11",
+   "name": "Charizard",
+   "set": "Evolutions",
+   "hp": 150,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/11/low.png"
+  },
+  {
+   "id": "xy2-11",
+   "name": "Charizard EX",
+   "set": "Flashfire",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Eske Yoshinob",
+   "attacks": [
+    "Stoke",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/11/low.png"
+  },
+  {
+   "id": "g1-12",
+   "name": "M Charizard EX",
+   "set": "Generations",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Heat Typhoon"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/g1/12/low.png"
+  },
+  {
+   "id": "xy12-12",
+   "name": "Charizard EX",
+   "set": "Evolutions",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "PLANETA",
+   "attacks": [
+    "Wing Attack",
+    "Combustion Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/12/low.png"
+  },
+  {
+   "id": "xy2-12",
+   "name": "Charizard EX",
+   "set": "Flashfire",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "PLANETA",
+   "attacks": [
+    "Wing Attack",
+    "Combustion Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/12/low.png"
+  },
+  {
+   "id": "B1a-013",
+   "name": "Charizard",
+   "set": "Crimson Blaze",
+   "hp": 150,
+   "rarity": "Three Diamond",
+   "illustrator": "DOM",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1a/013/low.png"
+  },
+  {
+   "id": "me02-013",
+   "name": "Mega Charizard X ex",
+   "set": "Phantasmal Flames",
+   "hp": 360,
+   "rarity": "Double rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02/013/low.png"
+  },
+  {
+   "id": "xy12-13",
+   "name": "M Charizard EX",
+   "set": "Evolutions",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/13/low.png"
+  },
+  {
+   "id": "xy2-13",
+   "name": "M Charizard EX",
+   "set": "Flashfire",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/13/low.png"
+  },
+  {
+   "id": "sm9-14",
+   "name": "Charizard",
+   "set": "Team Up",
+   "hp": 150,
+   "rarity": "Rare",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Continuous Blaze Ball"
+   ],
+   "abilities": [
+    "Roaring Resolve"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/14/low.png"
+  },
+  {
+   "id": "B1a-014",
+   "name": "Mega Charizard Y ex",
+   "set": "Crimson Blaze",
+   "hp": 220,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1a/014/low.png"
+  },
+  {
+   "id": "swsh9-017",
+   "name": "Charizard V",
+   "set": "Brilliant Stars",
+   "hp": 220,
+   "rarity": "Holo Rare V",
+   "illustrator": "N-DESIGN Inc.",
+   "attacks": [
+    "Incinerate",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/017/low.png"
+  },
+  {
+   "id": "swsh12.5-018",
+   "name": "Charizard V",
+   "set": "Crown Zenith",
+   "hp": 220,
+   "rarity": "Holo Rare V",
+   "illustrator": "N-DESIGN Inc.",
+   "attacks": [
+    "Incinerate",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/018/low.png"
+  },
+  {
+   "id": "swsh9-018",
+   "name": "Charizard VSTAR",
+   "set": "Brilliant Stars",
+   "hp": 280,
+   "rarity": "Holo Rare VSTAR",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Explosive Fire",
+    "Star Blaze"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/018/low.png"
+  },
+  {
+   "id": "bw11-19",
+   "name": "Charizard",
+   "set": "Legendary Treasures",
+   "hp": 160,
+   "rarity": "Rare",
+   "illustrator": "TOKIYA",
+   "attacks": [
+    "Split Bomb",
+    "Scorching Fire"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw11/19/low.png"
+  },
+  {
+   "id": "swsh12.5-019",
+   "name": "Charizard VSTAR",
+   "set": "Crown Zenith",
+   "hp": 280,
+   "rarity": "Holo Rare VSTAR",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Explosive Fire",
+    "Star Blaze"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/019/low.png"
+  },
+  {
+   "id": "swsh3-19",
+   "name": "Charizard V",
+   "set": "Darkness Ablaze",
+   "hp": 220,
+   "rarity": "Holo Rare V",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Claw Slash",
+    "Fire Spin"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh3/19/low.png"
+  },
+  {
+   "id": "bw7-20",
+   "name": "Charizard",
+   "set": "Boundaries Crossed",
+   "hp": 160,
+   "rarity": "Rare",
+   "illustrator": "hatachu",
+   "attacks": [
+    "Split Bomb",
+    "Scorching Fire"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw7/20/low.png"
+  },
+  {
+   "id": "swsh12.5-020",
+   "name": "Radiant Charizard",
+   "set": "Crown Zenith",
+   "hp": 160,
+   "rarity": "Radiant Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Combustion Blast"
+   ],
+   "abilities": [
+    "Excited Heart"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/020/low.png"
+  },
+  {
+   "id": "swsh3-20",
+   "name": "Charizard VMAX",
+   "set": "Darkness Ablaze",
+   "hp": 330,
+   "rarity": "Holo Rare VMAX",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Claw Slash",
+    "G-Max Wildfire"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh3/20/low.png"
+  },
+  {
+   "id": "pl3-20",
+   "name": "Charizard G",
+   "set": "Supreme Victors",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Wataru Kawahara",
+   "attacks": [
+    "Flame Jet",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl3/20/low.png"
+  },
+  {
+   "id": "sm3-20",
+   "name": "Charizard GX",
+   "set": "Burning Shadows",
+   "hp": 250,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Wing Attack",
+    "Crimson Storm",
+    "Raging Out GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm3/20/low.png"
+  },
+  {
+   "id": "sm10-20",
+   "name": "Reshiram & Charizard GX",
+   "set": "Unbroken Bonds",
+   "hp": 270,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Outrage",
+    "Flare Strike",
+    "Double Blaze GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/20/low.png"
+  },
+  {
+   "id": "base5-21",
+   "name": "Dark Charizard",
+   "set": "Team Rocket",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Nail Flick",
+    "Continuous Fireball"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base5/21/low.png"
+  },
+  {
+   "id": "sm12-22",
+   "name": "Charizard & Braixen GX",
+   "set": "Cosmic Eclipse",
+   "hp": 270,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Brilliant Flare",
+    "Crimson Flame Pillar GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm12/22/low.png"
+  },
+  {
+   "id": "me02.5-022",
+   "name": "Mega Charizard Y ex",
+   "set": "Ascended Heroes",
+   "hp": 360,
+   "rarity": "Double rare",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Explosion Y"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02.5/022/low.png"
+  },
+  {
+   "id": "mep-023",
+   "name": "Mega Charizard X ex",
+   "set": "MEP Black Star Promos",
+   "hp": 360,
+   "rarity": "Promo",
+   "illustrator": "Saboteri",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swsh4-25",
+   "name": "Charizard",
+   "set": "Vivid Voltage",
+   "hp": 170,
+   "rarity": "Rare",
+   "illustrator": "Ryuta Fuse",
+   "attacks": [
+    "Royal Blaze"
+   ],
+   "abilities": [
+    "Battle Sense"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh4/25/low.png"
+  },
+  {
+   "id": "mep-029",
+   "name": "Mega Charizard X ex",
+   "set": "MEP Black Star Promos",
+   "hp": 360,
+   "rarity": "Promo",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "mep-030",
+   "name": "Mega Charizard Y ex",
+   "set": "MEP Black Star Promos",
+   "hp": 360,
+   "rarity": "Promo",
+   "illustrator": "Ultimateinudog",
+   "attacks": [
+    "Explosion Y"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "A1-035",
+   "name": "Charizard",
+   "set": "Genetic Apex",
+   "hp": 150,
+   "rarity": "Three Diamond",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/035/low.png"
+  },
+  {
+   "id": "A1-036",
+   "name": "Charizard ex",
+   "set": "Genetic Apex",
+   "hp": 180,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA Mochizuki",
+   "attacks": [
+    "Slash",
+    "Crimson Storm"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/036/low.png"
+  },
+  {
+   "id": "ecard1-39",
+   "name": "Charizard",
+   "set": "Expedition Base Set",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Tail Smash",
+    "Flamethrower"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/39/low.png"
+  },
+  {
+   "id": "ecard1-40",
+   "name": "Charizard",
+   "set": "Expedition Base Set",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Hiromichi Sugiyama",
+   "attacks": [
+    "Scorching Whirlwind"
+   ],
+   "abilities": [
+    "Burning Energy"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/40/low.png"
+  },
+  {
+   "id": "sv04.5-054",
+   "name": "Charizard ex",
+   "set": "Paldean Fates",
+   "hp": 330,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/054/low.png"
+  },
+  {
+   "id": "svp-056",
+   "name": "Charizard ex",
+   "set": "SVP Black Star Promos",
+   "hp": 330,
+   "rarity": "Promo",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/056/low.png"
+  },
+  {
+   "id": "xy2-69",
+   "name": "M Charizard EX",
+   "set": "Flashfire",
+   "hp": 230,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Wild Blaze"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/69/low.png"
+  },
+  {
+   "id": "svp-074",
+   "name": "Charizard ex",
+   "set": "SVP Black Star Promos",
+   "hp": 330,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/074/low.png"
+  },
+  {
+   "id": "swsh3.5-74",
+   "name": "Charizard VMAX",
+   "set": "Champion's Path",
+   "hp": 330,
+   "rarity": "Secret Rare",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Claw Slash",
+    "G-Max Wildfire"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/74/low.png"
+  },
+  {
+   "id": "xy12-75",
+   "name": "Charizard Spirit Link",
+   "set": "Evolutions",
+   "hp": null,
+   "rarity": "Uncommon",
+   "illustrator": "5ban Graphics",
+   "attacks": [],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/75/low.png"
+  },
+  {
+   "id": "B1a-077",
+   "name": "Mega Charizard Y ex",
+   "set": "Crimson Blaze",
+   "hp": 220,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1a/077/low.png"
+  },
+  {
+   "id": "swsh3.5-79",
+   "name": "Charizard V",
+   "set": "Champion's Path",
+   "hp": 220,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Claw Slash",
+    "Fire Spin"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/79/low.png"
+  },
+  {
+   "id": "A2b-080",
+   "name": "Charizard ex",
+   "set": "Shining Revelry",
+   "hp": 180,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Stoke",
+    "Steam Artillery"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/080/low.png"
+  },
+  {
+   "id": "B1a-087",
+   "name": "Mega Charizard Y ex",
+   "set": "Crimson Blaze",
+   "hp": 220,
+   "rarity": "Three Star",
+   "illustrator": "Nurikabe",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1a/087/low.png"
+  },
+  {
+   "id": "B1a-091",
+   "name": "Charizard",
+   "set": "Crimson Blaze",
+   "hp": 150,
+   "rarity": "One Shiny",
+   "illustrator": "Taiga Kasai",
+   "attacks": [
+    "Inferno Onrush"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1a/091/low.png"
+  },
+  {
+   "id": "xy2-100",
+   "name": "Charizard EX",
+   "set": "Flashfire",
+   "hp": 180,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Stoke",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/100/low.png"
+  },
+  {
+   "id": "ex15-100",
+   "name": "Charizard \u2606 \u03b4",
+   "set": "Dragon Frontiers",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Rotating Claws",
+    "Dark Swirl"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex15/100/low.png"
+  },
+  {
+   "id": "ex3-100",
+   "name": "Charizard",
+   "set": "Dragon",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Collect Fire",
+    "Flame Pillar"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex3/100/low.png"
+  },
+  {
+   "id": "xy12-101",
+   "name": "M Charizard EX",
+   "set": "Evolutions",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/101/low.png"
+  },
+  {
+   "id": "dp7-103",
+   "name": "Charizard",
+   "set": "Stormfront",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Fire Spin"
+   ],
+   "abilities": [
+    "Energy Burn"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp7/103/low.png"
+  },
+  {
+   "id": "ex6-105",
+   "name": "Charizard ex",
+   "set": "FireRed & LeafGreen",
+   "hp": 160,
+   "rarity": "Rare",
+   "illustrator": "Hiromichi Sugiyama",
+   "attacks": [
+    "Slash",
+    "Burn Down"
+   ],
+   "abilities": [
+    "Energy Flame"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex6/105/low.png"
+  },
+  {
+   "id": "neo4-107",
+   "name": "Shining Charizard",
+   "set": "Neo Destiny",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Hironobu Yoshida",
+   "attacks": [
+    "White-Hot Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo4/107/low.png"
+  },
+  {
+   "id": "xy2-107",
+   "name": "M Charizard EX",
+   "set": "Flashfire",
+   "hp": 220,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Crimson Dive"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/107/low.png"
+  },
+  {
+   "id": "A2b-108",
+   "name": "Charizard ex",
+   "set": "Shining Revelry",
+   "hp": 180,
+   "rarity": "Two Shiny",
+   "illustrator": "PLANETA Igarashi",
+   "attacks": [
+    "Stoke",
+    "Steam Artillery"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A2b/108/low.png"
+  },
+  {
+   "id": "xy2-108",
+   "name": "M Charizard EX",
+   "set": "Flashfire",
+   "hp": 230,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Wild Blaze"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy2/108/low.png"
+  },
+  {
+   "id": "me02-109",
+   "name": "Mega Charizard X ex",
+   "set": "Phantasmal Flames",
+   "hp": 360,
+   "rarity": "Ultra Rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02/109/low.png"
+  },
+  {
+   "id": "sv03-125",
+   "name": "Charizard ex",
+   "set": "Obsidian Flames",
+   "hp": 330,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/125/low.png"
+  },
+  {
+   "id": "me02-125",
+   "name": "Mega Charizard X ex",
+   "set": "Phantasmal Flames",
+   "hp": 360,
+   "rarity": "Special illustration rare",
+   "illustrator": "danciao",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02/125/low.png"
+  },
+  {
+   "id": "me02-130",
+   "name": "Mega Charizard X ex",
+   "set": "Phantasmal Flames",
+   "hp": 360,
+   "rarity": "Mega Hyper Rare",
+   "illustrator": "Takuyoa",
+   "attacks": [
+    "Inferno X"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me02/130/low.png"
+  },
+  {
+   "id": "bw8-136",
+   "name": "Charizard",
+   "set": "Plasma Storm",
+   "hp": 160,
+   "rarity": "Secret Rare",
+   "illustrator": "Ayaka Yoshida",
+   "attacks": [
+    "Split Bomb",
+    "Scorching Fire"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw8/136/low.png"
+  },
+  {
+   "id": "pl3-143",
+   "name": "Charizard G LV.X",
+   "set": "Supreme Victors",
+   "hp": 120,
+   "rarity": "Rare Holo LV.X",
+   "illustrator": "Wataru Kawahara",
+   "attacks": [
+    "Malevolent Fire"
+   ],
+   "abilities": [
+    "Call for Power"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl3/143/low.png"
+  },
+  {
+   "id": "ecard3-146",
+   "name": "Charizard",
+   "set": "Skyridge",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Fireblast",
+    "Dragon Tail"
+   ],
+   "abilities": [
+    "Crystal Type"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/146/low.png"
+  },
+  {
+   "id": "sm3-150",
+   "name": "Charizard GX",
+   "set": "Burning Shadows",
+   "hp": 250,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Wing Attack",
+    "Crimson Storm",
+    "Raging Out GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm3/150/low.png"
+  },
+  {
+   "id": "swsh9-153",
+   "name": "Charizard V",
+   "set": "Brilliant Stars",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "N-DESIGN Inc.",
+   "attacks": [
+    "Incinerate",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/153/low.png"
+  },
+  {
+   "id": "swsh9-154",
+   "name": "Charizard V",
+   "set": "Brilliant Stars",
+   "hp": 220,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ryota Murayama",
+   "attacks": [
+    "Incinerate",
+    "Heat Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/154/low.png"
+  },
+  {
+   "id": "svp-161",
+   "name": "Charizard ex",
+   "set": "SVP Black Star Promos",
+   "hp": 330,
+   "rarity": "Promo",
+   "illustrator": "PLANETA Mochizuki",
+   "attacks": [
+    "Brave Wing",
+    "Explosive Vortex"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/161/low.png"
+  },
+  {
+   "id": "swsh9-174",
+   "name": "Charizard VSTAR",
+   "set": "Brilliant Stars",
+   "hp": 280,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Explosive Fire",
+    "Star Blaze"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh9/174/low.png"
+  },
+  {
+   "id": "sv03.5-183",
+   "name": "Charizard ex",
+   "set": "151",
+   "hp": 330,
+   "rarity": "Ultra Rare",
+   "illustrator": "PLANETA Mochizuki",
+   "attacks": [
+    "Brave Wing",
+    "Explosive Vortex"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/183/low.png"
+  },
+  {
+   "id": "sm10-194",
+   "name": "Reshiram & Charizard GX",
+   "set": "Unbroken Bonds",
+   "hp": 270,
+   "rarity": "Ultra Rare",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Outrage",
+    "Flare Strike",
+    "Double Blaze GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/194/low.png"
+  },
+  {
+   "id": "svp-196",
+   "name": "Charizard ex",
+   "set": "SVP Black Star Promos",
+   "hp": 330,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "sv03.5-199",
+   "name": "Charizard ex",
+   "set": "151",
+   "hp": 330,
+   "rarity": "Special illustration rare",
+   "illustrator": "miki kudo",
+   "attacks": [
+    "Brave Wing",
+    "Explosive Vortex"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/199/low.png"
+  },
+  {
+   "id": "sm12-212",
+   "name": "Charizard & Braixen GX",
+   "set": "Cosmic Eclipse",
+   "hp": 270,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Brilliant Flare",
+    "Crimson Flame Pillar GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm12/212/low.png"
+  },
+  {
+   "id": "sv03-215",
+   "name": "Charizard ex",
+   "set": "Obsidian Flames",
+   "hp": 330,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/215/low.png"
+  },
+  {
+   "id": "sm10-217",
+   "name": "Reshiram & Charizard GX",
+   "set": "Unbroken Bonds",
+   "hp": 270,
+   "rarity": "Secret Rare",
+   "illustrator": "aky CG Works",
+   "attacks": [
+    "Outrage",
+    "Flare Strike",
+    "Double Blaze GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/217/low.png"
+  },
+  {
+   "id": "sv03-223",
+   "name": "Charizard ex",
+   "set": "Obsidian Flames",
+   "hp": 330,
+   "rarity": "Special illustration rare",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/223/low.png"
+  },
+  {
+   "id": "sv03-228",
+   "name": "Charizard ex",
+   "set": "Obsidian Flames",
+   "hp": 330,
+   "rarity": "Hyper rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Burning Darkness"
+   ],
+   "abilities": [
+    "Infernal Reign"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/228/low.png"
+  }
+ ]
+}

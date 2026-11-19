@@ -1,38 +1,22 @@
 {
- "arcanine-d1": {
-  "name": "Mega Arcanine EX",
-  "real_cards_found": 51
+ "greninja": {
+  "name": "Mega Greninja",
+  "real_cards_found": 48
  },
- "arcanine-d2": {
-  "name": "Mega Arcanine EX",
-  "real_cards_found": 51
+ "lucario-d1": {
+  "name": "Mega Lucario EX",
+  "real_cards_found": 71
  },
- "lunala": {
-  "name": "Lunala",
-  "real_cards_found": 20
+ "gengar-d1": {
+  "name": "Mega Gengar EX",
+  "real_cards_found": 62
  },
- "armarouge": {
-  "name": "Armarouge",
-  "real_cards_found": 15
+ "charizardy-d1": {
+  "name": "Mega Charizard Y",
+  "real_cards_found": 96
  },
- "tentacruel": {
-  "name": "Mega Tentacruel",
-  "real_cards_found": 19
- },
- "alakazam-d1": {
-  "name": "Alakazam",
-  "real_cards_found": 35
- },
- "alakazam-d2": {
-  "name": "Alakazam",
-  "real_cards_found": 35
- },
- "ninetales-d1": {
-  "name": "Mega Ninetales EX",
-  "real_cards_found": 64
- },
- "ninetales-d2": {
-  "name": "Mega Ninetales EX",
-  "real_cards_found": 64
+ "umbreon-d1": {
+  "name": "Umbreon EX",
+  "real_cards_found": 55
  }
 }

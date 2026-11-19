@@ -1,0 +1,855 @@
+{
+ "candidate": {
+  "key": "umbreon-d1",
+  "name": "Umbreon EX",
+  "pokemon": "Umbreon",
+  "image": "https://i.etsystatic.com/66814655/r/il/9cc949/8866487138/il_fullxfull.8866487138_7hy9.jpg"
+ },
+ "real_cards": [
+  {
+   "id": "2024sv-9",
+   "name": "Umbreon",
+   "set": "McDonald's Collection 2024",
+   "hp": 110,
+   "rarity": "None",
+   "illustrator": "Souichirou Gunjima",
+   "attacks": [
+    "Blindside",
+    "Moon Mirage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "hgss3-10",
+   "name": "Umbreon",
+   "set": "Undaunted",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Moonlight Fang",
+    "Quick Blow"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss3/10/low.png"
+  },
+  {
+   "id": "neo2-13",
+   "name": "Umbreon",
+   "set": "Neo Discovery",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Kimiya Masago",
+   "attacks": [
+    "Bite",
+    "Feint Attack"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo2/13/low.png"
+  },
+  {
+   "id": "pop5-17",
+   "name": "Umbreon \u2605",
+   "set": "POP Series 5",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Feint Attack"
+   ],
+   "abilities": [
+    "Dark Ray"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pop/pop5/17/low.png"
+  },
+  {
+   "id": "ex11-17",
+   "name": "Umbreon \u03b4",
+   "set": "Delta Species",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Feint Attack"
+   ],
+   "abilities": [
+    "Delta Moon"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex11/17/low.png"
+  },
+  {
+   "id": "col1-22",
+   "name": "Umbreon",
+   "set": "Call of Legends",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Moonlight Fang",
+    "Quick Blow"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/col/col1/22/low.png"
+  },
+  {
+   "id": "ex2-24",
+   "name": "Umbreon",
+   "set": "Sandstorm",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Confuse Ray",
+    "Moon Impact"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex2/24/low.png"
+  },
+  {
+   "id": "neo2-32",
+   "name": "Umbreon",
+   "set": "Neo Discovery",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Naoyo Kimura",
+   "attacks": [
+    "Quick Attack",
+    "Pursuit"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo2/32/low.png"
+  },
+  {
+   "id": "ecard3-32",
+   "name": "Umbreon",
+   "set": "Skyridge",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Sharp Claws"
+   ],
+   "abilities": [
+    "Dark Gaze"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/32/low.png"
+  },
+  {
+   "id": "dp5-32",
+   "name": "Umbreon",
+   "set": "Majestic Dawn",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Confuse Ray"
+   ],
+   "abilities": [
+    "Moonlight Veil"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp5/32/low.png"
+  },
+  {
+   "id": "ecard2-41",
+   "name": "Umbreon",
+   "set": "Aquapolis",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Shadow Bind"
+   ],
+   "abilities": [
+    "Dark Moon"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard2/41/low.png"
+  },
+  {
+   "id": "A3b-043",
+   "name": "Umbreon",
+   "set": "Eevee Grove",
+   "hp": 100,
+   "rarity": "Three Diamond",
+   "illustrator": "Ryota Murayama",
+   "attacks": [
+    "Dark Binding"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3b/043/low.png"
+  },
+  {
+   "id": "xy10-55",
+   "name": "Umbreon EX",
+   "set": "Fates Collide",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ayaka Yoshida",
+   "attacks": [
+    "Veil of Darkness",
+    "Endgame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy10/55/low.png"
+  },
+  {
+   "id": "sv08.5-059",
+   "name": "Umbreon",
+   "set": "Prismatic Evolutions",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "matazo",
+   "attacks": [
+    "Feint Attack",
+    "Pitch-Black Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08.5/059/low.png"
+  },
+  {
+   "id": "bw5-60",
+   "name": "Umbreon",
+   "set": "Dark Explorers",
+   "hp": 100,
+   "rarity": "Uncommon",
+   "illustrator": "TOKIYA",
+   "attacks": [
+    "Shadow Drain",
+    "Slashing Strike"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw5/60/low.png"
+  },
+  {
+   "id": "sv08.5-060",
+   "name": "Umbreon ex",
+   "set": "Prismatic Evolutions",
+   "hp": 280,
+   "rarity": "Double rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Moon Mirage",
+    "Onyx"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08.5/060/low.png"
+  },
+  {
+   "id": "bw5-61",
+   "name": "Umbreon",
+   "set": "Dark Explorers",
+   "hp": 100,
+   "rarity": "Uncommon",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Confuse Ray",
+    "Shadow Shutdown"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw5/61/low.png"
+  },
+  {
+   "id": "bw9-64",
+   "name": "Umbreon",
+   "set": "Plasma Freeze",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Dark Shade"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw9/64/low.png"
+  },
+  {
+   "id": "A3b-077",
+   "name": "Umbreon",
+   "set": "Eevee Grove",
+   "hp": 100,
+   "rarity": "One Star",
+   "illustrator": "kawayoo",
+   "attacks": [
+    "Dark Binding"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3b/077/low.png"
+  },
+  {
+   "id": "sm1-80",
+   "name": "Umbreon GX",
+   "set": "Sun & Moon",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Strafe",
+    "Shadow Bullet",
+    "Dark Call GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm1/80/low.png"
+  },
+  {
+   "id": "hgss3-86",
+   "name": "Umbreon",
+   "set": "Undaunted",
+   "hp": 100,
+   "rarity": "Rare PRIME",
+   "illustrator": "Hideaki Hakozaki",
+   "attacks": [
+    "Evoblast"
+   ],
+   "abilities": [
+    "Cloud-Covered Moon"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss3/86/low.png"
+  },
+  {
+   "id": "30th-091",
+   "name": "Umbreon",
+   "set": "30th Celebration",
+   "hp": 110,
+   "rarity": "Common",
+   "illustrator": "Iori Suzuki",
+   "attacks": [
+    "Retaliate",
+    "Darkness Fang"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/091/low.png"
+  },
+  {
+   "id": "30th-092",
+   "name": "Umbreon ex",
+   "set": "30th Celebration",
+   "hp": 270,
+   "rarity": "Double rare",
+   "illustrator": "Keisuke Azuma",
+   "attacks": [
+    "Lunatic Claw"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/092/low.png"
+  },
+  {
+   "id": "swsh7-94",
+   "name": "Umbreon V",
+   "set": "Evolving Skies",
+   "hp": 200,
+   "rarity": "Holo Rare V",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Mean Look",
+    "Moonlight Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/94/low.png"
+  },
+  {
+   "id": "swsh7-95",
+   "name": "Umbreon VMAX",
+   "set": "Evolving Skies",
+   "hp": 310,
+   "rarity": "Holo Rare VMAX",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Max Darkness"
+   ],
+   "abilities": [
+    "Dark Signal"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/95/low.png"
+  },
+  {
+   "id": "mep-110",
+   "name": "Umbreon ex",
+   "set": "MEP Black Star Promos",
+   "hp": 270,
+   "rarity": "Promo",
+   "illustrator": "REND",
+   "attacks": [
+    "Lunatic Claw"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "A4-112",
+   "name": "Umbreon ex",
+   "set": "Wisdom of Sea and Sky",
+   "hp": 140,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Dark Chase"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A4/112/low.png"
+  },
+  {
+   "id": "ex10-112",
+   "name": "Umbreon ex",
+   "set": "Unseen Forces",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Black Cry",
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Darker Ring"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex10/112/low.png"
+  },
+  {
+   "id": "xy10-119",
+   "name": "Umbreon EX",
+   "set": "Fates Collide",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Veil of Darkness",
+    "Endgame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy10/119/low.png"
+  },
+  {
+   "id": "sm8-120",
+   "name": "Umbreon",
+   "set": "Lost Thunder",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Ryota Murayama",
+   "attacks": [
+    "Retaliate",
+    "Dark Cutter"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm8/120/low.png"
+  },
+  {
+   "id": "sm11-125",
+   "name": "Umbreon & Darkrai GX",
+   "set": "Unified Minds",
+   "hp": 270,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Black Lance",
+    "Dark Moon GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm11/125/low.png"
+  },
+  {
+   "id": "sv03-130",
+   "name": "Umbreon",
+   "set": "Obsidian Flames",
+   "hp": 110,
+   "rarity": "Uncommon",
+   "illustrator": "rika",
+   "attacks": [
+    "Feint Attack",
+    "Pitch-Black Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/130/low.png"
+  },
+  {
+   "id": "sm1-142",
+   "name": "Umbreon GX",
+   "set": "Sun & Moon",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Strafe",
+    "Shadow Bullet",
+    "Dark Call GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm1/142/low.png"
+  },
+  {
+   "id": "sm1-154",
+   "name": "Umbreon GX",
+   "set": "Sun & Moon",
+   "hp": 200,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Strafe",
+    "Shadow Bullet",
+    "Dark Call GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm1/154/low.png"
+  },
+  {
+   "id": "sv08.5-161",
+   "name": "Umbreon ex",
+   "set": "Prismatic Evolutions",
+   "hp": 280,
+   "rarity": "Special illustration rare",
+   "illustrator": "YASHIRO Nanaco",
+   "attacks": [
+    "Moon Mirage",
+    "Onyx"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08.5/161/low.png"
+  },
+  {
+   "id": "svp-176",
+   "name": "Umbreon ex",
+   "set": "SVP Black Star Promos",
+   "hp": 280,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Moon Mirage",
+    "Onyx"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swsh7-188",
+   "name": "Umbreon V",
+   "set": "Evolving Skies",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Mean Look",
+    "Moonlight Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/188/low.png"
+  },
+  {
+   "id": "swsh7-189",
+   "name": "Umbreon V",
+   "set": "Evolving Skies",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "Teeziro",
+   "attacks": [
+    "Mean Look",
+    "Moonlight Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/189/low.png"
+  },
+  {
+   "id": "A4-193",
+   "name": "Umbreon ex",
+   "set": "Wisdom of Sea and Sky",
+   "hp": 140,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Dark Chase"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A4/193/low.png"
+  },
+  {
+   "id": "A4-208",
+   "name": "Umbreon ex",
+   "set": "Wisdom of Sea and Sky",
+   "hp": 140,
+   "rarity": "Two Star",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Dark Chase"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A4/208/low.png"
+  },
+  {
+   "id": "swsh7-214",
+   "name": "Umbreon VMAX",
+   "set": "Evolving Skies",
+   "hp": 310,
+   "rarity": "Secret Rare",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Max Darkness"
+   ],
+   "abilities": [
+    "Dark Signal"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/214/low.png"
+  },
+  {
+   "id": "swsh7-215",
+   "name": "Umbreon VMAX",
+   "set": "Evolving Skies",
+   "hp": 310,
+   "rarity": "Secret Rare",
+   "illustrator": "KEIICHIRO ITO",
+   "attacks": [
+    "Max Darkness"
+   ],
+   "abilities": [
+    "Dark Signal"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh7/215/low.png"
+  },
+  {
+   "id": "B2-231",
+   "name": "Umbreon ex",
+   "set": "Fantastical Parade",
+   "hp": 140,
+   "rarity": "Two Shiny",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Darkness Fang"
+   ],
+   "abilities": [
+    "Dark Chase"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B2/231/low.png"
+  },
+  {
+   "id": "bwp-BW93",
+   "name": "Umbreon",
+   "set": "BW Black Star Promos",
+   "hp": 100,
+   "rarity": "Common",
+   "illustrator": "Illus. & Direc. The Pok\u00e9mon Company Art Team",
+   "attacks": [
+    "Shadow Drain",
+    "Slashing Strike"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bwp/BW93/low.png"
+  },
+  {
+   "id": "cel25cc-CC015",
+   "name": "Umbreon \u2606",
+   "set": "Celebrations Classic Collection",
+   "hp": 70,
+   "rarity": "Classic Collection",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Feint Attack"
+   ],
+   "abilities": [
+    "Dark Ray"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "ecard2-H29",
+   "name": "Umbreon",
+   "set": "Aquapolis",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Shadow Bind"
+   ],
+   "abilities": [
+    "Dark Moon"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "ecard3-H30",
+   "name": "Umbreon",
+   "set": "Skyridge",
+   "hp": 70,
+   "rarity": "Holo Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Sharp Claws"
+   ],
+   "abilities": [
+    "Dark Gaze"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "smp-SM241",
+   "name": "Umbreon & Darkrai GX",
+   "set": "SM Black Star Promos",
+   "hp": 270,
+   "rarity": "Promo",
+   "illustrator": "so-taro",
+   "attacks": [
+    "Black Lance",
+    "Dark Moon GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "smp-SM36",
+   "name": "Umbreon GX",
+   "set": "SM Black Star Promos",
+   "hp": 200,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Strafe",
+    "Shadow Bullet",
+    "Dark Call GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/smp/SM36/low.png"
+  },
+  {
+   "id": "sma-SV69",
+   "name": "Umbreon-GX",
+   "set": "Hidden Fates Shiny Vault",
+   "hp": 200,
+   "rarity": "Shiny rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Strafe",
+    "Shadow Bullet",
+    "Dark Call-GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sma/SV69/low.png"
+  },
+  {
+   "id": "swshp-SWSH129",
+   "name": "Umbreon",
+   "set": "SWSH Black Star Promos",
+   "hp": 110,
+   "rarity": "Promo",
+   "illustrator": "Souichirou Gunjima",
+   "attacks": [
+    "Blindside",
+    "Moon Mirage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH129/low.png"
+  },
+  {
+   "id": "swshp-SWSH203",
+   "name": "Umbreon V",
+   "set": "SWSH Black Star Promos",
+   "hp": 200,
+   "rarity": "Promo",
+   "illustrator": null,
+   "attacks": [
+    "Mean Look",
+    "Moonlight Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH203/low.png"
+  },
+  {
+   "id": "swsh9tg-TG22",
+   "name": "Umbreon V",
+   "set": "Brilliant Stars Trainer Gallery",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "Ligton",
+   "attacks": [
+    "Mean Look",
+    "Moonlight Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "swsh9tg-TG23",
+   "name": "Umbreon VMAX",
+   "set": "Brilliant Stars Trainer Gallery",
+   "hp": 310,
+   "rarity": "Ultra Rare",
+   "illustrator": "kawayoo",
+   "attacks": [
+    "Max Darkness"
+   ],
+   "abilities": [
+    "Dark Signal"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xyp-XY96",
+   "name": "Umbreon",
+   "set": "XY Black Star Promos",
+   "hp": 100,
+   "rarity": "Promo",
+   "illustrator": "kawayoo",
+   "attacks": [
+    "Mach Claw"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY96/low.png"
+  }
+ ]
+}

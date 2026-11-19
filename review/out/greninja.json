@@ -1,0 +1,776 @@
+{
+ "candidate": {
+  "key": "greninja",
+  "name": "Mega Greninja",
+  "pokemon": "Greninja",
+  "image": "https://i.etsystatic.com/66814655/r/il/9d61f5/8883830125/il_fullxfull.8883830125_fqdc.jpg"
+ },
+ "real_cards": [
+  {
+   "id": "det1-9",
+   "name": "Greninja",
+   "set": "Detective Pikachu",
+   "hp": 140,
+   "rarity": "Ultra Rare",
+   "illustrator": "MPC Film",
+   "attacks": [
+    "Furious Shurikens"
+   ],
+   "abilities": [
+    "Evasion Jutsu"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/det1/9/low.png"
+  },
+  {
+   "id": "30th-c-009",
+   "name": "Greninja BREAK",
+   "set": "30th Classic Collection",
+   "hp": 170,
+   "rarity": "None",
+   "illustrator": "5ban Graphics",
+   "attacks": [],
+   "abilities": [
+    "Giant Water Shuriken"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xy0-14",
+   "name": "Greninja",
+   "set": "Kalos Starter Set",
+   "hp": 140,
+   "rarity": "None",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Mat Block",
+    "Aqua Edge"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy0/14/low.png"
+  },
+  {
+   "id": "P-A-019",
+   "name": "Greninja",
+   "set": "Promos-A",
+   "hp": 120,
+   "rarity": "None",
+   "illustrator": "Sanosuke Sakuma",
+   "attacks": [
+    "Mist Slash"
+   ],
+   "abilities": [
+    "Water Shuriken"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/P-A/019/low.png"
+  },
+  {
+   "id": "30th-021",
+   "name": "Greninja ex",
+   "set": "30th Celebration",
+   "hp": 300,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Stealthy Slash",
+    "Aqua Edge"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/021/low.png"
+  },
+  {
+   "id": "me04-022",
+   "name": "Mega Greninja ex",
+   "set": "Chaos Rising",
+   "hp": 350,
+   "rarity": "Double rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Ninja Spinner"
+   ],
+   "abilities": [
+    "Mortal Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me04/022/low.png"
+  },
+  {
+   "id": "sm6-24",
+   "name": "Greninja GX",
+   "set": "Forbidden Light",
+   "hp": 230,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Haze Slash",
+    "Shadowy Hunter GX"
+   ],
+   "abilities": [
+    "Shuriken Flurry"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm6/24/low.png"
+  },
+  {
+   "id": "xy9-40",
+   "name": "Greninja",
+   "set": "BREAKpoint",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Naoki Saito",
+   "attacks": [
+    "Shadow Stitching",
+    "Moonlight Slash"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy9/40/low.png"
+  },
+  {
+   "id": "sv07-041",
+   "name": "Greninja ex",
+   "set": "Stellar Crown",
+   "hp": 300,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Shifting Shuriken"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv07/041/low.png"
+  },
+  {
+   "id": "xy1-41",
+   "name": "Greninja",
+   "set": "XY",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Mist Slash"
+   ],
+   "abilities": [
+    "Water Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy1/41/low.png"
+  },
+  {
+   "id": "xy9-41",
+   "name": "Greninja BREAK",
+   "set": "BREAKpoint",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [],
+   "abilities": [
+    "Giant Water Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy9/41/low.png"
+  },
+  {
+   "id": "swsh10-046",
+   "name": "Radiant Greninja",
+   "set": "Astral Radiance",
+   "hp": 130,
+   "rarity": "Radiant Rare",
+   "illustrator": "Souichirou Gunjima",
+   "attacks": [
+    "Moonlight Shuriken"
+   ],
+   "abilities": [
+    "Concealed Cards"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh10/046/low.png"
+  },
+  {
+   "id": "svp-054",
+   "name": "Greninja ex",
+   "set": "SVP Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Stealthy Shuriken",
+    "Torrential Slash"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/054/low.png"
+  },
+  {
+   "id": "swsh8-73",
+   "name": "Greninja V",
+   "set": "Fusion Strike",
+   "hp": 210,
+   "rarity": "Holo Rare V",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Water Drip",
+    "Dancing Shuriken"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/73/low.png"
+  },
+  {
+   "id": "B1-073",
+   "name": "Greninja ex",
+   "set": "Mega Rising",
+   "hp": 170,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA Mochizuki",
+   "attacks": [
+    "Aqua Edge"
+   ],
+   "abilities": [
+    "Shifting Stream"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1/073/low.png"
+  },
+  {
+   "id": "mep-081",
+   "name": "Mega Greninja ex",
+   "set": "MEP Black Star Promos",
+   "hp": 350,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Ninja Spinner"
+   ],
+   "abilities": [
+    "Mortal Shuriken"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "A1-089",
+   "name": "Greninja",
+   "set": "Genetic Apex",
+   "hp": 120,
+   "rarity": "Three Diamond",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Mist Slash"
+   ],
+   "abilities": [
+    "Water Shuriken"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/089/low.png"
+  },
+  {
+   "id": "A3a-093",
+   "name": "Greninja",
+   "set": "Extradimensional Crisis",
+   "hp": 120,
+   "rarity": "One Shiny",
+   "illustrator": "Souichirou Gunjima",
+   "attacks": [
+    "Mist Slash"
+   ],
+   "abilities": [
+    "Water Shuriken"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3a/093/low.png"
+  },
+  {
+   "id": "mep-099",
+   "name": "Greninja ex",
+   "set": "MEP Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Stealthy Slash",
+    "Aqua Edge"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "me04-100",
+   "name": "Mega Greninja ex",
+   "set": "Chaos Rising",
+   "hp": 350,
+   "rarity": "Ultra Rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Ninja Spinner"
+   ],
+   "abilities": [
+    "Mortal Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me04/100/low.png"
+  },
+  {
+   "id": "sv06-106",
+   "name": "Greninja ex",
+   "set": "Twilight Masquerade",
+   "hp": 310,
+   "rarity": "Double rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Shinobi Blade",
+    "Mirage Barrage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv06/106/low.png"
+  },
+  {
+   "id": "sm10-107",
+   "name": "Greninja & Zoroark GX",
+   "set": "Unbroken Bonds",
+   "hp": 250,
+   "rarity": "Ultra Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Dark Pulse",
+    "Dark Union GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/107/low.png"
+  },
+  {
+   "id": "me04-116",
+   "name": "Mega Greninja ex",
+   "set": "Chaos Rising",
+   "hp": 350,
+   "rarity": "Special illustration rare",
+   "illustrator": "Susumu Maeya",
+   "attacks": [
+    "Ninja Spinner"
+   ],
+   "abilities": [
+    "Mortal Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me04/116/low.png"
+  },
+  {
+   "id": "sm10-117",
+   "name": "Greninja",
+   "set": "Unbroken Bonds",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "Yusuke Ohmura",
+   "attacks": [
+    "Bring Down",
+    "Mist Slash"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/117/low.png"
+  },
+  {
+   "id": "sm6-120",
+   "name": "Greninja GX",
+   "set": "Forbidden Light",
+   "hp": 230,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Haze Slash",
+    "Shadowy Hunter GX"
+   ],
+   "abilities": [
+    "Shuriken Flurry"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm6/120/low.png"
+  },
+  {
+   "id": "me04-122",
+   "name": "Mega Greninja ex",
+   "set": "Chaos Rising",
+   "hp": 350,
+   "rarity": "Mega Hyper Rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Ninja Spinner"
+   ],
+   "abilities": [
+    "Mortal Shuriken"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me04/122/low.png"
+  },
+  {
+   "id": "svp-132",
+   "name": "Greninja ex",
+   "set": "SVP Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "SIE NANAHARA",
+   "attacks": [
+    "Stealthy Shuriken",
+    "Torrential Slash"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/132/low.png"
+  },
+  {
+   "id": "sm6-133",
+   "name": "Greninja GX",
+   "set": "Forbidden Light",
+   "hp": 230,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Haze Slash",
+    "Shadowy Hunter GX"
+   ],
+   "abilities": [
+    "Shuriken Flurry"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm6/133/low.png"
+  },
+  {
+   "id": "30th-148",
+   "name": "Greninja ex",
+   "set": "30th Celebration",
+   "hp": 300,
+   "rarity": "Special illustration rare",
+   "illustrator": "GIDORA",
+   "attacks": [
+    "Stealthy Slash",
+    "Aqua Edge"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/148/low.png"
+  },
+  {
+   "id": "sv06-198",
+   "name": "Greninja ex",
+   "set": "Twilight Masquerade",
+   "hp": 310,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Shinobi Blade",
+    "Mirage Barrage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv06/198/low.png"
+  },
+  {
+   "id": "sm10-200",
+   "name": "Greninja & Zoroark GX",
+   "set": "Unbroken Bonds",
+   "hp": 250,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Dark Pulse",
+    "Dark Union GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/200/low.png"
+  },
+  {
+   "id": "sm10-201",
+   "name": "Greninja & Zoroark GX",
+   "set": "Unbroken Bonds",
+   "hp": 250,
+   "rarity": "Ultra Rare",
+   "illustrator": "kodama",
+   "attacks": [
+    "Dark Pulse",
+    "Dark Union GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/201/low.png"
+  },
+  {
+   "id": "sv06-214",
+   "name": "Greninja ex",
+   "set": "Twilight Masquerade",
+   "hp": 310,
+   "rarity": "Special illustration rare",
+   "illustrator": "akagi",
+   "attacks": [
+    "Shinobi Blade",
+    "Mirage Barrage"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv06/214/low.png"
+  },
+  {
+   "id": "sm10-222",
+   "name": "Greninja & Zoroark GX",
+   "set": "Unbroken Bonds",
+   "hp": 250,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Dark Pulse",
+    "Dark Union GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm10/222/low.png"
+  },
+  {
+   "id": "B1-256",
+   "name": "Greninja ex",
+   "set": "Mega Rising",
+   "hp": 170,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA Saito",
+   "attacks": [
+    "Aqua Edge"
+   ],
+   "abilities": [
+    "Shifting Stream"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1/256/low.png"
+  },
+  {
+   "id": "B1-275",
+   "name": "Greninja ex",
+   "set": "Mega Rising",
+   "hp": 170,
+   "rarity": "Two Star",
+   "illustrator": "Raita Kazama",
+   "attacks": [
+    "Aqua Edge"
+   ],
+   "abilities": [
+    "Shifting Stream"
+   ],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B1/275/low.png"
+  },
+  {
+   "id": "smp-SM197",
+   "name": "Greninja GX",
+   "set": "SM Black Star Promos",
+   "hp": 230,
+   "rarity": "Promo",
+   "illustrator": "MPC Film",
+   "attacks": [
+    "Mist Slash",
+    "Dark Mist GX"
+   ],
+   "abilities": [
+    "Elusive Master"
+   ],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "sma-SV56",
+   "name": "Greninja-GX",
+   "set": "Hidden Fates Shiny Vault",
+   "hp": 230,
+   "rarity": "Shiny rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Haze Slash",
+    "Shadowy Hunter-GX"
+   ],
+   "abilities": [
+    "Shuriken Flurry"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sma/SV56/low.png"
+  },
+  {
+   "id": "swshp-SWSH144",
+   "name": "Greninja \u2606",
+   "set": "SWSH Black Star Promos",
+   "hp": 130,
+   "rarity": "Promo",
+   "illustrator": "Masakazu Fukuda",
+   "attacks": [
+    "Mist Slash"
+   ],
+   "abilities": [
+    "Shadow Knife"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH144/low.png"
+  },
+  {
+   "id": "swshp-SWSH155",
+   "name": "Greninja V-UNION",
+   "set": "SWSH Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Union Gain",
+    "Aqua Edge",
+    "Twister Shuriken",
+    "Waterfall Bind"
+   ],
+   "abilities": [
+    "Ninja Body",
+    "Antidote Jutsu",
+    "Feel the Way"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH155/low.png"
+  },
+  {
+   "id": "swshp-SWSH156",
+   "name": "Greninja V-UNION",
+   "set": "SWSH Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Union Gain",
+    "Aqua Edge",
+    "Twister Shuriken",
+    "Waterfall Bind"
+   ],
+   "abilities": [
+    "Ninja Body",
+    "Antidote Jutsu",
+    "Feel the Way"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH156/low.png"
+  },
+  {
+   "id": "swshp-SWSH157",
+   "name": "Greninja V-UNION",
+   "set": "SWSH Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Union Gain",
+    "Aqua Edge",
+    "Twister Shuriken",
+    "Waterfall Bind"
+   ],
+   "abilities": [
+    "Ninja Body",
+    "Antidote Jutsu",
+    "Feel the Way"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH157/low.png"
+  },
+  {
+   "id": "swshp-SWSH158",
+   "name": "Greninja V-UNION",
+   "set": "SWSH Black Star Promos",
+   "hp": 300,
+   "rarity": "Promo",
+   "illustrator": "Shin Nagasawa",
+   "attacks": [
+    "Union Gain",
+    "Aqua Edge",
+    "Twister Shuriken",
+    "Waterfall Bind"
+   ],
+   "abilities": [
+    "Ninja Body",
+    "Antidote Jutsu",
+    "Feel the Way"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH158/low.png"
+  },
+  {
+   "id": "swshp-SWSH305",
+   "name": "Greninja",
+   "set": "SWSH Black Star Promos",
+   "hp": 140,
+   "rarity": "Promo",
+   "illustrator": "Taiga Kasai",
+   "attacks": [
+    "Coordinated Shuriken"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "xyp-XY133",
+   "name": "Ash Greninja EX",
+   "set": "XY Black Star Promos",
+   "hp": 170,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Dancing Shuriken",
+    "Ninja Blade"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY133/low.png"
+  },
+  {
+   "id": "xyp-XY162",
+   "name": "Greninja",
+   "set": "XY Black Star Promos",
+   "hp": 130,
+   "rarity": "Promo",
+   "illustrator": "Sanosuke Sakuma",
+   "attacks": [
+    "Aqua Shower",
+    "Dual Cut"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY162/low.png"
+  },
+  {
+   "id": "xyp-XY20",
+   "name": "Greninja EX",
+   "set": "XY Black Star Promos",
+   "hp": 170,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Sharpshooting",
+    "Aqua Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY20/low.png"
+  },
+  {
+   "id": "xyp-XY24",
+   "name": "Greninja",
+   "set": "XY Black Star Promos",
+   "hp": 130,
+   "rarity": "Promo",
+   "illustrator": "Akira Komayama",
+   "attacks": [
+    "Shadow Bullet"
+   ],
+   "abilities": [
+    "Mist Concealment"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xyp/XY24/low.png"
+  }
+ ]
+}
