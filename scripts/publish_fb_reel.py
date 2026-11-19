@@ -63,7 +63,13 @@ def resolve_page():
             return p["id"], p["access_token"], {"token_kind": "user", "page_id": p["id"], "page_name": p.get("name"),
                                                   "user_name": me.get("name")}
     names = [p.get("name") for p in pages]
-    raise RuntimeError(f"token belongs to '{me.get('name')}' but no matching Page in /me/accounts (pages seen: {names})")
+    try:
+        perms = call("GET", f"{GRAPH}/me/permissions?" + urllib.parse.urlencode({"access_token": TOKEN})).get("data", [])
+        granted = sorted(p["permission"] for p in perms if p.get("status") == "granted")
+    except Exception:
+        granted = "unknown"
+    raise RuntimeError(f"token belongs to '{me.get('name')}' but no matching Page in /me/accounts "
+                       f"(pages seen: {names}; granted permissions: {granted})")
 
 
 def publish(job, page, token):
