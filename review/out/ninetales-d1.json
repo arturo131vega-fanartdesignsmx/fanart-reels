@@ -1,0 +1,981 @@
+{
+ "candidate": {
+  "key": "ninetales-d1",
+  "name": "Mega Ninetales EX",
+  "pokemon": "Ninetales",
+  "image": "https://i.etsystatic.com/66814655/r/il/d92bbb/8860370094/il_fullxfull.8860370094_reci.jpg"
+ },
+ "real_cards": [
+  {
+   "id": "ru1-3",
+   "name": "Ninetales",
+   "set": "Pok\u00e9mon Rumble",
+   "hp": 90,
+   "rarity": "None",
+   "illustrator": null,
+   "attacks": [
+    "Flame Tail"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/ru1/3/low.png"
+  },
+  {
+   "id": "gym2-3",
+   "name": "Brock's Ninetales",
+   "set": "Gym Challenge",
+   "hp": 70,
+   "rarity": "Holo Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Will-o'-the-wisp"
+   ],
+   "abilities": [
+    "Shapeshift"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym2/3/low.png"
+  },
+  {
+   "id": "hgss1-7",
+   "name": "Ninetales",
+   "set": "HeartGold SoulSilver",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "TOKIYA",
+   "attacks": [
+    "Will-o'-the-wisp"
+   ],
+   "abilities": [
+    "Roast Reveal"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss1/7/low.png"
+  },
+  {
+   "id": "ex15-8",
+   "name": "Ninetales \u03b4",
+   "set": "Dragon Frontiers",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Hajime Kusajima",
+   "attacks": [
+    "Trick Tail"
+   ],
+   "abilities": [
+    "Volunteer"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex15/8/low.png"
+  },
+  {
+   "id": "me04-009",
+   "name": "Ninetales",
+   "set": "Chaos Rising",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Ryuta Fuse",
+   "attacks": [
+    "Nine-Tailed Transfer",
+    "Will-O-Wisp"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me04/009/low.png"
+  },
+  {
+   "id": "30th-010",
+   "name": "Ninetales",
+   "set": "30th Celebration",
+   "hp": 110,
+   "rarity": "Common",
+   "illustrator": "kodama",
+   "attacks": [
+    "Flame Tail"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/30th/010/low.png"
+  },
+  {
+   "id": "mfb-12",
+   "name": "Ninetales",
+   "set": "My First Battle",
+   "hp": 100,
+   "rarity": "None",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Flame Tail"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "base1-12",
+   "name": "Ninetales",
+   "set": "Base Set",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Lure",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base1/12/low.png"
+  },
+  {
+   "id": "base4-13",
+   "name": "Ninetales",
+   "set": "Base Set 2",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Lure",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/base/base4/13/low.png"
+  },
+  {
+   "id": "g1-13",
+   "name": "Ninetales EX",
+   "set": "Generations",
+   "hp": 170,
+   "rarity": "Ultra Rare",
+   "illustrator": "Eske Yoshinob",
+   "attacks": [
+    "Flare Bonus",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/g1/13/low.png"
+  },
+  {
+   "id": "xy12-15",
+   "name": "Ninetales",
+   "set": "Evolutions",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Lure",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/15/low.png"
+  },
+  {
+   "id": "sm9-16",
+   "name": "Ninetales",
+   "set": "Team Up",
+   "hp": 100,
+   "rarity": "Rare",
+   "illustrator": "You Iribi",
+   "attacks": [
+    "Flame Tail"
+   ],
+   "abilities": [
+    "Nine Temptations"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/16/low.png"
+  },
+  {
+   "id": "xy12-16",
+   "name": "Ninetales BREAK",
+   "set": "Evolutions",
+   "hp": 140,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Explosive Fireball"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy12/16/low.png"
+  },
+  {
+   "id": "sv08-017",
+   "name": "Ninetales",
+   "set": "Surging Sparks",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Kamome Shirahama",
+   "attacks": [
+    "Fire Soul"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08/017/low.png"
+  },
+  {
+   "id": "col1-17",
+   "name": "Ninetales",
+   "set": "Call of Legends",
+   "hp": 90,
+   "rarity": "Holo Rare",
+   "illustrator": "TOKIYA",
+   "attacks": [
+    "Will-o'-the-wisp"
+   ],
+   "abilities": [
+    "Roast Reveal"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/col/col1/17/low.png"
+  },
+  {
+   "id": "lc-17",
+   "name": "Ninetales",
+   "set": "Legendary Collection",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Lure",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/lc/lc/17/low.png"
+  },
+  {
+   "id": "swsh12-018",
+   "name": "Ninetales",
+   "set": "Silver Tempest",
+   "hp": 110,
+   "rarity": "Uncommon",
+   "illustrator": "Shiburingaru",
+   "attacks": [
+    "Hypnotic Gaze",
+    "Scorching Breath"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12/018/low.png"
+  },
+  {
+   "id": "bw6-19",
+   "name": "Ninetales",
+   "set": "Dragons Exalted",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Hideaki Hakozaki",
+   "attacks": [
+    "Hexed Flame"
+   ],
+   "abilities": [
+    "Bright Look"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw6/19/low.png"
+  },
+  {
+   "id": "ex16-19",
+   "name": "Ninetales",
+   "set": "Power Keepers",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Tomoaki Imakuni",
+   "attacks": [
+    "Quick Attack",
+    "Will-o'-the-wisp"
+   ],
+   "abilities": [
+    "Safeguard"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex16/19/low.png"
+  },
+  {
+   "id": "me01-020",
+   "name": "Ninetales",
+   "set": "Mega Evolution",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "satoma",
+   "attacks": [
+    "Supernatural Shapeshifter",
+    "Combustion"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me01/020/low.png"
+  },
+  {
+   "id": "hgss2-20",
+   "name": "Ninetales",
+   "set": "Unleashed",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Hajime Kusajima",
+   "attacks": [
+    "Heat Acceleration",
+    "Searing Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/hgss/hgss2/20/low.png"
+  },
+  {
+   "id": "bw11-21",
+   "name": "Ninetales",
+   "set": "Legendary Treasures",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Satoshi Shirai",
+   "attacks": [
+    "Color Coordination"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bw11/21/low.png"
+  },
+  {
+   "id": "xy5-21",
+   "name": "Ninetales",
+   "set": "Primal Clash",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Kanako Eo",
+   "attacks": [
+    "Flickering Flames"
+   ],
+   "abilities": [
+    "Barrier Shrine"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/xy/xy5/21/low.png"
+  },
+  {
+   "id": "gym2-21",
+   "name": "Blaine's Ninetales",
+   "set": "Gym Challenge",
+   "hp": 60,
+   "rarity": "Rare",
+   "illustrator": "Ken Sugimori",
+   "attacks": [
+    "Burn Up"
+   ],
+   "abilities": [
+    "Healing Fire"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/gym/gym2/21/low.png"
+  },
+  {
+   "id": "ecard1-21",
+   "name": "Ninetales",
+   "set": "Expedition Base Set",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Mislead",
+    "Ethereal Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/21/low.png"
+  },
+  {
+   "id": "sm2-22",
+   "name": "Alolan Ninetales GX",
+   "set": "Guardians Rising",
+   "hp": 210,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Ice Blade",
+    "Blizzard Edge",
+    "Ice Path GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm2/22/low.png"
+  },
+  {
+   "id": "ex5-22",
+   "name": "Ninetales",
+   "set": "Hidden Legends",
+   "hp": 70,
+   "rarity": "Rare",
+   "illustrator": "Toshinao Aoki",
+   "attacks": [
+    "Quick Attack",
+    "Will-o'-the-wisp"
+   ],
+   "abilities": [
+    "Safeguard"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex5/22/low.png"
+  },
+  {
+   "id": "swsh1-23",
+   "name": "Ninetales",
+   "set": "Sword & Shield",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "Megumi Higuchi",
+   "attacks": [
+    "Flame Cloak",
+    "Fire Mane"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh1/23/low.png"
+  },
+  {
+   "id": "swsh2-25",
+   "name": "Ninetales",
+   "set": "Rebel Clash",
+   "hp": 120,
+   "rarity": "Rare",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Hex",
+    "Flickering Flames"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh2/25/low.png"
+  },
+  {
+   "id": "ecard2-25",
+   "name": "Ninetales",
+   "set": "Aquapolis",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Miracle Tail",
+    "Roasting Heat"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard2/25/low.png"
+  },
+  {
+   "id": "swsh2-26",
+   "name": "Ninetales V",
+   "set": "Rebel Clash",
+   "hp": 200,
+   "rarity": "Holo Rare V",
+   "illustrator": "Saki Hayashiro",
+   "attacks": [
+    "Nine-Tailed Shapeshifter",
+    "Flamethrower"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh2/26/low.png"
+  },
+  {
+   "id": "A4-026",
+   "name": "Ninetales",
+   "set": "Wisdom of Sea and Sky",
+   "hp": 100,
+   "rarity": "Three Diamond",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Scorching Breath"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A4/026/low.png"
+  },
+  {
+   "id": "sv06-027",
+   "name": "Ninetales",
+   "set": "Twilight Masquerade",
+   "hp": 120,
+   "rarity": "Common",
+   "illustrator": "KEIICHIRO ITO",
+   "attacks": [
+    "Eerie Glow"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv06/027/low.png"
+  },
+  {
+   "id": "sm3-28",
+   "name": "Alolan Ninetales",
+   "set": "Burning Shadows",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Mitsuhiro Arita",
+   "attacks": [
+    "Aurora Beam"
+   ],
+   "abilities": [
+    "Luminous Barrier"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm3/28/low.png"
+  },
+  {
+   "id": "sv03-029",
+   "name": "Ninetales",
+   "set": "Obsidian Flames",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Yoshioka",
+   "attacks": [
+    "Will-O-Wisp",
+    "Nine-Tailed Dance"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/029/low.png"
+  },
+  {
+   "id": "B2-029",
+   "name": "Alolan Ninetales ex",
+   "set": "Fantastical Parade",
+   "hp": 150,
+   "rarity": "Four Diamond",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Binding Snow"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B2/029/low.png"
+  },
+  {
+   "id": "swsh8-30",
+   "name": "Ninetales",
+   "set": "Fusion Strike",
+   "hp": 110,
+   "rarity": "Uncommon",
+   "illustrator": "kirisAki",
+   "attacks": [
+    "Supernatural Flames"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/30/low.png"
+  },
+  {
+   "id": "swsh8-31",
+   "name": "Ninetales",
+   "set": "Fusion Strike",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Tika Matsuno",
+   "attacks": [
+    "Flame Tail"
+   ],
+   "abilities": [
+    "Byway of the Nine-Tailed Fox"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh8/31/low.png"
+  },
+  {
+   "id": "dp2-32",
+   "name": "Ninetales",
+   "set": "Mysterious Treasures",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Kouki Saitou",
+   "attacks": [
+    "Fire Blast"
+   ],
+   "abilities": [
+    "Color Shift"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/dp/dp2/32/low.png"
+  },
+  {
+   "id": "pl1-36",
+   "name": "Ninetales",
+   "set": "Platinum",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Suwama Chiaki",
+   "attacks": [
+    "Flame Bash",
+    "Mysterious Flames"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/pl/pl1/36/low.png"
+  },
+  {
+   "id": "sv03.5-038",
+   "name": "Ninetales ex",
+   "set": "151",
+   "hp": 260,
+   "rarity": "Double rare",
+   "illustrator": "kawayoo",
+   "attacks": [
+    "Heat Wave",
+    "Mirrored Flames"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/038/low.png"
+  },
+  {
+   "id": "A1-038",
+   "name": "Ninetales",
+   "set": "Genetic Apex",
+   "hp": 90,
+   "rarity": "Two Diamond",
+   "illustrator": "You Iribi",
+   "attacks": [
+    "Flamethrower"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A1/038/low.png"
+  },
+  {
+   "id": "ex9-38",
+   "name": "Ninetales",
+   "set": "Emerald",
+   "hp": 80,
+   "rarity": "Uncommon",
+   "illustrator": "Midori Harada",
+   "attacks": [
+    "Confuse Ray",
+    "Searing Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex9/38/low.png"
+  },
+  {
+   "id": "A3-041",
+   "name": "Alolan Ninetales",
+   "set": "Celestial Guardians",
+   "hp": 110,
+   "rarity": "Three Diamond",
+   "illustrator": "Eri Yamaki",
+   "attacks": [
+    "Blizzard"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/A3/041/low.png"
+  },
+  {
+   "id": "neo4-50",
+   "name": "Light Ninetales",
+   "set": "Neo Destiny",
+   "hp": 90,
+   "rarity": "Uncommon",
+   "illustrator": "Masako Yamashita",
+   "attacks": [
+    "Guiding Flame",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/neo/neo4/50/low.png"
+  },
+  {
+   "id": "ecard1-57",
+   "name": "Ninetales",
+   "set": "Expedition Base Set",
+   "hp": 80,
+   "rarity": "Rare",
+   "illustrator": "Atsuko Nishida",
+   "attacks": [
+    "Mislead",
+    "Ethereal Flame"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ecard/ecard1/57/low.png"
+  },
+  {
+   "id": "P-A-070",
+   "name": "Alolan Ninetales",
+   "set": "Promos-A",
+   "hp": 110,
+   "rarity": "One Star",
+   "illustrator": "tono",
+   "attacks": [
+    "Blizzard"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/P-A/070/low.png"
+  },
+  {
+   "id": "ex5-96",
+   "name": "Ninetales ex",
+   "set": "Hidden Legends",
+   "hp": 90,
+   "rarity": "Rare",
+   "illustrator": "Ryo Ueda",
+   "attacks": [
+    "Intense Glare",
+    "Fire Blast"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/ex/ex5/96/low.png"
+  },
+  {
+   "id": "sm9-111",
+   "name": "Alolan Ninetales",
+   "set": "Team Up",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Misa Tsutsui",
+   "attacks": [
+    "Aurora Beam"
+   ],
+   "abilities": [
+    "Luminous Barrier"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm9/111/low.png"
+  },
+  {
+   "id": "sm8-132",
+   "name": "Alolan Ninetales GX",
+   "set": "Lost Thunder",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ],
+   "abilities": [
+    "Mysterious Guidance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm8/132/low.png"
+  },
+  {
+   "id": "sm2-132",
+   "name": "Alolan Ninetales GX",
+   "set": "Guardians Rising",
+   "hp": 210,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Ice Blade",
+    "Blizzard Edge",
+    "Ice Path GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm2/132/low.png"
+  },
+  {
+   "id": "sm12-145",
+   "name": "Alolan Ninetales",
+   "set": "Cosmic Eclipse",
+   "hp": 110,
+   "rarity": "Rare",
+   "illustrator": "Eri Yamaki",
+   "attacks": [
+    "Rubbish Blizzard"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm12/145/low.png"
+  },
+  {
+   "id": "sm2-150",
+   "name": "Alolan Ninetales GX",
+   "set": "Guardians Rising",
+   "hp": 210,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Ice Blade",
+    "Blizzard Edge",
+    "Ice Path GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm2/150/low.png"
+  },
+  {
+   "id": "swsh2-177",
+   "name": "Ninetales V",
+   "set": "Rebel Clash",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "Saki Hayashiro",
+   "attacks": [
+    "Nine-Tailed Shapeshifter",
+    "Flamethrower"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/swsh/swsh2/177/low.png"
+  },
+  {
+   "id": "B2-182",
+   "name": "Alolan Ninetales ex",
+   "set": "Fantastical Parade",
+   "hp": 150,
+   "rarity": "Two Star",
+   "illustrator": "PLANETA CG Works",
+   "attacks": [
+    "Binding Snow"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B2/182/low.png"
+  },
+  {
+   "id": "sv03.5-186",
+   "name": "Ninetales ex",
+   "set": "151",
+   "hp": 260,
+   "rarity": "Ultra Rare",
+   "illustrator": "PLANETA Tsuji",
+   "attacks": [
+    "Heat Wave",
+    "Mirrored Flames"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/186/low.png"
+  },
+  {
+   "id": "B2-196",
+   "name": "Alolan Ninetales ex",
+   "set": "Fantastical Parade",
+   "hp": 150,
+   "rarity": "Two Star",
+   "illustrator": "mashu",
+   "attacks": [
+    "Binding Snow"
+   ],
+   "abilities": [],
+   "pocket": true,
+   "image": "https://assets.tcgdex.net/en/tcgp/B2/196/low.png"
+  },
+  {
+   "id": "sv03-199",
+   "name": "Ninetales",
+   "set": "Obsidian Flames",
+   "hp": 120,
+   "rarity": "Illustration rare",
+   "illustrator": "SIE NANAHARA",
+   "attacks": [
+    "Will-O-Wisp",
+    "Nine-Tailed Dance"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/199/low.png"
+  },
+  {
+   "id": "sm8-205",
+   "name": "Alolan Ninetales GX",
+   "set": "Lost Thunder",
+   "hp": 200,
+   "rarity": "Ultra Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ],
+   "abilities": [
+    "Mysterious Guidance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm8/205/low.png"
+  },
+  {
+   "id": "sm8-225",
+   "name": "Alolan Ninetales GX",
+   "set": "Lost Thunder",
+   "hp": 200,
+   "rarity": "Secret Rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ],
+   "abilities": [
+    "Mysterious Guidance"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sm8/225/low.png"
+  },
+  {
+   "id": "bwp-BW66",
+   "name": "Ninetales",
+   "set": "BW Black Star Promos",
+   "hp": 90,
+   "rarity": "Common",
+   "illustrator": "Hideaki Hakozaki",
+   "attacks": [
+    "Hexed Flame"
+   ],
+   "abilities": [
+    "Bright Look"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/bw/bwp/BW66/low.png"
+  },
+  {
+   "id": "ecard2-H19",
+   "name": "Ninetales",
+   "set": "Aquapolis",
+   "hp": 80,
+   "rarity": "Holo Rare",
+   "illustrator": "Kagemaru Himeno",
+   "attacks": [
+    "Miracle Tail",
+    "Roasting Heat"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": null
+  },
+  {
+   "id": "smp-SM128",
+   "name": "Alolan Ninetales",
+   "set": "SM Black Star Promos",
+   "hp": 110,
+   "rarity": "Promo",
+   "illustrator": "kirisAki",
+   "attacks": [
+    "Smash Kick",
+    "Spiral Drain"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/smp/SM128/low.png"
+  },
+  {
+   "id": "sma-SV53",
+   "name": "Alolan Ninetales-GX",
+   "set": "Hidden Fates Shiny Vault",
+   "hp": 210,
+   "rarity": "Shiny rare",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Ice Blade",
+    "Blizzard Edge",
+    "Ice Path-GX"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sm/sma/SV53/low.png"
+  }
+ ]
+}

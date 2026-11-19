@@ -1,0 +1,243 @@
+{
+ "candidate": {
+  "key": "armarouge",
+  "name": "Armarouge",
+  "pokemon": "Armarouge",
+  "image": "https://i.etsystatic.com/66814655/r/il/1d822b/8836044092/il_fullxfull.8836044092_ftvy.jpg"
+ },
+ "real_cards": [
+  {
+   "id": "me05-012",
+   "name": "Armarouge",
+   "set": "Pitch Black",
+   "hp": 140,
+   "rarity": "Rare",
+   "illustrator": "Jiro Sasumo",
+   "attacks": [
+    "Flame Legion"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me05/012/low.png"
+  },
+  {
+   "id": "sv04.5-015",
+   "name": "Armarouge",
+   "set": "Paldean Fates",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Flame Cannon"
+   ],
+   "abilities": [
+    "Fire Off"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/low.png"
+  },
+  {
+   "id": "B2a-020",
+   "name": "Armarouge",
+   "set": "Paldean Wonders",
+   "hp": 140,
+   "rarity": "Four Diamond",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Armor Cannon"
+   ],
+   "abilities": [
+    "Armor"
+   ],
+   "pocket": true,
+   "image": null
+  },
+  {
+   "id": "sv04-027",
+   "name": "Armarouge ex",
+   "set": "Paradox Rift",
+   "hp": 260,
+   "rarity": "Double rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Scorching Bazooka"
+   ],
+   "abilities": [
+    "Crimson Armor"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04/027/low.png"
+  },
+  {
+   "id": "sv08-034",
+   "name": "Armarouge",
+   "set": "Surging Sparks",
+   "hp": 140,
+   "rarity": "Uncommon",
+   "illustrator": "DOM",
+   "attacks": [
+    "Combustion",
+    "Crimson Blaster"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv08/034/low.png"
+  },
+  {
+   "id": "sv01-041",
+   "name": "Armarouge",
+   "set": "Scarlet & Violet",
+   "hp": 130,
+   "rarity": "Rare",
+   "illustrator": "AKIRA EGAWA",
+   "attacks": [
+    "Flame Cannon"
+   ],
+   "abilities": [
+    "Fire Off"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv01/041/low.png"
+  },
+  {
+   "id": "sv03-044",
+   "name": "Armarouge",
+   "set": "Obsidian Flames",
+   "hp": 120,
+   "rarity": "Uncommon",
+   "illustrator": "Souichirou Gunjima",
+   "attacks": [
+    "Steam Artillery"
+   ],
+   "abilities": [
+    "Scorching Armor"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv03/044/low.png"
+  },
+  {
+   "id": "me05-086",
+   "name": "Armarouge",
+   "set": "Pitch Black",
+   "hp": 140,
+   "rarity": "Illustration rare",
+   "illustrator": "Iwamoto05",
+   "attacks": [
+    "Flame Legion"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/me/me05/086/low.png"
+  },
+  {
+   "id": "B2a-101",
+   "name": "Armarouge",
+   "set": "Paldean Wonders",
+   "hp": 140,
+   "rarity": "Two Star",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Armor Cannon"
+   ],
+   "abilities": [
+    "Armor"
+   ],
+   "pocket": true,
+   "image": null
+  },
+  {
+   "id": "svp-105",
+   "name": "Armarouge ex",
+   "set": "SVP Black Star Promos",
+   "hp": 260,
+   "rarity": "Promo",
+   "illustrator": "PLANETA Tsuji",
+   "attacks": [
+    "Armor Cannon"
+   ],
+   "abilities": [],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/105/low.png"
+  },
+  {
+   "id": "B2a-111",
+   "name": "Armarouge",
+   "set": "Paldean Wonders",
+   "hp": 140,
+   "rarity": "Two Star",
+   "illustrator": "Raita Kazama",
+   "attacks": [
+    "Armor Cannon"
+   ],
+   "abilities": [
+    "Armor"
+   ],
+   "pocket": true,
+   "image": null
+  },
+  {
+   "id": "sv04.5-115",
+   "name": "Armarouge",
+   "set": "Paldean Fates",
+   "hp": 130,
+   "rarity": "Shiny rare",
+   "illustrator": "Atsushi Furusawa",
+   "attacks": [
+    "Flame Cannon"
+   ],
+   "abilities": [
+    "Fire Off"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/115/low.png"
+  },
+  {
+   "id": "svp-125",
+   "name": "Armarouge ex",
+   "set": "SVP Black Star Promos",
+   "hp": 260,
+   "rarity": "Promo",
+   "illustrator": "5ban Graphics",
+   "attacks": [
+    "Scorching Bazooka"
+   ],
+   "abilities": [
+    "Crimson Armor"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/svp/125/low.png"
+  },
+  {
+   "id": "sv01-203",
+   "name": "Armarouge",
+   "set": "Scarlet & Violet",
+   "hp": 130,
+   "rarity": "Illustration rare",
+   "illustrator": "nagimiso",
+   "attacks": [
+    "Flame Cannon"
+   ],
+   "abilities": [
+    "Fire Off"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv01/203/low.png"
+  },
+  {
+   "id": "sv04-218",
+   "name": "Armarouge ex",
+   "set": "Paradox Rift",
+   "hp": 260,
+   "rarity": "Ultra Rare",
+   "illustrator": "takuyoa",
+   "attacks": [
+    "Scorching Bazooka"
+   ],
+   "abilities": [
+    "Crimson Armor"
+   ],
+   "pocket": false,
+   "image": "https://assets.tcgdex.net/en/sv/sv04/218/low.png"
+  }
+ ]
+}
