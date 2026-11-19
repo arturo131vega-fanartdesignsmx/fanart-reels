@@ -137,6 +137,17 @@ def main():
                 info.update(token_expiry())
                 if job.get("check_only"):
                     res = {"ok": True, "check_only": True}
+                    try:
+                        perms = call("GET", f"{GRAPH}/me/permissions?" + urllib.parse.urlencode({"access_token": TOKEN})).get("data", [])
+                        res["granted"] = sorted(p["permission"] for p in perms if p.get("status") == "granted")
+                    except Exception as e:
+                        res["granted"] = f"n/a ({str(e)[:100]})"
+                    try:
+                        pg = call("GET", f"{GRAPH}/{page_id}?" + urllib.parse.urlencode(
+                            {"fields": "instagram_business_account{id,username}", "access_token": page_token}))
+                        res["instagram"] = pg.get("instagram_business_account")
+                    except Exception as e:
+                        res["instagram"] = f"error: {str(e)[:160]}"
                 else:
                     res = publish(job, page_id, page_token)
                 res.update(info)
