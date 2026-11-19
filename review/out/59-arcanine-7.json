@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "59-arcanine-7",
+  "name": "59_Arcanine_7",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_7.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 69,
+   "set": "Delta Reign",
+   "illustrator": "Felicia Chen",
+   "hp": 150,
+   "attacks": [
+    "Fervent Fang",
+    "Heat Tackle"
+   ]
+  },
+  {
+   "id": "sv06-100",
+   "lang": "en",
+   "name": "Hisuian Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S10a-033",
+   "lang": "ja",
+   "name": "ヒスイ ウインディ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss1-1",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

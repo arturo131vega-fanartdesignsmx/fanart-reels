@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "197-umbreon-shiny-2",
+  "name": "197_Umbreon_Shiny_2",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_2.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "sm8-120",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV8a-217",
+   "lang": "ja",
+   "name": "ブラッキーex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex10-112",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV3-070",
+   "lang": "ja",
+   "name": "ブラッキー",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

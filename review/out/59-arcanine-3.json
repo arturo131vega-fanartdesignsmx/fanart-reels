@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "59-arcanine-3",
+  "name": "59_Arcanine_3",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_3.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "hgss1-1",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "gym2-1",
+   "lang": "en",
+   "name": "Blaine's Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "basep-6",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "base4-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

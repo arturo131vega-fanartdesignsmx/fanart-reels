@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "59-arcanine-6",
+  "name": "59_Arcanine_6",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_6.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "A1-254",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 68,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Saito",
+   "hp": 150,
+   "attacks": [
+    "Inferno Onrush"
+   ]
+  },
+  {
+   "id": "gym2-1",
+   "lang": "en",
+   "name": "Blaine's Arcanine",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "ex2-15",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B1-029",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

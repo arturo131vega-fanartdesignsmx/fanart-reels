@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "197-umbreon-tera",
+  "name": "197_Umbreon_Tera",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Tera.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "SV8a-217",
+   "lang": "ja",
+   "name": "ブラッキーex",
+   "pocket": false,
+   "inliers": 87,
+   "set": "テラスタルフェスex",
+   "illustrator": "YASHIRO Nanaco",
+   "hp": 280,
+   "attacks": [
+    "ムーンミラージュ",
+    "オニキス"
+   ]
+  },
+  {
+   "id": "sv08.5-161",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": false,
+   "inliers": 82,
+   "set": "Prismatic Evolutions",
+   "illustrator": "YASHIRO Nanaco",
+   "hp": 280,
+   "attacks": [
+    "Moon Mirage",
+    "Onyx"
+   ]
+  },
+  {
+   "id": "neo2-13",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "ex2-24",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 7
+  }
+ ]
+}

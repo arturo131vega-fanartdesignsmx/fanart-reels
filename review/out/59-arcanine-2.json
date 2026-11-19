@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "59-arcanine-2",
+  "name": "59_Arcanine_2",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "swsh8-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Fusion Strike",
+   "illustrator": "Yuu Nishida",
+   "hp": 130,
+   "attacks": [
+    "Fire Claws",
+    "Heat Tackle"
+   ]
+  },
+  {
+   "id": "B1-029",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 11
+  },
+  {
+   "id": "A3-026",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "A1-040",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

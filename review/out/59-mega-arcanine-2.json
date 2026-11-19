@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "59-mega-arcanine-2",
+  "name": "59_Mega_Arcanine_2",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "bw4-13",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "lc-36",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy9-11",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

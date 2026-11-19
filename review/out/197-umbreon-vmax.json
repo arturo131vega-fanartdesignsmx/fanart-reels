@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "197-umbreon-vmax",
+  "name": "197_Umbreon_VMAX",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_VMAX.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "swsh7-215",
+   "lang": "en",
+   "name": "Umbreon VMAX",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Evolving Skies",
+   "illustrator": "KEIICHIRO ITO",
+   "hp": 310,
+   "attacks": [
+    "Max Darkness"
+   ]
+  },
+  {
+   "id": "col1-22",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv03-130",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss3-10",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

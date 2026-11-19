@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "59-arcanine-hisui-1",
+  "name": "59_Arcanine_Hisui_1",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_1.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "ex6-18",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "swsh8-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S10a-075",
+   "lang": "ja",
+   "name": "ヒスイ ウインディ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh10-071",
+   "lang": "en",
+   "name": "Hisuian Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

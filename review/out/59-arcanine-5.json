@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "59-arcanine-5",
+  "name": "59_Arcanine_5",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_5.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "bw4-12",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "base4-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ecard2-2",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,1447 +1,13 @@
 {
- "pikachu-1": {
-  "name": "Pikachu 1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-259",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 50,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-2": {
-  "name": "Pikachu 2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2b-082",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 108,
-   "set": "Shining Revelry",
-   "illustrator": "PLANETA Igarashi",
-   "hp": 120,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-3": {
-  "name": "Pikachu 3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop9-15",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-4": {
-  "name": "Pikachu 4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "P-A-009",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": true,
-   "inliers": 161,
-   "set": "Promos-A",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 60,
-   "attacks": [
-    "Gnaw"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-5": {
-  "name": "Pikachu 5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "svp-106",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-6": {
-  "name": "Pikachu 6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "cel25-8",
-   "lang": "en",
-   "name": "Surfing Pikachu V",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-7": {
-  "name": "Pikachu 7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2b-092",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 40,
-   "set": "Shining Revelry",
-   "illustrator": "You Iribi",
-   "hp": 120,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-8": {
-  "name": "Pikachu 8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "cel25-7",
-   "lang": "en",
-   "name": "Flying Pikachu VMAX",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-9": {
-  "name": "Pikachu 9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-276",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 174,
-   "set": "Ascended Heroes",
-   "illustrator": "booota",
-   "hp": 200,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-11": {
-  "name": "Pikachu 11",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "P-A-026",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": true,
-   "inliers": 95,
-   "set": "Promos-A",
-   "illustrator": "Kouki Saitou",
-   "hp": 60,
-   "attacks": [
-    "Gnaw"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-13": {
-  "name": "Pikachu 13",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-281",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 161,
-   "set": "Genetic Apex",
-   "illustrator": "Ryota Murayama",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-14": {
-  "name": "Pikachu 14",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "fut2020-1",
-   "lang": "en",
-   "name": "Pikachu on the Ball",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-15": {
-  "name": "Pikachu 15",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "cel25-8",
-   "lang": "en",
-   "name": "Surfing Pikachu V",
-   "pocket": false,
-   "inliers": 22,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Surf"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-16": {
-  "name": "Pikachu 16",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "cel25-6",
-   "lang": "en",
-   "name": "Flying Pikachu V",
-   "pocket": false,
-   "inliers": 17,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 190,
-   "attacks": [
-    "Thunder Shock",
-    "Fly"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-17": {
-  "name": "Pikachu 17",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "cel25-5",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 77,
-   "set": "Celebrations",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 60,
-   "attacks": [
-    "Gnaw",
-    "Thunder Jolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-18": {
-  "name": "Pikachu 18",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm12-241",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 125,
-   "set": "Cosmic Eclipse",
-   "illustrator": "Hitoshi Ariga",
-   "hp": 70,
-   "attacks": [
-    "Nuzzle",
-    "Volt Tackle"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-19": {
-  "name": "Pikachu 19",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh11-052",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 126,
-   "set": "Lost Origin",
-   "illustrator": "kurumitsu",
-   "hp": 60,
-   "attacks": [
-    "Whimsy Tackle"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-20": {
-  "name": "Pikachu 20",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-150",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 246,
-   "set": "30th Celebration",
-   "illustrator": "kantaro",
-   "hp": 190,
-   "attacks": [
-    "Zip-Zap Frenzy",
-    "Thunder"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-21": {
-  "name": "Pikachu 21",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-149",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 193,
-   "set": "30th Celebration",
-   "illustrator": "kantaro",
-   "hp": 190,
-   "attacks": [
-    "Pika-Pika Parade",
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-22": {
-  "name": "Pikachu 22",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-285",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 32,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Circle Circuit"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-23": {
-  "name": "Pikachu 23",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp2-94",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-24": {
-  "name": "Pikachu 24",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-024",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 301,
-   "set": "30th Celebration",
-   "illustrator": "danciao",
-   "hp": 70,
-   "attacks": [
-    "Volt Tackle"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-25": {
-  "name": "Pikachu 25",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop4-13",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-26": {
-  "name": "Pikachu 26",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh4-43",
-   "lang": "en",
-   "name": "Pikachu V",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-27": {
-  "name": "Pikachu 27",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ex13-78",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-28": {
-  "name": "Pikachu 28",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S10a-014",
-   "lang": "ja",
-   "name": "ピカチュウ",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-29": {
-  "name": "Pikachu 29",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "cel25-5",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-30": {
-  "name": "Pikachu 30",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH039",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-31": {
-  "name": "Pikachu 31",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV2a-173",
-   "lang": "ja",
-   "name": "ピカチュウ",
-   "pocket": false,
-   "inliers": 235,
-   "set": "ポケモンカード151",
-   "illustrator": "Hiroyuki Yamamoto",
-   "hp": 60,
-   "attacks": [
-    "じゅうでん",
-    "ピカパンチ"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-32": {
-  "name": "Pikachu 32",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-027",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 172,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 60,
-   "attacks": [
-    "Adventuring Together"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-33": {
-  "name": "Pikachu 33",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm115-19",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-34": {
-  "name": "Pikachu 34",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH020",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 179,
-   "set": "SWSH Black Star Promos",
-   "illustrator": "Hideki Ishikawa",
-   "hp": 70,
-   "attacks": [
-    "Iron Tail",
-    "Electro Ball"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-35": {
-  "name": "Pikachu 35",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm4-30",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 237,
-   "set": "Crimson Invasion",
-   "illustrator": "Shibuzoh.",
-   "hp": 60,
-   "attacks": [
-    "Pika Draw",
-    "Quick Attack"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-36": {
-  "name": "Pikachu 36",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-101",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 149,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Jiro Sasumo",
-   "hp": 70,
-   "attacks": [
-    "Scrappy Spark"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-37": {
-  "name": "Pikachu 37",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-030",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 306,
-   "set": "30th Celebration",
-   "illustrator": "DOM",
-   "hp": 60,
-   "attacks": [
-    "Mach Bolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-38": {
-  "name": "Pikachu 38",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "smp-SM162",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-39": {
-  "name": "Pikachu 39",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH143",
-   "lang": "en",
-   "name": "Pikachu V",
-   "pocket": false,
-   "inliers": 115,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 190,
-   "attacks": [
-    "Volt Tackle"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-40": {
-  "name": "Pikachu 40.pg",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "B2-049",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": true,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-tera_1": {
-  "name": "Pikachu Tera_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-238",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 73,
-   "set": "Surging Sparks",
-   "illustrator": "GIDORA",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-tera_2": {
-  "name": "Pikachu Tera_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-277",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 279,
-   "set": "Ascended Heroes",
-   "illustrator": "James Turner",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-tera_3": {
-  "name": "Pikachu Tera_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-219",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 139,
-   "set": "Surging Sparks",
-   "illustrator": "aky CG Works",
-   "hp": 200,
-   "attacks": [
-    "Topaz Bolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-ash_1": {
-  "name": "Pikachu Ash_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy3-27",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-ash_2": {
-  "name": "Pikachu Ash_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy6-20",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-ash_3": {
-  "name": "Pikachu Ash_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "P-A-009",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": true,
-   "inliers": 8
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-astronauta": {
-  "name": "Pikachu Astronauta",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S12-024",
-   "lang": "ja",
-   "name": "ピカチュウ",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-vmax": {
-  "name": "Pikachu VMAX",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh4-44",
-   "lang": "en",
-   "name": "Pikachu VMAX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-vmax_2": {
-  "name": "Pikachu VMAX_2",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "cel25-7",
-   "lang": "en",
-   "name": "Flying Pikachu VMAX",
-   "pocket": false,
-   "inliers": 21,
-   "set": "Celebrations",
-   "illustrator": "aky CG Works",
-   "hp": 310,
-   "attacks": [
-    "Max Balloon"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-vmax_3": {
-  "name": "Pikachu VMAX_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv05-051",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-ho-oh": {
-  "name": "Pikachu Ho-Oh",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xyp-XY95",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-rayquaza": {
-  "name": "Pikachu Rayquaza",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "smp-SM112",
-   "lang": "en",
-   "name": "Ash's Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-shiny_1": {
-  "name": "Pikachu Shiny_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2b-092",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": true,
-   "inliers": 45,
-   "set": "Shining Revelry",
-   "illustrator": "You Iribi",
-   "hp": 120,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-mario": {
-  "name": "Pikachu Mario",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ru1-7",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 9
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-luigi": {
-  "name": "Pikachu Luigi",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp7-70",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-lugia": {
-  "name": "Pikachu Lugia",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ru1-7",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-lucario": {
-  "name": "Pikachu Lucario",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bw4-39",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-charizard_x": {
-  "name": "Pikachu Charizard_X",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv02-062",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-charizard_y": {
-  "name": "Pikachu Charizard_Y",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me02.5-057",
-   "lang": "en",
-   "name": "Pikachu ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-gyarados": {
-  "name": "Pikachu Gyarados",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "30th-042",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-futuro_1": {
-  "name": "Pikachu Futuro_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv03.5-025",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-futuro_2": {
-  "name": "Pikachu Futuro_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "gym1-81",
-   "lang": "en",
-   "name": "Lt. Surge's Pikachu",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-altaria": {
-  "name": "Pikachu Altaria",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop4-13",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "pikachu-gengar": {
-  "name": "Pikachu Gengar",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm12-66",
-   "lang": "en",
-   "name": "Pikachu",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 211,
-  "lookup": {
-   "en": 246,
-   "ja": 100
-  }
- },
- "4605371798-1": {
-  "name": "Greninja 4605371798-1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "svp-132",
-   "lang": "en",
-   "name": "Greninja ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 49,
-  "lookup": {
-   "en": 48,
-   "ja": 26
-  }
- },
- "4543722630-1": {
-  "name": "Lucario 4543722630-1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me01-179",
-   "lang": "en",
-   "name": "Mega Lucario ex",
-   "pocket": false,
-   "inliers": 149,
-   "set": "Mega Evolution",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 340,
-   "attacks": [
-    "Aura Jab",
-    "Mega Brave"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 71,
-   "ja": 32
-  }
- },
- "4543722630-2": {
-  "name": "Lucario 4543722630-2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "svp-017",
-   "lang": "en",
-   "name": "Lucario ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 71,
-   "ja": 32
-  }
- },
- "4543722630-4": {
-  "name": "Lucario 4543722630-4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl2-8",
-   "lang": "en",
-   "name": "Lucario GL",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 71,
-   "ja": 32
-  }
- },
- "4543722630-5": {
-  "name": "Lucario 4543722630-5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me01-160",
-   "lang": "en",
-   "name": "Mega Lucario ex",
-   "pocket": false,
-   "inliers": 77,
-   "set": "Mega Evolution",
-   "illustrator": "takuyoa",
-   "hp": 340,
-   "attacks": [
-    "Aura Jab",
-    "Mega Brave"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 71,
-   "ja": 32
-  }
- },
- "4543718514-1": {
-  "name": "Gengar 4543718514-1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-284",
-   "lang": "en",
-   "name": "Mega Gengar ex",
-   "pocket": false,
-   "inliers": 51,
-   "set": "Ascended Heroes",
-   "illustrator": "danciao",
-   "hp": 350,
-   "attacks": [
-    "Void Gale"
-   ]
-  },
-  "official_cards_checked": 65,
-  "lookup": {
-   "en": 62,
-   "ja": 23
-  }
- },
- "4543718514-2": {
-  "name": "Gengar 4543718514-2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-269",
-   "lang": "en",
-   "name": "Mega Gengar ex",
-   "pocket": false,
-   "inliers": 225,
-   "set": "Ascended Heroes",
-   "illustrator": "Taiga Kasai",
-   "hp": 350,
-   "attacks": [
-    "Void Gale"
-   ]
-  },
-  "official_cards_checked": 65,
-  "lookup": {
-   "en": 62,
-   "ja": 23
-  }
- },
- "4543718514-3": {
-  "name": "Gengar 4543718514-3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm10-70",
-   "lang": "en",
-   "name": "Gengar",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 65,
-  "lookup": {
-   "en": 62,
-   "ja": 23
-  }
- },
- "4543718514-4": {
-  "name": "Gengar 4543718514-4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S10a-023",
-   "lang": "ja",
-   "name": "ゲンガー",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 65,
-  "lookup": {
-   "en": 62,
-   "ja": 23
-  }
- },
- "4543718514-5": {
-  "name": "Gengar 4543718514-5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A1-277",
-   "lang": "en",
-   "name": "Gengar ex",
-   "pocket": true,
-   "inliers": 8
-  },
-  "official_cards_checked": 65,
-  "lookup": {
-   "en": 62,
-   "ja": 23
-  }
- },
- "4543648954-1": {
-  "name": "Charizard 4543648954-1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2b-080",
-   "lang": "en",
-   "name": "Charizard ex",
-   "pocket": true,
-   "inliers": 7
-  },
-  "official_cards_checked": 132,
-  "lookup": {
-   "en": 126,
-   "ja": 50
-  }
- },
- "4543648954-2": {
-  "name": "Charizard 4543648954-2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "base4-4",
-   "lang": "en",
-   "name": "Charizard",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 132,
-  "lookup": {
-   "en": 126,
-   "ja": 50
-  }
- },
- "4543648954-3": {
-  "name": "Charizard 4543648954-3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl4-1",
-   "lang": "en",
-   "name": "Charizard",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 132,
-  "lookup": {
-   "en": 126,
-   "ja": 50
-  }
- },
- "4543648954-5": {
-  "name": "Charizard 4543648954-5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ex16-6",
-   "lang": "en",
-   "name": "Charizard",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 132,
-  "lookup": {
-   "en": 126,
-   "ja": 50
-  }
- },
- "4543725931-1": {
-  "name": "Umbreon 4543725931-1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV3-070",
-   "lang": "ja",
-   "name": "ブラッキー",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 50,
-  "lookup": {
-   "en": 55,
-   "ja": 21
-  }
- },
- "4543725931-2": {
-  "name": "Umbreon 4543725931-2",
+ "197-umbreon-1": {
+  "name": "197_Umbreon_1",
   "verdict": "ART_MATCH",
   "best": {
    "id": "A3b-077",
    "lang": "en",
    "name": "Umbreon",
    "pocket": true,
-   "inliers": 31,
+   "inliers": 34,
    "set": "Eevee Grove",
    "illustrator": "kawayoo",
    "hp": 100,
@@ -1455,31 +21,15 @@
    "ja": 21
   }
  },
- "4543725931-3": {
-  "name": "Umbreon 4543725931-3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A3b-077",
-   "lang": "en",
-   "name": "Umbreon",
-   "pocket": true,
-   "inliers": 4
-  },
-  "official_cards_checked": 50,
-  "lookup": {
-   "en": 55,
-   "ja": 21
-  }
- },
- "4543725931-4": {
-  "name": "Umbreon 4543725931-4",
+ "197-umbreon-2": {
+  "name": "197_Umbreon_2",
   "verdict": "ART_MATCH",
   "best": {
    "id": "SV3-070",
    "lang": "ja",
    "name": "ブラッキー",
    "pocket": false,
-   "inliers": 90,
+   "inliers": 91,
    "set": "黒炎の支配者",
    "illustrator": "rika",
    "hp": 110,
@@ -1494,13 +44,51 @@
    "ja": 21
   }
  },
- "4543725931-5": {
-  "name": "Umbreon 4543725931-5",
+ "197-umbreon-3": {
+  "name": "197_Umbreon_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A4-208",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": true,
+   "inliers": 64,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
+   "attacks": [
+    "Darkness Fang"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-4": {
+  "name": "197_Umbreon_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh7-215",
+   "id": "sm1-80",
    "lang": "en",
-   "name": "Umbreon VMAX",
+   "name": "Umbreon GX",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-5": {
+  "name": "197_Umbreon_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ex2-24",
+   "lang": "en",
+   "name": "Umbreon",
    "pocket": false,
    "inliers": 4
   },
@@ -1510,106 +98,419 @@
    "ja": 21
   }
  },
- "4563374016-1": {
-  "name": "Arcanine 4563374016-1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "B1-029",
-   "lang": "en",
-   "name": "Arcanine",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 51,
-   "ja": 17
-  }
- },
- "4563374016-2": {
-  "name": "Arcanine 4563374016-2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl2-1",
-   "lang": "en",
-   "name": "Arcanine",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 51,
-   "ja": 17
-  }
- },
- "4560874458-1": {
-  "name": "Ninetales 4560874458-1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ru1-3",
-   "lang": "en",
-   "name": "Ninetales",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 69,
-  "lookup": {
-   "en": 64,
-   "ja": 27
-  }
- },
- "4560874458-2": {
-  "name": "Ninetales 4560874458-2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "hgss2-20",
-   "lang": "en",
-   "name": "Ninetales",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 69,
-  "lookup": {
-   "en": 64,
-   "ja": 27
-  }
- },
- "alakazam-d1": {
-  "name": "Alakazam alakazam-d1",
+ "197-umbreon-6": {
+  "name": "197_Umbreon_6",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A1-236",
+   "id": "A4-193",
    "lang": "en",
-   "name": "Alakazam",
+   "name": "Umbreon ex",
    "pocket": true,
-   "inliers": 105,
-   "set": "Genetic Apex",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 130,
+   "inliers": 90,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
    "attacks": [
-    "Psychic"
+    "Darkness Fang"
    ]
   },
-  "official_cards_checked": 41,
+  "official_cards_checked": 50,
   "lookup": {
-   "en": 35,
-   "ja": 14
+   "en": 55,
+   "ja": 21
   }
  },
- "alakazam-d2": {
-  "name": "Alakazam alakazam-d2",
+ "197-umbreon-7": {
+  "name": "197_Umbreon_7",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "base5-1",
+   "id": "sv08.5-060",
    "lang": "en",
-   "name": "Dark Alakazam",
+   "name": "Umbreon ex",
+   "pocket": false,
+   "inliers": 11
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-8": {
+  "name": "197_Umbreon_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "col1-22",
+   "lang": "en",
+   "name": "Umbreon",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 41,
+  "official_cards_checked": 50,
   "lookup": {
-   "en": 35,
-   "ja": 14
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-shiny-1": {
+  "name": "197_Umbreon_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A4-208",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": true,
+   "inliers": 72,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
+   "attacks": [
+    "Darkness Fang"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-shiny-2": {
+  "name": "197_Umbreon_Shiny_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm8-120",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-tera": {
+  "name": "197_Umbreon_Tera",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8a-217",
+   "lang": "ja",
+   "name": "ブラッキーex",
+   "pocket": false,
+   "inliers": 87,
+   "set": "テラスタルフェスex",
+   "illustrator": "YASHIRO Nanaco",
+   "hp": 280,
+   "attacks": [
+    "ムーンミラージュ",
+    "オニキス"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "197-umbreon-vmax": {
+  "name": "197_Umbreon_VMAX",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "swsh7-215",
+   "lang": "en",
+   "name": "Umbreon VMAX",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Evolving Skies",
+   "illustrator": "KEIICHIRO ITO",
+   "hp": 310,
+   "attacks": [
+    "Max Darkness"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 55,
+   "ja": 21
+  }
+ },
+ "59-arcanine-1": {
+  "name": "59_Arcanine_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm1-22",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-2": {
+  "name": "59_Arcanine_2",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "swsh8-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Fusion Strike",
+   "illustrator": "Yuu Nishida",
+   "hp": 130,
+   "attacks": [
+    "Fire Claws",
+    "Heat Tackle"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-3": {
+  "name": "59_Arcanine_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss1-1",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-4": {
+  "name": "59_Arcanine_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv03.5-059",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 65,
+   "set": "151",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 150,
+   "attacks": [
+    "Torrid Torrent",
+    "Dynamite Fang"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-5": {
+  "name": "59_Arcanine_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-6": {
+  "name": "59_Arcanine_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1-254",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 68,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Saito",
+   "hp": 150,
+   "attacks": [
+    "Inferno Onrush"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-7": {
+  "name": "59_Arcanine_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 69,
+   "set": "Delta Reign",
+   "illustrator": "Felicia Chen",
+   "hp": 150,
+   "attacks": [
+    "Fervent Fang",
+    "Heat Tackle"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-shiny": {
+  "name": "59_Arcanine_Shiny",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV2a-059",
+   "lang": "ja",
+   "name": "ウインディ",
+   "pocket": false,
+   "inliers": 48,
+   "set": "ポケモンカード151",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 150,
+   "attacks": [
+    "あつくたぎる",
+    "ダイナマイトファング"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-tera-1": {
+  "name": "59_Arcanine_Tera_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv01-224",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": false,
+   "inliers": 86,
+   "set": "Scarlet & Violet",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Raging Claws",
+    "Bright Flame"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-tera-2": {
+  "name": "59_Arcanine_Tera_2",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "A1-041",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Saito",
+   "hp": 150,
+   "attacks": [
+    "Inferno Onrush"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-hisui-1": {
+  "name": "59_Arcanine_Hisui_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ex6-18",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 9
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-arcanine-hisui-2": {
+  "name": "59_Arcanine_Hisui_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV5a-042",
+   "lang": "ja",
+   "name": "ヒスイ ウインディ",
+   "pocket": false,
+   "inliers": 150,
+   "set": "クリムゾンヘイズ",
+   "illustrator": "SIE NANAHARA",
+   "hp": 130,
+   "attacks": [
+    "プライドファング",
+    "やきこがす"
+   ]
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-mega-arcanine-1": {
+  "name": "59_Mega_Arcanine_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "basep-6",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
+  }
+ },
+ "59-mega-arcanine-2": {
+  "name": "59_Mega_Arcanine_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me06-019",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 56,
+  "lookup": {
+   "en": 51,
+   "ja": 17
   }
  }
 }

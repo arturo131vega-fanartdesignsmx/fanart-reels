@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "197-umbreon-6",
+  "name": "197_Umbreon_6",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_6.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A4-193",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": true,
+   "inliers": 90,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Darkness Fang"
+   ]
+  },
+  {
+   "id": "neo2-13",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop5-17",
+   "lang": "en",
+   "name": "Umbreon ★",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "neo2-32",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "197-umbreon-5",
+  "name": "197_Umbreon_5",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_5.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "ex2-24",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp5-32",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3b-043",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "xy10-55",
+   "lang": "en",
+   "name": "Umbreon EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

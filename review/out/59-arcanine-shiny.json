@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "59-arcanine-shiny",
+  "name": "59_Arcanine_Shiny",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Shiny.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "SV2a-059",
+   "lang": "ja",
+   "name": "ウインディ",
+   "pocket": false,
+   "inliers": 48,
+   "set": "ポケモンカード151",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 150,
+   "attacks": [
+    "あつくたぎる",
+    "ダイナマイトファング"
+   ]
+  },
+  {
+   "id": "sv03.5-059",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 41,
+   "set": "151",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 150,
+   "attacks": [
+    "Torrid Torrent",
+    "Dynamite Fang"
+   ]
+  },
+  {
+   "id": "base4-33",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy12-18",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

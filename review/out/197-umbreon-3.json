@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "197-umbreon-3",
+  "name": "197_Umbreon_3",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_3.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A4-208",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": true,
+   "inliers": 64,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
+   "attacks": [
+    "Darkness Fang"
+   ]
+  },
+  {
+   "id": "hgss3-10",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "30th-091",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh7-95",
+   "lang": "en",
+   "name": "Umbreon VMAX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

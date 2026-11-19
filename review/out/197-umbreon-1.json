@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "197-umbreon-1",
+  "name": "197_Umbreon_1",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_1.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A3b-077",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": true,
+   "inliers": 34,
+   "set": "Eevee Grove",
+   "illustrator": "kawayoo",
+   "hp": 100,
+   "attacks": [
+    "Dark Binding"
+   ]
+  },
+  {
+   "id": "swshp-SWSH203",
+   "lang": "en",
+   "name": "Umbreon V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "col1-22",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw5-61",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

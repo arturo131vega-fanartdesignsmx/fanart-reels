@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "59-arcanine-tera-2",
+  "name": "59_Arcanine_Tera_2",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "A1-041",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Saito",
+   "hp": 150,
+   "attacks": [
+    "Inferno Onrush"
+   ]
+  },
+  {
+   "id": "A3a-090",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Extradimensional Crisis",
+   "illustrator": "Saya Tsuruta",
+   "hp": 130,
+   "attacks": [
+    "Heat Tackle"
+   ]
+  },
+  {
+   "id": "A1-040",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 17,
+   "set": "Genetic Apex",
+   "illustrator": "kodama",
+   "hp": 130,
+   "attacks": [
+    "Heat Tackle"
+   ]
+  },
+  {
+   "id": "swsh2-28",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Rebel Clash",
+   "illustrator": "Hasuno",
+   "hp": 130,
+   "attacks": [
+    "Fire Mane"
+   ]
+  }
+ ]
+}

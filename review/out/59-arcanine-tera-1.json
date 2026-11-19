@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "59-arcanine-tera-1",
+  "name": "59_Arcanine_Tera_1",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_1.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "sv01-224",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": false,
+   "inliers": 86,
+   "set": "Scarlet & Violet",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Raging Claws",
+    "Bright Flame"
+   ]
+  },
+  {
+   "id": "SV1V-092",
+   "lang": "ja",
+   "name": "ウインディex",
+   "pocket": false,
+   "inliers": 45,
+   "set": "バイオレットex",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "いかりのツメ",
+    "ぐれんのほのお"
+   ]
+  },
+  {
+   "id": "A1-040",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": true,
+   "inliers": 17,
+   "set": "Genetic Apex",
+   "illustrator": "kodama",
+   "hp": 130,
+   "attacks": [
+    "Heat Tackle"
+   ]
+  },
+  {
+   "id": "A1-041",
+   "lang": "en",
+   "name": "Arcanine ex",
+   "pocket": true,
+   "inliers": 14,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Saito",
+   "hp": 150,
+   "attacks": [
+    "Inferno Onrush"
+   ]
+  }
+ ]
+}

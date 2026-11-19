@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "197-umbreon-8",
+  "name": "197_Umbreon_8",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_8.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "col1-22",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw5-60",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex10-112",
+   "lang": "en",
+   "name": "Umbreon ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh7-188",
+   "lang": "en",
+   "name": "Umbreon V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

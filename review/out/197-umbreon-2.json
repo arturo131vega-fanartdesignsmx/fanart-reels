@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "197-umbreon-2",
+  "name": "197_Umbreon_2",
+  "pokemon": "Umbreon",
+  "dex": 197,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_2.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 55,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "SV3-070",
+   "lang": "ja",
+   "name": "ブラッキー",
+   "pocket": false,
+   "inliers": 91,
+   "set": "黒炎の支配者",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "だましうち",
+    "しっこくのやいば"
+   ]
+  },
+  {
+   "id": "sv03-130",
+   "lang": "en",
+   "name": "Umbreon",
+   "pocket": false,
+   "inliers": 55,
+   "set": "Obsidian Flames",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Feint Attack",
+    "Pitch-Black Blade"
+   ]
+  },
+  {
+   "id": "smp-SM36",
+   "lang": "en",
+   "name": "Umbreon GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh7-188",
+   "lang": "en",
+   "name": "Umbreon V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

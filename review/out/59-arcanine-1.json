@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "59-arcanine-1",
+  "name": "59_Arcanine_1",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_1.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "sm1-22",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh2-28",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-071",
+   "lang": "en",
+   "name": "Hisuian Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV5a-042",
+   "lang": "ja",
+   "name": "ヒスイ ウインディ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

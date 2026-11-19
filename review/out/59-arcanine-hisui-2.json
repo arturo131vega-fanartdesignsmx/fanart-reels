@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "59-arcanine-hisui-2",
+  "name": "59_Arcanine_Hisui_2",
+  "pokemon": "Arcanine",
+  "dex": 59,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 51,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "SV5a-042",
+   "lang": "ja",
+   "name": "ヒスイ ウインディ",
+   "pocket": false,
+   "inliers": 150,
+   "set": "クリムゾンヘイズ",
+   "illustrator": "SIE NANAHARA",
+   "hp": 130,
+   "attacks": [
+    "プライドファング",
+    "やきこがす"
+   ]
+  },
+  {
+   "id": "sv06-100",
+   "lang": "en",
+   "name": "Hisuian Arcanine",
+   "pocket": false,
+   "inliers": 115,
+   "set": "Twilight Masquerade",
+   "illustrator": "SIE NANAHARA",
+   "hp": 130,
+   "attacks": [
+    "Proud Fangs",
+    "Searing Flame"
+   ]
+  },
+  {
+   "id": "det1-6",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-18",
+   "lang": "en",
+   "name": "Arcanine",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
