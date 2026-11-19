@@ -433,5 +433,86 @@
    "permalink": "https://www.facebook.com/1199826319888363_122120086719449530"
   },
   "done": "2026-11-19T04:27:19.945706+00:00"
+ },
+ "2026-11-19-r1b": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r1b.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r1b.jpg",
+  "render": {
+   "duration": 14.833333333333334,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 107,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.62,
+    "text": "Okay, look at this..."
+   },
+   {
+    "t0": 1.62,
+    "t1": 2.0,
+    "text": "Mega Greninja"
+   },
+   {
+    "t0": 2.0,
+    "t1": 3.557,
+    "text": "like you've never seen it."
+   },
+   {
+    "t0": 3.837,
+    "t1": 5.167,
+    "text": "Every card's handmade,"
+   },
+   {
+    "t0": 5.167,
+    "t1": 6.127,
+    "text": "holographic,"
+   },
+   {
+    "t0": 6.127,
+    "t1": 8.095,
+    "text": "and the exact size of a real card."
+   },
+   {
+    "t0": 8.354,
+    "t1": 9.575,
+    "text": "Grab two or more"
+   },
+   {
+    "t0": 9.575,
+    "t1": 11.064,
+    "text": "and save 25%"
+   },
+   {
+    "t0": 11.064,
+    "t1": 12.324,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.624,
+    "t1": 13.833,
+    "text": "The link's in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-19T14:44:00.533540+00:00",
+  "render_seconds": 102
  }
 }
