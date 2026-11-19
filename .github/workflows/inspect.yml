@@ -1,0 +1,48 @@
+name: Inspect media (download + frames)
+
+on:
+  push:
+    branches: [main]
+    paths: ['tests/inspect.json']
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+      - name: Download and extract
+        run: |
+          mkdir -p tests/inspect && rm -f tests/inspect/*
+          python3 - <<'PY'
+          import json, subprocess, urllib.request
+          items = json.load(open("tests/inspect.json"))
+          info = {}
+          for it in items:
+              n, u = it["name"], it["url"]
+              ext = "mp4" if it.get("video") else "jpg"
+              p = f"/tmp/{n}.{ext}"
+              req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+              open(p, "wb").write(urllib.request.urlopen(req, timeout=120).read())
+              pr = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
+                                   "stream=width,height:format=duration", "-of", "json", p], capture_output=True, text=True)
+              info[n] = json.loads(pr.stdout or "{}")
+              if ext == "mp4":
+                  for t in ("0.5", "2"):
+                      subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", t, "-i", p, "-frames:v", "1",
+                                      "-vf", "scale=540:-1", f"tests/inspect/{n}_t{t}.jpg"])
+              else:
+                  subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", p, "-vf", "scale=540:-1", f"tests/inspect/{n}.jpg"])
+          json.dump(info, open("tests/inspect/_info.json", "w"), indent=1)
+          PY
+      - name: Save
+        run: |
+          git config user.name "fanart-bot"
+          git config user.email "fanart-bot@users.noreply.github.com"
+          git add tests/inspect
+          git commit -qm "inspect [skip ci]" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
