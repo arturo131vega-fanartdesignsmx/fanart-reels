@@ -37,11 +37,13 @@ def _rounded(card, r):
 FAN_MARGIN = 84  # minimum distance between any card and the frame edge
 
 
-def _card_rgba(card, h, angle):
-    """Watermarked rounded card of height h, rotated by angle -> (BGR uint8, alpha float 0..1)."""
+def _card_rgba(card, h, angle, has_wm=False):
+    """Watermarked rounded card of height h, rotated by angle -> (BGR uint8, alpha float 0..1).
+    Shop mockups already carry the shop watermark: never stack a second one."""
     w = int(h * card.shape[1] / card.shape[0])
     c = cv2.resize(card, (w, h), interpolation=cv2.INTER_AREA)
-    c = watermark(c, w, h)
+    if not has_wm:
+        c = watermark(c, w, h)
     a = _rounded(c, max(6, w // 26))
     pad = int(0.12 * h)
     big = np.zeros((h + 2 * pad, w + 2 * pad, 4), np.uint8)
@@ -65,7 +67,7 @@ def _fan(cards):
     rgb = np.zeros((big, big, 3), np.float32)
     al = np.zeros((big, big), np.float32)
     for i, dx, dy, h, ang in spec:
-        c, a = _card_rgba(cards[i], h, ang)
+        c, a = _card_rgba(cards[i][0], h, ang, cards[i][1])
         y0, x0 = big // 2 + dy - c.shape[0] // 2, big // 2 + dx - c.shape[1] // 2
         sl = (slice(y0, y0 + c.shape[0]), slice(x0, x0 + c.shape[1]))
         # shadow of this card falls on the cards behind it
@@ -87,8 +89,8 @@ def _fan(cards):
 
 def build(card_paths, out_path):
     """Slide 3: the other designs of the Pokémon as a centred fan of three (two or one if that's all)."""
-    cards = [load_card(p) for p in card_paths[:3]]
-    bg = cv2.resize(cards[0], (SIZE, SIZE))
+    cards = [load_card(p) for p in card_paths[:3]]  # [(card, already_watermarked)]
+    bg = cv2.resize(cards[0][0], (SIZE, SIZE))
     bg = (cv2.GaussianBlur(bg, (0, 0), 40).astype(np.float32) * 0.35)
     rgb, al = _fan(cards)
     h, w = al.shape
@@ -122,11 +124,12 @@ def hero(mockup_path, out_path):
     bg = cv2.resize(src, (SIZE, SIZE), interpolation=cv2.INTER_AREA)
     bg = cv2.GaussianBlur(bg, (0, 0), 22)
     bg = (bg.astype(np.float32) * 0.70).astype(np.uint8)
-    card = load_card(mockup_path)
+    card, has_wm = load_card(mockup_path)
     ch = 742
     cw = int(ch * card.shape[1] / card.shape[0])
     card = cv2.resize(card, (cw, ch), interpolation=cv2.INTER_AREA)
-    card = watermark(card, cw, ch)
+    if not has_wm:
+        card = watermark(card, cw, ch)
     cy = 528
     x, y = (SIZE - cw) // 2, cy - ch // 2
     sh = np.zeros((SIZE, SIZE), np.float32)

@@ -276,10 +276,8 @@
   "done": "2026-11-19T14:28:03.221763+00:00"
  },
  "2026-11-19-c1": {
-  "attempts": 3,
-  "error": "'tuple' object has no attribute 'shape'",
-  "error_at": "2026-11-19T17:25:42.732469+00:00",
-  "failed": "2026-11-19T17:25:42.732487+00:00"
+  "attempts": 0,
+  "retry_note": "collage load_card bug fixed 19-nov 15:50; republished late on Arturo's request"
  },
  "2026-11-19-r2": {
   "attempts": 0,
@@ -372,9 +370,7 @@
   "done": "2026-11-19T20:01:06.974685+00:00"
  },
  "2026-11-19-c2": {
-  "attempts": 1,
-  "error": "'tuple' object has no attribute 'shape'",
-  "error_at": "2026-11-19T21:39:56.743062+00:00"
+  "attempts": 0
  },
  "2026-11-19-r3": {
   "attempts": 0
