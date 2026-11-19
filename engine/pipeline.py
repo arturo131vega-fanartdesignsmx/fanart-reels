@@ -35,6 +35,7 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "arturo131vega-fanartdesignsmx/fanart
 CLOUD = "rntnboij"
 RENDER_AHEAD = dt.timedelta(hours=3)
 GIVE_UP_AFTER = dt.timedelta(hours=10)
+WAIT_AHEAD = dt.timedelta(minutes=100)  # scheduled runs arrive ~60-80 min apart
 MAX_ATTEMPTS = 3
 STATUS = os.path.join(ROOT, "state", "status.json")
 MODEL_DIR = os.environ.get("KOKORO_DIR", os.path.join(ROOT, ".kokoro"))
@@ -300,6 +301,13 @@ def main():
                 st["dry_run"] = True
                 changed = True
                 continue
+            if (not due and mode == "run" and not only and (st.get("video_url") or st.get("slides"))
+                    and at - now() <= WAIT_AHEAD):
+                # GitHub's */15 cron really fires about once an hour: wait here so the post goes out on time
+                secs = max(0.0, (at - now()).total_seconds())
+                print(f"waiting {secs / 60:.0f} min to publish {it['id']} at {at.isoformat()}", flush=True)
+                time.sleep(secs)
+                due = True
             if not due or mode == "render":
                 continue
             if it["type"] == "reel" and st.get("video_url"):

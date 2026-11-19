@@ -25,9 +25,12 @@ concurrency:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
+
+      - name: Use the latest status and queue (a queued run may have an older checkout)
+        run: git fetch -q origin main && git checkout -q origin/main -- state/status.json queue || true
 
       - name: Anything to do?
         id: pre
