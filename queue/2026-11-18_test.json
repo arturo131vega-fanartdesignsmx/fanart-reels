@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "id": "test-render-1",
+   "script": [
+    {
+     "chunks": [
+      "Wait for it...",
+      "this one never got",
+      "a real print."
+     ],
+     "speed": 0.98,
+     "pause": 0.28
+    },
+    {
+     "chunks": [
+      "So I made it myself:",
+      "handmade,",
+      "holographic,",
+      "and real card size."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Pick any two",
+      "and take",
+      [
+       "twenty-five percent off",
+       "25% off"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Link's in my bio!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "af_bella",
+   "speed": 1.05,
+   "variant_seed": 11,
+   "music_seed": 3,
+   "highlight": [
+    "Mewtwo",
+    "print",
+    "myself"
+   ],
+   "type": "reel",
+   "dry_run": true,
+   "publish_at": "2026-11-18T21:12:07-06:00",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/v1795043053/ig_mmy2.jpg",
+   "caption_ig": "test",
+   "caption_fb": ""
+  }
+ ]
+}

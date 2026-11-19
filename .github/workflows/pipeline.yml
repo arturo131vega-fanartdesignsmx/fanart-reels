@@ -1,0 +1,80 @@
+name: Reels & Carousels pipeline
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    branches: [main]
+    paths: ['queue/**', 'engine/**']
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'run | render | force | check'
+        default: 'run'
+      only_id:
+        description: 'Only this item id (optional)'
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Anything to do?
+        id: pre
+        env:
+          MODE: precheck
+        run: |
+          if [ "${{ inputs.mode }}" = "check" ] || [ -n "${{ inputs.only_id }}" ]; then echo "work=true" >> "$GITHUB_OUTPUT"; else python3 engine/pipeline.py; fi
+
+      - uses: actions/setup-python@v5
+        if: steps.pre.outputs.work == 'true'
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Cache Kokoro voice model
+        if: steps.pre.outputs.work == 'true'
+        uses: actions/cache@v4
+        with:
+          path: .kokoro
+          key: kokoro-model-files-v1.0
+
+      - name: Install
+        if: steps.pre.outputs.work == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q -r requirements.txt
+          mkdir -p .kokoro
+          [ -f .kokoro/kokoro-v1.0.onnx ] || curl -sSL -o .kokoro/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          [ -f .kokoro/voices-v1.0.bin ] || curl -sSL -o .kokoro/voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+
+      - name: Render and publish
+        if: steps.pre.outputs.work == 'true'
+        env:
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODE: ${{ inputs.mode || 'run' }}
+          ONLY_ID: ${{ inputs.only_id || '' }}
+          KOKORO_DIR: .kokoro
+        run: python3 engine/pipeline.py
+
+      - name: Save status
+        if: always() && steps.pre.outputs.work == 'true'
+        run: |
+          git config user.name "fanart-reels-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/status.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "status update [skip ci]"
+          for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q && exit 0; sleep 7; done
+          exit 1
