@@ -1,0 +1,42 @@
+name: Publish Facebook Reel
+
+on:
+  push:
+    branches: [media]
+    paths: ['jobs/*.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: facebook-reel
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish pending Reels to the Facebook Page
+        id: publish
+        continue-on-error: true
+        env:
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          FB_PAGE_ID: '61593485906686'
+        run: python3 scripts/publish_fb_reel.py
+
+      - name: Save results back to the branch
+        run: |
+          git config user.name "fanart-reels-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs/*.result.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Facebook publish results"
+          git push
+
+      - name: Fail if publishing failed
+        if: steps.publish.outcome == 'failure'
+        run: exit 1
