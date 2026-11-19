@@ -149,6 +149,36 @@ def main():
         print(json.dumps(api().check(), indent=1))
         return 0
 
+    if mode == "igtest":  # build IG containers WITHOUT publishing (they expire on their own in 24 h)
+        from meta import call
+        m, cfg, res = api(), json.load(open("tests/igtest.json")), {}
+        try:
+            kids = []
+            for s in cfg["slides"]:
+                if s.get("video"):
+                    cid = call("POST", f"{m.ig_id}/media", {"media_type": "VIDEO", "video_url": s["video"],
+                               "is_carousel_item": "true"}, token=m.page_token)["id"]
+                    m._ig_wait(cid)
+                else:
+                    cid = call("POST", f"{m.ig_id}/media", {"image_url": s["image"], "is_carousel_item": "true"},
+                               token=m.page_token)["id"]
+                kids.append(cid)
+            parent = call("POST", f"{m.ig_id}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
+                          "caption": "test (not published)"}, token=m.page_token)["id"]
+            m._ig_wait(parent)
+            res["carousel_container"] = "FINISHED"
+            rc = call("POST", f"{m.ig_id}/media", {"media_type": "REELS", "video_url": cfg["reel"],
+                      "caption": "test (not published)", "share_to_feed": "true", "cover_url": cfg["cover"]},
+                      token=m.page_token)["id"]
+            m._ig_wait(rc)
+            res["reel_container"] = "FINISHED"
+            res["ok"] = True
+        except Exception as e:
+            res["ok"], res["error"] = False, str(e)[:500]
+        json.dump(res, open("tests/igtest_result.json", "w"), indent=1)
+        print(json.dumps(res, indent=1))
+        return 0
+
     if mode == "precheck":  # stdlib only: is there anything to render or publish now?
         work = False
         for it in load_items():

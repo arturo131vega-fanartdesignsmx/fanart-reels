@@ -1,0 +1,10 @@
+{
+ "source": "Pokémon of the Year 2020 (The Pokémon Company + Google, 562k+ votes): overall top 10 and top 4-5 per region; GameWith Scarlet/Violet popularity poll for Paldea.",
+ "tier1": ["Greninja", "Lucario", "Mimikyu", "Charizard", "Umbreon", "Sylveon", "Garchomp", "Rayquaza", "Gardevoir", "Gengar"],
+ "tier2": ["Pikachu", "Bulbasaur", "Typhlosion", "Lugia", "Tyranitar", "Sceptile", "Flygon", "Blaziken", "Piplup", "Luxray",
+           "Infernape", "Chandelure", "Zoroark", "Hydreigon", "Volcarona", "Haxorus", "Aegislash", "Noivern", "Goodra",
+           "Decidueye", "Rowlet", "Lycanroc", "Zeraora", "Dragapult", "Toxtricity", "Corviknight", "Snom",
+           "Meowscarada", "Fuecoco", "Eevee", "Espeon", "Mewtwo", "Mew", "Dragonite", "Arcanine", "Ninetales", "Absol",
+           "Metagross", "Salamence", "Blastoise", "Venusaur", "Snorlax", "Gyarados", "Ho-Oh", "Giratina", "Darkrai"],
+ "weights": {"tier1": 5, "tier2": 3, "other": 1}
+}
