@@ -1,24 +1,11 @@
 {
- "sq200": {
+ "sq185": {
   "programs": [],
   "stream_groups": [],
   "streams": [
    {
-    "width": 720,
-    "height": 720
-   }
-  ],
-  "format": {
-   "duration": "4.166667"
-  }
- },
- "sq170": {
-  "programs": [],
-  "stream_groups": [],
-  "streams": [
-   {
-    "width": 720,
-    "height": 720
+    "width": 1080,
+    "height": 1080
    }
   ],
   "format": {
