@@ -120,11 +120,22 @@ def fix_caption(text):
     return re.sub(r"(?<![#\w])ex\b", "EX", text or "")
 
 
+MORE_DESIGNS = ("https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/"
+                "https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg")
+HOLO_SQUARE = ("https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/"
+               "v1795034320/ig_holo_video.mp4")
+
+
 def prepare_carousel(it, workdir):
     from collage import build, hero
     day = it["publish_at"][:10]
     slides, files = [], {}
     for i, sl in enumerate(it["slides"]):
+        # keep Arturo's approved format even if a queue file still has an older slide
+        if "ig_more_designs" in (sl.get("image") or ""):
+            sl = {"image": MORE_DESIGNS}
+        if "ig_holo_video" in (sl.get("video") or "") and "b_blurred" in sl["video"]:
+            sl = {"video": HOLO_SQUARE}
         name = f"{day}_{it['id']}_slide{i + 1}.jpg"
         if sl.get("collage"):
             paths = [download(u, os.path.join(workdir, f"s{i}_{j}.jpg")) for j, u in enumerate(sl["collage"])]
