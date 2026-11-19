@@ -513,6 +513,15 @@
    }
   ],
   "rendered_at": "2026-11-19T14:44:00.533540+00:00",
-  "render_seconds": 102
+  "render_seconds": 102,
+  "ig": {
+   "media_id": "18081498761418147",
+   "permalink": "https://www.instagram.com/reel/Df7U3SwCcH5/"
+  },
+  "fb": {
+   "video_id": "1476161654457051",
+   "permalink": "https://www.facebook.com/reel/1476161654457051/"
+  },
+  "done": "2026-11-19T14:46:44.276368+00:00"
  }
 }
