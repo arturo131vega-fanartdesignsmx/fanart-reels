@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-24",
+  "name": "Pikachu 24",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_24.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "30th-024",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 301,
+   "set": "30th Celebration",
+   "illustrator": "danciao",
+   "hp": 70,
+   "attacks": [
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "basep-25",
+   "lang": "en",
+   "name": "Flying Pikachu",
+   "pocket": false,
+   "inliers": 22,
+   "set": "Wizards Black Star Promos",
+   "illustrator": "Toshinao Aoki",
+   "hp": 40,
+   "attacks": [
+    "Thundershock",
+    "Fly"
+   ]
+  },
+  {
+   "id": "sv08.5-028",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 22,
+   "set": "Prismatic Evolutions",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Tail Whap",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "xy1-42",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 21,
+   "set": "XY",
+   "illustrator": "MAHOU",
+   "hp": 60,
+   "attacks": [
+    "Nuzzle",
+    "Quick Attack"
+   ]
+  }
+ ]
+}

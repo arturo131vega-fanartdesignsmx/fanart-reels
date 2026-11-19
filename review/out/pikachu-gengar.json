@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-gengar",
+  "name": "Pikachu Gengar",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Gengar.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "smp-SM162",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "SM Black Star Promos",
+   "illustrator": "Saya Tsuruta",
+   "hp": 60,
+   "attacks": [
+    "Nuzzle",
+    "Thunder Jolt"
+   ]
+  },
+  {
+   "id": "svp-106",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 14,
+   "set": "SVP Black Star Promos",
+   "illustrator": "takuyoa",
+   "hp": 200,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "30th-054",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 13,
+   "set": "30th Celebration",
+   "illustrator": "takuyoa",
+   "hp": 190,
+   "attacks": [
+    "Zip-Zap Frenzy",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 13,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "pikachu-14",
+  "name": "Pikachu 14",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_14.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "sv02-062",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "neo1-70",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "g1-RC29",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

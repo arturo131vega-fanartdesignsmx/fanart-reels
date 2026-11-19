@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-tera_2",
+  "name": "Pikachu Tera_2",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Tera_2.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "me02.5-277",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 279,
+   "set": "Ascended Heroes",
+   "illustrator": "James Turner",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "30th-024",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 45,
+   "set": "30th Celebration",
+   "illustrator": "danciao",
+   "hp": 70,
+   "attacks": [
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "ex2-72",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 42,
+   "set": "Sandstorm",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 50,
+   "attacks": [
+    "Scratch",
+    "Pika Bolt"
+   ]
+  },
+  {
+   "id": "swsh12-049",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 36,
+   "set": "Silver Tempest",
+   "illustrator": "Souichirou Gunjima",
+   "hp": 70,
+   "attacks": [
+    "Pika Strike"
+   ]
+  }
+ ]
+}

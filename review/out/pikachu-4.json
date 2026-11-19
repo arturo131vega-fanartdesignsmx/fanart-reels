@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-4",
+  "name": "Pikachu 4",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_4.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "P-A-009",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 161,
+   "set": "Promos-A",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 60,
+   "attacks": [
+    "Gnaw"
+   ]
+  },
+  {
+   "id": "30th-043",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "30th Celebration",
+   "illustrator": "OOYAMA",
+   "hp": 70,
+   "attacks": [
+    "Tropical Vibes"
+   ]
+  },
+  {
+   "id": "30th-028",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "30th Celebration",
+   "illustrator": "sowsow",
+   "hp": 60,
+   "attacks": [
+    "Pika Ball"
+   ]
+  },
+  {
+   "id": "xyp-XY89",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "XY Black Star Promos",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 60,
+   "attacks": [
+    "Thunder Wave",
+    "Electric Ring"
+   ]
+  }
+ ]
+}

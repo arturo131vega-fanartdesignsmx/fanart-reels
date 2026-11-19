@@ -1,0 +1,57 @@
+{
+ "candidate": {
+  "key": "pikachu-26",
+  "name": "Pikachu 26",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_26.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "basep-25",
+   "lang": "en",
+   "name": "Flying Pikachu",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Wizards Black Star Promos",
+   "illustrator": "Toshinao Aoki",
+   "hp": 40,
+   "attacks": [
+    "Thundershock",
+    "Fly"
+   ]
+  },
+  {
+   "id": "30th-043",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 13,
+   "set": "30th Celebration",
+   "illustrator": "OOYAMA",
+   "hp": 70,
+   "attacks": [
+    "Tropical Vibes"
+   ]
+  },
+  {
+   "id": "30th-051",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 11
+  }
+ ]
+}

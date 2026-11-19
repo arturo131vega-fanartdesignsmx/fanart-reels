@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-rayquaza",
+  "name": "Pikachu Rayquaza",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Rayquaza.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "A1-096",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 44,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "sv08.5-028",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 27,
+   "set": "Prismatic Evolutions",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Tail Whap",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "smp-SM110",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 25,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail",
+    "Thunder"
+   ]
+  }
+ ]
+}

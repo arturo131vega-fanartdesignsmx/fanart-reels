@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "pikachu-40",
+  "name": "Pikachu 40.pg",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_40.pg.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sm115-19",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "30th-028",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "ecard1-124",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "A1-259",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 10
+  }
+ ]
+}

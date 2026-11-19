@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-34",
+  "name": "Pikachu 34",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_34.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH020",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 182,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "Hideki Ishikawa",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 69,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "gym2-84",
+   "lang": "en",
+   "name": "Lt. Surge's Pikachu",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Gym Challenge",
+   "illustrator": "Atsuko Nishida",
+   "hp": 40,
+   "attacks": [
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "30th-039",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 40,
+   "set": "30th Celebration",
+   "illustrator": "Teeziro",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-2",
+  "name": "Pikachu 2",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_2.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "A2b-082",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 109,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 120,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "30th-049",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 30,
+   "set": "30th Celebration",
+   "illustrator": "Nurikabe",
+   "hp": 80,
+   "attacks": [
+    "Fighting Lightning"
+   ]
+  },
+  {
+   "id": "sv03.5-173",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 28,
+   "set": "151",
+   "illustrator": "Hiroyuki Yamamoto",
+   "hp": 60,
+   "attacks": [
+    "Charge",
+    "Pika Punch"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-29",
+  "name": "Pikachu 29",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_29.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 98,
+   "set": "Roaring Skies",
+   "illustrator": "Naoki Saito",
+   "hp": 60,
+   "attacks": [
+    "Tail Whip",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "sm115-19",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 44,
+   "set": "Hidden Fates",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 70,
+   "attacks": [
+    "Quick Attack",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "30th-027",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 34,
+   "set": "30th Celebration",
+   "illustrator": "Asako Ito",
+   "hp": 80,
+   "attacks": [
+    "Nap"
+   ]
+  },
+  {
+   "id": "30th-047",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 32,
+   "set": "30th Celebration",
+   "illustrator": "Atsuko Nishida",
+   "hp": 70,
+   "attacks": [
+    "Play Rough"
+   ]
+  }
+ ]
+}

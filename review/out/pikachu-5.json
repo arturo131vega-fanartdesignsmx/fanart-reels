@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-5",
+  "name": "Pikachu 5",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_5.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "xyp-XY89",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 186,
+   "set": "XY Black Star Promos",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 60,
+   "attacks": [
+    "Thunder Wave",
+    "Electric Ring"
+   ]
+  },
+  {
+   "id": "30th-028",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 182,
+   "set": "30th Celebration",
+   "illustrator": "sowsow",
+   "hp": 60,
+   "attacks": [
+    "Pika Ball"
+   ]
+  },
+  {
+   "id": "30th-033",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 182,
+   "set": "30th Celebration",
+   "illustrator": "Narumi Sato",
+   "hp": 60,
+   "attacks": [
+    "Tiny Charge"
+   ]
+  },
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 182,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  }
+ ]
+}

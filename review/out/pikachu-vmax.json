@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "pikachu-vmax",
+  "name": "Pikachu VMAX",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "hgss1-78",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "30th-042",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "A1-096",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "30th-149",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 9
+  }
+ ]
+}

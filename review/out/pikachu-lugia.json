@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-lugia",
+  "name": "Pikachu Lugia",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Lugia.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sv02-063",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 54,
+   "set": "Paldea Evolved",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Pika Punch",
+    "Dynamic Bolt"
+   ]
+  },
+  {
+   "id": "sm4-30",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 48,
+   "set": "Crimson Invasion",
+   "illustrator": "Shibuzoh.",
+   "hp": 60,
+   "attacks": [
+    "Pika Draw",
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "pl2-114",
+   "lang": "en",
+   "name": "Surfing Pikachu",
+   "pocket": false,
+   "inliers": 44,
+   "set": "Rising Rivals",
+   "illustrator": "Toshinao Aoki",
+   "hp": 50,
+   "attacks": [
+    "Surf"
+   ]
+  },
+  {
+   "id": "smp-SM109",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 40,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Agility",
+    "Thunder"
+   ]
+  }
+ ]
+}

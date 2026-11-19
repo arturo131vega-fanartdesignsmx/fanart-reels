@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-38",
+  "name": "Pikachu 38",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_38.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sv03.5-173",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 32,
+   "set": "151",
+   "illustrator": "Hiroyuki Yamamoto",
+   "hp": 60,
+   "attacks": [
+    "Charge",
+    "Pika Punch"
+   ]
+  },
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 21,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "xy12-111",
+   "lang": "en",
+   "name": "Surfing Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Evolutions",
+   "illustrator": "Toshinao Aoki",
+   "hp": 50,
+   "attacks": [
+    "Surf"
+   ]
+  },
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  }
+ ]
+}

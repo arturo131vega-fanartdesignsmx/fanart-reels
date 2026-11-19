@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-charizard_y",
+  "name": "Pikachu Charizard_Y",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Charizard_Y.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "30th-149",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 24,
+   "set": "30th Celebration",
+   "illustrator": "kantaro",
+   "hp": 190,
+   "attacks": [
+    "Pika-Pika Parade",
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "smp-SM113",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 20,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "30th-027",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 19,
+   "set": "30th Celebration",
+   "illustrator": "Asako Ito",
+   "hp": 80,
+   "attacks": [
+    "Nap"
+   ]
+  },
+  {
+   "id": "ex4-43",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Team Magma vs Team Aqua",
+   "illustrator": "Ken Sugimori",
+   "hp": 50,
+   "attacks": [
+    "Agility",
+    "Thundershock"
+   ]
+  }
+ ]
+}

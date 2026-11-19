@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-36",
+  "name": "Pikachu 36",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_36.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "svp-101",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 151,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Jiro Sasumo",
+   "hp": 70,
+   "attacks": [
+    "Scrappy Spark"
+   ]
+  },
+  {
+   "id": "g1-RC29",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 52,
+   "set": "Generations",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 60,
+   "attacks": [
+    "Nuzzle",
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "sv04.5-018",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 45,
+   "set": "Paldean Fates",
+   "illustrator": "OKACHEKE",
+   "hp": 70,
+   "attacks": [
+    "Growl",
+    "Pika Bolt"
+   ]
+  },
+  {
+   "id": "ex13-104",
+   "lang": "en",
+   "name": "Pikachu Star",
+   "pocket": false,
+   "inliers": 38,
+   "set": "Holon Phantoms",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Spring Back"
+   ]
+  }
+ ]
+}

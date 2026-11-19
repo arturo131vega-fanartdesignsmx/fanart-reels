@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "pikachu-astronauta",
+  "name": "Pikachu Astronauta",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Astronauta.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 47,
+   "set": "Roaring Skies",
+   "illustrator": "Naoki Saito",
+   "hp": 60,
+   "attacks": [
+    "Tail Whip",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 46,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "bw11-RC7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 39,
+   "set": "Legendary Treasures",
+   "illustrator": "Atsuko Nishida",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Tail Whap"
+   ]
+  },
+  {
+   "id": "pop2-16",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 33,
+   "set": "POP Series 2",
+   "illustrator": "Yuka Morii",
+   "hp": 40,
+   "attacks": [
+    "Gnaw",
+    "Thunder Jolt"
+   ]
+  }
+ ]
+}

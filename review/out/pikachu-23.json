@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-23",
+  "name": "Pikachu 23",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_23.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "bw11-RC7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 20,
+   "set": "Legendary Treasures",
+   "illustrator": "Atsuko Nishida",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Tail Whap"
+   ]
+  },
+  {
+   "id": "sv03.5-173",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "151",
+   "illustrator": "Hiroyuki Yamamoto",
+   "hp": 60,
+   "attacks": [
+    "Charge",
+    "Pika Punch"
+   ]
+  },
+  {
+   "id": "30th-051",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 14,
+   "set": "30th Celebration",
+   "illustrator": "nagimiso",
+   "hp": 70,
+   "attacks": [
+    "Lightning Crash"
+   ]
+  },
+  {
+   "id": "lc-86",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Legendary Collection",
+   "illustrator": "Ken Sugimori",
+   "hp": 50,
+   "attacks": [
+    "Spark"
+   ]
+  }
+ ]
+}

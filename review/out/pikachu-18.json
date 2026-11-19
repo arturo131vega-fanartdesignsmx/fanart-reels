@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-18",
+  "name": "Pikachu 18",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_18.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 140,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 99,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "A1-096",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 96,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "me02.5-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 93,
+   "set": "Ascended Heroes",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  }
+ ]
+}

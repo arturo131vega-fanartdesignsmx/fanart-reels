@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-vmax_3",
+  "name": "Pikachu VMAX_3",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX_3.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 20,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "sm115-19",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Hidden Fates",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 70,
+   "attacks": [
+    "Quick Attack",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Roaring Skies",
+   "illustrator": "Naoki Saito",
+   "hp": 60,
+   "attacks": [
+    "Tail Whip",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "30th-047",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "30th Celebration",
+   "illustrator": "Atsuko Nishida",
+   "hp": 70,
+   "attacks": [
+    "Play Rough"
+   ]
+  }
+ ]
+}

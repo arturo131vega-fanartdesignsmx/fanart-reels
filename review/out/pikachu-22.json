@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "pikachu-22",
+  "name": "Pikachu 22",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_22.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "A1-285",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 31,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "30th-047",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 14,
+   "set": "30th Celebration",
+   "illustrator": "Atsuko Nishida",
+   "hp": 70,
+   "attacks": [
+    "Play Rough"
+   ]
+  },
+  {
+   "id": "sv02-063",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Paldea Evolved",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Pika Punch",
+    "Dynamic Bolt"
+   ]
+  }
+ ]
+}

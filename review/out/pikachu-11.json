@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-11",
+  "name": "Pikachu 11",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_11.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "P-A-026",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 95,
+   "set": "Promos-A",
+   "illustrator": "Kouki Saitou",
+   "hp": 60,
+   "attacks": [
+    "Gnaw"
+   ]
+  },
+  {
+   "id": "sm12-241",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 15,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Nuzzle",
+    "Volt Tackle"
+   ]
+  },
+  {
+   "id": "30th-028",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 13,
+   "set": "30th Celebration",
+   "illustrator": "sowsow",
+   "hp": 60,
+   "attacks": [
+    "Pika Ball"
+   ]
+  },
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Roaring Skies",
+   "illustrator": "Naoki Saito",
+   "hp": 60,
+   "attacks": [
+    "Tail Whip",
+    "Electro Ball"
+   ]
+  }
+ ]
+}

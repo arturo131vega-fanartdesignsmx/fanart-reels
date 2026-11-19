@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "pikachu-futuro_2",
+  "name": "Pikachu Futuro_2",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Futuro_2.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "xy12-110",
+   "lang": "en",
+   "name": "Flying Pikachu",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "ru1-7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "P-A-009",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 8
+  },
+  {
+   "id": "xy12-35",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

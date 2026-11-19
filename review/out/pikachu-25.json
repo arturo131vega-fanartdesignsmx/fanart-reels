@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-25",
+  "name": "Pikachu 25",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_25.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 13,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "np-35",
+   "lang": "en",
+   "name": "Pikachu δ",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Nintendo Black Star Promos",
+   "illustrator": "Ryo Ueda",
+   "hp": 40,
+   "attacks": [
+    "Thunder Wave",
+    "Iron Tail"
+   ]
+  },
+  {
+   "id": "30th-042",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 12,
+   "set": "30th Celebration",
+   "illustrator": "Akira Komayama",
+   "hp": 60,
+   "attacks": [
+    "Charge-Up Dash",
+    "Pika Bolt"
+   ]
+  },
+  {
+   "id": "30th-054",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 12,
+   "set": "30th Celebration",
+   "illustrator": "takuyoa",
+   "hp": 190,
+   "attacks": [
+    "Zip-Zap Frenzy",
+    "Thunder"
+   ]
+  }
+ ]
+}

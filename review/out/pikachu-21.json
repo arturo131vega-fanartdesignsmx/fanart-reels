@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "pikachu-21",
+  "name": "Pikachu 21",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_21.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "30th-149",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 193,
+   "set": "30th Celebration",
+   "illustrator": "kantaro",
+   "hp": 190,
+   "attacks": [
+    "Pika-Pika Parade",
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "neo1-70",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Neo Genesis",
+   "illustrator": "Naoyo Kimura",
+   "hp": 50,
+   "attacks": [
+    "Quick Attack",
+    "Agility"
+   ]
+  },
+  {
+   "id": "sv02-063",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Paldea Evolved",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Pika Punch",
+    "Dynamic Bolt"
+   ]
+  },
+  {
+   "id": "30th-053",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 18,
+   "set": "30th Celebration",
+   "illustrator": "5ban Graphics",
+   "hp": 190,
+   "attacks": [
+    "Pika-Pika Parade",
+    "Thunderbolt"
+   ]
+  }
+ ]
+}

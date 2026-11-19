@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-17",
+  "name": "Pikachu 17",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_17.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "cel25-5",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 77,
+   "set": "Celebrations",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 60,
+   "attacks": [
+    "Gnaw",
+    "Thunder Jolt"
+   ]
+  },
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "xy12-35",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Evolutions",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 60,
+   "attacks": [
+    "Gnaw",
+    "Thunder Jolt"
+   ]
+  },
+  {
+   "id": "A1-094",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Genetic Apex",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 60,
+   "attacks": [
+    "Gnaw"
+   ]
+  }
+ ]
+}

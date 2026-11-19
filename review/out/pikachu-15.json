@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-15",
+  "name": "Pikachu 15",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_15.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "cel25-8",
+   "lang": "en",
+   "name": "Surfing Pikachu V",
+   "pocket": false,
+   "inliers": 22,
+   "set": "Celebrations",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Surf"
+   ]
+  },
+  {
+   "id": "30th-053",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 19,
+   "set": "30th Celebration",
+   "illustrator": "5ban Graphics",
+   "hp": 190,
+   "attacks": [
+    "Pika-Pika Parade",
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "xy12-35",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Evolutions",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 60,
+   "attacks": [
+    "Gnaw",
+    "Thunder Jolt"
+   ]
+  },
+  {
+   "id": "30th-054",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 16,
+   "set": "30th Celebration",
+   "illustrator": "takuyoa",
+   "hp": 190,
+   "attacks": [
+    "Zip-Zap Frenzy",
+    "Thunder"
+   ]
+  }
+ ]
+}

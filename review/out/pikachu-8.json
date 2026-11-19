@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "pikachu-8",
+  "name": "Pikachu 8",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_8.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "xy12-110",
+   "lang": "en",
+   "name": "Flying Pikachu",
+   "pocket": false,
+   "inliers": 21,
+   "set": "Evolutions",
+   "illustrator": "Toshinao Aoki",
+   "hp": 40,
+   "attacks": [
+    "Thunder Shock",
+    "Fly"
+   ]
+  },
+  {
+   "id": "bw11-RC7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 21,
+   "set": "Legendary Treasures",
+   "illustrator": "Atsuko Nishida",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Tail Whap"
+   ]
+  },
+  {
+   "id": "cel25-6",
+   "lang": "en",
+   "name": "Flying Pikachu V",
+   "pocket": false,
+   "inliers": 20,
+   "set": "Celebrations",
+   "illustrator": "aky CG Works",
+   "hp": 190,
+   "attacks": [
+    "Thunder Shock",
+    "Fly"
+   ]
+  },
+  {
+   "id": "pop5-13",
+   "lang": "en",
+   "name": "Pikachu δ",
+   "pocket": false,
+   "inliers": 20,
+   "set": "POP Series 5",
+   "illustrator": "Ryo Ueda",
+   "hp": 40,
+   "attacks": [
+    "Electric Punch",
+    "Heavy Metal"
+   ]
+  }
+ ]
+}

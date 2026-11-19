@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "pikachu-20",
+  "name": "Pikachu 20",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_20.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "30th-150",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 246,
+   "set": "30th Celebration",
+   "illustrator": "kantaro",
+   "hp": 190,
+   "attacks": [
+    "Zip-Zap Frenzy",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "smp-SM113",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 21,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "smp-SM112",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Quick Attack",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "xy6-20",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Roaring Skies",
+   "illustrator": "Naoki Saito",
+   "hp": 60,
+   "attacks": [
+    "Tail Whip",
+    "Electro Ball"
+   ]
+  }
+ ]
+}

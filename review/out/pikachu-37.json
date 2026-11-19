@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-37",
+  "name": "Pikachu 37",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_37.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "30th-030",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 330,
+   "set": "30th Celebration",
+   "illustrator": "DOM",
+   "hp": 60,
+   "attacks": [
+    "Mach Bolt"
+   ]
+  },
+  {
+   "id": "swshp-SWSH020",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 25,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "Hideki Ishikawa",
+   "hp": 70,
+   "attacks": [
+    "Iron Tail",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "bw11-RC7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 22,
+   "set": "Legendary Treasures",
+   "illustrator": "Atsuko Nishida",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Tail Whap"
+   ]
+  }
+ ]
+}

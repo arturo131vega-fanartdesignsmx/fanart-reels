@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "pikachu-tera_3",
+  "name": "Pikachu Tera_3",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Tera_3.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sv08-219",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 139,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "sv08-247",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 97,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "A1a-025",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 32,
+   "set": "Mythical Island",
+   "illustrator": "Naoyo Kimura",
+   "hp": 60,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "sv08.5-179",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Prismatic Evolutions",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  }
+ ]
+}

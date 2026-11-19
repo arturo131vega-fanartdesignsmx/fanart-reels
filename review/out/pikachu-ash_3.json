@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-ash_3",
+  "name": "Pikachu Ash_3",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_Ash_3.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "swsh12.5-160",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Crown Zenith",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "A1-096",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 21,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "smp-SM98",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 20,
+   "set": "SM Black Star Promos",
+   "illustrator": "Saya Tsuruta",
+   "hp": 60,
+   "attacks": [
+    "Tail Whap",
+    "Thunder Shock"
+   ]
+  },
+  {
+   "id": "swsh7-49",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Evolving Skies",
+   "illustrator": "chibi",
+   "hp": 60,
+   "attacks": [
+    "Energize",
+    "Electro Ball"
+   ]
+  }
+ ]
+}

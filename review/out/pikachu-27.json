@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "pikachu-27",
+  "name": "Pikachu 27",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_27.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sv08-057",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 49,
+   "set": "Surging Sparks",
+   "illustrator": "aky CG Works",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  },
+  {
+   "id": "30th-044",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 43,
+   "set": "30th Celebration",
+   "illustrator": "akagi",
+   "hp": 60,
+   "attacks": [
+    "Agility"
+   ]
+  },
+  {
+   "id": "A1-096",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": true,
+   "inliers": 40,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Circle Circuit"
+   ]
+  },
+  {
+   "id": "30th-025",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 36,
+   "set": "30th Celebration",
+   "illustrator": "satoma",
+   "hp": 70,
+   "attacks": [
+    "Spark"
+   ]
+  }
+ ]
+}

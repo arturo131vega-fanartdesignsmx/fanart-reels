@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "pikachu-3",
+  "name": "Pikachu 3",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_3.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "np-35",
+   "lang": "en",
+   "name": "Pikachu δ",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Nintendo Black Star Promos",
+   "illustrator": "Ryo Ueda",
+   "hp": 40,
+   "attacks": [
+    "Thunder Wave",
+    "Iron Tail"
+   ]
+  },
+  {
+   "id": "g1-RC29",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Generations",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 60,
+   "attacks": [
+    "Nuzzle",
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "swsh7-49",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Evolving Skies",
+   "illustrator": "chibi",
+   "hp": 60,
+   "attacks": [
+    "Energize",
+    "Electro Ball"
+   ]
+  },
+  {
+   "id": "smp-SM111",
+   "lang": "en",
+   "name": "Ash's Pikachu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "SM Black Star Promos",
+   "illustrator": "2017 Pikachu Project",
+   "hp": 70,
+   "attacks": [
+    "Quick Attack",
+    "Volt Tackle"
+   ]
+  }
+ ]
+}

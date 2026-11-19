@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-30",
+  "name": "Pikachu 30",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_30.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "g1-RC29",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 61,
+   "set": "Generations",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 60,
+   "attacks": [
+    "Nuzzle",
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "P-A-026",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": true,
+   "inliers": 38,
+   "set": "Promos-A",
+   "illustrator": "Kouki Saitou",
+   "hp": 60,
+   "attacks": [
+    "Gnaw"
+   ]
+  },
+  {
+   "id": "30th-043",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 26,
+   "set": "30th Celebration",
+   "illustrator": "OOYAMA",
+   "hp": 70,
+   "attacks": [
+    "Tropical Vibes"
+   ]
+  },
+  {
+   "id": "xyp-XY89",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 25,
+   "set": "XY Black Star Promos",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 60,
+   "attacks": [
+    "Thunder Wave",
+    "Electric Ring"
+   ]
+  }
+ ]
+}

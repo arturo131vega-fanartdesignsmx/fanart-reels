@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "pikachu-35",
+  "name": "Pikachu 35",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_35.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "sm4-30",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 242,
+   "set": "Crimson Invasion",
+   "illustrator": "Shibuzoh.",
+   "hp": 60,
+   "attacks": [
+    "Pika Draw",
+    "Quick Attack"
+   ]
+  },
+  {
+   "id": "bw11-RC7",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Legendary Treasures",
+   "illustrator": "Atsuko Nishida",
+   "hp": 60,
+   "attacks": [
+    "Thundershock",
+    "Tail Whap"
+   ]
+  },
+  {
+   "id": "xyp-XY84",
+   "lang": "en",
+   "name": "Pikachu EX",
+   "pocket": false,
+   "inliers": 24,
+   "set": "XY Black Star Promos",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 130,
+   "attacks": [
+    "Iron Tail",
+    "Overspark"
+   ]
+  },
+  {
+   "id": "me02.5-277",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Ascended Heroes",
+   "illustrator": "James Turner",
+   "hp": 200,
+   "attacks": [
+    "Topaz Bolt"
+   ]
+  }
+ ]
+}

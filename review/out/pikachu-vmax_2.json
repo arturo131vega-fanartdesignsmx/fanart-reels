@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-vmax_2",
+  "name": "Pikachu VMAX_2",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_VMAX_2.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "cel25-7",
+   "lang": "en",
+   "name": "Flying Pikachu VMAX",
+   "pocket": false,
+   "inliers": 20,
+   "set": "Celebrations",
+   "illustrator": "aky CG Works",
+   "hp": 310,
+   "attacks": [
+    "Max Balloon"
+   ]
+  },
+  {
+   "id": "svp-106",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 20,
+   "set": "SVP Black Star Promos",
+   "illustrator": "takuyoa",
+   "hp": 200,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "sv08.5-028",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Prismatic Evolutions",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Tail Whap",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "sm11-56",
+   "lang": "en",
+   "name": "Pikachu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Unified Minds",
+   "illustrator": "Misa Tsutsui",
+   "hp": 70,
+   "attacks": [
+    "Tail Whap",
+    "Electric Ball"
+   ]
+  }
+ ]
+}

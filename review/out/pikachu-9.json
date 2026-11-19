@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "pikachu-9",
+  "name": "Pikachu 9",
+  "pokemon": "Pikachu",
+  "dex": 25,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/25_Pikachu_9.jpg"
+ },
+ "official_cards_checked": 211,
+ "lookup": {
+  "en": 246,
+  "ja": 100
+ },
+ "top": [
+  {
+   "id": "me02.5-276",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 174,
+   "set": "Ascended Heroes",
+   "illustrator": "booota",
+   "hp": 200,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "30th-053",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 23,
+   "set": "30th Celebration",
+   "illustrator": "5ban Graphics",
+   "hp": 190,
+   "attacks": [
+    "Pika-Pika Parade",
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "sv02-063",
+   "lang": "en",
+   "name": "Pikachu ex",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Paldea Evolved",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 190,
+   "attacks": [
+    "Pika Punch",
+    "Dynamic Bolt"
+   ]
+  },
+  {
+   "id": "basep-28",
+   "lang": "en",
+   "name": "Surfing Pikachu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Wizards Black Star Promos",
+   "illustrator": "Toshinao Aoki",
+   "hp": 50,
+   "attacks": [
+    "Surf"
+   ]
+  }
+ ]
+}
