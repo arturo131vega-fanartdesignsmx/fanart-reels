@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-wash-1",
+  "name": "479_Rotom_Wash_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Wash_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "me06-119",
+   "lang": "en",
+   "name": "Heat Rotom ex",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "A3-145",
+   "lang": "en",
+   "name": "Rotom Dex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sm1-159",
+   "lang": "en",
+   "name": "Rotom Dex",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "sm5-14",
+   "lang": "en",
+   "name": "Mow Rotom",
+   "pocket": false,
+   "inliers": 7
+  }
+ ]
+}

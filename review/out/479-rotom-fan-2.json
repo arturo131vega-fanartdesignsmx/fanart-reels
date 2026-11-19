@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-fan-2",
+  "name": "479_Rotom_Fan_2",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_2.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "sm12-86",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "A2-021",
+   "lang": "en",
+   "name": "Mow Rotom",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "SV9a-039",
+   "lang": "ja",
+   "name": "ロトム",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop9-5",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

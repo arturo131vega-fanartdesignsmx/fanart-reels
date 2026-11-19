@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "479-rotom-5",
+  "name": "479_Rotom_5",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_5.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "sv10-197",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 177,
+   "set": "Destined Rivals",
+   "illustrator": "Taiga Kayama",
+   "hp": 60,
+   "attacks": [
+    "Astonish",
+    "Gadget Show"
+   ]
+  },
+  {
+   "id": "SV9a-074",
+   "lang": "ja",
+   "name": "ロトム",
+   "pocket": false,
+   "inliers": 174,
+   "set": "熱風のアリーナ",
+   "illustrator": "Taiga Kayama",
+   "hp": 60,
+   "attacks": [
+    "おどろかす",
+    "ガジェットショー"
+   ]
+  },
+  {
+   "id": "swsh4.5-34",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm5-50",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

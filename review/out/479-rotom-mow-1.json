@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-mow-1",
+  "name": "479_Rotom_Mow_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Mow_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "me02-126",
+   "lang": "en",
+   "name": "Rotom ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "SV7-006",
+   "lang": "ja",
+   "name": "カットロトム",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "me06-023",
+   "lang": "en",
+   "name": "Heat Rotom ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV10-021",
+   "lang": "ja",
+   "name": "ヒートロトム",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

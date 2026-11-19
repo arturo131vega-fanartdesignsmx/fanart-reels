@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "479-rotom-6",
+  "name": "479_Rotom_6",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_6.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "me02-126",
+   "lang": "en",
+   "name": "Rotom ex",
+   "pocket": false,
+   "inliers": 80,
+   "set": "Phantasmal Flames",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 190,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  },
+  {
+   "id": "A2-062",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "sv10-077",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV9a-039",
+   "lang": "ja",
+   "name": "ロトム",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

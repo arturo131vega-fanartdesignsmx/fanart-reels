@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-dj-1",
+  "name": "479_Rotom_DJ_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_DJ_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "pop9-5",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp4-7",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv07-008",
+   "lang": "en",
+   "name": "Mow Rotom",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv10-009",
+   "lang": "en",
+   "name": "Mow Rotom",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

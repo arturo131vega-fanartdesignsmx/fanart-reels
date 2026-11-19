@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "459-snover-1",
+  "name": "459_Snover_1",
+  "pokemon": "Snover",
+  "dex": 459,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_1.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 17,
+  "ja": 13
+ },
+ "top": [
+  {
+   "id": "me01-140",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 147,
+   "set": "Mega Evolution",
+   "illustrator": "Nurikabe",
+   "hp": 90,
+   "attacks": [
+    "Beat",
+    "Icy Snow"
+   ]
+  },
+  {
+   "id": "sm6-3",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv02-010",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "me01-035",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

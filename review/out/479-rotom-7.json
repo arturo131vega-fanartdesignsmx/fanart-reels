@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "479-rotom-7",
+  "name": "479_Rotom_7",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_7.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "me02.5-092",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 112,
+   "set": "Ascended Heroes",
+   "illustrator": "mingo",
+   "hp": 60,
+   "attacks": [
+    "Roto Call",
+    "Gadget Show"
+   ]
+  },
+  {
+   "id": "pl3-82",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S11-037",
+   "lang": "ja",
+   "name": "ロトムV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me06-023",
+   "lang": "en",
+   "name": "Heat Rotom ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

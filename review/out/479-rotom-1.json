@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-1",
+  "name": "479_Rotom_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH257",
+   "lang": "en",
+   "name": "Rotom V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV10-004",
+   "lang": "ja",
+   "name": "カットロトム",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh3.5-64",
+   "lang": "en",
+   "name": "Rotom Phone",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV10-028",
+   "lang": "ja",
+   "name": "ウォッシュロトム",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

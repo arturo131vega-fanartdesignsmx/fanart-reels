@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "460-mega-abomasnow-2",
+  "name": "460_Mega_Abomasnow_2",
+  "pokemon": "Abomasnow",
+  "dex": 460,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_2.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 18,
+  "ja": 14
+ },
+ "top": [
+  {
+   "id": "sv02-011",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh2-13",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "bw10-26",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm6-4",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "460-mega-abomasnow-1",
+  "name": "460_Mega_Abomasnow_1",
+  "pokemon": "Abomasnow",
+  "dex": 460,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Mega_Abomasnow_1.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 18,
+  "ja": 14
+ },
+ "top": [
+  {
+   "id": "me01-157",
+   "lang": "en",
+   "name": "Mega Abomasnow ex",
+   "pocket": false,
+   "inliers": 77,
+   "set": "Mega Evolution",
+   "illustrator": "5ban Graphics",
+   "hp": 350,
+   "attacks": [
+    "Hammer-lanche",
+    "Frost Barrier"
+   ]
+  },
+  {
+   "id": "dp2-19",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04.5-101",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV10-027",
+   "lang": "ja",
+   "name": "ユキノオー",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

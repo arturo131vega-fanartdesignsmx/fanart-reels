@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "479-rotom-3",
+  "name": "479_Rotom_3",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_3.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "A2-164",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": true,
+   "inliers": 241,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Shimaris Yukichi",
+   "hp": 70,
+   "attacks": [
+    "Assault Laser"
+   ]
+  },
+  {
+   "id": "S10a-018",
+   "lang": "ja",
+   "name": "ロトム",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "A3-145",
+   "lang": "en",
+   "name": "Rotom Dex",
+   "pocket": true,
+   "inliers": 8
+  },
+  {
+   "id": "sv10-197",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

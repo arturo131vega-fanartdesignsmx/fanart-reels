@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "479-rotom-fan-1",
+  "name": "479_Rotom_Fan_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Fan_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "me02.5-250",
+   "lang": "en",
+   "name": "Fan Rotom",
+   "pocket": false,
+   "inliers": 136,
+   "set": "Ascended Heroes",
+   "illustrator": "Yukihiro Tada",
+   "hp": 70,
+   "attacks": [
+    "Assault Landing"
+   ]
+  },
+  {
+   "id": "A2-047",
+   "lang": "en",
+   "name": "Wash Rotom",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "A2-164",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "sv04.5-013",
+   "lang": "en",
+   "name": "Heat Rotom",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

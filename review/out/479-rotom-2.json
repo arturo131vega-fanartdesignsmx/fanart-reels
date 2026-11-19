@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-2",
+  "name": "479_Rotom_2",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_2.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "sm5-24",
+   "lang": "en",
+   "name": "Heat Rotom",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH257",
+   "lang": "en",
+   "name": "Rotom V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me06-034",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm6-40",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

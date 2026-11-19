@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "479-rotom-10",
+  "name": "479_Rotom_10",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_10.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "sm5-41",
+   "lang": "en",
+   "name": "Frost Rotom",
+   "pocket": false,
+   "inliers": 31,
+   "set": "Ultra Prism",
+   "illustrator": "MAHOU",
+   "hp": 90,
+   "attacks": [
+    "Frost Crush"
+   ]
+  },
+  {
+   "id": "sm5-50",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 31,
+   "set": "Ultra Prism",
+   "illustrator": "Naoyo Kimura",
+   "hp": 70,
+   "attacks": [
+    "Plasma Slice"
+   ]
+  },
+  {
+   "id": "me02.5-171",
+   "lang": "en",
+   "name": "Fan Rotom",
+   "pocket": false,
+   "inliers": 29,
+   "set": "Ascended Heroes",
+   "illustrator": "Toshinao Aoki",
+   "hp": 70,
+   "attacks": [
+    "Assault Landing"
+   ]
+  },
+  {
+   "id": "smp-SM94",
+   "lang": "en",
+   "name": "Wash Rotom",
+   "pocket": false,
+   "inliers": 28,
+   "set": "SM Black Star Promos",
+   "illustrator": "Shigenori Negishi",
+   "hp": 90,
+   "attacks": [
+    "Wash Arrow"
+   ]
+  }
+ ]
+}

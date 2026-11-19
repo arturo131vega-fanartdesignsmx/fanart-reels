@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "479-rotom-8",
+  "name": "479_Rotom_8",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_8.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "swsh4.5-34",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 47,
+   "set": "Shining Fates",
+   "illustrator": "ryoma uratsuka",
+   "hp": 80,
+   "attacks": [
+    "Thunder Shock"
+   ]
+  },
+  {
+   "id": "sm5-50",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 29,
+   "set": "Ultra Prism",
+   "illustrator": "Naoyo Kimura",
+   "hp": 70,
+   "attacks": [
+    "Plasma Slice"
+   ]
+  },
+  {
+   "id": "A2a-035",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": true,
+   "inliers": 28,
+   "set": "Triumphant Light",
+   "illustrator": "Anesaki Dynamic",
+   "hp": 70,
+   "attacks": [
+    "Dash Attack"
+   ]
+  },
+  {
+   "id": "me02-126",
+   "lang": "en",
+   "name": "Rotom ex",
+   "pocket": false,
+   "inliers": 27,
+   "set": "Phantasmal Flames",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 190,
+   "attacks": [
+    "Thunderbolt"
+   ]
+  }
+ ]
+}

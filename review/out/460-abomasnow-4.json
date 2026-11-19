@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "460-abomasnow-4",
+  "name": "460_Abomasnow_4",
+  "pokemon": "Abomasnow",
+  "dex": 460,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/460_Abomasnow_4.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 18,
+  "ja": 14
+ },
+ "top": [
+  {
+   "id": "sm6-4",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh6-10",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv02-011",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp7-12",
+   "lang": "en",
+   "name": "Abomasnow",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

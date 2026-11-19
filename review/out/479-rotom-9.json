@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "479-rotom-9",
+  "name": "479_Rotom_9",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_9.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "SV9a-039",
+   "lang": "ja",
+   "name": "ロトム",
+   "pocket": false,
+   "inliers": 298,
+   "set": "熱風のアリーナ",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 60,
+   "attacks": [
+    "おどろかす",
+    "ガジェットショー"
+   ]
+  },
+  {
+   "id": "sv10-077",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 247,
+   "set": "Destined Rivals",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 60,
+   "attacks": [
+    "Astonish",
+    "Gadget Show"
+   ]
+  },
+  {
+   "id": "A2-021",
+   "lang": "en",
+   "name": "Mow Rotom",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-86",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

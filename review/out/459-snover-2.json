@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "459-snover-2",
+  "name": "459_Snover_2",
+  "pokemon": "Snover",
+  "dex": 459,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/459_Snover_2.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 17,
+  "ja": 13
+ },
+ "top": [
+  {
+   "id": "swsh2-12",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 51,
+   "set": "Rebel Clash",
+   "illustrator": "Shibuzoh.",
+   "hp": 90,
+   "attacks": [
+    "Beat",
+    "Razor Leaf"
+   ]
+  },
+  {
+   "id": "sv02-010",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me01-035",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-41",
+   "lang": "en",
+   "name": "Snover",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

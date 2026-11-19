@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "479-rotom-heat-1",
+  "name": "479_Rotom_Heat_1",
+  "pokemon": "Rotom",
+  "dex": 479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/479_Rotom_Heat_1.jpg"
+ },
+ "official_cards_checked": 82,
+ "lookup": {
+  "en": 69,
+  "ja": 43
+ },
+ "top": [
+  {
+   "id": "pl2-RT5",
+   "lang": "en",
+   "name": "Wash Rotom",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S11-037",
+   "lang": "ja",
+   "name": "ロトムV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S11-104",
+   "lang": "ja",
+   "name": "ロトムV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy10-24",
+   "lang": "en",
+   "name": "Rotom",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
