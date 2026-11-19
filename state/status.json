@@ -276,12 +276,91 @@
   "done": "2026-11-19T14:28:03.221763+00:00"
  },
  "2026-11-19-c1": {
-  "attempts": 2,
+  "attempts": 3,
   "error": "'tuple' object has no attribute 'shape'",
-  "error_at": "2026-11-19T16:26:41.606222+00:00"
+  "error_at": "2026-11-19T17:25:42.732469+00:00",
+  "failed": "2026-11-19T17:25:42.732487+00:00"
  },
  "2026-11-19-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r2.jpg",
+  "render": {
+   "duration": 15.766666666666667,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 111,
+    "root": 56,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.13,
+    "text": "Be honest..."
+   },
+   {
+    "t0": 1.13,
+    "t1": 1.83,
+    "text": "would you pull"
+   },
+   {
+    "t0": 1.83,
+    "t1": 2.851,
+    "text": "this Mega Gengar?"
+   },
+   {
+    "t0": 3.151,
+    "t1": 3.861,
+    "text": "Full art,"
+   },
+   {
+    "t0": 3.861,
+    "t1": 5.601,
+    "text": "handmade and holographic,"
+   },
+   {
+    "t0": 5.601,
+    "t1": 7.315,
+    "text": "and it's real card size."
+   },
+   {
+    "t0": 7.575,
+    "t1": 9.235,
+    "text": "If you pick up two or more,"
+   },
+   {
+    "t0": 9.235,
+    "t1": 10.965,
+    "text": "you get 25% off"
+   },
+   {
+    "t0": 10.965,
+    "t1": 12.444,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.744,
+    "t1": 14.753,
+    "text": "Find it through the link in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-19T17:27:30.189834+00:00",
+  "render_seconds": 107
  },
  "2026-11-19-c2": {
   "attempts": 0
