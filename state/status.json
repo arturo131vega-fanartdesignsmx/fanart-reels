@@ -181,7 +181,90 @@
   "dry_run": true
  },
  "2026-11-19-r1": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r1.jpg",
+  "render": {
+   "duration": 15.933333333333334,
+   "variant": {
+    "tilt_deg": 17.053899226522347,
+    "period": 4.7892231296189856,
+    "pitch_deg": 0.0,
+    "phase": 0.4321092472686368,
+    "card_w": 612,
+    "entrance": "spin",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "drop",
+    "title_hl": 1,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 107,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.62,
+    "text": "Okay, look at this..."
+   },
+   {
+    "t0": 1.62,
+    "t1": 2.0,
+    "text": "Mega Greninja"
+   },
+   {
+    "t0": 2.0,
+    "t1": 3.557,
+    "text": "like you've never seen it."
+   },
+   {
+    "t0": 3.837,
+    "t1": 5.607,
+    "text": "I designed this one myself:"
+   },
+   {
+    "t0": 5.607,
+    "t1": 6.277,
+    "text": "handmade,"
+   },
+   {
+    "t0": 6.277,
+    "t1": 7.167,
+    "text": "holographic,"
+   },
+   {
+    "t0": 7.167,
+    "t1": 9.179,
+    "text": "and the exact size of a real card."
+   },
+   {
+    "t0": 9.439,
+    "t1": 10.659,
+    "text": "Grab two or more"
+   },
+   {
+    "t0": 10.659,
+    "t1": 12.149,
+    "text": "and save 25%"
+   },
+   {
+    "t0": 12.149,
+    "t1": 13.409,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.709,
+    "t1": 14.918,
+    "text": "The link's in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-19T11:09:59.509751+00:00",
+  "render_seconds": 106
  },
  "2026-11-19-c1": {
   "attempts": 0
