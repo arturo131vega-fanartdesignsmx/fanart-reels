@@ -1246,5 +1246,377 @@
   "verdict": "approved",
   "reason": "Artwork not official",
   "pocket": false
+ },
+ "197-umbreon-1": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 34
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543725931-2",
+  "pocket": true
+ },
+ "197-umbreon-2": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 91,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543725931-4",
+  "pocket": false
+ },
+ "197-umbreon-3": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_3.jpg",
+  "used": [
+   "2026-11-19"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 64
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-208), not a physical card",
+  "pocket": true
+ },
+ "197-umbreon-4": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543725931-1",
+  "pocket": false
+ },
+ "197-umbreon-5": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_5.jpg",
+  "used": [
+   "2026-11-19"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "197-umbreon-6": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 90
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-193), not a physical card",
+  "pocket": true
+ },
+ "197-umbreon-7": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 11,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543725931-5",
+  "pocket": false
+ },
+ "197-umbreon-8": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543725931-3",
+  "pocket": false
+ },
+ "197-umbreon-shiny-1": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 72
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-208), not a physical card",
+  "pocket": true
+ },
+ "197-umbreon-shiny-2": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "197-umbreon-tera": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 87,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV8a-217",
+  "pocket": false
+ },
+ "197-umbreon-vmax": {
+  "pokemon": "Umbreon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/197_Umbreon_VMAX.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 19,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Looks like a re-draw of the official Umbreon VMAX alt art (Moonbreon)",
+  "pocket": false
+ },
+ "59-arcanine-1": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_1.jpg",
+  "used": [
+   "2026-11-19"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "59-arcanine-2": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 18,
+   "pocket_max": 11
+  },
+  "verdict": "needs_check",
+  "reason": "Possible official artwork: swsh8-33 (18 matches)",
+  "pocket": false
+ },
+ "59-arcanine-3": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "59-arcanine-4": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 65,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv03.5-059",
+  "pocket": false
+ },
+ "59-arcanine-5": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_5.jpg",
+  "used": [
+   "2026-11-19"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "59-arcanine-6": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 68
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-254), not a physical card",
+  "pocket": true
+ },
+ "59-arcanine-7": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 69,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: me06-019",
+  "pocket": false
+ },
+ "59-arcanine-shiny": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 48,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV2a-059",
+  "pocket": false
+ },
+ "59-arcanine-tera-1": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 86,
+   "pocket_max": 17
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv01-224",
+  "pocket": false
+ },
+ "59-arcanine-tera-2": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Tera_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 14,
+   "pocket_max": 19
+  },
+  "verdict": "needs_check",
+  "reason": "Possible official artwork: swsh2-28 (14 matches)",
+  "pocket": false
+ },
+ "59-arcanine-hisui-1": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false
+ },
+ "59-arcanine-hisui-2": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Arcanine_Hisui_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 150,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV5a-042",
+  "pocket": false
+ },
+ "59-mega-arcanine-1": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4563374016-1",
+  "pocket": false
+ },
+ "59-mega-arcanine-2": {
+  "pokemon": "Arcanine",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/59_Mega_Arcanine_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4563374016-2",
+  "pocket": false
  }
 }
