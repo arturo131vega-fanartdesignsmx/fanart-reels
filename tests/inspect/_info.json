@@ -1,28 +1,28 @@
 {
- "holo_orig": {
+ "sq200": {
   "programs": [],
   "stream_groups": [],
   "streams": [
    {
     "width": 720,
-    "height": 1280
+    "height": 720
    }
   ],
   "format": {
    "duration": "4.166667"
   }
  },
- "holo_fill": {
+ "sq170": {
   "programs": [],
   "stream_groups": [],
   "streams": [
    {
-    "width": 1080,
-    "height": 1080
+    "width": 720,
+    "height": 720
    }
   ],
   "format": {
-   "duration": "8.316667"
+   "duration": "4.166667"
   }
  }
 }
