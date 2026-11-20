@@ -413,10 +413,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18103880711386725",
+   "permalink": "https://www.instagram.com/p/Df8Ua-rlGRY/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120183667449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120183667449530"
+  },
+  "done": "2026-11-20T00:01:08.805837+00:00"
  },
  "2026-11-19-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-19_2026-11-19-r3.jpg",
+  "render": {
+   "duration": 18.0,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 120,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.96,
+    "text": "This Mega Charizard Y"
+   },
+   {
+    "t0": 1.96,
+    "t1": 4.72,
+    "text": "only exists in TCG Pocket..."
+   },
+   {
+    "t0": 4.72,
+    "t1": 6.345,
+    "text": "now you can actually hold it."
+   },
+   {
+    "t0": 6.645,
+    "t1": 8.455,
+    "text": "Every card is made by hand,"
+   },
+   {
+    "t0": 8.455,
+    "t1": 9.455,
+    "text": "full holo,"
+   },
+   {
+    "t0": 9.455,
+    "t1": 10.922,
+    "text": "and fits right in your binder."
+   },
+   {
+    "t0": 11.182,
+    "t1": 12.052,
+    "text": "Buy any two"
+   },
+   {
+    "t0": 12.052,
+    "t1": 13.802,
+    "text": "and take 25% off"
+   },
+   {
+    "t0": 13.802,
+    "t1": 15.388,
+    "text": "using code 25OFF"
+   },
+   {
+    "t0": 15.688,
+    "t1": 16.999,
+    "text": "Tap the link in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-20T00:02:31.563006+00:00",
+  "render_seconds": 83
  },
  "pikachu27-preview": {
   "attempts": 0,
