@@ -4123,5 +4123,175 @@
   "reason": "Artwork not official",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "486-regigigas-1": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas",
+  "listing_id": 4543721863,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-2": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas",
+  "listing_id": 4543721863,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 277
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-179), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-4": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas",
+  "listing_id": 4543721863,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 115,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art promo XY82",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-7": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas",
+  "listing_id": 4543721863,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 126,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the S12a-123 / swsh10-130 illustration; this card doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-9": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas",
+  "listing_id": 4543721863,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 185
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-143), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-3": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas VSTAR",
+  "listing_id": 4543735594,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 71,
+   "pocket_max": 6
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Regigigas VSTAR S12a-233",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-8": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas EX",
+  "listing_id": 4543735594,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-6": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas EX",
+  "listing_id": 4543735594,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Regigigas V CRZ-113)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-shiny-1": {
+  "pokemon": "Regigigas",
+  "card_name": "Shiny Regigigas EX",
+  "listing_id": 4543735594,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Regigigas V CRZ-113)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "486-regigigas-5": {
+  "pokemon": "Regigigas",
+  "card_name": "Regigigas VSTAR",
+  "listing_id": 4543735594,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 91,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical Regigigas VSTAR S12a-125 / swsh12.5-114",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }
