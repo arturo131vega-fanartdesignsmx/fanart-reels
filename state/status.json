@@ -949,7 +949,16 @@
    }
   ],
   "rendered_at": "2026-11-20T18:02:44.568477+00:00",
-  "render_seconds": 96
+  "render_seconds": 96,
+  "ig": {
+   "media_id": "18105416765344303",
+   "permalink": "https://www.instagram.com/reel/Df-ds48CayA/"
+  },
+  "fb": {
+   "video_id": "1693481792184936",
+   "permalink": "https://www.facebook.com/reel/1693481792184936/"
+  },
+  "done": "2026-11-20T20:01:41.279567+00:00"
  },
  "2026-11-20-c2": {
   "attempts": 0
