@@ -4022,5 +4022,106 @@
   "reason": "Official artwork: オリジンパルキアVSTAR S10P-023",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "485-heatran-1": {
+  "pokemon": "Heatran",
+  "card_name": "Heatran",
+  "listing_id": 4547142697,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 187
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-174), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "485-heatran-2": {
+  "pokemon": "Heatran",
+  "card_name": "Heatran EX",
+  "listing_id": 4547142697,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 155,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: ヒードラン SV6-076",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "485-heatran-5": {
+  "pokemon": "Heatran",
+  "card_name": "Heatran EX",
+  "listing_id": 4547142697,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Heatran GX sm11)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "485-heatran-4": {
+  "pokemon": "Heatran",
+  "card_name": "Heatran",
+  "listing_id": 4547142697,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name, HP and attack match TCG Pocket Heatran (A2a-013)",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "485-heatran-3": {
+  "pokemon": "Heatran",
+  "card_name": "Heatran",
+  "listing_id": 4547142697,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 161,
+   "pocket_max": 25
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Heatran sv08.5-068",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "485-mega-heatran-1": {
+  "pokemon": "Heatran",
+  "card_name": "Mega Heatran EX",
+  "listing_id": 4543721899,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Mega_Heatran_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }
