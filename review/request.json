@@ -1,298 +1,46 @@
 {
  "candidates": [
   {
-   "key": "481-mesprit-2",
-   "name": "481_Mesprit_2",
-   "pokemon": "Mesprit",
-   "dex": 481,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_2.jpg"
+   "key": "485-heatran-1",
+   "name": "485_Heatran_1",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_1.jpg"
   },
   {
-   "key": "480-uxie-2",
-   "name": "480_Uxie_2",
-   "pokemon": "Uxie",
-   "dex": 480,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_2.jpg"
+   "key": "485-heatran-2",
+   "name": "485_Heatran_2",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_2.jpg"
   },
   {
-   "key": "482-azelf-2",
-   "name": "482_Azelf_2",
-   "pokemon": "Azelf",
-   "dex": 482,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_2.jpg"
+   "key": "485-heatran-3",
+   "name": "485_Heatran_3",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_3.jpg"
   },
   {
-   "key": "481-mesprit-1",
-   "name": "481_Mesprit_1",
-   "pokemon": "Mesprit",
-   "dex": 481,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_1.jpg"
+   "key": "485-heatran-4",
+   "name": "485_Heatran_4",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_4.jpg"
   },
   {
-   "key": "480-uxie-1",
-   "name": "480_Uxie_1",
-   "pokemon": "Uxie",
-   "dex": 480,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_1.jpg"
+   "key": "485-heatran-5",
+   "name": "485_Heatran_5",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_5.jpg"
   },
   {
-   "key": "482-azelf-1",
-   "name": "482_Azelf_1",
-   "pokemon": "Azelf",
-   "dex": 482,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_1.jpg"
-  },
-  {
-   "key": "481-mesprit-3",
-   "name": "481_Mesprit_3",
-   "pokemon": "Mesprit",
-   "dex": 481,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_3.jpg"
-  },
-  {
-   "key": "480-uxie-3",
-   "name": "480_Uxie_3",
-   "pokemon": "Uxie",
-   "dex": 480,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_3.jpg"
-  },
-  {
-   "key": "482-azelf-3",
-   "name": "482_Azelf_3",
-   "pokemon": "Azelf",
-   "dex": 482,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_3.jpg"
-  },
-  {
-   "key": "483-dialga-3",
-   "name": "483_Dialga_3",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_3.jpg"
-  },
-  {
-   "key": "483-dialga-4",
-   "name": "483_Dialga_4",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_4.jpg"
-  },
-  {
-   "key": "483-dialga-5",
-   "name": "483_Dialga_5",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_5.jpg"
-  },
-  {
-   "key": "483-dialga-shiny-1",
-   "name": "483_Dialga_Shiny_1",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_Shiny_1.jpg"
-  },
-  {
-   "key": "483-dialga-6",
-   "name": "483_Dialga_6",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_6.jpg"
-  },
-  {
-   "key": "483-dialga-8",
-   "name": "483_Dialga_8",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_8.jpg"
-  },
-  {
-   "key": "483-dialga-9",
-   "name": "483_Dialga_9",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_9.jpg"
-  },
-  {
-   "key": "483-dialga-7",
-   "name": "483_Dialga_7",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_7.jpg"
-  },
-  {
-   "key": "484-palkia-4",
-   "name": "484_Palkia_4",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_4.jpg"
-  },
-  {
-   "key": "484-palkia-5",
-   "name": "484_Palkia_5",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_5.jpg"
-  },
-  {
-   "key": "484-palkia-6",
-   "name": "484_Palkia_6",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_6.jpg"
-  },
-  {
-   "key": "484-palkia-shiny-1",
-   "name": "484_Palkia_Shiny_1",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_Shiny_1.jpg"
-  },
-  {
-   "key": "484-palkia-7",
-   "name": "484_Palkia_7",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_7.jpg"
-  },
-  {
-   "key": "484-palkia-9",
-   "name": "484_Palkia_9",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_9.jpg"
-  },
-  {
-   "key": "484-palkia-10",
-   "name": "484_Palkia_10",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_10.jpg"
-  },
-  {
-   "key": "484-palkia-8",
-   "name": "484_Palkia_8",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_8.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-2",
-   "name": "483_Origin_Forme_Dialga_2",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_2.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-5",
-   "name": "483_Origin_Forme_Dialga_5",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_5.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-6",
-   "name": "483_Origin_Forme_Dialga_6",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_6.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-shiny-1",
-   "name": "483_Origin_Forme_Dialga_Shiny_1",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_Shiny_1.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-3",
-   "name": "483_Origin_Forme_Dialga_3",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_3.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-8",
-   "name": "483_Origin_Forme_Dialga_8",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_8.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-1",
-   "name": "483_Origin_Forme_Dialga_1",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_1.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-4",
-   "name": "483_Origin_Forme_Dialga_4",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_4.jpg"
-  },
-  {
-   "key": "483-origin-forme-dialga-7",
-   "name": "483_Origin_Forme_Dialga_7",
-   "pokemon": "Dialga",
-   "dex": 483,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_7.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-2",
-   "name": "484_Origin_Forme_Plakia_2",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_2.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-5",
-   "name": "484_Origin_Forme_Plakia_5",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_5.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-3",
-   "name": "484_Origin_Forme_Plakia_3",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_3.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-7",
-   "name": "484_Origin_Forme_Plakia_7",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_7.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-8",
-   "name": "484_Origin_Forme_Plakia_8",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_8.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-1",
-   "name": "484_Origin_Forme_Plakia_1",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_1.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-6",
-   "name": "484_Origin_Forme_Plakia_6",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_6.jpg"
-  },
-  {
-   "key": "484-origin-forme-palkia-4",
-   "name": "484_Origin_Forme_Plakia_4",
-   "pokemon": "Palkia",
-   "dex": 484,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_4.jpg"
+   "key": "485-mega-heatran-1",
+   "name": "485_Mega_Heatran_1",
+   "pokemon": "Heatran",
+   "dex": 485,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Mega_Heatran_1.jpg"
   }
  ]
 }
