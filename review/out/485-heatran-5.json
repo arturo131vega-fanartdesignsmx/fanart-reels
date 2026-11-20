@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "485-heatran-5",
+  "name": "485_Heatran_5",
+  "pokemon": "Heatran",
+  "dex": 485,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_5.jpg"
+ },
+ "official_cards_checked": 38,
+ "lookup": {
+  "en": 31,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm6-13",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08.5-068",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-165",
+   "lang": "en",
+   "name": "Heatran V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2a-013",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

@@ -1,872 +1,117 @@
 {
- "481-mesprit-2": {
-  "name": "481_Mesprit_2",
+ "485-heatran-1": {
+  "name": "485_Heatran_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv08-204",
+   "id": "A2-174",
    "lang": "en",
-   "name": "Mesprit",
-   "pocket": false,
-   "inliers": 115,
-   "set": "Surging Sparks",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
+   "name": "Heatran",
+   "pocket": true,
+   "inliers": 187,
+   "set": "Space-Time Smackdown",
+   "illustrator": "OKUBO",
+   "hp": 120,
    "attacks": [
-    "Full Heart",
-    "Guardian Burst"
+    "Steel Tackle"
    ]
   },
-  "official_cards_checked": 13,
+  "official_cards_checked": 38,
   "lookup": {
-   "en": 11,
-   "ja": 6
+   "en": 31,
+   "ja": 18
   }
  },
- "480-uxie-2": {
-  "name": "480_Uxie_2",
+ "485-heatran-2": {
+  "name": "485_Heatran_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv08-078",
-   "lang": "en",
-   "name": "Uxie",
-   "pocket": false,
-   "inliers": 123,
-   "set": "Surging Sparks",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
-   "attacks": [
-    "Painful Memories"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 10,
-   "ja": 6
-  }
- },
- "482-azelf-2": {
-  "name": "482_Azelf_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV8-050",
+   "id": "SV6-076",
    "lang": "ja",
-   "name": "アグノム",
+   "name": "ヒードラン",
    "pocket": false,
-   "inliers": 171,
-   "set": "超電ブレイカー",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
-   "attacks": [
-    "マインドキネシス"
-   ]
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 10,
-   "ja": 5
-  }
- },
- "481-mesprit-1": {
-  "name": "481_Mesprit_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-076",
-   "lang": "en",
-   "name": "Mesprit",
-   "pocket": true,
-   "inliers": 115,
-   "set": "Space-Time Smackdown",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 70,
-   "attacks": [
-    "Supreme Blast"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 11,
-   "ja": 6
-  }
- },
- "480-uxie-1": {
-  "name": "480_Uxie_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-075",
-   "lang": "en",
-   "name": "Uxie",
-   "pocket": true,
-   "inliers": 133,
-   "set": "Space-Time Smackdown",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 70,
-   "attacks": [
-    "Mind Boost"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 10,
-   "ja": 6
-  }
- },
- "482-azelf-1": {
-  "name": "482_Azelf_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-077",
-   "lang": "en",
-   "name": "Azelf",
-   "pocket": true,
-   "inliers": 123,
-   "set": "Space-Time Smackdown",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 70,
-   "attacks": [
-    "Psychic Arrow"
-   ]
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 10,
-   "ja": 5
-  }
- },
- "481-mesprit-3": {
-  "name": "481_Mesprit_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-166",
-   "lang": "en",
-   "name": "Mesprit",
-   "pocket": true,
-   "inliers": 55,
-   "set": "Space-Time Smackdown",
-   "illustrator": "Orca",
-   "hp": 70,
-   "attacks": [
-    "Supreme Blast"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 11,
-   "ja": 6
-  }
- },
- "480-uxie-3": {
-  "name": "480_Uxie_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp2-18",
-   "lang": "en",
-   "name": "Uxie",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 10,
-   "ja": 6
-  }
- },
- "482-azelf-3": {
-  "name": "482_Azelf_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp2-4",
-   "lang": "en",
-   "name": "Azelf",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 10,
-   "ja": 5
-  }
- },
- "483-dialga-3": {
-  "name": "483_Dialga_3",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "A2-205",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 19,
-   "set": "Space-Time Smackdown",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 150,
-   "attacks": [
-    "Metallic Turbo",
-    "Heavy Impact"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-4": {
-  "name": "483_Dialga_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-188",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 97,
-   "set": "Space-Time Smackdown",
-   "illustrator": "PLANETA CG Works",
-   "hp": 150,
-   "attacks": [
-    "Metallic Turbo",
-    "Heavy Impact"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-5": {
-  "name": "483_Dialga_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp5-4",
-   "lang": "en",
-   "name": "Dialga",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-shiny-1": {
-  "name": "483_Dialga_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2-205",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 7
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-6": {
-  "name": "483_Dialga_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-207",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 98,
-   "set": "Space-Time Smackdown",
-   "illustrator": "PLANETA CG Works",
-   "hp": 150,
-   "attacks": [
-    "Metallic Turbo",
-    "Heavy Impact"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-8": {
-  "name": "483_Dialga_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-135",
-   "lang": "en",
-   "name": "Dialga",
-   "pocket": false,
-   "inliers": 292,
-   "set": "Surging Sparks",
-   "illustrator": "Takumi Wada",
-   "hp": 130,
-   "attacks": [
-    "Time Manipulation",
-    "Buster Tail"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-9": {
-  "name": "483_Dialga_9",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2-205",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-dialga-7": {
-  "name": "483_Dialga_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xyp-XY77",
-   "lang": "en",
-   "name": "Dialga",
-   "pocket": false,
-   "inliers": 150,
-   "set": "XY Black Star Promos",
-   "illustrator": "TOKIYA",
-   "hp": 120,
-   "attacks": [
-    "Metal Claw",
-    "Time Freeze"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "484-palkia-4": {
-  "name": "484_Palkia_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-204",
-   "lang": "en",
-   "name": "Palkia ex",
-   "pocket": true,
-   "inliers": 256,
-   "set": "Space-Time Smackdown",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 150,
-   "attacks": [
-    "Slash",
-    "Dimensional Storm"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-palkia-5": {
-  "name": "484_Palkia_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-182",
-   "lang": "en",
-   "name": "Palkia ex",
-   "pocket": true,
    "inliers": 155,
-   "set": "Space-Time Smackdown",
-   "illustrator": "PLANETA CG Works",
-   "hp": 150,
+   "set": "変幻の仮面",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
    "attacks": [
-    "Slash",
-    "Dimensional Storm"
+    "スチールバースト"
    ]
   },
-  "official_cards_checked": 55,
+  "official_cards_checked": 38,
   "lookup": {
-   "en": 47,
-   "ja": 25
+   "en": 31,
+   "ja": 18
   }
  },
- "484-palkia-6": {
-  "name": "484_Palkia_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2a-023",
-   "lang": "en",
-   "name": "Origin Forme Palkia",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-palkia-shiny-1": {
-  "name": "484_Palkia_Shiny_1",
+ "485-heatran-3": {
+  "name": "485_Heatran_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2-204",
+   "id": "sv08.5-068",
    "lang": "en",
-   "name": "Palkia ex",
-   "pocket": true,
-   "inliers": 204,
-   "set": "Space-Time Smackdown",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 150,
-   "attacks": [
-    "Slash",
-    "Dimensional Storm"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-palkia-7": {
-  "name": "484_Palkia_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-206",
-   "lang": "en",
-   "name": "Palkia ex",
-   "pocket": true,
-   "inliers": 170,
-   "set": "Space-Time Smackdown",
-   "illustrator": "PLANETA CG Works",
-   "hp": 150,
-   "attacks": [
-    "Slash",
-    "Dimensional Storm"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-palkia-9": {
-  "name": "484_Palkia_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-136",
-   "lang": "en",
-   "name": "Palkia",
+   "name": "Heatran",
    "pocket": false,
-   "inliers": 168,
-   "set": "Surging Sparks",
-   "illustrator": "danciao",
+   "inliers": 161,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Tonji Matsuno",
    "hp": 130,
    "attacks": [
-    "Space Crash"
+    "Wrack Down",
+    "Iron Buster"
    ]
   },
-  "official_cards_checked": 55,
+  "official_cards_checked": 38,
   "lookup": {
-   "en": 47,
-   "ja": 25
+   "en": 31,
+   "ja": 18
   }
  },
- "484-palkia-10": {
-  "name": "484_Palkia_10",
+ "485-heatran-4": {
+  "name": "485_Heatran_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "pl1-12",
-   "lang": "en",
-   "name": "Palkia G",
+   "id": "S10P-015",
+   "lang": "ja",
+   "name": "ヒードランVMAX",
    "pocket": false,
-   "inliers": 8
+   "inliers": 3
   },
-  "official_cards_checked": 55,
+  "official_cards_checked": 38,
   "lookup": {
-   "en": 47,
-   "ja": 25
+   "en": 31,
+   "ja": 18
   }
  },
- "484-palkia-8": {
-  "name": "484_Palkia_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xyp-XY75",
-   "lang": "en",
-   "name": "Palkia",
-   "pocket": false,
-   "inliers": 235,
-   "set": "XY Black Star Promos",
-   "illustrator": "Naoki Saito",
-   "hp": 120,
-   "attacks": [
-    "Wave Splash",
-    "Cross Slicer"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "483-origin-forme-dialga-2": {
-  "name": "483_Origin_Forme_Dialga_2",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "swsh10-177",
-   "lang": "en",
-   "name": "Origin Forme Dialga V",
-   "pocket": false,
-   "inliers": 16,
-   "set": "Astral Radiance",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 220,
-   "attacks": [
-    "Metal Coating",
-    "Temporal Rupture"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-5": {
-  "name": "483_Origin_Forme_Dialga_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-060",
-   "lang": "en",
-   "name": "Origin Forme Dialga",
-   "pocket": true,
-   "inliers": 156,
-   "set": "Triumphant Light",
-   "illustrator": "akagi",
-   "hp": 120,
-   "attacks": [
-    "Time Mash"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-6": {
-  "name": "483_Origin_Forme_Dialga_6",
+ "485-heatran-5": {
+  "name": "485_Heatran_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "pl1-6",
+   "id": "sm6-13",
    "lang": "en",
-   "name": "Dialga",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 38,
+  "lookup": {
+   "en": 31,
+   "ja": 18
+  }
+ },
+ "485-mega-heatran-1": {
+  "name": "485_Mega_Heatran_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl4-3",
+   "lang": "en",
+   "name": "Heatran",
    "pocket": false,
    "inliers": 6
   },
-  "official_cards_checked": 56,
+  "official_cards_checked": 38,
   "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-shiny-1": {
-  "name": "483_Origin_Forme_Dialga_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh10-177",
-   "lang": "en",
-   "name": "Origin Forme Dialga V",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-3": {
-  "name": "483_Origin_Forme_Dialga_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH255",
-   "lang": "en",
-   "name": "Origin Forme Dialga V",
-   "pocket": false,
-   "inliers": 191,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 220,
-   "attacks": [
-    "Metal Coating",
-    "Temporal Rupture"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-8": {
-  "name": "483_Origin_Forme_Dialga_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2-119",
-   "lang": "en",
-   "name": "Dialga ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-1": {
-  "name": "483_Origin_Forme_Dialga_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh10-210",
-   "lang": "en",
-   "name": "Origin Forme Dialga VSTAR",
-   "pocket": false,
-   "inliers": 39,
-   "set": "Astral Radiance",
-   "illustrator": "5ban Graphics",
-   "hp": 280,
-   "attacks": [
-    "Metal Blast",
-    "Star Chronos"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-4": {
-  "name": "483_Origin_Forme_Dialga_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH256",
-   "lang": "en",
-   "name": "Origin Forme Dialga VSTAR",
-   "pocket": false,
-   "inliers": 89,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 280,
-   "attacks": [
-    "Metal Blast",
-    "Star Chronos"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "483-origin-forme-dialga-7": {
-  "name": "483_Origin_Forme_Dialga_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh10-114",
-   "lang": "en",
-   "name": "Origin Forme Dialga VSTAR",
-   "pocket": false,
-   "inliers": 51,
-   "set": "Astral Radiance",
-   "illustrator": "5ban Graphics",
-   "hp": 280,
-   "attacks": [
-    "Metal Blast",
-    "Star Chronos"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 54,
-   "ja": 20
-  }
- },
- "484-origin-forme-palkia-2": {
-  "name": "484_Origin_Forme_Plakia_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh10-167",
-   "lang": "en",
-   "name": "Origin Forme Palkia V",
-   "pocket": false,
-   "inliers": 128,
-   "set": "Astral Radiance",
-   "illustrator": "Oswaldo KATO",
-   "hp": 220,
-   "attacks": [
-    "Rule the Region",
-    "Hydro Break"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-5": {
-  "name": "484_Origin_Forme_Plakia_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "hgss4-101",
-   "lang": "en",
-   "name": "Palkia & Dialga LEGEND",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-3": {
-  "name": "484_Origin_Forme_Plakia_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH253",
-   "lang": "en",
-   "name": "Origin Forme Palkia V",
-   "pocket": false,
-   "inliers": 145,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 220,
-   "attacks": [
-    "Rule the Region",
-    "Hydro Break"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-7": {
-  "name": "484_Origin_Forme_Plakia_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-023",
-   "lang": "en",
-   "name": "Origin Forme Palkia",
-   "pocket": true,
-   "inliers": 166,
-   "set": "Triumphant Light",
-   "illustrator": "toriyufu",
-   "hp": 120,
-   "attacks": [
-    "Zone Smash"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-8": {
-  "name": "484_Origin_Forme_Plakia_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl1-37",
-   "lang": "en",
-   "name": "Palkia",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-1": {
-  "name": "484_Origin_Forme_Plakia_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh10-208",
-   "lang": "en",
-   "name": "Origin Forme Palkia VSTAR",
-   "pocket": false,
-   "inliers": 48,
-   "set": "Astral Radiance",
-   "illustrator": "aky CG Works",
-   "hp": 280,
-   "attacks": [
-    "Subspace Swell"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-6": {
-  "name": "484_Origin_Forme_Plakia_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-028",
-   "lang": "ja",
-   "name": "オリジンパルキアVSTAR",
-   "pocket": false,
-   "inliers": 93,
-   "set": "VSTARユニバース",
-   "illustrator": "aky CG Works",
-   "hp": 280,
-   "attacks": [
-    "あくうのうねり"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
-  }
- },
- "484-origin-forme-palkia-4": {
-  "name": "484_Origin_Forme_Plakia_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S10P-023",
-   "lang": "ja",
-   "name": "オリジンパルキアVSTAR",
-   "pocket": false,
-   "inliers": 64,
-   "set": "スペースジャグラー",
-   "illustrator": "aky CG Works",
-   "hp": 280,
-   "attacks": [
-    "あくうのうねり"
-   ]
-  },
-  "official_cards_checked": 55,
-  "lookup": {
-   "en": 47,
-   "ja": 25
+   "en": 31,
+   "ja": 18
   }
  }
 }

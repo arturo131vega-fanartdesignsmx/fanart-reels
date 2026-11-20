@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "485-heatran-3",
+  "name": "485_Heatran_3",
+  "pokemon": "Heatran",
+  "dex": 485,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_3.jpg"
+ },
+ "official_cards_checked": 38,
+ "lookup": {
+  "en": 31,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sv08.5-068",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 161,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Tonji Matsuno",
+   "hp": 130,
+   "attacks": [
+    "Wrack Down",
+    "Iron Buster"
+   ]
+  },
+  {
+   "id": "sm11-216",
+   "lang": "en",
+   "name": "Heatran GX",
+   "pocket": false,
+   "inliers": 28,
+   "set": "Unified Minds",
+   "illustrator": "ConceptLab",
+   "hp": 190,
+   "attacks": [
+    "Steaming Stomp",
+    "Hot Burn GX"
+   ]
+  },
+  {
+   "id": "sm11-238",
+   "lang": "en",
+   "name": "Heatran GX",
+   "pocket": false,
+   "inliers": 26,
+   "set": "Unified Minds",
+   "illustrator": "ConceptLab",
+   "hp": 190,
+   "attacks": [
+    "Steaming Stomp",
+    "Hot Burn GX"
+   ]
+  },
+  {
+   "id": "A2a-013",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": true,
+   "inliers": 25,
+   "set": "Triumphant Light",
+   "illustrator": "Kazumasa Yasukuni",
+   "hp": 110,
+   "attacks": [
+    "Ragin' Mad Strike"
+   ]
+  }
+ ]
+}

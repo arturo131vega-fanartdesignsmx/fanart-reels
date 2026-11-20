@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "485-mega-heatran-1",
+  "name": "485_Mega_Heatran_1",
+  "pokemon": "Heatran",
+  "dex": 485,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Mega_Heatran_1.jpg"
+ },
+ "official_cards_checked": 38,
+ "lookup": {
+  "en": 31,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "pl4-3",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "dp7-97",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop8-1",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2a-013",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

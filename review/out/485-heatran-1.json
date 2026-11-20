@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "485-heatran-1",
+  "name": "485_Heatran_1",
+  "pokemon": "Heatran",
+  "dex": 485,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_1.jpg"
+ },
+ "official_cards_checked": 38,
+ "lookup": {
+  "en": 31,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A2-174",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": true,
+   "inliers": 187,
+   "set": "Space-Time Smackdown",
+   "illustrator": "OKUBO",
+   "hp": 120,
+   "attacks": [
+    "Steel Tackle"
+   ]
+  },
+  {
+   "id": "sm8-48",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S10P-072",
+   "lang": "ja",
+   "name": "ヒードランV",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ru1-4",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

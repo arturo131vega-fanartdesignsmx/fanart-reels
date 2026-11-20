@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "485-heatran-2",
+  "name": "485_Heatran_2",
+  "pokemon": "Heatran",
+  "dex": 485,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/485_Heatran_2.jpg"
+ },
+ "official_cards_checked": 38,
+ "lookup": {
+  "en": 31,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "SV6-076",
+   "lang": "ja",
+   "name": "ヒードラン",
+   "pocket": false,
+   "inliers": 155,
+   "set": "変幻の仮面",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
+   "attacks": [
+    "スチールバースト"
+   ]
+  },
+  {
+   "id": "sv06-123",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 87,
+   "set": "Twilight Masquerade",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 140,
+   "attacks": [
+    "Steel Burst"
+   ]
+  },
+  {
+   "id": "ru1-4",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pop8-1",
+   "lang": "en",
+   "name": "Heatran",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
