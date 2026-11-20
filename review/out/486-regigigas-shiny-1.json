@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "486-regigigas-shiny-1",
+  "name": "486_Regigigas_Shiny_1",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_Shiny_1.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "pl3-9",
+   "lang": "en",
+   "name": "Regigigas FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp7-9",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV8a-132",
+   "lang": "ja",
+   "name": "レジギガス",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pop9-4",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

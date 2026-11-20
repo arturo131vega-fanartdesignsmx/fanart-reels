@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "486-regigigas-7",
+  "name": "486_Regigigas_7",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_7.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12a-123",
+   "lang": "ja",
+   "name": "レジギガス",
+   "pocket": false,
+   "inliers": 126,
+   "set": "VSTARユニバース",
+   "illustrator": "Yuya Oka",
+   "hp": 150,
+   "attacks": [
+    "ギガントブレイク"
+   ]
+  },
+  {
+   "id": "swsh10-130",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 76,
+   "set": "Astral Radiance",
+   "illustrator": "Yuya Oka",
+   "hp": 150,
+   "attacks": [
+    "Gigaton Break"
+   ]
+  },
+  {
+   "id": "sv08.5-086",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp6-15",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "486-regigigas-4",
+  "name": "486_Regigigas_4",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_4.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "xyp-XY82",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 115,
+   "set": "XY Black Star Promos",
+   "illustrator": "Shin Nagasawa",
+   "hp": 130,
+   "attacks": [
+    "Gigas Punch"
+   ]
+  },
+  {
+   "id": "S12a-124",
+   "lang": "ja",
+   "name": "レジギガスV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl3-9",
+   "lang": "en",
+   "name": "Regigigas FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp7-9",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

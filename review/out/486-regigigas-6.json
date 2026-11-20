@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "486-regigigas-6",
+  "name": "486_Regigigas_6",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_6.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv08.5-086",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl3-9",
+   "lang": "en",
+   "name": "Regigigas FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dpp-DP30",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pop9-4",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

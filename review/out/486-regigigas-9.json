@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "486-regigigas-9",
+  "name": "486_Regigigas_9",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_9.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "A2-143",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": true,
+   "inliers": 185,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Tomokazu Komiya",
+   "hp": 140,
+   "attacks": [
+    "Raging Hammer"
+   ]
+  },
+  {
+   "id": "A2-179",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "swsh12.5-113",
+   "lang": "en",
+   "name": "Regigigas V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop9-4",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

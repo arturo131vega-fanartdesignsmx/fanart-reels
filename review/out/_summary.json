@@ -1,117 +1,198 @@
 {
- "485-heatran-1": {
-  "name": "485_Heatran_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-174",
-   "lang": "en",
-   "name": "Heatran",
-   "pocket": true,
-   "inliers": 187,
-   "set": "Space-Time Smackdown",
-   "illustrator": "OKUBO",
-   "hp": 120,
-   "attacks": [
-    "Steel Tackle"
-   ]
-  },
-  "official_cards_checked": 38,
-  "lookup": {
-   "en": 31,
-   "ja": 18
-  }
- },
- "485-heatran-2": {
-  "name": "485_Heatran_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV6-076",
-   "lang": "ja",
-   "name": "ヒードラン",
-   "pocket": false,
-   "inliers": 155,
-   "set": "変幻の仮面",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 140,
-   "attacks": [
-    "スチールバースト"
-   ]
-  },
-  "official_cards_checked": 38,
-  "lookup": {
-   "en": 31,
-   "ja": 18
-  }
- },
- "485-heatran-3": {
-  "name": "485_Heatran_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08.5-068",
-   "lang": "en",
-   "name": "Heatran",
-   "pocket": false,
-   "inliers": 161,
-   "set": "Prismatic Evolutions",
-   "illustrator": "Tonji Matsuno",
-   "hp": 130,
-   "attacks": [
-    "Wrack Down",
-    "Iron Buster"
-   ]
-  },
-  "official_cards_checked": 38,
-  "lookup": {
-   "en": 31,
-   "ja": 18
-  }
- },
- "485-heatran-4": {
-  "name": "485_Heatran_4",
+ "486-regigigas-1": {
+  "name": "486_Regigigas_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "S10P-015",
-   "lang": "ja",
-   "name": "ヒードランVMAX",
-   "pocket": false,
-   "inliers": 3
-  },
-  "official_cards_checked": 38,
-  "lookup": {
-   "en": 31,
-   "ja": 18
-  }
- },
- "485-heatran-5": {
-  "name": "485_Heatran_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm6-13",
+   "id": "sv08.5-086",
    "lang": "en",
-   "name": "Heatran",
+   "name": "Regigigas",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 38,
+  "official_cards_checked": 25,
   "lookup": {
-   "en": 31,
-   "ja": 18
+   "en": 22,
+   "ja": 7
   }
  },
- "485-mega-heatran-1": {
-  "name": "485_Mega_Heatran_1",
+ "486-regigigas-2": {
+  "name": "486_Regigigas_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-179",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": true,
+   "inliers": 277,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Tetsu Kayama",
+   "hp": 140,
+   "attacks": [
+    "Raging Hammer"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-3": {
+  "name": "486_Regigigas_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-233",
+   "lang": "ja",
+   "name": "レジギガスVSTAR",
+   "pocket": false,
+   "inliers": 71,
+   "set": "VSTARユニバース",
+   "illustrator": "Aya Kusube",
+   "hp": 300,
+   "attacks": [
+    "ギガインパクト"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-4": {
+  "name": "486_Regigigas_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "xyp-XY82",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 115,
+   "set": "XY Black Star Promos",
+   "illustrator": "Shin Nagasawa",
+   "hp": 130,
+   "attacks": [
+    "Gigas Punch"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-5": {
+  "name": "486_Regigigas_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-125",
+   "lang": "ja",
+   "name": "レジギガスVSTAR",
+   "pocket": false,
+   "inliers": 91,
+   "set": "VSTARユニバース",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 300,
+   "attacks": [
+    "ギガインパクト"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-6": {
+  "name": "486_Regigigas_6",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "pl4-3",
+   "id": "sv08.5-086",
    "lang": "en",
-   "name": "Heatran",
+   "name": "Regigigas",
    "pocket": false,
-   "inliers": 6
+   "inliers": 5
   },
-  "official_cards_checked": 38,
+  "official_cards_checked": 25,
   "lookup": {
-   "en": 31,
-   "ja": 18
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-7": {
+  "name": "486_Regigigas_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-123",
+   "lang": "ja",
+   "name": "レジギガス",
+   "pocket": false,
+   "inliers": 126,
+   "set": "VSTARユニバース",
+   "illustrator": "Yuya Oka",
+   "hp": 150,
+   "attacks": [
+    "ギガントブレイク"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-8": {
+  "name": "486_Regigigas_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp7-9",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-9": {
+  "name": "486_Regigigas_9",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-143",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": true,
+   "inliers": 185,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Tomokazu Komiya",
+   "hp": 140,
+   "attacks": [
+    "Raging Hammer"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
+  }
+ },
+ "486-regigigas-shiny-1": {
+  "name": "486_Regigigas_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl3-9",
+   "lang": "en",
+   "name": "Regigigas FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 22,
+   "ja": 7
   }
  }
 }

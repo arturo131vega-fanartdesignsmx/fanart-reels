@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "486-regigigas-5",
+  "name": "486_Regigigas_5",
+  "pokemon": "Regigigas",
+  "dex": 486,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_5.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12a-125",
+   "lang": "ja",
+   "name": "レジギガスVSTAR",
+   "pocket": false,
+   "inliers": 91,
+   "set": "VSTARユニバース",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 300,
+   "attacks": [
+    "ギガインパクト"
+   ]
+  },
+  {
+   "id": "swsh12.5-114",
+   "lang": "en",
+   "name": "Regigigas VSTAR",
+   "pocket": false,
+   "inliers": 51,
+   "set": "Crown Zenith",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 300,
+   "attacks": [
+    "Giga Impact"
+   ]
+  },
+  {
+   "id": "SV8a-132",
+   "lang": "ja",
+   "name": "レジギガス",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "swshp-SWSH247",
+   "lang": "en",
+   "name": "Regigigas",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}
