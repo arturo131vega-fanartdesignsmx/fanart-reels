@@ -859,10 +859,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18013545329777775",
+   "permalink": "https://www.instagram.com/p/Df-QBQDgQgX/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120268885449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120268885449530"
+  },
+  "done": "2026-11-20T18:01:08.984643+00:00"
  },
  "2026-11-20-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r2.jpg",
+  "render": {
+   "duration": 15.466666666666667,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 128,
+    "root": 62,
+    "minor": true
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.04,
+    "text": "Name a starter"
+   },
+   {
+    "t0": 1.04,
+    "t1": 3.02,
+    "text": "with more fire than Mega Infernape..."
+   },
+   {
+    "t0": 3.02,
+    "t1": 3.762,
+    "text": "I'll wait."
+   },
+   {
+    "t0": 4.082,
+    "t1": 4.942,
+    "text": "Made by hand,"
+   },
+   {
+    "t0": 4.942,
+    "t1": 6.192,
+    "text": "fully holographic,"
+   },
+   {
+    "t0": 6.192,
+    "t1": 7.687,
+    "text": "and the size of a real card."
+   },
+   {
+    "t0": 7.947,
+    "t1": 9.197,
+    "text": "Add a second card"
+   },
+   {
+    "t0": 9.197,
+    "t1": 10.657,
+    "text": "and you'll save 25%"
+   },
+   {
+    "t0": 10.657,
+    "t1": 12.339,
+    "text": "using code 25OFF"
+   },
+   {
+    "t0": 12.639,
+    "t1": 14.438,
+    "text": "Everything's linked in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-20T18:02:44.568477+00:00",
+  "render_seconds": 96
  },
  "2026-11-20-c2": {
   "attempts": 0
