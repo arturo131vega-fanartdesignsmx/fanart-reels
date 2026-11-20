@@ -961,7 +961,24 @@
   "done": "2026-11-20T20:01:41.279567+00:00"
  },
  "2026-11-20-c2": {
-  "attempts": 0
+  "attempts": 0,
+  "slides": [
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-c2_slide1.jpg",
+    "alt": "Mega Gyarados EX Pokémon fan art card rising from a stormy sea, handmade holographic full art proxy card by Fanart Designs MX"
+   },
+   {
+    "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-c2_slide3.jpg",
+    "alt": "Shiny Mega Gyarados EX between two Gyarados Pokémon fan art cards in a fan, handmade holographic proxy cards"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+    "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
+   }
+  ]
  },
  "2026-11-20-r3": {
   "attempts": 0
