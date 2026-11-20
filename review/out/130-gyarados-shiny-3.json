@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "130-gyarados-shiny-3",
+  "name": "130_Gyarados_Shiny_3",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_3.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sv03.5-130",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 77,
+   "set": "151",
+   "illustrator": "Kouki Saitou",
+   "hp": 190,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  {
+   "id": "SV2a-130",
+   "lang": "ja",
+   "name": "ギャラドス",
+   "pocket": false,
+   "inliers": 75,
+   "set": "ポケモンカード151",
+   "illustrator": "Kouki Saitou",
+   "hp": 190,
+   "attacks": [
+    "はかいこうせん"
+   ]
+  },
+  {
+   "id": "lc-12",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A4-234",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

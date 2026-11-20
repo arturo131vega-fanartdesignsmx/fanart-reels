@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-mega-gyarados-7",
+  "name": "130_Mega_Gyarados_7",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_7.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "xy9-101",
+   "lang": "en",
+   "name": "Gyarados Spirit Link",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A1-233",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "base1-6",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "lc-12",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

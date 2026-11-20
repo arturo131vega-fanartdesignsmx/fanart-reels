@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "38-ninetales-1",
+  "name": "38_Ninetales_1",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_1.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "SV3-110",
+   "lang": "ja",
+   "name": "キュウコン",
+   "pocket": false,
+   "inliers": 36,
+   "set": "黒炎の支配者",
+   "illustrator": "SIE NANAHARA",
+   "hp": 120,
+   "attacks": [
+    "おにび",
+    "きゅうびのまい"
+   ]
+  },
+  {
+   "id": "sv03-199",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Obsidian Flames",
+   "illustrator": "SIE NANAHARA",
+   "hp": 120,
+   "attacks": [
+    "Will-O-Wisp",
+    "Nine-Tailed Dance"
+   ]
+  },
+  {
+   "id": "swsh2-177",
+   "lang": "en",
+   "name": "Ninetales V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-3",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

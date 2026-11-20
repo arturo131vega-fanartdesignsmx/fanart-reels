@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "405-luxray-6",
+  "name": "405_Luxray_6",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_6.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh10-050",
+   "lang": "en",
+   "name": "Luxray V",
+   "pocket": false,
+   "inliers": 157,
+   "set": "Astral Radiance",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 210,
+   "attacks": [
+    "Fang Snipe",
+    "Radiating Pulse"
+   ]
+  },
+  {
+   "id": "A2-060",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "SV2D-021",
+   "lang": "ja",
+   "name": "レントラー",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl2-9",
+   "lang": "en",
+   "name": "Luxray GL",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

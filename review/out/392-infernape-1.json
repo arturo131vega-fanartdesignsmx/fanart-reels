@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "392-infernape-1",
+  "name": "392_Infernape_1",
+  "pokemon": "Infernape",
+  "dex": 392,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_1.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 21,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "dp7-3",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp1-5",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw8-17",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "xy11-20",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

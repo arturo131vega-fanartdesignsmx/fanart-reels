@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "405-luxray-5",
+  "name": "405_Luxray_5",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_5.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "sv06-195",
+   "lang": "en",
+   "name": "Luxray ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "pl2-109",
+   "lang": "en",
+   "name": "Luxray GL LV.X",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV6-041",
+   "lang": "ja",
+   "name": "レントラーex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh4.5-33",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "445-garchomp-9",
+  "name": "445_Garchomp_9",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_9.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "sv10-241",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 156,
+   "set": "Destined Rivals",
+   "illustrator": "5ban Graphics",
+   "hp": 330,
+   "attacks": [
+    "Corkscrew Dive",
+    "Draconic Buster"
+   ]
+  },
+  {
+   "id": "SV9a-091",
+   "lang": "ja",
+   "name": "シロナのガブリアスex",
+   "pocket": false,
+   "inliers": 136,
+   "set": "熱風のアリーナ",
+   "illustrator": "5ban Graphics",
+   "hp": 330,
+   "attacks": [
+    "スクリューダイブ",
+    "リューノバスター"
+   ]
+  },
+  {
+   "id": "sv10-215",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "swsh10-117",
+   "lang": "en",
+   "name": "Garchomp V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

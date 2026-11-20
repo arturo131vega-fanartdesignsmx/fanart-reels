@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-mega-ninetales-2",
+  "name": "38_Mega_Ninetales_2",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Mega_Ninetales_2.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "ru1-3",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "gym2-3",
+   "lang": "en",
+   "name": "Brock's Ninetales",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "hgss1-7",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "ex15-8",
+   "lang": "en",
+   "name": "Ninetales δ",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

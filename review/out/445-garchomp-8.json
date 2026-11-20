@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "445-garchomp-8",
+  "name": "445_Garchomp_8",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_8.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "sv10-232",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 114,
+   "set": "Destined Rivals",
+   "illustrator": "HICO KIM",
+   "hp": 330,
+   "attacks": [
+    "Corkscrew Dive",
+    "Draconic Buster"
+   ]
+  },
+  {
+   "id": "SV9a-087",
+   "lang": "ja",
+   "name": "シロナのガブリアスex",
+   "pocket": false,
+   "inliers": 94,
+   "set": "熱風のアリーナ",
+   "illustrator": "HICO KIM",
+   "hp": 330,
+   "attacks": [
+    "スクリューダイブ",
+    "リューノバスター"
+   ]
+  },
+  {
+   "id": "dp5-97",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl3-60",
+   "lang": "en",
+   "name": "Garchomp C",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

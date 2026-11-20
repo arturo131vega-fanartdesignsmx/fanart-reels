@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "445-garchomp-tera-1",
+  "name": "445_Garchomp_Tera_1",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_Tera_1.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "SV3a-076",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 80,
+   "set": "レイジングサーフ",
+   "illustrator": "5ban Graphics",
+   "hp": 320,
+   "attacks": [
+    "ハイドロランダー",
+    "ソニックダイブ"
+   ]
+  },
+  {
+   "id": "sv04-219",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": false,
+   "inliers": 60,
+   "set": "Paradox Rift",
+   "illustrator": "5ban Graphics",
+   "hp": 320,
+   "attacks": [
+    "Hydro Lander",
+    "Sonic Dive"
+   ]
+  },
+  {
+   "id": "SV3a-090",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 28,
+   "set": "レイジングサーフ",
+   "illustrator": "5ban Graphics",
+   "hp": 320,
+   "attacks": [
+    "ハイドロランダー",
+    "ソニックダイブ"
+   ]
+  },
+  {
+   "id": "sv04-260",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Paradox Rift",
+   "illustrator": "5ban Graphics",
+   "hp": 320,
+   "attacks": [
+    "Hydro Lander",
+    "Sonic Dive"
+   ]
+  }
+ ]
+}

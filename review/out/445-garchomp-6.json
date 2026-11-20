@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "445-garchomp-6",
+  "name": "445_Garchomp_6",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_6.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "A2a-093",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 184,
+   "set": "Triumphant Light",
+   "illustrator": "toriyufu",
+   "hp": 170,
+   "attacks": [
+    "Linear Attack",
+    "Dragon Claw"
+   ]
+  },
+  {
+   "id": "S9a-079",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "dp2-9",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-146",
+   "lang": "en",
+   "name": "Garchomp & Giratina GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

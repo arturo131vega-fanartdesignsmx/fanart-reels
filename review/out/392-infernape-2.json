@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "392-infernape-2",
+  "name": "392_Infernape_2",
+  "pokemon": "Infernape",
+  "dex": 392,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_2.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 21,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "A2-197",
+   "lang": "en",
+   "name": "Infernape ex",
+   "pocket": true,
+   "inliers": 219,
+   "set": "Space-Time Smackdown",
+   "illustrator": "nagimiso",
+   "hp": 170,
+   "attacks": [
+    "Flare Blitz"
+   ]
+  },
+  {
+   "id": "dp1-5",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy11-20",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh9-026",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

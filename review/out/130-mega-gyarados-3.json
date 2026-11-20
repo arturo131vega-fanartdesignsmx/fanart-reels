@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-mega-gyarados-3",
+  "name": "130_Mega_Gyarados_3",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_3.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "hgss1-123",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base5-25",
+   "lang": "en",
+   "name": "Dark Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A1-078",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "ex6-109",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

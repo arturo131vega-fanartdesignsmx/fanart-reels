@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "38-ninetales-alola-shiny",
+  "name": "38_Ninetales_Alola_Shiny",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_Shiny.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "B2-196",
+   "lang": "en",
+   "name": "Alolan Ninetales ex",
+   "pocket": true,
+   "inliers": 55,
+   "set": "Fantastical Parade",
+   "illustrator": "mashu",
+   "hp": 150,
+   "attacks": [
+    "Binding Snow"
+   ]
+  },
+  {
+   "id": "base1-12",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh12-018",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm2-132",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

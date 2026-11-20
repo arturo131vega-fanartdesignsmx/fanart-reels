@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-9",
+  "name": "38_Ninetales_9",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_9.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "col1-17",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "ex5-22",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv03-029",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "g1-13",
+   "lang": "en",
+   "name": "Ninetales EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

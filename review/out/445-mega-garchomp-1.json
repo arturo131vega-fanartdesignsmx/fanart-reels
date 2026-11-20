@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "445-mega-garchomp-1",
+  "name": "445_Mega_Garchomp_1",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_1.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "S9a-079",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm6-62",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2-175",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "sma-SV40",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

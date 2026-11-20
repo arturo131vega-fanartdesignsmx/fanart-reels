@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "38-ninetales-alola-1",
+  "name": "38_Ninetales_Alola_1",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_1.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "P-A-070",
+   "lang": "en",
+   "name": "Alolan Ninetales",
+   "pocket": true,
+   "inliers": 21,
+   "set": "Promos-A",
+   "illustrator": "tono",
+   "hp": 110,
+   "attacks": [
+    "Blizzard"
+   ]
+  },
+  {
+   "id": "swsh8-31",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base4-13",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "g1-13",
+   "lang": "en",
+   "name": "Ninetales EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

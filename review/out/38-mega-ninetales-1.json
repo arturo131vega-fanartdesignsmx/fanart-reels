@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-mega-ninetales-1",
+  "name": "38_Mega_Ninetales_1",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Mega_Ninetales_1.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "sma-SV53",
+   "lang": "en",
+   "name": "Alolan Ninetales-GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-3",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "gym2-3",
+   "lang": "en",
+   "name": "Brock's Ninetales",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "hgss1-7",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "130-gyarados-shiny-2",
+  "name": "130_Gyarados_Shiny_2",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_2.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A1-233",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 71,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  {
+   "id": "xyp-XY60",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10-049",
+   "lang": "en",
+   "name": "Misty's Gyarados",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

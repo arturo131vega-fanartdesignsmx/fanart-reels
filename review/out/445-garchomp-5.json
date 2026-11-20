@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "445-garchomp-5",
+  "name": "445_Garchomp_5",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_5.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "A2a-084",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 166,
+   "set": "Triumphant Light",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
+   "attacks": [
+    "Linear Attack",
+    "Dragon Claw"
+   ]
+  },
+  {
+   "id": "A4a-103",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 16,
+   "set": "Secluded Springs",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
+   "attacks": [
+    "Linear Attack",
+    "Dragon Claw"
+   ]
+  },
+  {
+   "id": "dp5-97",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dpp-DP46",
+   "lang": "en",
+   "name": "Garchomp C",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

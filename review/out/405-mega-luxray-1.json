@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "405-mega-luxray-1",
+  "name": "405_Mega_Luxray_1",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Mega_Luxray_1.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "me03-028",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv06-068",
+   "lang": "en",
+   "name": "Luxray ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv04.5-137",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV6-118",
+   "lang": "ja",
+   "name": "レントラーex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

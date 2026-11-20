@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "445-mega-garchomp-shiny-1",
+  "name": "445_Mega_Garchomp_Shiny_1",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_Shiny_1.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "SV8a-039",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S9-075",
+   "lang": "ja",
+   "name": "ガブリアス",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "bw6-91",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw11-96",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

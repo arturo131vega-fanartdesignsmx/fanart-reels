@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-mega-gyarados-2",
+  "name": "130_Mega_Gyarados_2",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_2.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sv02-043",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh7-171",
+   "lang": "en",
+   "name": "Gyarados V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV1a-023",
+   "lang": "ja",
+   "name": "ギャラドス",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "g1-23",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

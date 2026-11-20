@@ -1,0 +1,64 @@
+{
+ "candidate": {
+  "key": "130-gyarados-tera",
+  "name": "130_Gyarados_Tera",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Tera.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sv01-225",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": false,
+   "inliers": 94,
+   "set": "Scarlet & Violet",
+   "illustrator": "5ban Graphics",
+   "hp": 300,
+   "attacks": [
+    "Waterfall",
+    "Tyrannical Tail"
+   ]
+  },
+  {
+   "id": "SV1S-091",
+   "lang": "ja",
+   "name": "ギャラドスex",
+   "pocket": false,
+   "inliers": 54,
+   "set": "スカーレットex",
+   "illustrator": "5ban Graphics",
+   "hp": 300,
+   "attacks": [
+    "たきのぼり",
+    "タイラントテール"
+   ]
+  },
+  {
+   "id": "A1-078",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 16,
+   "set": "Genetic Apex",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 150,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  {
+   "id": "xy7-20",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 11
+  }
+ ]
+}

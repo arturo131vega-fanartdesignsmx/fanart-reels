@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-gyarados-2",
+  "name": "130_Gyarados_2",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_2.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm3-33",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "B1-051",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "A1a-076",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

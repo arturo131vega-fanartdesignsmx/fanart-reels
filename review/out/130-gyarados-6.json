@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "130-gyarados-6",
+  "name": "130_Gyarados_6",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_6.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A1a-076",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": true,
+   "inliers": 107,
+   "set": "Mythical Island",
+   "illustrator": "PLANETA CG Works",
+   "hp": 180,
+   "attacks": [
+    "Rampaging Whirlpool"
+   ]
+  },
+  {
+   "id": "A4-234",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 180,
+   "attacks": [
+    "Rampaging Whirlpool"
+   ]
+  },
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex7-36",
+   "lang": "en",
+   "name": "Dark Gyarados",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

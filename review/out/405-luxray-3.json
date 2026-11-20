@@ -1,0 +1,62 @@
+{
+ "candidate": {
+  "key": "405-luxray-3",
+  "name": "405_Luxray_3",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_3.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "SV4a-061",
+   "lang": "ja",
+   "name": "レントラー",
+   "pocket": false,
+   "inliers": 173,
+   "set": "シャイニートレジャーex",
+   "illustrator": "aoki",
+   "hp": 150,
+   "attacks": [
+    "ワイルドボルト"
+   ]
+  },
+  {
+   "id": "SV2D-021",
+   "lang": "ja",
+   "name": "レントラー",
+   "pocket": false,
+   "inliers": 168,
+   "set": "クレイバースト",
+   "illustrator": "aoki",
+   "hp": 150,
+   "attacks": [
+    "ワイルドボルト"
+   ]
+  },
+  {
+   "id": "sv02-071",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 162,
+   "set": "Paldea Evolved",
+   "illustrator": "aoki",
+   "hp": 150,
+   "attacks": [
+    "Wild Charge"
+   ]
+  },
+  {
+   "id": "dp1-7",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

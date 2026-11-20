@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "38-ninetales-5",
+  "name": "38_Ninetales_5",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_5.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "sm9-16",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 45,
+   "set": "Team Up",
+   "illustrator": "You Iribi",
+   "hp": 100,
+   "attacks": [
+    "Flame Tail"
+   ]
+  },
+  {
+   "id": "A1-038",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": true,
+   "inliers": 33,
+   "set": "Genetic Apex",
+   "illustrator": "You Iribi",
+   "hp": 90,
+   "attacks": [
+    "Flamethrower"
+   ]
+  },
+  {
+   "id": "hgss1-7",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-15",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

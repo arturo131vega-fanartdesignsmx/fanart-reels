@@ -1,512 +1,1445 @@
 {
- "479-rotom-1": {
-  "name": "479_Rotom_1",
+ "38-mega-ninetales-1": {
+  "name": "38_Mega_Ninetales_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swshp-SWSH257",
+   "id": "sma-SV53",
    "lang": "en",
-   "name": "Rotom V",
+   "name": "Alolan Ninetales-GX",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 82,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 69,
-   "ja": 43
+   "en": 64,
+   "ja": 27
   }
  },
- "479-rotom-6": {
-  "name": "479_Rotom_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-126",
-   "lang": "en",
-   "name": "Rotom ex",
-   "pocket": false,
-   "inliers": 80,
-   "set": "Phantasmal Flames",
-   "illustrator": "Yoshimi Miyoshi",
-   "hp": 190,
-   "attacks": [
-    "Thunderbolt"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-4": {
-  "name": "479_Rotom_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh11-177",
-   "lang": "en",
-   "name": "Rotom V",
-   "pocket": false,
-   "inliers": 91,
-   "set": "Lost Origin",
-   "illustrator": "Yuu Nishida",
-   "hp": 190,
-   "attacks": [
-    "Scrap Short"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-shiny-1": {
-  "name": "479_Rotom_Shiny_1",
+ "38-mega-ninetales-2": {
+  "name": "38_Mega_Ninetales_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swshp-SWSH257",
+   "id": "ru1-3",
    "lang": "en",
-   "name": "Rotom V",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-10": {
-  "name": "479_Rotom_10",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm5-41",
-   "lang": "en",
-   "name": "Frost Rotom",
-   "pocket": false,
-   "inliers": 31,
-   "set": "Ultra Prism",
-   "illustrator": "MAHOU",
-   "hp": 90,
-   "attacks": [
-    "Frost Crush"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-2": {
-  "name": "479_Rotom_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm5-24",
-   "lang": "en",
-   "name": "Heat Rotom",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-heat-1": {
-  "name": "479_Rotom_Heat_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl2-RT5",
-   "lang": "en",
-   "name": "Wash Rotom",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-wash-1": {
-  "name": "479_Rotom_Wash_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me06-119",
-   "lang": "en",
-   "name": "Heat Rotom ex",
-   "pocket": false,
-   "inliers": 9
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-fan-2": {
-  "name": "479_Rotom_Fan_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm12-86",
-   "lang": "en",
-   "name": "Rotom",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-dj-1": {
-  "name": "479_Rotom_DJ_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop9-5",
-   "lang": "en",
-   "name": "Rotom",
+   "name": "Ninetales",
    "pocket": false,
    "inliers": 0
   },
-  "official_cards_checked": 82,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 69,
-   "ja": 43
+   "en": 64,
+   "ja": 27
   }
  },
- "479-rotom-frost-1": {
-  "name": "479_Rotom_Frost_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me06-023",
-   "lang": "en",
-   "name": "Heat Rotom ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-mow-1": {
-  "name": "479_Rotom_Mow_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me02-126",
-   "lang": "en",
-   "name": "Rotom ex",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-3": {
-  "name": "479_Rotom_3",
+ "38-ninetales-1": {
+  "name": "38_Ninetales_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2-164",
-   "lang": "en",
-   "name": "Rotom",
-   "pocket": true,
-   "inliers": 241,
-   "set": "Space-Time Smackdown",
-   "illustrator": "Shimaris Yukichi",
-   "hp": 70,
-   "attacks": [
-    "Assault Laser"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-5": {
-  "name": "479_Rotom_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10-197",
-   "lang": "en",
-   "name": "Rotom",
-   "pocket": false,
-   "inliers": 177,
-   "set": "Destined Rivals",
-   "illustrator": "Taiga Kayama",
-   "hp": 60,
-   "attacks": [
-    "Astonish",
-    "Gadget Show"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-7": {
-  "name": "479_Rotom_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-092",
-   "lang": "en",
-   "name": "Rotom",
-   "pocket": false,
-   "inliers": 112,
-   "set": "Ascended Heroes",
-   "illustrator": "mingo",
-   "hp": 60,
-   "attacks": [
-    "Roto Call",
-    "Gadget Show"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-8": {
-  "name": "479_Rotom_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh4.5-34",
-   "lang": "en",
-   "name": "Rotom",
-   "pocket": false,
-   "inliers": 47,
-   "set": "Shining Fates",
-   "illustrator": "ryoma uratsuka",
-   "hp": 80,
-   "attacks": [
-    "Thunder Shock"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "479-rotom-9": {
-  "name": "479_Rotom_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV9a-039",
+   "id": "SV3-110",
    "lang": "ja",
-   "name": "ロトム",
+   "name": "キュウコン",
    "pocket": false,
-   "inliers": 298,
-   "set": "熱風のアリーナ",
-   "illustrator": "Yoshimi Miyoshi",
-   "hp": 60,
+   "inliers": 36,
+   "set": "黒炎の支配者",
+   "illustrator": "SIE NANAHARA",
+   "hp": 120,
    "attacks": [
-    "おどろかす",
-    "ガジェットショー"
+    "おにび",
+    "きゅうびのまい"
    ]
   },
-  "official_cards_checked": 82,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 69,
-   "ja": 43
+   "en": 64,
+   "ja": 27
   }
  },
- "479-rotom-fan-1": {
-  "name": "479_Rotom_Fan_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-250",
-   "lang": "en",
-   "name": "Fan Rotom",
-   "pocket": false,
-   "inliers": 136,
-   "set": "Ascended Heroes",
-   "illustrator": "Yukihiro Tada",
-   "hp": 70,
-   "attacks": [
-    "Assault Landing"
-   ]
-  },
-  "official_cards_checked": 82,
-  "lookup": {
-   "en": 69,
-   "ja": 43
-  }
- },
- "460-abomasnow-1": {
-  "name": "460_Abomasnow_1",
+ "38-ninetales-2": {
+  "name": "38_Ninetales_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh2-13",
+   "id": "bwp-BW66",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-abomasnow-3": {
-  "name": "460_Abomasnow_3",
+ "38-ninetales-3": {
+  "name": "38_Ninetales_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm6-4",
+   "id": "swsh2-26",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales V",
    "pocket": false,
-   "inliers": 0
+   "inliers": 5
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-abomasnow-2": {
-  "name": "460_Abomasnow_2",
+ "38-ninetales-4": {
+  "name": "38_Ninetales_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm6-4",
+   "id": "ecard1-21",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales",
    "pocket": false,
-   "inliers": 0
+   "inliers": 5
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-abomasnow-shiny-1": {
-  "name": "460_Abomasnow_Shiny_1",
-  "verdict": "NO_ART_MATCH",
+ "38-ninetales-5": {
+  "name": "38_Ninetales_5",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "sm5-38",
+   "id": "sm9-16",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales",
    "pocket": false,
-   "inliers": 6
+   "inliers": 45,
+   "set": "Team Up",
+   "illustrator": "You Iribi",
+   "hp": 100,
+   "attacks": [
+    "Flame Tail"
+   ]
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-abomasnow-4": {
-  "name": "460_Abomasnow_4",
-  "verdict": "NO_ART_MATCH",
+ "38-ninetales-6": {
+  "name": "38_Ninetales_6",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "sm6-4",
+   "id": "sv03.5-038",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales ex",
    "pocket": false,
-   "inliers": 0
+   "inliers": 99,
+   "set": "151",
+   "illustrator": "kawayoo",
+   "hp": 260,
+   "attacks": [
+    "Heat Wave",
+    "Mirrored Flames"
+   ]
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-mega-abomasnow-2": {
-  "name": "460_Mega_Abomasnow_2",
+ "38-ninetales-7": {
+  "name": "38_Ninetales_7",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sv02-011",
+   "id": "sv08-017",
    "lang": "en",
-   "name": "Abomasnow",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 11
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-8": {
+  "name": "38_Ninetales_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "gym2-3",
+   "lang": "en",
+   "name": "Brock's Ninetales",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 69,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 64,
+   "ja": 27
   }
  },
- "460-mega-abomasnow-1": {
-  "name": "460_Mega_Abomasnow_1",
+ "38-ninetales-9": {
+  "name": "38_Ninetales_9",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "col1-17",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-10": {
+  "name": "38_Ninetales_10",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me01-020",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-1": {
+  "name": "38_Ninetales_Alola_1",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "P-A-070",
+   "lang": "en",
+   "name": "Alolan Ninetales",
+   "pocket": true,
+   "inliers": 21,
+   "set": "Promos-A",
+   "illustrator": "tono",
+   "hp": 110,
+   "attacks": [
+    "Blizzard"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-2": {
+  "name": "38_Ninetales_Alola_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me01-157",
+   "id": "B2-196",
    "lang": "en",
-   "name": "Mega Abomasnow ex",
+   "name": "Alolan Ninetales ex",
+   "pocket": true,
+   "inliers": 92,
+   "set": "Fantastical Parade",
+   "illustrator": "mashu",
+   "hp": 150,
+   "attacks": [
+    "Binding Snow"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-3": {
+  "name": "38_Ninetales_Alola_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "g1-13",
+   "lang": "en",
+   "name": "Ninetales EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-4": {
+  "name": "38_Ninetales_Alola_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "B2-182",
+   "lang": "en",
+   "name": "Alolan Ninetales ex",
+   "pocket": true,
+   "inliers": 109,
+   "set": "Fantastical Parade",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Binding Snow"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-5": {
+  "name": "38_Ninetales_Alola_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm3-28",
+   "lang": "en",
+   "name": "Alolan Ninetales",
+   "pocket": false,
+   "inliers": 62,
+   "set": "Burning Shadows",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 110,
+   "attacks": [
+    "Aurora Beam"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-6": {
+  "name": "38_Ninetales_Alola_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm8-225",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Lost Thunder",
+   "illustrator": "5ban Graphics",
+   "hp": 200,
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-alola-shiny": {
+  "name": "38_Ninetales_Alola_Shiny",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "B2-196",
+   "lang": "en",
+   "name": "Alolan Ninetales ex",
+   "pocket": true,
+   "inliers": 55,
+   "set": "Fantastical Parade",
+   "illustrator": "mashu",
+   "hp": 150,
+   "attacks": [
+    "Binding Snow"
+   ]
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "38-ninetales-shiny-1": {
+  "name": "38_Ninetales_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv03.5-186",
+   "lang": "en",
+   "name": "Ninetales ex",
+   "pocket": false,
+   "inliers": 8
+  },
+  "official_cards_checked": 69,
+  "lookup": {
+   "en": 64,
+   "ja": 27
+  }
+ },
+ "130-gyarados-1": {
+  "name": "130_Gyarados_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1-233",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 123,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-2": {
+  "name": "130_Gyarados_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-3": {
+  "name": "130_Gyarados_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "gym2-13",
+   "lang": "en",
+   "name": "Misty's Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-4": {
+  "name": "130_Gyarados_4",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "sm115-16",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Hidden Fates",
+   "illustrator": "5ban Graphics",
+   "hp": 230,
+   "attacks": [
+    "Dragon Rage",
+    "Hyper Beam GX"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-5": {
+  "name": "130_Gyarados_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV2a-130",
+   "lang": "ja",
+   "name": "ギャラドス",
+   "pocket": false,
+   "inliers": 91,
+   "set": "ポケモンカード151",
+   "illustrator": "Kouki Saitou",
+   "hp": 190,
+   "attacks": [
+    "はかいこうせん"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-6": {
+  "name": "130_Gyarados_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1a-076",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": true,
+   "inliers": 107,
+   "set": "Mythical Island",
+   "illustrator": "PLANETA CG Works",
+   "hp": 180,
+   "attacks": [
+    "Rampaging Whirlpool"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-7": {
+  "name": "130_Gyarados_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ecard3-11",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-8": {
+  "name": "130_Gyarados_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm115-16",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-shiny-1": {
+  "name": "130_Gyarados_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ex3-32",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-shiny-2": {
+  "name": "130_Gyarados_Shiny_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1-233",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 71,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-shiny-3": {
+  "name": "130_Gyarados_Shiny_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv03.5-130",
+   "lang": "en",
+   "name": "Gyarados",
    "pocket": false,
    "inliers": 77,
-   "set": "Mega Evolution",
+   "set": "151",
+   "illustrator": "Kouki Saitou",
+   "hp": 190,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-shiny-4": {
+  "name": "130_Gyarados_Shiny_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "base1-6",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-gyarados-tera": {
+  "name": "130_Gyarados_Tera",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv01-225",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": false,
+   "inliers": 94,
+   "set": "Scarlet & Violet",
    "illustrator": "5ban Graphics",
-   "hp": 350,
+   "hp": 300,
    "attacks": [
-    "Hammer-lanche",
-    "Frost Barrier"
+    "Waterfall",
+    "Tyrannical Tail"
    ]
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 71,
   "lookup": {
-   "en": 18,
-   "ja": 14
+   "en": 72,
+   "ja": 24
   }
  },
- "459-snover-1": {
-  "name": "459_Snover_1",
+ "130-mega-gyarados-1": {
+  "name": "130_Mega_Gyarados_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me01-140",
+   "id": "B1-285",
    "lang": "en",
-   "name": "Snover",
+   "name": "Mega Gyarados ex",
+   "pocket": true,
+   "inliers": 25,
+   "set": "Mega Rising",
+   "illustrator": "danciao",
+   "hp": 210,
+   "attacks": [
+    "Mega Blaster"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-2": {
+  "name": "130_Mega_Gyarados_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv02-043",
+   "lang": "en",
+   "name": "Gyarados",
    "pocket": false,
-   "inliers": 147,
-   "set": "Mega Evolution",
+   "inliers": 6
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-3": {
+  "name": "130_Mega_Gyarados_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss1-123",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-4": {
+  "name": "130_Mega_Gyarados_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "B1-255",
+   "lang": "en",
+   "name": "Mega Gyarados ex",
+   "pocket": true,
+   "inliers": 80,
+   "set": "Mega Rising",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 210,
+   "attacks": [
+    "Mega Blaster"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-6": {
+  "name": "130_Mega_Gyarados_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "base1-6",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-7": {
+  "name": "130_Mega_Gyarados_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "xy9-101",
+   "lang": "en",
+   "name": "Gyarados Spirit Link",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-shiny-1": {
+  "name": "130_Mega_Gyarados_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "xy12-34",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "130-mega-gyarados-shiny-2": {
+  "name": "130_Mega_Gyarados_Shiny_2",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "B1-285",
+   "lang": "en",
+   "name": "Mega Gyarados ex",
+   "pocket": true,
+   "inliers": 23,
+   "set": "Mega Rising",
+   "illustrator": "danciao",
+   "hp": 210,
+   "attacks": [
+    "Mega Blaster"
+   ]
+  },
+  "official_cards_checked": 71,
+  "lookup": {
+   "en": 72,
+   "ja": 24
+  }
+ },
+ "392-infernape-1": {
+  "name": "392_Infernape_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp7-3",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-infernape-2": {
+  "name": "392_Infernape_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-197",
+   "lang": "en",
+   "name": "Infernape ex",
+   "pocket": true,
+   "inliers": 219,
+   "set": "Space-Time Smackdown",
+   "illustrator": "nagimiso",
+   "hp": 170,
+   "attacks": [
+    "Flare Blitz"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-infernape-3": {
+  "name": "392_Infernape_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV5a-070",
+   "lang": "ja",
+   "name": "ゴウカザル",
+   "pocket": false,
+   "inliers": 121,
+   "set": "クリムゾンヘイズ",
+   "illustrator": "Krgc",
+   "hp": 140,
+   "attacks": [
+    "バーンアウト"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-infernape-4": {
+  "name": "392_Infernape_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw8-17",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-infernape-5": {
+  "name": "392_Infernape_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-181",
+   "lang": "en",
+   "name": "Infernape ex",
+   "pocket": true,
+   "inliers": 170,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
+   "attacks": [
+    "Flare Blitz"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-infernape-shiny-1": {
+  "name": "392_Infernape_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-197",
+   "lang": "en",
+   "name": "Infernape ex",
+   "pocket": true,
+   "inliers": 164,
+   "set": "Space-Time Smackdown",
+   "illustrator": "nagimiso",
+   "hp": 170,
+   "attacks": [
+    "Flare Blitz"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "392-mega-infernape-1": {
+  "name": "392_Mega_Infernape_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv06-033",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 21,
+   "ja": 6
+  }
+ },
+ "405-luxray-1": {
+  "name": "405_Luxray_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "B1-237",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 157,
+   "set": "Mega Rising",
+   "illustrator": "GIDORA",
+   "hp": 130,
+   "attacks": [
+    "Flash Impact"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-2": {
+  "name": "405_Luxray_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh10-050",
+   "lang": "en",
+   "name": "Luxray V",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-3": {
+  "name": "405_Luxray_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV4a-061",
+   "lang": "ja",
+   "name": "レントラー",
+   "pocket": false,
+   "inliers": 173,
+   "set": "シャイニートレジャーex",
+   "illustrator": "aoki",
+   "hp": 150,
+   "attacks": [
+    "ワイルドボルト"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-4": {
+  "name": "405_Luxray_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-9",
+   "lang": "en",
+   "name": "Luxray GL",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-5": {
+  "name": "405_Luxray_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv06-195",
+   "lang": "en",
+   "name": "Luxray ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-6": {
+  "name": "405_Luxray_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh10-050",
+   "lang": "en",
+   "name": "Luxray V",
+   "pocket": false,
+   "inliers": 157,
+   "set": "Astral Radiance",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 210,
+   "attacks": [
+    "Fang Snipe",
+    "Radiating Pulse"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-7": {
+  "name": "405_Luxray_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh12.5-044",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-shiny-1": {
+  "name": "405_Luxray_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh10-050",
+   "lang": "en",
+   "name": "Luxray V",
+   "pocket": false,
+   "inliers": 99,
+   "set": "Astral Radiance",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 210,
+   "attacks": [
+    "Fang Snipe",
+    "Radiating Pulse"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-luxray-tera": {
+  "name": "405_Luxray_Tera",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "A2-060",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 130,
+   "attacks": [
+    "Volt Bolt"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "405-mega-luxray-1": {
+  "name": "405_Mega_Luxray_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me03-028",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 31,
+   "ja": 11
+  }
+ },
+ "445-garchomp-1": {
+  "name": "445_Garchomp_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-175",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": true,
+   "inliers": 54,
+   "set": "Space-Time Smackdown",
+   "illustrator": "MINAMINAMI Take",
+   "hp": 140,
+   "attacks": [
+    "Dragon Claw"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-2": {
+  "name": "445_Garchomp_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "xyp-XY169",
+   "lang": "en",
+   "name": "Garchomp Spirit Link",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-3": {
+  "name": "445_Garchomp_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "bw6-91",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 134,
+   "set": "Dragons Exalted",
+   "illustrator": "Naoki Saito",
+   "hp": 140,
+   "attacks": [
+    "Jet Headbutt",
+    "Sand Tomb"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-4": {
+  "name": "445_Garchomp_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh9-109",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 123,
+   "set": "Brilliant Stars",
    "illustrator": "Nurikabe",
-   "hp": 90,
+   "hp": 160,
    "attacks": [
-    "Beat",
-    "Icy Snow"
+    "Dragonblade"
    ]
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 55,
   "lookup": {
-   "en": 17,
-   "ja": 13
+   "en": 45,
+   "ja": 28
   }
  },
- "459-snover-2": {
-  "name": "459_Snover_2",
+ "445-garchomp-5": {
+  "name": "445_Garchomp_5",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh2-12",
+   "id": "A2a-084",
    "lang": "en",
-   "name": "Snover",
-   "pocket": false,
-   "inliers": 51,
-   "set": "Rebel Clash",
-   "illustrator": "Shibuzoh.",
-   "hp": 90,
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 166,
+   "set": "Triumphant Light",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
    "attacks": [
-    "Beat",
-    "Razor Leaf"
+    "Linear Attack",
+    "Dragon Claw"
    ]
   },
-  "official_cards_checked": 22,
+  "official_cards_checked": 55,
   "lookup": {
-   "en": 17,
-   "ja": 13
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-6": {
+  "name": "445_Garchomp_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2a-093",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 184,
+   "set": "Triumphant Light",
+   "illustrator": "toriyufu",
+   "hp": 170,
+   "attacks": [
+    "Linear Attack",
+    "Dragon Claw"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-7": {
+  "name": "445_Garchomp_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S9a-084",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 62,
+   "set": "バトルリージョン",
+   "illustrator": "Taira Akitsu",
+   "hp": 200,
+   "attacks": [
+    "ドラゴンクロー",
+    "ソニックストライク"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-8": {
+  "name": "445_Garchomp_8",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10-232",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 114,
+   "set": "Destined Rivals",
+   "illustrator": "HICO KIM",
+   "hp": 330,
+   "attacks": [
+    "Corkscrew Dive",
+    "Draconic Buster"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-9": {
+  "name": "445_Garchomp_9",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10-241",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 156,
+   "set": "Destined Rivals",
+   "illustrator": "5ban Graphics",
+   "hp": 330,
+   "attacks": [
+    "Corkscrew Dive",
+    "Draconic Buster"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-tera-1": {
+  "name": "445_Garchomp_Tera_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV3a-076",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 80,
+   "set": "レイジングサーフ",
+   "illustrator": "5ban Graphics",
+   "hp": 320,
+   "attacks": [
+    "ハイドロランダー",
+    "ソニックダイブ"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-garchomp-tera-2": {
+  "name": "445_Garchomp_Tera_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV3a-085",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 84,
+   "set": "レイジングサーフ",
+   "illustrator": "Oswaldo KATO",
+   "hp": 320,
+   "attacks": [
+    "ハイドロランダー",
+    "ソニックダイブ"
+   ]
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-1": {
+  "name": "445_Mega_Garchomp_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S9a-079",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-2": {
+  "name": "445_Mega_Garchomp_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw11-96",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-3": {
+  "name": "445_Mega_Garchomp_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S9a-079",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-shiny-1": {
+  "name": "445_Mega_Garchomp_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV8a-039",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-z-1": {
+  "name": "445_Mega_Garchomp_Z_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A2-175",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": true,
+   "inliers": 5
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
+  }
+ },
+ "445-mega-garchomp-z-2": {
+  "name": "445_Mega_Garchomp_Z_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv04-038",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 55,
+  "lookup": {
+   "en": 45,
+   "ja": 28
   }
  }
 }

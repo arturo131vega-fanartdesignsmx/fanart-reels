@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "405-luxray-1",
+  "name": "405_Luxray_1",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_1.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "B1-237",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 157,
+   "set": "Mega Rising",
+   "illustrator": "GIDORA",
+   "hp": 130,
+   "attacks": [
+    "Flash Impact"
+   ]
+  },
+  {
+   "id": "swsh10-050",
+   "lang": "en",
+   "name": "Luxray V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp6-8",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "me03-028",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

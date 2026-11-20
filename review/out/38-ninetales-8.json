@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-8",
+  "name": "38_Ninetales_8",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_8.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "gym2-3",
+   "lang": "en",
+   "name": "Brock's Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex5-22",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh2-26",
+   "lang": "en",
+   "name": "Ninetales V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-070",
+   "lang": "en",
+   "name": "Alolan Ninetales",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

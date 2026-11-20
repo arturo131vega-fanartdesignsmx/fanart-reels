@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-3",
+  "name": "38_Ninetales_3",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_3.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "swsh2-26",
+   "lang": "en",
+   "name": "Ninetales V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh12-018",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw6-19",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "me01-020",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

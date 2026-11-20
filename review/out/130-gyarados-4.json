@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "130-gyarados-4",
+  "name": "130_Gyarados_4",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_4.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sm115-16",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Hidden Fates",
+   "illustrator": "5ban Graphics",
+   "hp": 230,
+   "attacks": [
+    "Dragon Rage",
+    "Hyper Beam GX"
+   ]
+  },
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "dp7-19",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl1-30",
+   "lang": "en",
+   "name": "Gyarados G",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

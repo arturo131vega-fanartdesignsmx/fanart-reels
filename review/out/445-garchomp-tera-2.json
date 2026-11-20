@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "445-garchomp-tera-2",
+  "name": "445_Garchomp_Tera_2",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_Tera_2.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "SV3a-085",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 84,
+   "set": "レイジングサーフ",
+   "illustrator": "Oswaldo KATO",
+   "hp": 320,
+   "attacks": [
+    "ハイドロランダー",
+    "ソニックダイブ"
+   ]
+  },
+  {
+   "id": "sv04-245",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": false,
+   "inliers": 63,
+   "set": "Paradox Rift",
+   "illustrator": "Oswaldo KATO",
+   "hp": 320,
+   "attacks": [
+    "Hydro Lander",
+    "Sonic Dive"
+   ]
+  },
+  {
+   "id": "swsh10-178",
+   "lang": "en",
+   "name": "Garchomp V",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Astral Radiance",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 200,
+   "attacks": [
+    "Dragon Claw",
+    "Sonic Strike"
+   ]
+  },
+  {
+   "id": "A2a-047",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 13,
+   "set": "Triumphant Light",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
+   "attacks": [
+    "Linear Attack",
+    "Dragon Claw"
+   ]
+  }
+ ]
+}

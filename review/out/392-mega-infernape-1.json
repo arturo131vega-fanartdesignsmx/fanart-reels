@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "392-mega-infernape-1",
+  "name": "392_Mega_Infernape_1",
+  "pokemon": "Infernape",
+  "dex": 392,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Mega_Infernape_1.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 21,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv06-033",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH252",
+   "lang": "en",
+   "name": "Infernape V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp7-3",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp1-5",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

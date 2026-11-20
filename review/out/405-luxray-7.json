@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "405-luxray-7",
+  "name": "405_Luxray_7",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_7.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh12.5-044",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV6-118",
+   "lang": "ja",
+   "name": "レントラーex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp6-8",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy2-34",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

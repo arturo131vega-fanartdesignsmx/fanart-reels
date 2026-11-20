@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-4",
+  "name": "38_Ninetales_4",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_4.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "ecard1-21",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh2-25",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm8-225",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bwp-BW66",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

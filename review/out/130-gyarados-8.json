@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-gyarados-8",
+  "name": "130_Gyarados_8",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_8.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sm115-16",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy7-20",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "gym2-5",
+   "lang": "en",
+   "name": "Giovanni's Gyarados",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

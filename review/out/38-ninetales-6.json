@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "38-ninetales-6",
+  "name": "38_Ninetales_6",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_6.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "sv03.5-038",
+   "lang": "en",
+   "name": "Ninetales ex",
+   "pocket": false,
+   "inliers": 99,
+   "set": "151",
+   "illustrator": "kawayoo",
+   "hp": 260,
+   "attacks": [
+    "Heat Wave",
+    "Mirrored Flames"
+   ]
+  },
+  {
+   "id": "SV2a-038",
+   "lang": "ja",
+   "name": "キュウコンex",
+   "pocket": false,
+   "inliers": 64,
+   "set": "ポケモンカード151",
+   "illustrator": "kawayoo",
+   "hp": 260,
+   "attacks": [
+    "ねっぷう",
+    "うつしほむら"
+   ]
+  },
+  {
+   "id": "bw11-21",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me04-009",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

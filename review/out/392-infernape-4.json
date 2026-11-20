@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "392-infernape-4",
+  "name": "392_Infernape_4",
+  "pokemon": "Infernape",
+  "dex": 392,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_4.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 21,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "bw8-17",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm6-59",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A4a-101",
+   "lang": "en",
+   "name": "Infernape ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "SV5a-070",
+   "lang": "ja",
+   "name": "ゴウカザル",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

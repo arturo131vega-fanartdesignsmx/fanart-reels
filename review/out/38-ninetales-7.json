@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-7",
+  "name": "38_Ninetales_7",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_7.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "sv08-017",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "SVLS-002",
+   "lang": "ja",
+   "name": "キュウコン",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "dp2-32",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "A4-026",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": true,
+   "inliers": 7
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "38-ninetales-alola-3",
+  "name": "38_Ninetales_Alola_3",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_3.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "g1-13",
+   "lang": "en",
+   "name": "Ninetales EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-3",
+   "lang": "en",
+   "name": "Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "gym2-21",
+   "lang": "en",
+   "name": "Blaine's Ninetales",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-16",
+   "lang": "en",
+   "name": "Ninetales BREAK",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-gyarados-3",
+  "name": "130_Gyarados_3",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_3.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "gym2-13",
+   "lang": "en",
+   "name": "Misty's Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv01-045",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm4-101",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "col1-7",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

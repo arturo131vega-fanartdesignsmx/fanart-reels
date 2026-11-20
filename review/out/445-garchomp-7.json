@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "445-garchomp-7",
+  "name": "445_Garchomp_7",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_7.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "S9a-084",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 62,
+   "set": "バトルリージョン",
+   "illustrator": "Taira Akitsu",
+   "hp": 200,
+   "attacks": [
+    "ドラゴンクロー",
+    "ソニックストライク"
+   ]
+  },
+  {
+   "id": "SV3a-076",
+   "lang": "ja",
+   "name": "ガブリアスex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S9a-079",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh9-109",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

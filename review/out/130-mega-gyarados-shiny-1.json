@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "130-mega-gyarados-shiny-1",
+  "name": "130_Mega_Gyarados_Shiny_1",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_Shiny_1.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "xy12-34",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sm4-101",
+   "lang": "en",
+   "name": "Gyarados GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "hgss1-4",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "g1-23",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

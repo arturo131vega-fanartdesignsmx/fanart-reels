@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "130-gyarados-1",
+  "name": "130_Gyarados_1",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_1.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A1-233",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": true,
+   "inliers": 123,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Hyper Beam"
+   ]
+  },
+  {
+   "id": "ex13-8",
+   "lang": "en",
+   "name": "Gyarados δ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy7-21",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv01-045",
+   "lang": "en",
+   "name": "Gyarados ex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

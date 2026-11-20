@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "445-garchomp-3",
+  "name": "445_Garchomp_3",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_3.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "bw6-91",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 134,
+   "set": "Dragons Exalted",
+   "illustrator": "Naoki Saito",
+   "hp": 140,
+   "attacks": [
+    "Jet Headbutt",
+    "Sand Tomb"
+   ]
+  },
+  {
+   "id": "bw6-90",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2a-093",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "bw11-96",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

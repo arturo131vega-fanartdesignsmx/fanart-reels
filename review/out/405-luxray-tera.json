@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "405-luxray-tera",
+  "name": "405_Luxray_Tera",
+  "pokemon": "Luxray",
+  "dex": 405,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_Tera.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 31,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "A2-060",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 130,
+   "attacks": [
+    "Volt Bolt"
+   ]
+  },
+  {
+   "id": "A3a-015",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": true,
+   "inliers": 17,
+   "set": "Extradimensional Crisis",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 130,
+   "attacks": [
+    "Electric Ball"
+   ]
+  },
+  {
+   "id": "swsh4.5-33",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Shining Fates",
+   "illustrator": "Hasuno",
+   "hp": 160,
+   "attacks": [
+    "Raid",
+    "Head Bolt"
+   ]
+  },
+  {
+   "id": "swsh2-62",
+   "lang": "en",
+   "name": "Luxray",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Rebel Clash",
+   "illustrator": "Hasuno",
+   "hp": 160,
+   "attacks": [
+    "Raid",
+    "Head Bolt"
+   ]
+  }
+ ]
+}

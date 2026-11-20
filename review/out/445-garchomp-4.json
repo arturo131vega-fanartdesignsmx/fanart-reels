@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "445-garchomp-4",
+  "name": "445_Garchomp_4",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_4.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "swsh9-109",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 123,
+   "set": "Brilliant Stars",
+   "illustrator": "Nurikabe",
+   "hp": 160,
+   "attacks": [
+    "Dragonblade"
+   ]
+  },
+  {
+   "id": "S9-075",
+   "lang": "ja",
+   "name": "ガブリアス",
+   "pocket": false,
+   "inliers": 121,
+   "set": "スターバース",
+   "illustrator": "Nurikabe",
+   "hp": 160,
+   "attacks": [
+    "リューノブレード"
+   ]
+  },
+  {
+   "id": "sm5-99",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "S9a-084",
+   "lang": "ja",
+   "name": "ガブリアスV",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

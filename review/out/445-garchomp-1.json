@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "445-garchomp-1",
+  "name": "445_Garchomp_1",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_1.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "A2-175",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": true,
+   "inliers": 54,
+   "set": "Space-Time Smackdown",
+   "illustrator": "MINAMINAMI Take",
+   "hp": 140,
+   "attacks": [
+    "Dragon Claw"
+   ]
+  },
+  {
+   "id": "me02.5-111",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A2a-047",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "SV9a-044",
+   "lang": "ja",
+   "name": "シロナのガブリアスex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

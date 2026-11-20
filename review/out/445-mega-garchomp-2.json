@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "445-mega-garchomp-2",
+  "name": "445_Mega_Garchomp_2",
+  "pokemon": "Garchomp",
+  "dex": 445,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_2.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 45,
+  "ja": 28
+ },
+ "top": [
+  {
+   "id": "bw11-96",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A4a-103",
+   "lang": "en",
+   "name": "Garchomp ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "me02.5-111",
+   "lang": "en",
+   "name": "Cynthia's Garchomp ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw9-120",
+   "lang": "en",
+   "name": "Garchomp",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

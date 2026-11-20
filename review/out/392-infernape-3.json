@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "392-infernape-3",
+  "name": "392_Infernape_3",
+  "pokemon": "Infernape",
+  "dex": 392,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_3.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 21,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV5a-070",
+   "lang": "ja",
+   "name": "ゴウカザル",
+   "pocket": false,
+   "inliers": 121,
+   "set": "クリムゾンヘイズ",
+   "illustrator": "Krgc",
+   "hp": 140,
+   "attacks": [
+    "バーンアウト"
+   ]
+  },
+  {
+   "id": "sv06-173",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 107,
+   "set": "Twilight Masquerade",
+   "illustrator": "Krgc",
+   "hp": 140,
+   "attacks": [
+    "Scorching Fire"
+   ]
+  },
+  {
+   "id": "swsh9-026",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv06-033",
+   "lang": "en",
+   "name": "Infernape",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

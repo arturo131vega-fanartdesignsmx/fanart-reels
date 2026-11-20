@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "130-mega-gyarados-shiny-2",
+  "name": "130_Mega_Gyarados_Shiny_2",
+  "pokemon": "Gyarados",
+  "dex": 130,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_Shiny_2.jpg"
+ },
+ "official_cards_checked": 71,
+ "lookup": {
+  "en": 72,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "B1-285",
+   "lang": "en",
+   "name": "Mega Gyarados ex",
+   "pocket": true,
+   "inliers": 23,
+   "set": "Mega Rising",
+   "illustrator": "danciao",
+   "hp": 210,
+   "attacks": [
+    "Mega Blaster"
+   ]
+  },
+  {
+   "id": "swsh7-28",
+   "lang": "en",
+   "name": "Gyarados V",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "xyp-XY60",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "base1-6",
+   "lang": "en",
+   "name": "Gyarados",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

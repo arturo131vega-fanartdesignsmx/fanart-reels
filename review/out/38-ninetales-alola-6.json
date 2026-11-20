@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "38-ninetales-alola-6",
+  "name": "38_Ninetales_Alola_6",
+  "pokemon": "Ninetales",
+  "dex": 38,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_6.jpg"
+ },
+ "official_cards_checked": 69,
+ "lookup": {
+  "en": 64,
+  "ja": 27
+ },
+ "top": [
+  {
+   "id": "sm8-225",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Lost Thunder",
+   "illustrator": "5ban Graphics",
+   "hp": 200,
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ]
+  },
+  {
+   "id": "sm8-132",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Lost Thunder",
+   "illustrator": "5ban Graphics",
+   "hp": 200,
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ]
+  },
+  {
+   "id": "sm8-205",
+   "lang": "en",
+   "name": "Alolan Ninetales GX",
+   "pocket": false,
+   "inliers": 31,
+   "set": "Lost Thunder",
+   "illustrator": "5ban Graphics",
+   "hp": 200,
+   "attacks": [
+    "Snowy Wind",
+    "Sublimation GX"
+   ]
+  },
+  {
+   "id": "sm3-28",
+   "lang": "en",
+   "name": "Alolan Ninetales",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Burning Shadows",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 110,
+   "attacks": [
+    "Aurora Beam"
+   ]
+  }
+ ]
+}
