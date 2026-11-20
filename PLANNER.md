@@ -11,7 +11,11 @@ Claude task) only curates designs and writes the queue. Never publish anything b
    (`{"candidates":[{"key","name","pokemon","dex","image"}]}`), wait for the "Real-card review sheets"
    workflow, read `review/out/_summary.json` and `review/out/<key>.json` (top matches with inliers).
    The tool compares the artwork with every official card image (TCGdex: English + Japanese + TCG Pocket).
-   - Any non-Pocket official card with ≥25 inliers → **reject** (same artwork as a physical card).
+   - Any non-Pocket official card with ≥25 inliers → open `<key>_match.jpg`: if the design reproduces that
+     physical card as it is (same art crop, e.g. an official full art / illustration rare) → **reject**.
+     If the design is an **extended art** (the official illustration expanded beyond the card's art window,
+     so the result is not exactly the same) → **allowed**: that card doesn't exist physically
+     (Arturo, 20-nov-2026, Heatran 2 and 3). Still never claim authorship of the artwork (rule 2).
    - 12–24 inliers → open `<key>_match.jpg` and decide by eye (same artwork = reject).
    - Pocket card ≥25 and no physical card ≥12 → allowed (Pocket cards don't exist physically), mark `pocket`.
    - `NO_OFFICIAL_DATA` / `ERROR` → never approve; resubmit later.
