@@ -2086,5 +2086,1227 @@
   "pocket": false,
   "added": "2026-11-19",
   "extended_art": true
+ },
+ "38-mega-ninetales-1": {
+  "pokemon": "Ninetales",
+  "card_name": "Mega Ninetales EX",
+  "listing_id": 4560874458,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Mega_Ninetales_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4560874458-2",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-mega-ninetales-2": {
+  "pokemon": "Ninetales",
+  "card_name": "Mega Ninetales EX",
+  "listing_id": 4560874458,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Mega_Ninetales_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4560874458-1",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-1": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 36,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Ninetales SV3-110 (Japanese print)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-2": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_2.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales SV3-110)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-3": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales EX",
+  "listing_id": 4560873986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales ex 151)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-4": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales EX",
+  "listing_id": 4560873986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_4.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales ex 151)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-5": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 45,
+   "pocket_max": 33
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Ninetales sm9-16",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-6": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales EX",
+  "listing_id": 4560873986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 99,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Ninetales ex sv03.5-038",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-7": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 11,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales sv08-017; 11 inliers = frame noise)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-8": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-9": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_9.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales sm9-16)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-10": {
+  "pokemon": "Ninetales",
+  "card_name": "Ninetales",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-1": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 21
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (P-A-070 Alolan Ninetales promo, checked by eye), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-2": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales EX",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 92
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-196), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-3": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales EX",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-4": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales EX",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 109
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-182), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-5": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 62,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Alolan Ninetales sm3-28",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-6": {
+  "pokemon": "Ninetales",
+  "card_name": "Alolan Ninetales EX",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Alolan Ninetales GX sm8-225 (set number on the card)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-alola-shiny": {
+  "pokemon": "Ninetales",
+  "card_name": "Shiny Alolan Ninetales EX",
+  "listing_id": 4543668239,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Alola_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 55
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-196, shiny colors), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "38-ninetales-shiny-1": {
+  "pokemon": "Ninetales",
+  "card_name": "Shiny Ninetales EX",
+  "listing_id": 4560873986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Shiny_1.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Ninetales ex 151, shiny colors)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-1": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados",
+  "listing_id": 4543733306,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 123
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-233), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-2": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados",
+  "listing_id": 4543733306,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Gyarados 151)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-3": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados",
+  "listing_id": 4543733306,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_3.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Gyarados 151)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-4": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados EX",
+  "listing_id": 4543733596,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 12,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Looks like a re-draw of the official Gyarados GX sm115-16 artwork (12 inliers, same composition)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-5": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados EX",
+  "listing_id": 4543733596,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 91,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Gyarados SV2a-130 (Japanese print)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-6": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados EX",
+  "listing_id": 4543733596,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 107
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1a-076), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-7": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados",
+  "listing_id": 4543733306,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_7.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Gyarados 151)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-8": {
+  "pokemon": "Gyarados",
+  "card_name": "Gyarados EX",
+  "listing_id": 4543733596,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; attack Blast Geyser appears to be TCG Pocket Gyarados ex (A4) text - treat as pocket",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-shiny-1": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Gyarados EX",
+  "listing_id": 4543719891,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; attack Blast Geyser appears to be TCG Pocket Gyarados ex (A4) text - treat as pocket",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-shiny-2": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Gyarados EX",
+  "listing_id": 4543719891,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 71
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-233, shiny colors), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-shiny-3": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Gyarados EX",
+  "listing_id": 4543719891,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 77,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Gyarados sv03.5-130 (shiny recolor)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-shiny-4": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Gyarados EX",
+  "listing_id": 4543719891,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Shiny_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; attack Blast Geyser appears to be TCG Pocket Gyarados ex (A4) text - treat as pocket",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-gyarados-tera": {
+  "pokemon": "Gyarados",
+  "card_name": "Tera Gyarados EX",
+  "listing_id": 4543733306,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 94,
+   "pocket_max": 16
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Gyarados ex sv01-225 (set number and copyright line on the card)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-1": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 25
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B1-285), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-2": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_2.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Oceanic Cataclysm) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-3": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Oceanic Cataclysm) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-4": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 80
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B1-255), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-6": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Oceanic Cataclysm) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-7": {
+  "pokemon": "Gyarados",
+  "card_name": "Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attack (Mega Blaster) = TCG Pocket Mega Gyarados ex (B1)",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-shiny-1": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_Shiny_1.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Oceanic Cataclysm) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "130-mega-gyarados-shiny-2": {
+  "pokemon": "Gyarados",
+  "card_name": "Shiny Mega Gyarados EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 23
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B1-285, shiny colors, checked by eye), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "392-infernape-1": {
+  "pokemon": "Infernape",
+  "card_name": "Infernape",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Pyro Dance, Energy Zone) = TCG Pocket Infernape",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "392-infernape-2": {
+  "pokemon": "Infernape",
+  "card_name": "Infernape EX",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 219
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-197), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "392-infernape-3": {
+  "pokemon": "Infernape",
+  "card_name": "Infernape EX",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 121,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Infernape SV5a-070 (Japanese print)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "392-infernape-4": {
+  "pokemon": "Infernape",
+  "card_name": "Infernape",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "392-infernape-5": {
+  "pokemon": "Infernape",
+  "card_name": "Infernape EX",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 170
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-181), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "392-infernape-shiny-1": {
+  "pokemon": "Infernape",
+  "card_name": "Shiny Infernape EX",
+  "listing_id": 4543734298,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Infernape_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 164
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-197, shiny colors), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "392-mega-infernape-1": {
+  "pokemon": "Infernape",
+  "card_name": "Mega Infernape EX",
+  "listing_id": 4543734244,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/392_Mega_Infernape_1.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Counterflare, Crimson Cyclone) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-1": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray",
+  "listing_id": 4543731694,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 157
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B1-237), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "405-luxray-2": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray",
+  "listing_id": 4543731694,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_2.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Luxray swsh4.5-33)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-3": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray",
+  "listing_id": 4543731694,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 173,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Luxray SV4a-061 (Japanese print)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-4": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray EX",
+  "listing_id": 4543731202,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (Luxray ex text; Pocket Luxray B1-088 is not an ex)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-5": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray EX",
+  "listing_id": 4543731202,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-6": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray EX",
+  "listing_id": 4543731202,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 157,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Luxray V swsh10-050",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-7": {
+  "pokemon": "Luxray",
+  "card_name": "Luxray",
+  "listing_id": 4543731694,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Luxray swsh4.5-33)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-shiny-1": {
+  "pokemon": "Luxray",
+  "card_name": "Shiny Luxray EX",
+  "listing_id": 4543731202,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 99,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Luxray V swsh10-050 (shiny recolor)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-luxray-tera": {
+  "pokemon": "Luxray",
+  "card_name": "Tera Luxray EX",
+  "listing_id": 4543717159,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 12,
+   "pocket_max": 19
+  },
+  "verdict": "rejected",
+  "reason": "Rejected by eye: official-style set number and copyright line on the card (12 inliers swsh4.5-33)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "405-mega-luxray-1": {
+  "pokemon": "Luxray",
+  "card_name": "Mega Luxray EX",
+  "listing_id": 4543717159,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/405_Mega_Luxray_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; fan-made Mega text",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-1": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp",
+  "listing_id": 4543709831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 54
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-175), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-2": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp",
+  "listing_id": 4543709831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-3": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp",
+  "listing_id": 4543709831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 134,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Garchomp bw6-91",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-4": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp",
+  "listing_id": 4543709831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 123,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Garchomp swsh9-109",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-5": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp EX",
+  "listing_id": 4543723160,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 166
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-084), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-6": {
+  "pokemon": "Garchomp",
+  "card_name": "Garchomp EX",
+  "listing_id": 4543723160,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 184
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-093), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-7": {
+  "pokemon": "Garchomp",
+  "card_name": "Cynthia's Garchomp EX",
+  "listing_id": 4543723160,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 62,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Garchomp V S9a-084 (Japanese print)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-8": {
+  "pokemon": "Garchomp",
+  "card_name": "Cynthia's Garchomp EX",
+  "listing_id": 4543723160,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 114,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Cynthia's Garchomp ex sv10-232",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-9": {
+  "pokemon": "Garchomp",
+  "card_name": "Cynthia's Garchomp EX",
+  "listing_id": 4543723160,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 156,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Cynthia's Garchomp ex sv10-241",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-tera-1": {
+  "pokemon": "Garchomp",
+  "card_name": "Tera Garchomp EX",
+  "listing_id": 4543709185,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_Tera_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 80,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Garchomp ex SV3a-076 (set number on the card)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-garchomp-tera-2": {
+  "pokemon": "Garchomp",
+  "card_name": "Tera Garchomp EX",
+  "listing_id": 4543709185,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Garchomp_Tera_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 84,
+   "pocket_max": 13
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Garchomp ex SV3a-085 (set number on the card)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-1": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp EX",
+  "listing_id": 4609224722,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; HP 220 + Falling Edge = TCG Pocket Mega Garchomp ex (drop event promo) - treat as pocket",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-2": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp EX",
+  "listing_id": 4609224722,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_2.jpg",
+  "used": [
+   "2026-11-20"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Desert Predator, Draconic Buster) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-3": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp EX",
+  "listing_id": 4609224722,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; HP 220 + Falling Edge = TCG Pocket Mega Garchomp ex (drop event promo) - treat as pocket",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-shiny-1": {
+  "pokemon": "Garchomp",
+  "card_name": "Shiny Mega Garchomp EX",
+  "listing_id": 4609224722,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text (Desert Predator, Draconic Buster) is not a TCG Pocket card",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-z-1": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp Z EX",
+  "listing_id": 4543736082,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_Z_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "445-mega-garchomp-z-2": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp Z EX",
+  "listing_id": 4543736082,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_Z_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }

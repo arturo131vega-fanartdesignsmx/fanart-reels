@@ -1,0 +1,263 @@
+{
+ "items": [
+  {
+   "id": "2026-11-20-r1",
+   "type": "reel",
+   "publish_at": "2026-11-20T08:00:00-06:00",
+   "pokemon": "Luxray",
+   "listing_id": 4543731694,
+   "design_key": "405-luxray-2",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/405_Luxray_2.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "They say Luxray",
+      "can see through anything...",
+      "bet it never saw this coming."
+     ],
+     "speed": 0.97,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "All handmade,",
+      "all holo,",
+      "all real card size."
+     ],
+     "speed": 1.02,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Order two or more",
+      [
+       "and twenty-five percent comes off",
+       "and 25% comes off"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Shop through the link in my bio."
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "am_fenrir",
+   "speed": 1.03,
+   "variant_seed": 538846,
+   "music_seed": 742692,
+   "highlight": [
+    "Luxray",
+    "handmade",
+    "holo"
+   ],
+   "caption_ig": "They say Luxray can see through anything… but did it see this Luxray Pokémon card coming? ⚡👁️\nThe Gleam Eyes Pokémon of Sinnoh, crackling through a blue thunderstorm on a handmade holographic full art proxy card. Real card size, made to live in your binder.\n\nBinder page or display stand: where would this Luxray go? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 More Luxray and Luxray EX designs: link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#luxray #luxrayfanart #pokemonbinder #holocards #fanartdesignsmx",
+   "caption_fb": "They say Luxray can see through anything… but did it see this Luxray Pokémon card coming? ⚡👁️\nThe Gleam Eyes Pokémon of Sinnoh, crackling through a blue thunderstorm on a handmade holographic full art proxy card. Real card size, made to live in your binder.\n\nBinder page or display stand: where would this Luxray go? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Get this Luxray here (more Luxray EX designs in the shop): https://www.etsy.com/listing/4543731694\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#luxray #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-20-c1",
+   "type": "carousel",
+   "publish_at": "2026-11-20T12:00:00-06:00",
+   "pokemon": "Ninetales",
+   "listing_id": 4560873986,
+   "design_keys": [
+    "38-ninetales-4",
+    "38-ninetales-shiny-1",
+    "38-ninetales-9",
+    "38-ninetales-2"
+   ],
+   "slides": [
+    {
+     "hero": "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_4.jpg",
+     "alt": "Ninetales EX Pokémon fan art card with golden nine tails under a full moon, handmade holographic proxy card by Fanart Designs MX"
+    },
+    {
+     "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+    },
+    {
+     "collage": [
+      "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_Shiny_1.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_9.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/38_Ninetales_2.jpg"
+     ],
+     "alt": "Shiny Ninetales EX and two more Ninetales Pokémon fan art cards fanned out, handmade holographic proxy cards"
+    },
+    {
+     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg"
+    }
+   ],
+   "caption_ig": "Nine tails, one full moon: a Ninetales EX Pokémon card glowing gold 🌕🦊\nSwipe for Ninetales in four moods, including a silver Shiny Ninetales EX. Legend says this Fire-type fox from Kanto can live for a thousand years; here it lives on handmade holographic full art proxy cards, each one real card size.\n\nGold, silver or flame: which Ninetales earns the slot in your binder? 👇\n\n✨ Mix any 2+ cards and code 25OFF takes 25% off at checkout\n🛒 Every Ninetales design is one tap away, link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#ninetales #shinyninetales #pokemoncollector #customcards #fanartdesignsmx",
+   "caption_fb": "Nine tails, one full moon: a Ninetales EX Pokémon card glowing gold 🌕🦊\nSwipe for Ninetales in four moods, including a silver Shiny Ninetales EX. Legend says this Fire-type fox from Kanto can live for a thousand years; here it lives on handmade holographic full art proxy cards, each one real card size.\n\nGold, silver or flame: which Ninetales earns the slot in your binder? 👇\n\n✨ Mix any 2+ cards and code 25OFF takes 25% off at checkout\n🛒 See every Ninetales design: https://www.etsy.com/shop/FanartsDesignsMX?search_query=ninetales\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#ninetales #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-20-r2",
+   "type": "reel",
+   "publish_at": "2026-11-20T14:00:00-06:00",
+   "pokemon": "Infernape",
+   "listing_id": 4543734244,
+   "design_key": "392-mega-infernape-1",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/392_Mega_Infernape_1.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "Name a starter",
+      "with more fire than Mega Infernape...",
+      "I'll wait."
+     ],
+     "speed": 0.98,
+     "pause": 0.32
+    },
+    {
+     "chunks": [
+      "Made by hand,",
+      "fully holographic,",
+      "and the size of a real card."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Add a second card",
+      [
+       "and you'll save twenty-five percent",
+       "and you'll save 25%"
+      ],
+      [
+       "using code twenty-five off.",
+       "using code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Everything's linked in my bio!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "bf_emma",
+   "speed": 1.04,
+   "variant_seed": 563417,
+   "music_seed": 178531,
+   "highlight": [
+    "Infernape",
+    "holographic",
+    "hand"
+   ],
+   "caption_ig": "Name a starter with more fire than this Mega Infernape EX Pokémon card. I'll wait 🔥🐒\nInfernape, the Fire/Fighting final evolution of Sinnoh's Chimchar, blazing across a custom full art. Handmade, holographic and real card size, so it slides right into a sleeve.\n\nSinnoh starter showdown: Infernape, Empoleon or Torterra? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Order through the link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#infernape #megainfernape #pokemoncards #pokemonfanart #fanartdesignsmx",
+   "caption_fb": "Name a starter with more fire than this Mega Infernape EX Pokémon card. I'll wait 🔥🐒\nInfernape, the Fire/Fighting final evolution of Sinnoh's Chimchar, blazing across a custom full art. Handmade, holographic and real card size, so it slides right into a sleeve.\n\nSinnoh starter showdown: Infernape, Empoleon or Torterra? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Grab it here: https://www.etsy.com/listing/4543734244\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#infernape #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-20-c2",
+   "type": "carousel",
+   "publish_at": "2026-11-20T18:00:00-06:00",
+   "pokemon": "Gyarados",
+   "listing_id": null,
+   "design_keys": [
+    "130-mega-gyarados-2",
+    "130-gyarados-7",
+    "130-mega-gyarados-shiny-1",
+    "130-gyarados-3"
+   ],
+   "slides": [
+    {
+     "hero": "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_2.jpg",
+     "alt": "Mega Gyarados EX Pokémon fan art card rising from a stormy sea, handmade holographic full art proxy card by Fanart Designs MX"
+    },
+    {
+     "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+    },
+    {
+     "collage": [
+      "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_7.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/130_Mega_Gyarados_Shiny_1.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/130_Gyarados_3.jpg"
+     ],
+     "alt": "Shiny Mega Gyarados EX between two Gyarados Pokémon fan art cards in a fan, handmade holographic proxy cards"
+    },
+    {
+     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg"
+    }
+   ],
+   "caption_ig": "From Magikarp to this: a Mega Gyarados EX Pokémon card that roars off the page 🌊🐉\nSlide 3 adds a red Shiny Mega Gyarados EX and two classic Gyarados full arts. Gyarados is Water/Flying, and Mega Evolution turns it Water/Dark. Every proxy card here is handmade with a holo finish and printed in real card size.\n\nRed or blue: which Gyarados would you rather pull? 👇\n\n🌊 Two or more cards in your cart + code 25OFF = 25% off\n🛒 Tap the link in bio and search Gyarados\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#gyarados #megagyarados #pokemontcg #holocards #fanartdesignsmx",
+   "caption_fb": "From Magikarp to this: a Mega Gyarados EX Pokémon card that roars off the page 🌊🐉\nSlide 3 adds a red Shiny Mega Gyarados EX and two classic Gyarados full arts. Gyarados is Water/Flying, and Mega Evolution turns it Water/Dark. Every proxy card here is handmade with a holo finish and printed in real card size.\n\nRed or blue: which Gyarados would you rather pull? 👇\n\n🌊 Two or more cards in your cart + code 25OFF = 25% off\n🛒 Shop every Gyarados design: https://www.etsy.com/shop/FanartsDesignsMX?search_query=gyarados\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#gyarados #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-20-r3",
+   "type": "reel",
+   "publish_at": "2026-11-20T20:30:00-06:00",
+   "pokemon": "Garchomp",
+   "listing_id": 4609224722,
+   "design_key": "445-mega-garchomp-2",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/445_Mega_Garchomp_2.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "You won't pull",
+      "this Mega Garchomp",
+      "from any booster pack."
+     ],
+     "speed": 0.98,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Handmade,",
+      "holo edge to edge,",
+      "and sized like the real thing."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Snag any two cards",
+      [
+       "for twenty-five percent off",
+       "for 25% off"
+      ],
+      [
+       "with the code twenty-five off.",
+       "with the code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Head to the link in my bio!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "af_bella",
+   "speed": 1.04,
+   "variant_seed": 328106,
+   "music_seed": 271061,
+   "highlight": [
+    "Garchomp",
+    "handmade",
+    "holo"
+   ],
+   "caption_ig": "You won't pull this Mega Garchomp EX Pokémon card from any booster pack 🦈🏜️\nGarchomp, the Dragon/Ground pseudo-legendary from Sinnoh, tears through a desert storm in its Mega form. A handmade holographic proxy card with full art, made in real card size.\n\nWould Mega Garchomp EX make your all-Dragon team? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Link in bio to get yours\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#garchomp #megagarchomp #customcards #pokemonbinder #fanartdesignsmx",
+   "caption_fb": "You won't pull this Mega Garchomp EX Pokémon card from any booster pack 🦈🏜️\nGarchomp, the Dragon/Ground pseudo-legendary from Sinnoh, tears through a desert storm in its Mega form. A handmade holographic proxy card with full art, made in real card size.\n\nWould Mega Garchomp EX make your all-Dragon team? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Get yours here: https://www.etsy.com/listing/4609224722\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#garchomp #pokemoncards #fanartdesignsmx"
+  }
+ ]
+}
