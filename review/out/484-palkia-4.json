@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "484-palkia-4",
+  "name": "484_Palkia_4",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_4.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "A2-204",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 256,
+   "set": "Space-Time Smackdown",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 150,
+   "attacks": [
+    "Slash",
+    "Dimensional Storm"
+   ]
+  },
+  {
+   "id": "A2-206",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "dp1-11",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dpp-DP27",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

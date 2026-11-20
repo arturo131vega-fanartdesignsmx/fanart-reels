@@ -1,0 +1,65 @@
+{
+ "candidate": {
+  "key": "484-palkia-5",
+  "name": "484_Palkia_5",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_5.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "A2-182",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 155,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Slash",
+    "Dimensional Storm"
+   ]
+  },
+  {
+   "id": "B1-319",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 18,
+   "set": "Mega Rising",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Slash",
+    "Dimensional Storm"
+   ]
+  },
+  {
+   "id": "A2-206",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Slash",
+    "Dimensional Storm"
+   ]
+  },
+  {
+   "id": "sv08-136",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

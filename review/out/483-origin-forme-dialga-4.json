@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-4",
+  "name": "483_Origin_Forme_Dialga_4",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_4.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH256",
+   "lang": "en",
+   "name": "Origin Forme Dialga VSTAR",
+   "pocket": false,
+   "inliers": 89,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 280,
+   "attacks": [
+    "Metal Blast",
+    "Star Chronos"
+   ]
+  },
+  {
+   "id": "S12a-101",
+   "lang": "ja",
+   "name": "オリジンディアルガVSTAR",
+   "pocket": false,
+   "inliers": 84,
+   "set": "VSTARユニバース",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "メタルブラスト",
+    "スタークロノス"
+   ]
+  },
+  {
+   "id": "swsh10-114",
+   "lang": "en",
+   "name": "Origin Forme Dialga VSTAR",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Metal Blast",
+    "Star Chronos"
+   ]
+  },
+  {
+   "id": "swsh10-210",
+   "lang": "en",
+   "name": "Origin Forme Dialga VSTAR",
+   "pocket": false,
+   "inliers": 29,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Metal Blast",
+    "Star Chronos"
+   ]
+  }
+ ]
+}

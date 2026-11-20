@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-8",
+  "name": "483_Origin_Forme_Dialga_8",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_8.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "A2-119",
+   "lang": "en",
+   "name": "Dialga ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "pl1-23",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-113",
+   "lang": "en",
+   "name": "Origin Forme Dialga V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-177",
+   "lang": "en",
+   "name": "Origin Forme Dialga V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

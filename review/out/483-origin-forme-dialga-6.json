@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-6",
+  "name": "483_Origin_Forme_Dialga_6",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_6.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "pl1-6",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "hgss4-101",
+   "lang": "en",
+   "name": "Palkia & Dialga LEGEND",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B1-326",
+   "lang": "en",
+   "name": "Dialga ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "xy4-122",
+   "lang": "en",
+   "name": "Dialga EX",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

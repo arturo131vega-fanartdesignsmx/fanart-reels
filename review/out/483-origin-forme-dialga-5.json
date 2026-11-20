@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-5",
+  "name": "483_Origin_Forme_Dialga_5",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_5.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "A2a-060",
+   "lang": "en",
+   "name": "Origin Forme Dialga",
+   "pocket": true,
+   "inliers": 156,
+   "set": "Triumphant Light",
+   "illustrator": "akagi",
+   "hp": 120,
+   "attacks": [
+    "Time Mash"
+   ]
+  },
+  {
+   "id": "S12a-101",
+   "lang": "ja",
+   "name": "オリジンディアルガVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy4-122",
+   "lang": "en",
+   "name": "Dialga EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw10-65",
+   "lang": "en",
+   "name": "Dialga-EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "483-dialga-shiny-1",
+  "name": "483_Dialga_Shiny_1",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_Shiny_1.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "A2-205",
+   "lang": "en",
+   "name": "Dialga ex",
+   "pocket": true,
+   "inliers": 7
+  },
+  {
+   "id": "sm12-221",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "col1-SL2",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp1-1",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

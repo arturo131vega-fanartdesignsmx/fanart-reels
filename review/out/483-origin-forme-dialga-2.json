@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-2",
+  "name": "483_Origin_Forme_Dialga_2",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "swsh10-177",
+   "lang": "en",
+   "name": "Origin Forme Dialga V",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Astral Radiance",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 220,
+   "attacks": [
+    "Metal Coating",
+    "Temporal Rupture"
+   ]
+  },
+  {
+   "id": "A2a-060",
+   "lang": "en",
+   "name": "Origin Forme Dialga",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "me01-095",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-114",
+   "lang": "en",
+   "name": "Origin Forme Dialga VSTAR",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

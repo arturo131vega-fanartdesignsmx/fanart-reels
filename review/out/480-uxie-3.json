@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "480-uxie-3",
+  "name": "480_Uxie_3",
+  "pokemon": "Uxie",
+  "dex": 480,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_3.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "dp2-18",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw10-36",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm6-41",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp6-43",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

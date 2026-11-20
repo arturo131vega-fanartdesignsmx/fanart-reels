@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "480-uxie-2",
+  "name": "480_Uxie_2",
+  "pokemon": "Uxie",
+  "dex": 480,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv08-078",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 123,
+   "set": "Surging Sparks",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Painful Memories"
+   ]
+  },
+  {
+   "id": "SV8-048",
+   "lang": "ja",
+   "name": "ユクシー",
+   "pocket": false,
+   "inliers": 112,
+   "set": "超電ブレイカー",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "いたみのきおく"
+   ]
+  },
+  {
+   "id": "dp2-18",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw10-36",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

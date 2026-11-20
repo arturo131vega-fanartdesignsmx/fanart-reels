@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "484-palkia-8",
+  "name": "484_Palkia_8",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_8.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "xyp-XY75",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 235,
+   "set": "XY Black Star Promos",
+   "illustrator": "Naoki Saito",
+   "hp": 120,
+   "attacks": [
+    "Wave Splash",
+    "Cross Slicer"
+   ]
+  },
+  {
+   "id": "hgss4-101",
+   "lang": "en",
+   "name": "Palkia & Dialga LEGEND",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-136",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1-319",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

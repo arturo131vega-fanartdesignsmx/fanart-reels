@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "483-dialga-6",
+  "name": "483_Dialga_6",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_6.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "A2-207",
+   "lang": "en",
+   "name": "Dialga ex",
+   "pocket": true,
+   "inliers": 98,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Metallic Turbo",
+    "Heavy Impact"
+   ]
+  },
+  {
+   "id": "B1-326",
+   "lang": "en",
+   "name": "Dialga ex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sv08-135",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH255",
+   "lang": "en",
+   "name": "Origin Forme Dialga V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

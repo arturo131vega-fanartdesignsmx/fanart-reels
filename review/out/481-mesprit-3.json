@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "481-mesprit-3",
+  "name": "481_Mesprit_3",
+  "pokemon": "Mesprit",
+  "dex": 481,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_3.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 11,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "A2-166",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": true,
+   "inliers": 55,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Orca",
+   "hp": 70,
+   "attacks": [
+    "Supreme Blast"
+   ]
+  },
+  {
+   "id": "dp2-14",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "dp6-34",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw10-37",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

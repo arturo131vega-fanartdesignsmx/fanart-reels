@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "484-palkia-10",
+  "name": "484_Palkia_10",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_10.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "pl1-12",
+   "lang": "en",
+   "name": "Palkia G",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "hgss4-101",
+   "lang": "en",
+   "name": "Palkia & Dialga LEGEND",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "A2-182",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "S12a-028",
+   "lang": "ja",
+   "name": "オリジンパルキアVSTAR",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

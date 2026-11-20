@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "483-dialga-5",
+  "name": "483_Dialga_5",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_5.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "dp5-4",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl1-5",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV7a-042",
+   "lang": "ja",
+   "name": "ディアルガ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dpp-DP26",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

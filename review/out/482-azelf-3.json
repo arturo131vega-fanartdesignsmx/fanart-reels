@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "482-azelf-3",
+  "name": "482_Azelf_3",
+  "pokemon": "Azelf",
+  "dex": 482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_3.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 10,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "dp2-4",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp6-19",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw10-38",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm6-43",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

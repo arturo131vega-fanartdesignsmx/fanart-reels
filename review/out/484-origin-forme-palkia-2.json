@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "484-origin-forme-palkia-2",
+  "name": "484_Origin_Forme_Plakia_2",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_2.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "swsh10-167",
+   "lang": "en",
+   "name": "Origin Forme Palkia V",
+   "pocket": false,
+   "inliers": 128,
+   "set": "Astral Radiance",
+   "illustrator": "Oswaldo KATO",
+   "hp": 220,
+   "attacks": [
+    "Rule the Region",
+    "Hydro Break"
+   ]
+  },
+  {
+   "id": "S10P-071",
+   "lang": "ja",
+   "name": "オリジンパルキアV",
+   "pocket": false,
+   "inliers": 124,
+   "set": "スペースジャグラー",
+   "illustrator": "Oswaldo KATO",
+   "hp": 220,
+   "attacks": [
+    "りょういきしはい",
+    "ハイドロブレイク"
+   ]
+  },
+  {
+   "id": "S12a-027",
+   "lang": "ja",
+   "name": "オリジンパルキアV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04-040",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

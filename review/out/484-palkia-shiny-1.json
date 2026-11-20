@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "484-palkia-shiny-1",
+  "name": "484_Palkia_Shiny_1",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_Shiny_1.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "A2-204",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 204,
+   "set": "Space-Time Smackdown",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 150,
+   "attacks": [
+    "Slash",
+    "Dimensional Storm"
+   ]
+  },
+  {
+   "id": "hgss4-102",
+   "lang": "en",
+   "name": "Palkia & Dialga LEGEND",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S12a-027",
+   "lang": "ja",
+   "name": "オリジンパルキアV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "cel25-4",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "483-dialga-7",
+  "name": "483_Dialga_7",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_7.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "xyp-XY77",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 150,
+   "set": "XY Black Star Promos",
+   "illustrator": "TOKIYA",
+   "hp": 120,
+   "attacks": [
+    "Metal Claw",
+    "Time Freeze"
+   ]
+  },
+  {
+   "id": "dp1-1",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl1-6",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-114",
+   "lang": "en",
+   "name": "Origin Forme Dialga VSTAR",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

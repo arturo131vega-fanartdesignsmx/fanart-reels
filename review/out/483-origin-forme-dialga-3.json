@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "483-origin-forme-dialga-3",
+  "name": "483_Origin_Forme_Dialga_3",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_3.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH255",
+   "lang": "en",
+   "name": "Origin Forme Dialga V",
+   "pocket": false,
+   "inliers": 191,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 220,
+   "attacks": [
+    "Metal Coating",
+    "Temporal Rupture"
+   ]
+  },
+  {
+   "id": "sm5-146",
+   "lang": "en",
+   "name": "Dialga GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S12a-101",
+   "lang": "ja",
+   "name": "オリジンディアルガVSTAR",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp5-4",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

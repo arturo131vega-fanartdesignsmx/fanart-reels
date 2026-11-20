@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "484-origin-forme-palkia-6",
+  "name": "484_Origin_Forme_Plakia_6",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_6.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "S12a-028",
+   "lang": "ja",
+   "name": "オリジンパルキアVSTAR",
+   "pocket": false,
+   "inliers": 93,
+   "set": "VSTARユニバース",
+   "illustrator": "aky CG Works",
+   "hp": 280,
+   "attacks": [
+    "あくうのうねり"
+   ]
+  },
+  {
+   "id": "swshp-SWSH254",
+   "lang": "en",
+   "name": "Origin Forme Palkia VSTAR",
+   "pocket": false,
+   "inliers": 73,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 280,
+   "attacks": [
+    "Subspace Swell"
+   ]
+  },
+  {
+   "id": "swsh10-208",
+   "lang": "en",
+   "name": "Origin Forme Palkia VSTAR",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Astral Radiance",
+   "illustrator": "aky CG Works",
+   "hp": 280,
+   "attacks": [
+    "Subspace Swell"
+   ]
+  },
+  {
+   "id": "swsh10-192",
+   "lang": "en",
+   "name": "Origin Forme Palkia VSTAR",
+   "pocket": false,
+   "inliers": 31,
+   "set": "Astral Radiance",
+   "illustrator": "aky CG Works",
+   "hp": 280,
+   "attacks": [
+    "Subspace Swell"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "481-mesprit-2",
+  "name": "481_Mesprit_2",
+  "pokemon": "Mesprit",
+  "dex": 481,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_2.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 11,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv08-204",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 115,
+   "set": "Surging Sparks",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Full Heart",
+    "Guardian Burst"
+   ]
+  },
+  {
+   "id": "dp2-14",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp6-34",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw10-37",
+   "lang": "en",
+   "name": "Mesprit",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

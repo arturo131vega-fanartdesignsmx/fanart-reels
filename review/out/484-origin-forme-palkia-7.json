@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "484-origin-forme-palkia-7",
+  "name": "484_Origin_Forme_Plakia_7",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_7.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "A2a-023",
+   "lang": "en",
+   "name": "Origin Forme Palkia",
+   "pocket": true,
+   "inliers": 166,
+   "set": "Triumphant Light",
+   "illustrator": "toriyufu",
+   "hp": 120,
+   "attacks": [
+    "Zone Smash"
+   ]
+  },
+  {
+   "id": "bw10-66",
+   "lang": "en",
+   "name": "Palkia-EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-167",
+   "lang": "en",
+   "name": "Origin Forme Palkia V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm12-258",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

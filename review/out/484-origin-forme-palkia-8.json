@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "484-origin-forme-palkia-8",
+  "name": "484_Origin_Forme_Plakia_8",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_8.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "pl1-37",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl1-12",
+   "lang": "en",
+   "name": "Palkia G",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv04-040",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "hgss4-101",
+   "lang": "en",
+   "name": "Palkia & Dialga LEGEND",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

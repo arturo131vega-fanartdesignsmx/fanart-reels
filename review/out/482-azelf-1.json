@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "482-azelf-1",
+  "name": "482_Azelf_1",
+  "pokemon": "Azelf",
+  "dex": 482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_1.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 10,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "A2-077",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": true,
+   "inliers": 123,
+   "set": "Space-Time Smackdown",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 70,
+   "attacks": [
+    "Psychic Arrow"
+   ]
+  },
+  {
+   "id": "S10P-031",
+   "lang": "ja",
+   "name": "アグノム",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV8-050",
+   "lang": "ja",
+   "name": "アグノム",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "dp2-4",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

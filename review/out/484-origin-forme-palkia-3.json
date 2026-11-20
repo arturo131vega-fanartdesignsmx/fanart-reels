@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "484-origin-forme-palkia-3",
+  "name": "484_Origin_Forme_Plakia_3",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_3.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH253",
+   "lang": "en",
+   "name": "Origin Forme Palkia V",
+   "pocket": false,
+   "inliers": 145,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 220,
+   "attacks": [
+    "Rule the Region",
+    "Hydro Break"
+   ]
+  },
+  {
+   "id": "S10P-070",
+   "lang": "ja",
+   "name": "オリジンパルキアV",
+   "pocket": false,
+   "inliers": 30,
+   "set": "スペースジャグラー",
+   "illustrator": "aky CG Works",
+   "hp": 220,
+   "attacks": [
+    "りょういきしはい",
+    "ハイドロブレイク"
+   ]
+  },
+  {
+   "id": "S10P-022",
+   "lang": "ja",
+   "name": "オリジンパルキアV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp4-26",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

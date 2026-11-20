@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "484-palkia-9",
+  "name": "484_Palkia_9",
+  "pokemon": "Palkia",
+  "dex": 484,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_9.jpg"
+ },
+ "official_cards_checked": 55,
+ "lookup": {
+  "en": 47,
+  "ja": 25
+ },
+ "top": [
+  {
+   "id": "sv08-136",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 168,
+   "set": "Surging Sparks",
+   "illustrator": "danciao",
+   "hp": 130,
+   "attacks": [
+    "Space Crash"
+   ]
+  },
+  {
+   "id": "SV7a-043",
+   "lang": "ja",
+   "name": "パルキア",
+   "pocket": false,
+   "inliers": 164,
+   "set": "楽園ドラゴーナ",
+   "illustrator": "danciao",
+   "hp": 130,
+   "attacks": [
+    "スペースクラッシュ"
+   ]
+  },
+  {
+   "id": "dp4-106",
+   "lang": "en",
+   "name": "Palkia",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B1-319",
+   "lang": "en",
+   "name": "Palkia ex",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

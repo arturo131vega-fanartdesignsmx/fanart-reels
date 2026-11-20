@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "482-azelf-2",
+  "name": "482_Azelf_2",
+  "pokemon": "Azelf",
+  "dex": 482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_2.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 10,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "SV8-050",
+   "lang": "ja",
+   "name": "アグノム",
+   "pocket": false,
+   "inliers": 171,
+   "set": "超電ブレイカー",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "マインドキネシス"
+   ]
+  },
+  {
+   "id": "sv08-080",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": false,
+   "inliers": 158,
+   "set": "Surging Sparks",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Neurokinesis"
+   ]
+  },
+  {
+   "id": "A2-077",
+   "lang": "en",
+   "name": "Azelf",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "S10P-031",
+   "lang": "ja",
+   "name": "アグノム",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "480-uxie-1",
+  "name": "480_Uxie_1",
+  "pokemon": "Uxie",
+  "dex": 480,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "A2-075",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": true,
+   "inliers": 133,
+   "set": "Space-Time Smackdown",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 70,
+   "attacks": [
+    "Mind Boost"
+   ]
+  },
+  {
+   "id": "dp6-43",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "S10P-029",
+   "lang": "ja",
+   "name": "ユクシー",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm6-41",
+   "lang": "en",
+   "name": "Uxie",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "483-dialga-8",
+  "name": "483_Dialga_8",
+  "pokemon": "Dialga",
+  "dex": 483,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_8.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 54,
+  "ja": 20
+ },
+ "top": [
+  {
+   "id": "sv08-135",
+   "lang": "en",
+   "name": "Dialga",
+   "pocket": false,
+   "inliers": 292,
+   "set": "Surging Sparks",
+   "illustrator": "Takumi Wada",
+   "hp": 130,
+   "attacks": [
+    "Time Manipulation",
+    "Buster Tail"
+   ]
+  },
+  {
+   "id": "SV7a-042",
+   "lang": "ja",
+   "name": "ディアルガ",
+   "pocket": false,
+   "inliers": 251,
+   "set": "楽園ドラゴーナ",
+   "illustrator": "Takumi Wada",
+   "hp": 130,
+   "attacks": [
+    "タイムコントロール",
+    "バスターテール"
+   ]
+  },
+  {
+   "id": "A2a-060",
+   "lang": "en",
+   "name": "Origin Forme Dialga",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "sm5-100",
+   "lang": "en",
+   "name": "Dialga GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
