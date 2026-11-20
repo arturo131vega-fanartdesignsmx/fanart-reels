@@ -3308,5 +3308,719 @@
   "reason": "Artwork not official (card text not yet checked against TCG Pocket)",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "481-mesprit-2": {
+  "pokemon": "Mesprit",
+  "card_name": "Mesprit",
+  "listing_id": 4553581131,
+  "design_label": "Design 1 Mesprit",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 115,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mesprit sv08-204",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "480-uxie-2": {
+  "pokemon": "Uxie",
+  "card_name": "Uxie",
+  "listing_id": 4553581131,
+  "design_label": "Design 2 Uxie",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 123,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Uxie sv08-078",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "482-azelf-2": {
+  "pokemon": "Azelf",
+  "card_name": "Azelf",
+  "listing_id": 4553581131,
+  "design_label": "Design 3 Azelf",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 171,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: アグノム SV8-050",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "481-mesprit-1": {
+  "pokemon": "Mesprit",
+  "card_name": "Mesprit",
+  "listing_id": 4553581027,
+  "design_label": "Design 1 Mesprit",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 115
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-076), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "480-uxie-1": {
+  "pokemon": "Uxie",
+  "card_name": "Uxie",
+  "listing_id": 4553581027,
+  "design_label": "Design 2 Uxie",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 133
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-075), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "482-azelf-1": {
+  "pokemon": "Azelf",
+  "card_name": "Azelf",
+  "listing_id": 4553581027,
+  "design_label": "Design 3 Azelf",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 123
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-077), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "481-mesprit-3": {
+  "pokemon": "Mesprit",
+  "card_name": "Mesprit",
+  "listing_id": 4553591000,
+  "design_label": "Design 1 Mesprit",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/481_Mesprit_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 2,
+   "pocket_max": 55
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-166), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "480-uxie-3": {
+  "pokemon": "Uxie",
+  "card_name": "Uxie",
+  "listing_id": 4553591000,
+  "design_label": "Design 2 Uxie",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Uxie (Mind Boost))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "482-azelf-3": {
+  "pokemon": "Azelf",
+  "card_name": "Azelf",
+  "listing_id": 4553591000,
+  "design_label": "Design 3 Azelf",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/482_Azelf_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Azelf (Psychic Arrow))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-3": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4553590826,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 19
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Dialga ex (Metallic Turbo, Heavy Impact))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-4": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4553590826,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 97
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-188), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-5": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4553590826,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Dialga ex (Metallic Turbo, Heavy Impact))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-shiny-1": {
+  "pokemon": "Dialga",
+  "card_name": "Shiny Dialga EX",
+  "listing_id": 4553590826,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Dialga ex (Metallic Turbo, Heavy Impact))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-6": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4553590826,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 98
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-207), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-dialga-8": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4605351097,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 292,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Dialga sv08-135",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-dialga-9": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga EX",
+  "listing_id": 4605351097,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-dialga-7": {
+  "pokemon": "Dialga",
+  "card_name": "Dialga",
+  "listing_id": 4605351097,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 150,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Dialga xyp-XY77",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-palkia-4": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4553580365,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 256
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-204), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-palkia-5": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4553580365,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 155
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-182), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-palkia-6": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4553580365,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name and attacks = TCG Pocket Palkia ex (Slash, Dimensional Storm))",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-palkia-shiny-1": {
+  "pokemon": "Palkia",
+  "card_name": "Shiny Palkia EX",
+  "listing_id": 4553580365,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 204
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-204), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-palkia-7": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4553580365,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 170
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-206), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-palkia-9": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4605370778,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 168,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Palkia sv08-136",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-palkia-10": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia EX",
+  "listing_id": 4605370778,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-palkia-8": {
+  "pokemon": "Palkia",
+  "card_name": "Palkia",
+  "listing_id": 4605370778,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Palkia_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 235,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Palkia xyp-XY75",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-2": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga EX",
+  "listing_id": 4553590412,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 16,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Dialga V swsh10-177 (checked by eye)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-5": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga",
+  "listing_id": 4553590412,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 156
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-060), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-6": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga",
+  "listing_id": 4553590412,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-shiny-1": {
+  "pokemon": "Dialga",
+  "card_name": "Shiny Origin Forme Dialga EX",
+  "listing_id": 4553590412,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork recolored: Origin Forme Dialga V swsh10-177 (shiny of Origin Forme Dialga 2, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-3": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga EX",
+  "listing_id": 4553590412,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 191,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Dialga V swshp-SWSH255",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-8": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga EX",
+  "listing_id": 4553590412,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-1": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga VSTAR",
+  "listing_id": 4553579167,
+  "design_label": "Design 1 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 39,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Dialga VSTAR swsh10-210",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-4": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga VSTAR",
+  "listing_id": 4553579167,
+  "design_label": "Design 2 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 89,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Dialga VSTAR swshp-SWSH256",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "483-origin-forme-dialga-7": {
+  "pokemon": "Dialga",
+  "card_name": "Origin Forme Dialga VSTAR",
+  "listing_id": 4553579167,
+  "design_label": "Design 3 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 51,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Dialga VSTAR swsh10-114",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-2": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia EX",
+  "listing_id": 4552477931,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 128,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Palkia V swsh10-167",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-5": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia EX",
+  "listing_id": 4552477931,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-3": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia EX",
+  "listing_id": 4552477931,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 145,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Palkia V swshp-SWSH253",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-7": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia",
+  "listing_id": 4552477931,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 166
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-023), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-8": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia",
+  "listing_id": 4552477931,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-1": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia VSTAR",
+  "listing_id": 4547142973,
+  "design_label": "Design 1 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 48,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Origin Forme Palkia VSTAR swsh10-208",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-6": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia VSTAR",
+  "listing_id": 4547142973,
+  "design_label": "Design 2 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 93,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: オリジンパルキアVSTAR S12a-028",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "484-origin-forme-palkia-4": {
+  "pokemon": "Palkia",
+  "card_name": "Origin Forme Palkia VSTAR",
+  "listing_id": 4547142973,
+  "design_label": "Design 3 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/484_Origin_Forme_Plakia_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 64,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: オリジンパルキアVSTAR S10P-023",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }
