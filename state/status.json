@@ -750,5 +750,98 @@
    "permalink": "https://www.facebook.com/reel/1476161654457051/"
   },
   "done": "2026-11-19T14:46:44.276368+00:00"
+ },
+ "2026-11-20-r1": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r1.jpg",
+  "render": {
+   "duration": 14.666666666666666,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 106,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.18,
+    "text": "They say Luxray"
+   },
+   {
+    "t0": 1.18,
+    "t1": 2.71,
+    "text": "can see through anything..."
+   },
+   {
+    "t0": 2.71,
+    "t1": 4.175,
+    "text": "bet it never saw this coming."
+   },
+   {
+    "t0": 4.475,
+    "t1": 5.065,
+    "text": "All handmade,"
+   },
+   {
+    "t0": 5.065,
+    "t1": 5.795,
+    "text": "all holo,"
+   },
+   {
+    "t0": 5.795,
+    "t1": 7.24,
+    "text": "all real card size."
+   },
+   {
+    "t0": 7.5,
+    "t1": 8.74,
+    "text": "Order two or more"
+   },
+   {
+    "t0": 8.74,
+    "t1": 10.53,
+    "text": "and 25% comes off"
+   },
+   {
+    "t0": 10.53,
+    "t1": 11.893,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.193,
+    "t1": 13.664,
+    "text": "Shop through the link in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-20T11:34:57.164577+00:00",
+  "render_seconds": 83
+ },
+ "2026-11-20-c1": {
+  "attempts": 0
+ },
+ "2026-11-20-r2": {
+  "attempts": 0
+ },
+ "2026-11-20-c2": {
+  "attempts": 0
+ },
+ "2026-11-20-r3": {
+  "attempts": 0
  }
 }
