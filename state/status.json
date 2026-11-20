@@ -503,7 +503,16 @@
    }
   ],
   "rendered_at": "2026-11-20T00:02:31.563006+00:00",
-  "render_seconds": 83
+  "render_seconds": 83,
+  "ig": {
+   "media_id": "18115428593234369",
+   "permalink": "https://www.instagram.com/reel/Df8lgZ7CYCs/"
+  },
+  "fb": {
+   "video_id": "1999601967403250",
+   "permalink": "https://www.facebook.com/reel/1999601967403250/"
+  },
+  "done": "2026-11-20T02:31:26.757457+00:00"
  },
  "pikachu27-preview": {
   "attempts": 0,
