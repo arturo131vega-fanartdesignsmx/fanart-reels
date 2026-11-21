@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "894-regieleki-2",
+  "name": "894_Regieleki_2",
+  "pokemon": "Regieleki",
+  "dex": 894,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_2.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 7,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "swsh12-175",
+   "lang": "en",
+   "name": "Regieleki V",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "swsh10-051",
+   "lang": "en",
+   "name": "Regieleki",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "swsh12-057",
+   "lang": "en",
+   "name": "Regieleki V",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh12-058",
+   "lang": "en",
+   "name": "Regieleki VMAX",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

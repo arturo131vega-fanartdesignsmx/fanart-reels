@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "487-giratina-1",
+  "name": "487_Giratina_1",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_1.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2-167",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 171,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Rond",
+   "hp": 120,
+   "attacks": [
+    "Spooky Shot"
+   ]
+  },
+  {
+   "id": "S12a-111",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S11-120",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl1-28",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

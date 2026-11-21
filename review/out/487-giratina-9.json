@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "487-giratina-9",
+  "name": "487_Giratina_9",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_9.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "S11-111",
+   "lang": "ja",
+   "name": "ギラティナV",
+   "pocket": false,
+   "inliers": 139,
+   "set": "ロストアビス",
+   "illustrator": "Shinji Kanda",
+   "hp": 220,
+   "attacks": [
+    "アビスシーク",
+    "ひきさく"
+   ]
+  },
+  {
+   "id": "swsh11-186",
+   "lang": "en",
+   "name": "Giratina V",
+   "pocket": false,
+   "inliers": 134,
+   "set": "Lost Origin",
+   "illustrator": "Shinji Kanda",
+   "hp": 220,
+   "attacks": [
+    "Abyss Seeking",
+    "Shred"
+   ]
+  },
+  {
+   "id": "A2b-096",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "dp6-4",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

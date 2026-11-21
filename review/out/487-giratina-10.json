@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "487-giratina-10",
+  "name": "487_Giratina_10",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_10.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "S12a-111",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 56,
+   "set": "VSTARユニバース",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "ロストインパクト",
+    "スターレクイエム"
+   ]
+  },
+  {
+   "id": "S11-081",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 48,
+   "set": "ロストアビス",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "ロストインパクト",
+    "スターレクイエム"
+   ]
+  },
+  {
+   "id": "swsh11-131",
+   "lang": "en",
+   "name": "Giratina VSTAR",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Lost Origin",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Lost Impact",
+    "Star Requiem"
+   ]
+  },
+  {
+   "id": "swsh11-201",
+   "lang": "en",
+   "name": "Giratina VSTAR",
+   "pocket": false,
+   "inliers": 39,
+   "set": "Lost Origin",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Lost Impact",
+    "Star Requiem"
+   ]
+  }
+ ]
+}

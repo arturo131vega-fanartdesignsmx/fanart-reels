@@ -1,18 +1,322 @@
 {
- "486-regigigas-tag-team-1": {
-  "name": "486_Regigigas_Tag_Team_1",
+ "487-giratina-1": {
+  "name": "487_Giratina_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-167",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 171,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Rond",
+   "hp": 120,
+   "attacks": [
+    "Spooky Shot"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-2": {
+  "name": "487_Giratina_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm4-84",
+   "id": "A2-167",
    "lang": "en",
-   "name": "Regigigas",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 6
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-3": {
+  "name": "487_Giratina_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl1-9",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-4": {
+  "name": "487_Giratina_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2b-096",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 112,
+   "set": "Shining Revelry",
+   "illustrator": "Shinji Kanda",
+   "hp": 150,
+   "attacks": [
+    "Chaotic Impact"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-5": {
+  "name": "487_Giratina_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2b-083",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 98,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 150,
+   "attacks": [
+    "Chaotic Impact"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-6": {
+  "name": "487_Giratina_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2a-061",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 214,
+   "set": "Triumphant Light",
+   "illustrator": "Shin Nagasawa",
+   "hp": 120,
+   "attacks": [
+    "Crisis Dive"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-7": {
+  "name": "487_Giratina_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-078",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 131,
+   "set": "Space-Time Smackdown",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 120,
+   "attacks": [
+    "Spooky Shot"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-8": {
+  "name": "487_Giratina_8",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-261",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 28,
+   "set": "VSTARユニバース",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 280,
+   "attacks": [
+    "ロストインパクト",
+    "スターレクイエム"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-9": {
+  "name": "487_Giratina_9",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S11-111",
+   "lang": "ja",
+   "name": "ギラティナV",
+   "pocket": false,
+   "inliers": 139,
+   "set": "ロストアビス",
+   "illustrator": "Shinji Kanda",
+   "hp": 220,
+   "attacks": [
+    "アビスシーク",
+    "ひきさく"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-10": {
+  "name": "487_Giratina_10",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-111",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 56,
+   "set": "VSTARユニバース",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "ロストインパクト",
+    "スターレクイエム"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-11": {
+  "name": "487_Giratina_11",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl1-28",
+   "lang": "en",
+   "name": "Giratina",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 25,
+  "official_cards_checked": 44,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "487-giratina-shiny-1": {
+  "name": "487_Giratina_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2b-096",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 103,
+   "set": "Shining Revelry",
+   "illustrator": "Shinji Kanda",
+   "hp": 150,
+   "attacks": [
+    "Chaotic Impact"
+   ]
+  },
+  "official_cards_checked": 44,
+  "lookup": {
+   "en": 37,
+   "ja": 21
+  }
+ },
+ "894-regieleki-1": {
+  "name": "894_Regieleki_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-045",
+   "lang": "ja",
+   "name": "レジエレキ",
+   "pocket": false,
+   "inliers": 171,
+   "set": "VSTARユニバース",
+   "illustrator": "Shiburingaru",
+   "hp": 130,
+   "attacks": [
+    "でんじソナー",
+    "ターゲットボルト"
+   ]
+  },
+  "official_cards_checked": 12,
+  "lookup": {
+   "en": 7,
+   "ja": 5
+  }
+ },
+ "894-regieleki-2": {
+  "name": "894_Regieleki_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh12-175",
+   "lang": "en",
+   "name": "Regieleki V",
+   "pocket": false,
+   "inliers": 8
+  },
+  "official_cards_checked": 12,
+  "lookup": {
+   "en": 7,
+   "ja": 5
+  }
+ },
+ "894-regieleki-3": {
+  "name": "894_Regieleki_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh10-051",
+   "lang": "en",
+   "name": "Regieleki",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 12,
+  "lookup": {
+   "en": 7,
+   "ja": 5
+  }
+ },
+ "894-regieleki-4": {
+  "name": "894_Regieleki_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S12a-045",
+   "lang": "ja",
+   "name": "レジエレキ",
+   "pocket": false,
+   "inliers": 2
+  },
+  "official_cards_checked": 12,
+  "lookup": {
+   "en": 7,
+   "ja": 5
   }
  }
 }

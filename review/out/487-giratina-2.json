@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "487-giratina-2",
+  "name": "487_Giratina_2",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_2.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2-167",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "xy7-57",
+   "lang": "en",
+   "name": "Giratina EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-86",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl1-124",
+   "lang": "en",
+   "name": "Giratina LV.X",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

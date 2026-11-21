@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "487-giratina-6",
+  "name": "487_Giratina_6",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_6.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2a-061",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 214,
+   "set": "Triumphant Light",
+   "illustrator": "Shin Nagasawa",
+   "hp": 120,
+   "attacks": [
+    "Crisis Dive"
+   ]
+  },
+  {
+   "id": "smp-SM151",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 139,
+   "set": "SM Black Star Promos",
+   "illustrator": "Shin Nagasawa",
+   "hp": 130,
+   "attacks": [
+    "Shadow Impact"
+   ]
+  },
+  {
+   "id": "bw6-92",
+   "lang": "en",
+   "name": "Giratina-EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm8-97",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

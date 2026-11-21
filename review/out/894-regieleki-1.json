@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "894-regieleki-1",
+  "name": "894_Regieleki_1",
+  "pokemon": "Regieleki",
+  "dex": 894,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_1.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 7,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "S12a-045",
+   "lang": "ja",
+   "name": "レジエレキ",
+   "pocket": false,
+   "inliers": 171,
+   "set": "VSTARユニバース",
+   "illustrator": "Shiburingaru",
+   "hp": 130,
+   "attacks": [
+    "でんじソナー",
+    "ターゲットボルト"
+   ]
+  },
+  {
+   "id": "swsh10-051",
+   "lang": "en",
+   "name": "Regieleki",
+   "pocket": false,
+   "inliers": 149,
+   "set": "Astral Radiance",
+   "illustrator": "Shiburingaru",
+   "hp": 130,
+   "attacks": [
+    "Electromagnetic Sonar",
+    "Targeted Bolt"
+   ]
+  },
+  {
+   "id": "swsh12-175",
+   "lang": "en",
+   "name": "Regieleki V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S12-033",
+   "lang": "ja",
+   "name": "レジエレキV",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

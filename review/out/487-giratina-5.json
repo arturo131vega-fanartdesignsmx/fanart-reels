@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "487-giratina-5",
+  "name": "487_Giratina_5",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_5.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2b-083",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 98,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 150,
+   "attacks": [
+    "Chaotic Impact"
+   ]
+  },
+  {
+   "id": "me06-045",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A2a-061",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "sm11-86",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

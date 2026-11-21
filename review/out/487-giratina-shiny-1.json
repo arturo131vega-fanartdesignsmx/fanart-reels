@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "487-giratina-shiny-1",
+  "name": "487_Giratina_Shiny_1",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_Shiny_1.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2b-096",
+   "lang": "en",
+   "name": "Giratina ex",
+   "pocket": true,
+   "inliers": 103,
+   "set": "Shining Revelry",
+   "illustrator": "Shinji Kanda",
+   "hp": 150,
+   "attacks": [
+    "Chaotic Impact"
+   ]
+  },
+  {
+   "id": "bwp-BW74",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm8-97",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2a-061",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

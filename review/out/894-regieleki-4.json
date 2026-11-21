@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "894-regieleki-4",
+  "name": "894_Regieleki_4",
+  "pokemon": "Regieleki",
+  "dex": 894,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_4.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 7,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "S12a-045",
+   "lang": "ja",
+   "name": "レジエレキ",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "S12-115",
+   "lang": "ja",
+   "name": "レジエレキVMAX",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "swsh10-051",
+   "lang": "en",
+   "name": "Regieleki",
+   "pocket": false,
+   "inliers": 1
+  },
+  {
+   "id": "swsh12-057",
+   "lang": "en",
+   "name": "Regieleki V",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

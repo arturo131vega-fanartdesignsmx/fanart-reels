@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "487-giratina-7",
+  "name": "487_Giratina_7",
+  "pokemon": "Giratina",
+  "dex": 487,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_7.jpg"
+ },
+ "official_cards_checked": 44,
+ "lookup": {
+  "en": 37,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "A2-078",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": true,
+   "inliers": 131,
+   "set": "Space-Time Smackdown",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 120,
+   "attacks": [
+    "Spooky Shot"
+   ]
+  },
+  {
+   "id": "S11-080",
+   "lang": "ja",
+   "name": "ギラティナV",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S12a-261",
+   "lang": "ja",
+   "name": "ギラティナVSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm11-86",
+   "lang": "en",
+   "name": "Giratina",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
