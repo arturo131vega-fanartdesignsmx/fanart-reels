@@ -5280,5 +5280,209 @@
   "reason": "Artwork not official; name + attacks are the Pocket Ho-Oh ex (Phoenix Turbo, A4-034)",
   "pocket": true,
   "added": "2026-11-21"
+ },
+ "377-regirock-3": {
+  "pokemon": "Regirock",
+  "card_name": "Regirock EX",
+  "listing_id": 4543731400,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 212,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Regirock sv09-082 / SV9-049 (not the same crop)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "377-regirock-1": {
+  "pokemon": "Regirock",
+  "card_name": "Regirock",
+  "listing_id": 4543731400,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 287
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-087), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "377-regirock-2": {
+  "pokemon": "Regirock",
+  "card_name": "Regirock",
+  "listing_id": 4543731400,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 159,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Regirock sm4-53 (not the same crop)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "377-regirock-4": {
+  "pokemon": "Regirock",
+  "card_name": "Regirock EX",
+  "listing_id": 4543731400,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "379-registeel-3": {
+  "pokemon": "Registeel",
+  "card_name": "Registeel EX",
+  "listing_id": 4543731314,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 90,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of Registeel ex me02.5-145 (wider full art crop)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "379-registeel-1": {
+  "pokemon": "Registeel",
+  "card_name": "Registeel",
+  "listing_id": 4543731314,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 144
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-112), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "379-registeel-2": {
+  "pokemon": "Registeel",
+  "card_name": "Registeel",
+  "listing_id": 4543731314,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 221,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Registeel sv08-125 / SVLS-008 (not the same crop)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "379-registeel-4": {
+  "pokemon": "Registeel",
+  "card_name": "Registeel EX",
+  "listing_id": 4543731314,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "895-regidrago-2": {
+  "pokemon": "Regidrago",
+  "card_name": "Regidrago EX",
+  "listing_id": 4543731042,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 50,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Regidrago V swsh12-184 / S12-108",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "895-regidrago-3": {
+  "pokemon": "Regidrago",
+  "card_name": "Regidrago VSTAR",
+  "listing_id": 4543731042,
+  "design_label": "Design 2 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 29,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art promo Regidrago V swshp-SWSH281",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "895-regidrago-1": {
+  "pokemon": "Regidrago",
+  "card_name": "Regidrago",
+  "listing_id": 4543731042,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 139,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Regidrago swsh10-118 / S10P-051 (not the same crop)",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "895-regidrago-4": {
+  "pokemon": "Regidrago",
+  "card_name": "Regidrago EX",
+  "listing_id": 4543731042,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }
