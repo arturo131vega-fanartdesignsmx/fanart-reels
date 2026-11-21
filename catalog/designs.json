@@ -361,7 +361,9 @@
   "listing_id": null,
   "image": "https://i.etsystatic.com/66814655/r/il/98b9ce/8861364394/il_fullxfull.8861364394_f98p.jpg",
   "verdict": "approved",
-  "used": [],
+  "used": [
+   "2026-11-21"
+  ],
   "reason": "Artwork not official (text copies printed Alakazam)",
   "pocket": false,
   "own": false,
@@ -4361,5 +4363,922 @@
   "reason": "Extended art of the sm7-45 illustration; this card doesn't exist physically",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "384-mega-rayquaza-1": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified, possibly the Pocket Mega Rayquaza ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-2": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text uses Pocket wording (Energy Zone)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-3": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified, possibly the Pocket Mega Rayquaza ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-4": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_4.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text uses Pocket wording (Energy Zone)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-5": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text uses Pocket wording (Energy Zone)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-6": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_6.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified, possibly the Pocket Mega Rayquaza ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-7": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text uses Pocket wording (Energy Zone)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-8": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 68,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical Mega Rayquaza ex me06-138 (Delta Reign)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-9": {
+  "pokemon": "Rayquaza",
+  "card_name": "Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified, possibly the Pocket Mega Rayquaza ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-shiny-1": {
+  "pokemon": "Rayquaza",
+  "card_name": "Shiny Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_Shiny_1.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-mega-rayquaza-shiny-2": {
+  "pokemon": "Rayquaza",
+  "card_name": "Shiny Mega Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 64,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Recolor of the physical Mega Rayquaza ex me06-138 artwork, same crop",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-rayquaza-1": {
+  "pokemon": "Rayquaza",
+  "card_name": "Rayquaza",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 284,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the me02.5-153 illustration (regular card); this full art doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-rayquaza-2": {
+  "pokemon": "Rayquaza",
+  "card_name": "Rayquaza",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 251,
+   "pocket_max": 6
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the SWSH029 promo illustration (regular card); this full art doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-rayquaza-3": {
+  "pokemon": "Rayquaza",
+  "card_name": "Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 99
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (P-A-065), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "384-rayquaza-4": {
+  "pokemon": "Rayquaza",
+  "card_name": "Rayquaza EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_4.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Rayquaza-GX)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "384-rayquaza-vmax-1": {
+  "pokemon": "Rayquaza",
+  "card_name": "Rayquaza VMAX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_VMAX_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 11,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the physical Rayquaza VMAX alt art swsh7-218 (recolored); also shows a set number",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-lucario-1": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 150
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-170), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-lucario-2": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-lucario-3": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 206
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2b-084), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-lucario-4": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-lucario-5": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Lucario ex (A2b-043)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-lucario-shiny-1": {
+  "pokemon": "Lucario",
+  "card_name": "Shiny Lucario EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-lucario-vstar-1": {
+  "pokemon": "Lucario",
+  "card_name": "Lucario VSTAR",
+  "listing_id": 4543708697,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_VSTAR_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 59,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the physical Lucario VSTAR SWSH291 / S12a-226; shows a set number",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-1": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4609202631,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Mega Lucario ex (Pulsing Aura)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-2": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4543722630,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 75,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Lucario ex me01-160 (same design as 4543722630-5)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-3": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4609202631,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Mega Lucario ex (Pulsing Aura)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-4": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4609202631,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Mega Lucario ex (Pulsing Aura)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-5": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4543722630,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 149,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Lucario ex me01-179 (same design as 4543722630-1)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-6": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4543722630,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543722630-4",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-7": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario EX",
+  "listing_id": 4543722630,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 6
+  },
+  "verdict": "duplicate",
+  "reason": "Same design as 4543722630-2",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-shiny-1": {
+  "pokemon": "Lucario",
+  "card_name": "Shiny Mega Lucario EX",
+  "listing_id": 4543722630,
+  "design_label": "Design 3 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Shiny_1.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Mega Lucario ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-z-1": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario Z EX",
+  "listing_id": 4543708601,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-z-2": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario Z EX",
+  "listing_id": 4543708601,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 31,
+   "pocket_max": 24
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (25-33 inliers spread over 4 different Lucario cards = frame/icon noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-z-3": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario Z EX",
+  "listing_id": 4543708601,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 28
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (25-33 inliers spread over 4 different Lucario cards = frame/icon noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-z-4": {
+  "pokemon": "Lucario",
+  "card_name": "Mega Lucario Z EX",
+  "listing_id": 4543708601,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 25,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (25-33 inliers spread over 4 different Lucario cards = frame/icon noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "448-mega-lucario-z-shiny-1": {
+  "pokemon": "Lucario",
+  "card_name": "Shiny Mega Lucario Z EX",
+  "listing_id": 4543708601,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-darkrai-1": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai",
+  "listing_id": 4606526831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 126,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the swsh3-105 illustration (regular card); name + attacks are the Pocket Darkrai (B1-154)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "491-darkrai-2": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai",
+  "listing_id": 4606526831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Darkrai (B1-154)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "491-darkrai-3": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai EX",
+  "listing_id": 4606526831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Darkrai ex (A2-110)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "491-darkrai-4": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai",
+  "listing_id": 4606526831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 10,
+   "pocket_max": 9
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-darkrai-5": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai",
+  "listing_id": 4606526831,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-mega-darkrai-1": {
+  "pokemon": "Darkrai",
+  "card_name": "Mega Darkrai EX",
+  "listing_id": 4606527057,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-mega-darkrai-2": {
+  "pokemon": "Darkrai",
+  "card_name": "Mega Darkrai EX",
+  "listing_id": 4606527057,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_2.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-mega-darkrai-3": {
+  "pokemon": "Darkrai",
+  "card_name": "Mega Darkrai EX",
+  "listing_id": 4606527057,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 110,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical Mega Darkrai ex me05-116 (PBL), recolored",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "491-mega-darkrai-4": {
+  "pokemon": "Darkrai",
+  "card_name": "Mega Darkrai EX",
+  "listing_id": 4606527057,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Gold card showing the official set number PBL 120/084 and an official illustrator (Sbsn Graphics)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-1": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_1.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; attack Blessed Burn is the Pocket Ho-Oh (B1-032)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-2": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 170,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the me04-010 illustration (regular card); this full art doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-3": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Ho-Oh ex (Phoenix Turbo, A4-034)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-4": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 93
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-187), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-5": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 105
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-210), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-6": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Ho-Oh ex (Phoenix Turbo, A4-034)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-7": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ethan's Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 64,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the physical Ethan's Ho-Oh ex sv10-230 / SV9a-086 (SIR), recolored",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-8": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ethan's Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_8.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-9": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_9.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-shiny-1": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Shiny Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 73
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-210, recolored), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "250-ho-oh-shiny-2": {
+  "pokemon": "Ho-Oh",
+  "card_name": "Shiny Ho-Oh EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_2.jpg",
+  "used": [
+   "2026-11-21"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks are the Pocket Ho-Oh ex (Phoenix Turbo, A4-034)",
+  "pocket": true,
+  "added": "2026-11-21"
  }
 }
