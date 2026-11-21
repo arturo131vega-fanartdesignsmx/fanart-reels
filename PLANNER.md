@@ -98,7 +98,7 @@ Reel:
            {"chunks":["Link's in my bio!"],"speed":1.0,"pause":0}],
  "voice":"af_heart","speed":1.04,"variant_seed":<random int>,"music_seed":<random int>,
  "highlight":["Greninja"],
- "caption_ig":"... link in bio ...","caption_fb":"... https://www.etsy.com/listing/<id> ..."}
+ "caption_ig":"... link in bio ...","caption_fb":"... https://fanartsdesignsmx.etsy.com/listing/<id> ..."}
 ```
 Voices to rotate: af_heart, af_bella, am_michael, am_fenrir, bf_emma, af_heart+af_bella.
 Script: 12–16 s total, 4 sentences: hook (varied: question, challenge, "you won't find this in any
@@ -119,8 +119,9 @@ Carousel:
 
 ## Links
 - Etsy shop: https://www.etsy.com/shop/FanartsDesignsMX (note the **s** in Fanarts). Instagram handle: @fanartdesignsmx.
-  For Facebook captions prefer the listing URL https://www.etsy.com/listing/<id>; for a shop search use
-  https://www.etsy.com/shop/FanartsDesignsMX?search_query=<pokemon>.
+  For Facebook captions ALWAYS use the shop's own Share & Save domain (Etsy credits those clicks to the shop and
+  saves fees; www.etsy.com links do not count): listing URL https://fanartsdesignsmx.etsy.com/listing/<id>; for a
+  shop search use https://fanartsdesignsmx.etsy.com/?search_query=<pokemon>. Never use www.etsy.com links (Arturo, 2026-11-20).
 
 ## Records
 - `catalog/designs.json`: {design_key: {pokemon, listing_id, image, verdict (approved/rejected/needs_check),
