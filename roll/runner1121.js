@@ -94,7 +94,7 @@
   async function endDrag(h) { if (!dragging(h)) return; const a = h.doc.activeElement || h.doc.body; h.kd(a, 'Escape', 'Escape'); await until(() => !dragging(h), 2500, 100); await sleep(300); }
   async function step(h, id, dir) {
     await endDrag(h);
-    const e = h.doc.getElementById(id); e.focus(); await sleep(300);
+    const e = h.doc.getElementById(id); try { e.scrollIntoView({ block: 'center', inline: 'center' }); } catch (x) {} await sleep(350); e.focus({ preventScroll: true }); await sleep(250);
     h.kd(e, ' ', 'Space');
     if (!await until(() => dragging(h), 2000, 100)) return false;
     await sleep(250);
@@ -112,7 +112,7 @@
       const ids = h.ids(); const j = ids.indexOf(String(id));
       if (j < 0) throw new Error('move: missing ' + id);
       if (j === target) return;
-      if (++tries > (Math.abs(j - target) + 4) * 3) throw new Error('move stuck ' + id + ' at ' + j + ' want ' + target);
+      if (++tries > (Math.abs(j - target) + 4) * 4) throw new Error('move stuck ' + id + ' at ' + j + ' want ' + target);
       still = (j === lastJ) ? still + 1 : 0; lastJ = j;
       let dir = j > target ? 'ArrowLeft' : 'ArrowRight';
       if (still >= 2) { dir = j > target ? 'ArrowUp' : 'ArrowDown'; still = 0; }
