@@ -1,74 +1,32 @@
 {
  "candidates": [
   {
-   "key": "486-regigigas-1",
-   "name": "486_Regigigas_1",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_1.jpg"
+   "key": "378-regice-1",
+   "name": "378_Regice_1",
+   "pokemon": "Regice",
+   "dex": 378,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_1.jpg"
   },
   {
-   "key": "486-regigigas-2",
-   "name": "486_Regigigas_2",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_2.jpg"
+   "key": "378-regice-2",
+   "name": "378_Regice_2",
+   "pokemon": "Regice",
+   "dex": 378,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_2.jpg"
   },
   {
-   "key": "486-regigigas-3",
-   "name": "486_Regigigas_3",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_3.jpg"
+   "key": "378-regice-3",
+   "name": "378_Regice_3",
+   "pokemon": "Regice",
+   "dex": 378,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_3.jpg"
   },
   {
-   "key": "486-regigigas-4",
-   "name": "486_Regigigas_4",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_4.jpg"
-  },
-  {
-   "key": "486-regigigas-5",
-   "name": "486_Regigigas_5",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_5.jpg"
-  },
-  {
-   "key": "486-regigigas-6",
-   "name": "486_Regigigas_6",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_6.jpg"
-  },
-  {
-   "key": "486-regigigas-7",
-   "name": "486_Regigigas_7",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_7.jpg"
-  },
-  {
-   "key": "486-regigigas-8",
-   "name": "486_Regigigas_8",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_8.jpg"
-  },
-  {
-   "key": "486-regigigas-9",
-   "name": "486_Regigigas_9",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_9.jpg"
-  },
-  {
-   "key": "486-regigigas-shiny-1",
-   "name": "486_Regigigas_Shiny_1",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_Shiny_1.jpg"
+   "key": "378-regice-4",
+   "name": "378_Regice_4",
+   "pokemon": "Regice",
+   "dex": 378,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_4.jpg"
   }
  ]
 }
