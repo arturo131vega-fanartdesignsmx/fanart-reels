@@ -5501,5 +5501,277 @@
   "reason": "Artwork not official",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "487-giratina-4": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4605351343,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 112
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2b-096), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-2": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4605351343,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 6
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (attacks from TCG Pocket Giratina ex, Dual Fusion)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-1": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina",
+  "listing_id": 4605351343,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 171
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-167), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-shiny-1": {
+  "pokemon": "Giratina",
+  "card_name": "Shiny Giratina EX",
+  "listing_id": 4605351343,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 103
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2b-096) in shiny colors, not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-5": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4605351343,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 98
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2b-083), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-3": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4605351343,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (attacks from TCG Pocket Giratina ex, Dual Fusion)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-7": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina",
+  "listing_id": 4543730964,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 131
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-078), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-11": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4543730964,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_11.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (attacks from TCG Pocket Giratina ex)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-6": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina",
+  "listing_id": 4543730964,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 139,
+   "pocket_max": 214
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-061), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "487-giratina-8": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina VSTAR",
+  "listing_id": 4543716849,
+  "design_label": "Design 1 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 28,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Giratina VSTAR S12a-261",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "487-giratina-9": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina EX",
+  "listing_id": 4543716849,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 139,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical alt art Giratina V S11-111 / swsh11-186",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "487-giratina-10": {
+  "pokemon": "Giratina",
+  "card_name": "Giratina VSTAR",
+  "listing_id": 4543716849,
+  "design_label": "Design 3 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 56,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical Giratina VSTAR S12a-111 / swsh11-131",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "894-regieleki-2": {
+  "pokemon": "Regieleki",
+  "card_name": "Regieleki EX",
+  "listing_id": 4543716779,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "894-regieleki-1": {
+  "pokemon": "Regieleki",
+  "card_name": "Regieleki",
+  "listing_id": 4543716779,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 171,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the S12a-045 / swsh10-051 illustration; this card doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "894-regieleki-4": {
+  "pokemon": "Regieleki",
+  "card_name": "Regieleki EX",
+  "listing_id": 4543716779,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 2,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "894-regieleki-3": {
+  "pokemon": "Regieleki",
+  "card_name": "Regieleki",
+  "listing_id": 4543716779,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
  }
 }
