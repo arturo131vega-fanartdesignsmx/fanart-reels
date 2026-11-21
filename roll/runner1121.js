@@ -92,18 +92,22 @@
 
   const dragging = h => !!h.doc.querySelector('[aria-roledescription=sortable][aria-pressed=true]');
   async function endDrag(h) { if (!dragging(h)) return; const a = h.doc.activeElement || h.doc.body; h.kd(a, 'Escape', 'Escape'); await until(() => !dragging(h), 2500, 100); await sleep(300); }
+  const liveTxt = h => { const r = h.doc.querySelector('[id^=DndLiveRegion]'); return r ? r.textContent.trim() : ''; };
   async function step(h, id, dir) {
     await endDrag(h);
-    const e = h.doc.getElementById(id); try { e.scrollIntoView({ block: 'center', inline: 'center' }); } catch (x) {} await sleep(350); e.focus({ preventScroll: true }); await sleep(250);
+    const e = h.doc.getElementById(id); e.focus({ preventScroll: true }); await sleep(300);
     h.kd(e, ' ', 'Space');
     if (!await until(() => dragging(h), 2000, 100)) return false;
-    await sleep(250);
-    h.kd(h.doc.activeElement || e, dir, dir); await sleep(500);
+    await sleep(300);
+    for (let n = 0; n < 6; n++) {
+      h.kd(h.doc.activeElement || e, dir, dir); await sleep(450);
+      const m = liveTxt(h).match(/moved over droppable area (\d+)/);
+      if (m && m[1] !== id) break;
+    }
     h.kd(h.doc.activeElement || e, ' ', 'Space');
     await until(() => !dragging(h), 2500, 100);
     await endDrag(h);
-    await until(() => h.ids().length === new Set(h.ids()).size, 3000, 100);
-    await sleep(350);
+    await sleep(400);
     return true;
   }
   async function moveTo(h, id, target) {
