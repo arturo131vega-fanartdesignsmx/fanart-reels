@@ -1,197 +1,77 @@
 {
- "486-regigigas-1": {
-  "name": "486_Regigigas_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-086",
-   "lang": "en",
-   "name": "Regigigas",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-2": {
-  "name": "486_Regigigas_2",
+ "378-regice-1": {
+  "name": "378_Regice_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2-179",
+   "id": "A2-034",
    "lang": "en",
-   "name": "Regigigas",
+   "name": "Regice",
    "pocket": true,
-   "inliers": 277,
-   "set": "Space-Time Smackdown",
-   "illustrator": "Tetsu Kayama",
-   "hp": 140,
-   "attacks": [
-    "Raging Hammer"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-3": {
-  "name": "486_Regigigas_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-233",
-   "lang": "ja",
-   "name": "レジギガスVSTAR",
-   "pocket": false,
-   "inliers": 71,
-   "set": "VSTARユニバース",
-   "illustrator": "Aya Kusube",
-   "hp": 300,
-   "attacks": [
-    "ギガインパクト"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-4": {
-  "name": "486_Regigigas_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xyp-XY82",
-   "lang": "en",
-   "name": "Regigigas",
-   "pocket": false,
-   "inliers": 115,
-   "set": "XY Black Star Promos",
-   "illustrator": "Shin Nagasawa",
-   "hp": 130,
-   "attacks": [
-    "Gigas Punch"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-5": {
-  "name": "486_Regigigas_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-125",
-   "lang": "ja",
-   "name": "レジギガスVSTAR",
-   "pocket": false,
-   "inliers": 91,
-   "set": "VSTARユニバース",
-   "illustrator": "PLANETA Mochizuki",
-   "hp": 300,
-   "attacks": [
-    "ギガインパクト"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-6": {
-  "name": "486_Regigigas_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-086",
-   "lang": "en",
-   "name": "Regigigas",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-7": {
-  "name": "486_Regigigas_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-123",
-   "lang": "ja",
-   "name": "レジギガス",
-   "pocket": false,
-   "inliers": 126,
-   "set": "VSTARユニバース",
-   "illustrator": "Yuya Oka",
-   "hp": 150,
-   "attacks": [
-    "ギガントブレイク"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-8": {
-  "name": "486_Regigigas_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp7-9",
-   "lang": "en",
-   "name": "Regigigas",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 22,
-   "ja": 7
-  }
- },
- "486-regigigas-9": {
-  "name": "486_Regigigas_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-143",
-   "lang": "en",
-   "name": "Regigigas",
-   "pocket": true,
-   "inliers": 185,
+   "inliers": 205,
    "set": "Space-Time Smackdown",
    "illustrator": "Tomokazu Komiya",
-   "hp": 140,
+   "hp": 110,
    "attacks": [
-    "Raging Hammer"
+    "Frost Smash"
    ]
   },
-  "official_cards_checked": 25,
+  "official_cards_checked": 14,
   "lookup": {
-   "en": 22,
+   "en": 12,
    "ja": 7
   }
  },
- "486-regigigas-shiny-1": {
-  "name": "486_Regigigas_Shiny_1",
+ "378-regice-2": {
+  "name": "378_Regice_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm7-45",
+   "lang": "en",
+   "name": "Regice",
+   "pocket": false,
+   "inliers": 65,
+   "set": "Celestial Storm",
+   "illustrator": "kodama",
+   "hp": 120,
+   "attacks": [
+    "Icy Wind"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 12,
+   "ja": 7
+  }
+ },
+ "378-regice-3": {
+  "name": "378_Regice_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "pl3-9",
+   "id": "dp6-36",
    "lang": "en",
-   "name": "Regigigas FB",
+   "name": "Regice",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 25,
+  "official_cards_checked": 14,
   "lookup": {
-   "en": 22,
+   "en": 12,
+   "ja": 7
+  }
+ },
+ "378-regice-4": {
+  "name": "378_Regice_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ex13-27",
+   "lang": "en",
+   "name": "Regice",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 12,
    "ja": 7
   }
  }

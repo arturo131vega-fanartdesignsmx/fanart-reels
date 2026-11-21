@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "378-regice-3",
+  "name": "378_Regice_3",
+  "pokemon": "Regice",
+  "dex": 378,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_3.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 12,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "dp6-36",
+   "lang": "en",
+   "name": "Regice",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S12a-025",
+   "lang": "ja",
+   "name": "レジアイス",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy7-24",
+   "lang": "en",
+   "name": "Regice",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "ex13-27",
+   "lang": "en",
+   "name": "Regice",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}
