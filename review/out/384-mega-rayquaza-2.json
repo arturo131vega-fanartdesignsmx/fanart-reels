@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "384-mega-rayquaza-2",
+  "name": "384_Mega_Rayquaza_2",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_2.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH029",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xyp-XY141",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl3-8",
+   "lang": "en",
+   "name": "Rayquaza C",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-063",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

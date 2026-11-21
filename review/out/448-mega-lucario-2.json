@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-2",
+  "name": "448_Mega_Lucario_2",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_2.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "me01-160",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 75,
+   "set": "Mega Evolution",
+   "illustrator": "takuyoa",
+   "hp": 340,
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "xy10-63",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "dp1-6",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm10-203",
+   "lang": "en",
+   "name": "Lucario & Melmetal GX",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

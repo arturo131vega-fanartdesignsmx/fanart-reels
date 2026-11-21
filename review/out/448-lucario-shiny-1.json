@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-lucario-shiny-1",
+  "name": "448_Lucario_Shiny_1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_Shiny_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "swsh10-078",
+   "lang": "en",
+   "name": "Lucario V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp1-6",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl2-8",
+   "lang": "en",
+   "name": "Lucario GL",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy3-113",
+   "lang": "en",
+   "name": "M Lucario EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

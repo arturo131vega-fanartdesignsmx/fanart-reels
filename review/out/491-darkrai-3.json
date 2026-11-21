@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "491-darkrai-3",
+  "name": "491_Darkrai_3",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_3.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "me06-063",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh11-120",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dpp-DP52",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

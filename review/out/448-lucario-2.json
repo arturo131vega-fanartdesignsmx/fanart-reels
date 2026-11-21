@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-lucario-2",
+  "name": "448_Lucario_2",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_2.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "S12a-226",
+   "lang": "ja",
+   "name": "ルカリオVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl3-31",
+   "lang": "en",
+   "name": "Lucario C",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S9-055",
+   "lang": "ja",
+   "name": "ルカリオ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh8-146",
+   "lang": "en",
+   "name": "Lucario V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

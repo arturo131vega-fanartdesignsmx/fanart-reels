@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-1",
+  "name": "250_Ho-Oh_1",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_1.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "30th-012",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh12-140",
+   "lang": "en",
+   "name": "Ho-Oh V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh12-187",
+   "lang": "en",
+   "name": "Ho-Oh V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-019",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

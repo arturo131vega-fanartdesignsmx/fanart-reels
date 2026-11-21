@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-5",
+  "name": "448_Mega_Lucario_5",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_5.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "me01-179",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 149,
+   "set": "Mega Evolution",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 340,
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  {
+   "id": "sm5-67",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S12a-077",
+   "lang": "ja",
+   "name": "ルカリオ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy10-47",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

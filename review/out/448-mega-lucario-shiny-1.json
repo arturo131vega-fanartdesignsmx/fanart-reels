@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-shiny-1",
+  "name": "448_Mega_Lucario_Shiny_1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Shiny_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "ru1-12",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm3-71",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "pl3-31",
+   "lang": "en",
+   "name": "Lucario C",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh4-120",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

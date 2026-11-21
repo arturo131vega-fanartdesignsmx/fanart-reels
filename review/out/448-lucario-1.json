@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "448-lucario-1",
+  "name": "448_Lucario_1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "A2-170",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": true,
+   "inliers": 150,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Akira Komayama",
+   "hp": 100,
+   "attacks": [
+    "Submarine Blow"
+   ]
+  },
+  {
+   "id": "pl3-31",
+   "lang": "en",
+   "name": "Lucario C",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "me01-179",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss2-19",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

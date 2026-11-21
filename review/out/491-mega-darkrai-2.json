@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "491-mega-darkrai-2",
+  "name": "491_Mega_Darkrai_2",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_2.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "dp4-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "bwp-BW46",
+   "lang": "en",
+   "name": "Darkrai-EX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "P-A-042",
+   "lang": "en",
+   "name": "Darkrai ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "swsh11-120",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

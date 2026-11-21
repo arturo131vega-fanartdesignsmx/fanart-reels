@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "384-rayquaza-2",
+  "name": "384_Rayquaza_2",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_2.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH029",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 251,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "so-taro",
+   "hp": 130,
+   "attacks": [
+    "Jaw Lock",
+    "Power Blast"
+   ]
+  },
+  {
+   "id": "pop1-3",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "P-A-065",
+   "lang": "en",
+   "name": "Rayquaza ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "swsh4-138",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

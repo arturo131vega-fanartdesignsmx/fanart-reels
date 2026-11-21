@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "384-mega-rayquaza-7",
+  "name": "384_Mega_Rayquaza_7",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_7.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "swsh12.5-100",
+   "lang": "en",
+   "name": "Rayquaza V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh12.5-102",
+   "lang": "en",
+   "name": "Rayquaza VMAX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh7-110",
+   "lang": "en",
+   "name": "Rayquaza V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw11-93",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

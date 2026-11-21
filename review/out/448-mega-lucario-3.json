@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-3",
+  "name": "448_Mega_Lucario_3",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_3.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "hgss2-19",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "dp1-6",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl2-8",
+   "lang": "en",
+   "name": "Lucario GL",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "svp-017",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

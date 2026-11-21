@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "491-darkrai-1",
+  "name": "491_Darkrai_1",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_1.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "swsh3-105",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 126,
+   "set": "Darkness Ablaze",
+   "illustrator": "nagimiso",
+   "hp": 120,
+   "attacks": [
+    "Vortex of Darkness"
+   ]
+  },
+  {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp4-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp5-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

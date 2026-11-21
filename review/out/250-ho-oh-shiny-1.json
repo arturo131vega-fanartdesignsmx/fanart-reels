@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-shiny-1",
+  "name": "250_Ho-Oh_Shiny_1",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_1.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "A4-210",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 73,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "SIE NANAHARA",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  {
+   "id": "sv08-019",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "basep-52",
+   "lang": "en",
+   "name": "Ho-oh",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh12-140",
+   "lang": "en",
+   "name": "Ho-Oh V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

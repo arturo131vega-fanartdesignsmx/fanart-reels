@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-z-4",
+  "name": "448_Mega_Lucario_Z_4",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_4.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "smp-SM54",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 25,
+   "set": "SM Black Star Promos",
+   "illustrator": "Anesaki Dynamic",
+   "hp": 120,
+   "attacks": [
+    "Submarine Blow"
+   ]
+  },
+  {
+   "id": "sma-SV22",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 22,
+   "set": "Hidden Fates Shiny Vault",
+   "illustrator": "Kouki Saitou",
+   "hp": 110,
+   "attacks": [
+    "Missile Jab"
+   ]
+  },
+  {
+   "id": "sm5-67",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 21,
+   "set": "Ultra Prism",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 110,
+   "attacks": [
+    "Missile Jab"
+   ]
+  },
+  {
+   "id": "sm3-71",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 21,
+   "set": "Burning Shadows",
+   "illustrator": "nagimiso",
+   "hp": 120,
+   "attacks": [
+    "Submarine Blow"
+   ]
+  }
+ ]
+}

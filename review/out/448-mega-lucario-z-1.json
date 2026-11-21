@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-z-1",
+  "name": "448_Mega_Lucario_Z_1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "me01-188",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "S9-055",
+   "lang": "ja",
+   "name": "ルカリオ",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "bw4-64",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm6-135",
+   "lang": "en",
+   "name": "Lucario GX",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

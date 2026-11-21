@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "384-mega-rayquaza-6",
+  "name": "384_Mega_Rayquaza_6",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_6.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "dp6-14",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-61",
+   "lang": "en",
+   "name": "M Rayquaza EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw6-85",
+   "lang": "en",
+   "name": "Rayquaza-EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "hgss3-90",
+   "lang": "en",
+   "name": "Rayquaza & Deoxys LEGEND",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

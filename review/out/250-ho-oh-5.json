@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-5",
+  "name": "250_Ho-Oh_5",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_5.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "A4-210",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 105,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "SIE NANAHARA",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  {
+   "id": "smp-SM70",
+   "lang": "en",
+   "name": "Shining Ho-Oh",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "me02.5-026",
+   "lang": "en",
+   "name": "Ethan's Ho-Oh ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10-039",
+   "lang": "en",
+   "name": "Ethan's Ho-Oh ex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

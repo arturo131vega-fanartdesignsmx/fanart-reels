@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "448-lucario-3",
+  "name": "448_Lucario_3",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_3.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "A2b-084",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": true,
+   "inliers": 206,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Aura Sphere"
+   ]
+  },
+  {
+   "id": "A2b-110",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": true,
+   "inliers": 10
+  },
+  {
+   "id": "xy10-63",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "me01-160",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

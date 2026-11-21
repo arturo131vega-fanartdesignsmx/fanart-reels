@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-mega-lucario-7",
+  "name": "448_Mega_Lucario_7",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_7.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "A2b-043",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "S12a-226",
+   "lang": "ja",
+   "name": "ルカリオVSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "col1-14",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy10-47",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

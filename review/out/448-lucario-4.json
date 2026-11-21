@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "448-lucario-4",
+  "name": "448_Lucario_4",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_4.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "sv01-114",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dpp-DP12",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH291",
+   "lang": "en",
+   "name": "Lucario VSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop8-2",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

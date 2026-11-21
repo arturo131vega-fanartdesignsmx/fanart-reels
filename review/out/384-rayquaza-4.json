@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "384-rayquaza-4",
+  "name": "384_Rayquaza_4",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_4.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "pop1-3",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-60",
+   "lang": "en",
+   "name": "Rayquaza EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-76",
+   "lang": "en",
+   "name": "M Rayquaza EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy7-98",
+   "lang": "en",
+   "name": "M Rayquaza EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

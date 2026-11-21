@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "384-mega-rayquaza-shiny-2",
+  "name": "384_Mega_Rayquaza_Shiny_2",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_Shiny_2.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "me06-138",
+   "lang": "en",
+   "name": "Mega Rayquaza ex",
+   "pocket": false,
+   "inliers": 64,
+   "set": "Delta Reign",
+   "illustrator": "Kazuki Minami",
+   "hp": 280,
+   "attacks": [
+    "Storm Emerald"
+   ]
+  },
+  {
+   "id": "np-39",
+   "lang": "en",
+   "name": "Rayquaza ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh7-193",
+   "lang": "en",
+   "name": "Rayquaza V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl3-8",
+   "lang": "en",
+   "name": "Rayquaza C",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

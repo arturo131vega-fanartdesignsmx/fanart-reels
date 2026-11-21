@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "491-mega-darkrai-4",
+  "name": "491_Mega_Darkrai_4",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_4.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp4-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp5-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp4-4",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

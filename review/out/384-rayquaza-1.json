@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "384-rayquaza-1",
+  "name": "384_Rayquaza_1",
+  "pokemon": "Rayquaza",
+  "dex": 384,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_1.jpg"
+ },
+ "official_cards_checked": 64,
+ "lookup": {
+  "en": 68,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "me02.5-153",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 284,
+   "set": "Ascended Heroes",
+   "illustrator": "nagimiso",
+   "hp": 120,
+   "attacks": [
+    "Breakthrough Assault",
+    "Dragon Claw"
+   ]
+  },
+  {
+   "id": "swsh12.5-100",
+   "lang": "en",
+   "name": "Rayquaza V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh4-138",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xyp-XY64",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

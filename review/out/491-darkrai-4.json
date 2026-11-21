@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "491-darkrai-4",
+  "name": "491_Darkrai_4",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_4.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "hgss4-100",
+   "lang": "en",
+   "name": "Darkrai & Cresselia LEGEND",
+   "pocket": false,
+   "inliers": 10
+  },
+  {
+   "id": "B1-154",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sm5-77",
+   "lang": "en",
+   "name": "Darkrai ◇",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv03-136",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-2",
+  "name": "250_Ho-Oh_2",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_2.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me04-010",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 170,
+   "set": "Chaos Rising",
+   "illustrator": "Takumi Wada",
+   "hp": 130,
+   "attacks": [
+    "Flames of Revival",
+    "Bright Wing"
+   ]
+  },
+  {
+   "id": "pop5-1",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "30th-012",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1-032",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

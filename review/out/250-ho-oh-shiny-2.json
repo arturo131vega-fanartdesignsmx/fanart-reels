@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-shiny-2",
+  "name": "250_Ho-Oh_Shiny_2",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_2.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "cel25-1",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "30th-012",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "basep-52",
+   "lang": "en",
+   "name": "Ho-oh",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh12-187",
+   "lang": "en",
+   "name": "Ho-Oh V",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

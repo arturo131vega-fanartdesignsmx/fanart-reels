@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-4",
+  "name": "250_Ho-Oh_4",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_4.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "A4-187",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 93,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  {
+   "id": "A4-240",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 20,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  {
+   "id": "dp3-10",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy9-92",
+   "lang": "en",
+   "name": "Ho-Oh EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

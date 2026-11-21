@@ -1,78 +1,1025 @@
 {
- "378-regice-1": {
-  "name": "378_Regice_1",
-  "verdict": "ART_MATCH",
+ "384-mega-rayquaza-1": {
+  "name": "384_Mega_Rayquaza_1",
+  "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A2-034",
+   "id": "P-A-065",
    "lang": "en",
-   "name": "Regice",
+   "name": "Rayquaza ex",
    "pocket": true,
-   "inliers": 205,
-   "set": "Space-Time Smackdown",
-   "illustrator": "Tomokazu Komiya",
-   "hp": 110,
-   "attacks": [
-    "Frost Smash"
-   ]
+   "inliers": 7
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 64,
   "lookup": {
-   "en": 12,
-   "ja": 7
+   "en": 68,
+   "ja": 21
   }
  },
- "378-regice-2": {
-  "name": "378_Regice_2",
+ "384-mega-rayquaza-2": {
+  "name": "384_Mega_Rayquaza_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swshp-SWSH029",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-3": {
+  "name": "384_Mega_Rayquaza_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "col1-20",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-4": {
+  "name": "384_Mega_Rayquaza_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm2-106",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-5": {
+  "name": "384_Mega_Rayquaza_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "P-A-065",
+   "lang": "en",
+   "name": "Rayquaza ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-6": {
+  "name": "384_Mega_Rayquaza_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp6-14",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-7": {
+  "name": "384_Mega_Rayquaza_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh12.5-100",
+   "lang": "en",
+   "name": "Rayquaza V",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-8": {
+  "name": "384_Mega_Rayquaza_8",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sm7-45",
+   "id": "me06-138",
    "lang": "en",
-   "name": "Regice",
+   "name": "Mega Rayquaza ex",
    "pocket": false,
-   "inliers": 65,
-   "set": "Celestial Storm",
-   "illustrator": "kodama",
+   "inliers": 68,
+   "set": "Delta Reign",
+   "illustrator": "Kazuki Minami",
+   "hp": 280,
+   "attacks": [
+    "Storm Emerald"
+   ]
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-9": {
+  "name": "384_Mega_Rayquaza_9",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl3-8",
+   "lang": "en",
+   "name": "Rayquaza C",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-shiny-1": {
+  "name": "384_Mega_Rayquaza_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss3-89",
+   "lang": "en",
+   "name": "Rayquaza & Deoxys LEGEND",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-mega-rayquaza-shiny-2": {
+  "name": "384_Mega_Rayquaza_Shiny_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me06-138",
+   "lang": "en",
+   "name": "Mega Rayquaza ex",
+   "pocket": false,
+   "inliers": 64,
+   "set": "Delta Reign",
+   "illustrator": "Kazuki Minami",
+   "hp": 280,
+   "attacks": [
+    "Storm Emerald"
+   ]
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-rayquaza-1": {
+  "name": "384_Rayquaza_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me02.5-153",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 284,
+   "set": "Ascended Heroes",
+   "illustrator": "nagimiso",
    "hp": 120,
    "attacks": [
-    "Icy Wind"
+    "Breakthrough Assault",
+    "Dragon Claw"
    ]
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 64,
   "lookup": {
-   "en": 12,
-   "ja": 7
+   "en": 68,
+   "ja": 21
   }
  },
- "378-regice-3": {
-  "name": "378_Regice_3",
+ "384-rayquaza-2": {
+  "name": "384_Rayquaza_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swshp-SWSH029",
+   "lang": "en",
+   "name": "Rayquaza",
+   "pocket": false,
+   "inliers": 251,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "so-taro",
+   "hp": 130,
+   "attacks": [
+    "Jaw Lock",
+    "Power Blast"
+   ]
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-rayquaza-3": {
+  "name": "384_Rayquaza_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "P-A-065",
+   "lang": "en",
+   "name": "Rayquaza ex",
+   "pocket": true,
+   "inliers": 99,
+   "set": "Promos-A",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Draco Meteor"
+   ]
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "384-rayquaza-4": {
+  "name": "384_Rayquaza_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "dp6-36",
+   "id": "pop1-3",
    "lang": "en",
-   "name": "Regice",
+   "name": "Rayquaza",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 64,
   "lookup": {
-   "en": 12,
-   "ja": 7
+   "en": 68,
+   "ja": 21
   }
  },
- "378-regice-4": {
-  "name": "378_Regice_4",
+ "384-rayquaza-vmax-1": {
+  "name": "384_Rayquaza_VMAX_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "ex13-27",
+   "id": "swsh7-218",
    "lang": "en",
-   "name": "Regice",
+   "name": "Rayquaza VMAX",
+   "pocket": false,
+   "inliers": 11
+  },
+  "official_cards_checked": 64,
+  "lookup": {
+   "en": 68,
+   "ja": 21
+  }
+ },
+ "448-lucario-1": {
+  "name": "448_Lucario_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-170",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": true,
+   "inliers": 150,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Akira Komayama",
+   "hp": 100,
+   "attacks": [
+    "Submarine Blow"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-2": {
+  "name": "448_Lucario_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S12a-226",
+   "lang": "ja",
+   "name": "ルカリオVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-3": {
+  "name": "448_Lucario_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2b-084",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": true,
+   "inliers": 206,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Aura Sphere"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-4": {
+  "name": "448_Lucario_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv01-114",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-5": {
+  "name": "448_Lucario_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swshp-SWSH186",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-shiny-1": {
+  "name": "448_Lucario_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh10-078",
+   "lang": "en",
+   "name": "Lucario V",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-lucario-vstar-1": {
+  "name": "448_Lucario_VSTAR_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swshp-SWSH291",
+   "lang": "en",
+   "name": "Lucario VSTAR",
+   "pocket": false,
+   "inliers": 59,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 270,
+   "attacks": [
+    "Fighting Knuckle",
+    "Aura Star"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-1": {
+  "name": "448_Mega_Lucario_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "svp-017",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-2": {
+  "name": "448_Mega_Lucario_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me01-160",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 75,
+   "set": "Mega Evolution",
+   "illustrator": "takuyoa",
+   "hp": 340,
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-3": {
+  "name": "448_Mega_Lucario_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss2-19",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-4": {
+  "name": "448_Mega_Lucario_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm3-71",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-5": {
+  "name": "448_Mega_Lucario_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me01-179",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 149,
+   "set": "Mega Evolution",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 340,
+   "attacks": [
+    "Aura Jab",
+    "Mega Brave"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-6": {
+  "name": "448_Mega_Lucario_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pop8-2",
+   "lang": "en",
+   "name": "Lucario",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 70,
   "lookup": {
-   "en": 12,
-   "ja": 7
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-7": {
+  "name": "448_Mega_Lucario_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A2b-043",
+   "lang": "en",
+   "name": "Lucario ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-shiny-1": {
+  "name": "448_Mega_Lucario_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ru1-12",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-z-1": {
+  "name": "448_Mega_Lucario_Z_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me01-188",
+   "lang": "en",
+   "name": "Mega Lucario ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-z-2": {
+  "name": "448_Mega_Lucario_Z_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sma-SV22",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 31,
+   "set": "Hidden Fates Shiny Vault",
+   "illustrator": "Kouki Saitou",
+   "hp": 110,
+   "attacks": [
+    "Missile Jab"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-z-3": {
+  "name": "448_Mega_Lucario_Z_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sma-SV22",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Hidden Fates Shiny Vault",
+   "illustrator": "Kouki Saitou",
+   "hp": 110,
+   "attacks": [
+    "Missile Jab"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-z-4": {
+  "name": "448_Mega_Lucario_Z_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "smp-SM54",
+   "lang": "en",
+   "name": "Lucario",
+   "pocket": false,
+   "inliers": 25,
+   "set": "SM Black Star Promos",
+   "illustrator": "Anesaki Dynamic",
+   "hp": 120,
+   "attacks": [
+    "Submarine Blow"
+   ]
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "448-mega-lucario-z-shiny-1": {
+  "name": "448_Mega_Lucario_Z_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-8",
+   "lang": "en",
+   "name": "Lucario GL",
+   "pocket": false,
+   "inliers": 9
+  },
+  "official_cards_checked": 70,
+  "lookup": {
+   "en": 71,
+   "ja": 32
+  }
+ },
+ "491-darkrai-1": {
+  "name": "491_Darkrai_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh3-105",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 126,
+   "set": "Darkness Ablaze",
+   "illustrator": "nagimiso",
+   "hp": 120,
+   "attacks": [
+    "Vortex of Darkness"
+   ]
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-2": {
+  "name": "491_Darkrai_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp5-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-3": {
+  "name": "491_Darkrai_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-4": {
+  "name": "491_Darkrai_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "hgss4-100",
+   "lang": "en",
+   "name": "Darkrai & Cresselia LEGEND",
+   "pocket": false,
+   "inliers": 10
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-5": {
+  "name": "491_Darkrai_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp5-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-mega-darkrai-1": {
+  "name": "491_Mega_Darkrai_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-mega-darkrai-2": {
+  "name": "491_Mega_Darkrai_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp4-3",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-mega-darkrai-3": {
+  "name": "491_Mega_Darkrai_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me05-116",
+   "lang": "en",
+   "name": "Mega Darkrai ex",
+   "pocket": false,
+   "inliers": 110,
+   "set": "Pitch Black",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 280,
+   "attacks": [
+    "Dusk Raid",
+    "Abyss Eye"
+   ]
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-mega-darkrai-4": {
+  "name": "491_Mega_Darkrai_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "250-ho-oh-1": {
+  "name": "250_Ho-Oh_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "30th-012",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-2": {
+  "name": "250_Ho-Oh_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me04-010",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 170,
+   "set": "Chaos Rising",
+   "illustrator": "Takumi Wada",
+   "hp": 130,
+   "attacks": [
+    "Flames of Revival",
+    "Bright Wing"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-3": {
+  "name": "250_Ho-Oh_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "basep-52",
+   "lang": "en",
+   "name": "Ho-oh",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-4": {
+  "name": "250_Ho-Oh_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A4-187",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 93,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "PLANETA CG Works",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-5": {
+  "name": "250_Ho-Oh_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A4-210",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 105,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "SIE NANAHARA",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-6": {
+  "name": "250_Ho-Oh_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A4-210",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 7
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-7": {
+  "name": "250_Ho-Oh_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10-230",
+   "lang": "en",
+   "name": "Ethan's Ho-Oh ex",
+   "pocket": false,
+   "inliers": 64,
+   "set": "Destined Rivals",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 230,
+   "attacks": [
+    "Shining Feathers"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-8": {
+  "name": "250_Ho-Oh_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV9a-086",
+   "lang": "ja",
+   "name": "ヒビキのホウオウex",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-9": {
+  "name": "250_Ho-Oh_9",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pop3-17",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-shiny-1": {
+  "name": "250_Ho-Oh_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A4-210",
+   "lang": "en",
+   "name": "Ho-Oh ex",
+   "pocket": true,
+   "inliers": 73,
+   "set": "Wisdom of Sea and Sky",
+   "illustrator": "SIE NANAHARA",
+   "hp": 150,
+   "attacks": [
+    "Phoenix Turbo"
+   ]
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
+  }
+ },
+ "250-ho-oh-shiny-2": {
+  "name": "250_Ho-Oh_Shiny_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "cel25-1",
+   "lang": "en",
+   "name": "Ho-Oh",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 50,
+  "lookup": {
+   "en": 43,
+   "ja": 17
   }
  }
 }

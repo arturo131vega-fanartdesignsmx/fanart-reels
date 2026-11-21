@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "250-ho-oh-3",
+  "name": "250_Ho-Oh_3",
+  "pokemon": "Ho-Oh",
+  "dex": 250,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_3.jpg"
+ },
+ "official_cards_checked": 50,
+ "lookup": {
+  "en": 43,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "basep-52",
+   "lang": "en",
+   "name": "Ho-oh",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10-239",
+   "lang": "en",
+   "name": "Ethan's Ho-Oh ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV9a-086",
+   "lang": "ja",
+   "name": "ヒビキのホウオウex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV9a-090",
+   "lang": "ja",
+   "name": "ヒビキのホウオウex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

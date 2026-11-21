@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "448-lucario-vstar-1",
+  "name": "448_Lucario_VSTAR_1",
+  "pokemon": "Lucario",
+  "dex": 448,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_VSTAR_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 71,
+  "ja": 32
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH291",
+   "lang": "en",
+   "name": "Lucario VSTAR",
+   "pocket": false,
+   "inliers": 59,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 270,
+   "attacks": [
+    "Fighting Knuckle",
+    "Aura Star"
+   ]
+  },
+  {
+   "id": "swshp-SWSH214",
+   "lang": "en",
+   "name": "Lucario VSTAR",
+   "pocket": false,
+   "inliers": 51,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 270,
+   "attacks": [
+    "Fighting Knuckle",
+    "Aura Star"
+   ]
+  },
+  {
+   "id": "S12a-226",
+   "lang": "ja",
+   "name": "ルカリオVSTAR",
+   "pocket": false,
+   "inliers": 39,
+   "set": "VSTARユニバース",
+   "illustrator": "hncl",
+   "hp": 270,
+   "attacks": [
+    "ファイティングナックル",
+    "はどうスター"
+   ]
+  },
+  {
+   "id": "swsh10-078",
+   "lang": "en",
+   "name": "Lucario V",
+   "pocket": false,
+   "inliers": 26,
+   "set": "Astral Radiance",
+   "illustrator": "takuyoa",
+   "hp": 210,
+   "attacks": [
+    "Crushing Punch",
+    "Cyclone Kick"
+   ]
+  }
+ ]
+}
