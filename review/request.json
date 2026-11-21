@@ -1,396 +1,88 @@
 {
  "candidates": [
   {
-   "key": "384-mega-rayquaza-1",
-   "name": "384_Mega_Rayquaza_1",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_1.jpg"
+   "key": "377-regirock-1",
+   "name": "377_Regirock_1",
+   "pokemon": "Regirock",
+   "dex": 377,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_1.jpg"
   },
   {
-   "key": "384-mega-rayquaza-2",
-   "name": "384_Mega_Rayquaza_2",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_2.jpg"
+   "key": "377-regirock-2",
+   "name": "377_Regirock_2",
+   "pokemon": "Regirock",
+   "dex": 377,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_2.jpg"
   },
   {
-   "key": "384-mega-rayquaza-3",
-   "name": "384_Mega_Rayquaza_3",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_3.jpg"
+   "key": "377-regirock-3",
+   "name": "377_Regirock_3",
+   "pokemon": "Regirock",
+   "dex": 377,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_3.jpg"
   },
   {
-   "key": "384-mega-rayquaza-4",
-   "name": "384_Mega_Rayquaza_4",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_4.jpg"
+   "key": "377-regirock-4",
+   "name": "377_Regirock_4",
+   "pokemon": "Regirock",
+   "dex": 377,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_4.jpg"
   },
   {
-   "key": "384-mega-rayquaza-5",
-   "name": "384_Mega_Rayquaza_5",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_5.jpg"
+   "key": "379-registeel-1",
+   "name": "379_Registeel_1",
+   "pokemon": "Registeel",
+   "dex": 379,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_1.jpg"
   },
   {
-   "key": "384-mega-rayquaza-6",
-   "name": "384_Mega_Rayquaza_6",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_6.jpg"
+   "key": "379-registeel-2",
+   "name": "379_Registeel_2",
+   "pokemon": "Registeel",
+   "dex": 379,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_2.jpg"
   },
   {
-   "key": "384-mega-rayquaza-7",
-   "name": "384_Mega_Rayquaza_7",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_7.jpg"
+   "key": "379-registeel-3",
+   "name": "379_Registeel_3",
+   "pokemon": "Registeel",
+   "dex": 379,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_3.jpg"
   },
   {
-   "key": "384-mega-rayquaza-8",
-   "name": "384_Mega_Rayquaza_8",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_8.jpg"
+   "key": "379-registeel-4",
+   "name": "379_Registeel_4",
+   "pokemon": "Registeel",
+   "dex": 379,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_4.jpg"
   },
   {
-   "key": "384-mega-rayquaza-9",
-   "name": "384_Mega_Rayquaza_9",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_9.jpg"
+   "key": "895-regidrago-1",
+   "name": "895_Regidrago_1",
+   "pokemon": "Regidrago",
+   "dex": 895,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_1.jpg"
   },
   {
-   "key": "384-mega-rayquaza-shiny-1",
-   "name": "384_Mega_Rayquaza_Shiny_1",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_Shiny_1.jpg"
+   "key": "895-regidrago-2",
+   "name": "895_Regidrago_2",
+   "pokemon": "Regidrago",
+   "dex": 895,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_2.jpg"
   },
   {
-   "key": "384-mega-rayquaza-shiny-2",
-   "name": "384_Mega_Rayquaza_Shiny_2",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Mega_Rayquaza_Shiny_2.jpg"
+   "key": "895-regidrago-3",
+   "name": "895_Regidrago_3",
+   "pokemon": "Regidrago",
+   "dex": 895,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_3.jpg"
   },
   {
-   "key": "384-rayquaza-1",
-   "name": "384_Rayquaza_1",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_1.jpg"
-  },
-  {
-   "key": "384-rayquaza-2",
-   "name": "384_Rayquaza_2",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_2.jpg"
-  },
-  {
-   "key": "384-rayquaza-3",
-   "name": "384_Rayquaza_3",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_3.jpg"
-  },
-  {
-   "key": "384-rayquaza-4",
-   "name": "384_Rayquaza_4",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_4.jpg"
-  },
-  {
-   "key": "384-rayquaza-vmax-1",
-   "name": "384_Rayquaza_VMAX_1",
-   "pokemon": "Rayquaza",
-   "dex": 384,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/384_Rayquaza_VMAX_1.jpg"
-  },
-  {
-   "key": "448-lucario-1",
-   "name": "448_Lucario_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_1.jpg"
-  },
-  {
-   "key": "448-lucario-2",
-   "name": "448_Lucario_2",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_2.jpg"
-  },
-  {
-   "key": "448-lucario-3",
-   "name": "448_Lucario_3",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_3.jpg"
-  },
-  {
-   "key": "448-lucario-4",
-   "name": "448_Lucario_4",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_4.jpg"
-  },
-  {
-   "key": "448-lucario-5",
-   "name": "448_Lucario_5",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_5.jpg"
-  },
-  {
-   "key": "448-lucario-shiny-1",
-   "name": "448_Lucario_Shiny_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_Shiny_1.jpg"
-  },
-  {
-   "key": "448-lucario-vstar-1",
-   "name": "448_Lucario_VSTAR_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Lucario_VSTAR_1.jpg"
-  },
-  {
-   "key": "448-mega-lucario-1",
-   "name": "448_Mega_Lucario_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_1.jpg"
-  },
-  {
-   "key": "448-mega-lucario-2",
-   "name": "448_Mega_Lucario_2",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_2.jpg"
-  },
-  {
-   "key": "448-mega-lucario-3",
-   "name": "448_Mega_Lucario_3",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_3.jpg"
-  },
-  {
-   "key": "448-mega-lucario-4",
-   "name": "448_Mega_Lucario_4",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_4.jpg"
-  },
-  {
-   "key": "448-mega-lucario-5",
-   "name": "448_Mega_Lucario_5",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_5.jpg"
-  },
-  {
-   "key": "448-mega-lucario-6",
-   "name": "448_Mega_Lucario_6",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_6.jpg"
-  },
-  {
-   "key": "448-mega-lucario-7",
-   "name": "448_Mega_Lucario_7",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_7.jpg"
-  },
-  {
-   "key": "448-mega-lucario-shiny-1",
-   "name": "448_Mega_Lucario_Shiny_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Shiny_1.jpg"
-  },
-  {
-   "key": "448-mega-lucario-z-1",
-   "name": "448_Mega_Lucario_Z_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_1.jpg"
-  },
-  {
-   "key": "448-mega-lucario-z-2",
-   "name": "448_Mega_Lucario_Z_2",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_2.jpg"
-  },
-  {
-   "key": "448-mega-lucario-z-3",
-   "name": "448_Mega_Lucario_Z_3",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_3.jpg"
-  },
-  {
-   "key": "448-mega-lucario-z-4",
-   "name": "448_Mega_Lucario_Z_4",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_4.jpg"
-  },
-  {
-   "key": "448-mega-lucario-z-shiny-1",
-   "name": "448_Mega_Lucario_Z_Shiny_1",
-   "pokemon": "Lucario",
-   "dex": 448,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/448_Mega_Lucario_Z_Shiny_1.jpg"
-  },
-  {
-   "key": "491-darkrai-1",
-   "name": "491_Darkrai_1",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_1.jpg"
-  },
-  {
-   "key": "491-darkrai-2",
-   "name": "491_Darkrai_2",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_2.jpg"
-  },
-  {
-   "key": "491-darkrai-3",
-   "name": "491_Darkrai_3",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_3.jpg"
-  },
-  {
-   "key": "491-darkrai-4",
-   "name": "491_Darkrai_4",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_4.jpg"
-  },
-  {
-   "key": "491-darkrai-5",
-   "name": "491_Darkrai_5",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_5.jpg"
-  },
-  {
-   "key": "491-mega-darkrai-1",
-   "name": "491_Mega_Darkrai_1",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_1.jpg"
-  },
-  {
-   "key": "491-mega-darkrai-2",
-   "name": "491_Mega_Darkrai_2",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_2.jpg"
-  },
-  {
-   "key": "491-mega-darkrai-3",
-   "name": "491_Mega_Darkrai_3",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_3.jpg"
-  },
-  {
-   "key": "491-mega-darkrai-4",
-   "name": "491_Mega_Darkrai_4",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Mega_Darkrai_4.jpg"
-  },
-  {
-   "key": "250-ho-oh-1",
-   "name": "250_Ho-Oh_1",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_1.jpg"
-  },
-  {
-   "key": "250-ho-oh-2",
-   "name": "250_Ho-Oh_2",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_2.jpg"
-  },
-  {
-   "key": "250-ho-oh-3",
-   "name": "250_Ho-Oh_3",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_3.jpg"
-  },
-  {
-   "key": "250-ho-oh-4",
-   "name": "250_Ho-Oh_4",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_4.jpg"
-  },
-  {
-   "key": "250-ho-oh-5",
-   "name": "250_Ho-Oh_5",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_5.jpg"
-  },
-  {
-   "key": "250-ho-oh-6",
-   "name": "250_Ho-Oh_6",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_6.jpg"
-  },
-  {
-   "key": "250-ho-oh-7",
-   "name": "250_Ho-Oh_7",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_7.jpg"
-  },
-  {
-   "key": "250-ho-oh-8",
-   "name": "250_Ho-Oh_8",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_8.jpg"
-  },
-  {
-   "key": "250-ho-oh-9",
-   "name": "250_Ho-Oh_9",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_9.jpg"
-  },
-  {
-   "key": "250-ho-oh-shiny-1",
-   "name": "250_Ho-Oh_Shiny_1",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_1.jpg"
-  },
-  {
-   "key": "250-ho-oh-shiny-2",
-   "name": "250_Ho-Oh_Shiny_2",
-   "pokemon": "Ho-Oh",
-   "dex": 250,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/250_Ho-Oh_Shiny_2.jpg"
+   "key": "895-regidrago-4",
+   "name": "895_Regidrago_4",
+   "pokemon": "Regidrago",
+   "dex": 895,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_4.jpg"
   }
  ]
 }
