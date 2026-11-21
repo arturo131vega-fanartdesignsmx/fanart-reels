@@ -4293,5 +4293,73 @@
   "reason": "Same artwork and crop as the physical Regigigas VSTAR S12a-125 / swsh12.5-114",
   "pocket": false,
   "added": "2026-11-20"
+ },
+ "378-regice-3": {
+  "pokemon": "Regice",
+  "card_name": "Regice EX",
+  "listing_id": 4543717521,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "378-regice-1": {
+  "pokemon": "Regice",
+  "card_name": "Regice",
+  "listing_id": 4543717521,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 205
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-034), not a physical card",
+  "pocket": true,
+  "added": "2026-11-20"
+ },
+ "378-regice-4": {
+  "pokemon": "Regice",
+  "card_name": "Regice EX",
+  "listing_id": 4543717521,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-20"
+ },
+ "378-regice-2": {
+  "pokemon": "Regice",
+  "card_name": "Regice",
+  "listing_id": 4543717521,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 65,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the sm7-45 illustration; this card doesn't exist physically",
+  "pocket": false,
+  "added": "2026-11-20"
  }
 }
