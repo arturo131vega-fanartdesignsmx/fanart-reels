@@ -1,88 +1,11 @@
 {
  "candidates": [
   {
-   "key": "377-regirock-1",
-   "name": "377_Regirock_1",
-   "pokemon": "Regirock",
-   "dex": 377,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_1.jpg"
-  },
-  {
-   "key": "377-regirock-2",
-   "name": "377_Regirock_2",
-   "pokemon": "Regirock",
-   "dex": 377,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_2.jpg"
-  },
-  {
-   "key": "377-regirock-3",
-   "name": "377_Regirock_3",
-   "pokemon": "Regirock",
-   "dex": 377,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_3.jpg"
-  },
-  {
-   "key": "377-regirock-4",
-   "name": "377_Regirock_4",
-   "pokemon": "Regirock",
-   "dex": 377,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_4.jpg"
-  },
-  {
-   "key": "379-registeel-1",
-   "name": "379_Registeel_1",
-   "pokemon": "Registeel",
-   "dex": 379,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_1.jpg"
-  },
-  {
-   "key": "379-registeel-2",
-   "name": "379_Registeel_2",
-   "pokemon": "Registeel",
-   "dex": 379,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_2.jpg"
-  },
-  {
-   "key": "379-registeel-3",
-   "name": "379_Registeel_3",
-   "pokemon": "Registeel",
-   "dex": 379,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_3.jpg"
-  },
-  {
-   "key": "379-registeel-4",
-   "name": "379_Registeel_4",
-   "pokemon": "Registeel",
-   "dex": 379,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_4.jpg"
-  },
-  {
-   "key": "895-regidrago-1",
-   "name": "895_Regidrago_1",
-   "pokemon": "Regidrago",
-   "dex": 895,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_1.jpg"
-  },
-  {
-   "key": "895-regidrago-2",
-   "name": "895_Regidrago_2",
-   "pokemon": "Regidrago",
-   "dex": 895,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_2.jpg"
-  },
-  {
-   "key": "895-regidrago-3",
-   "name": "895_Regidrago_3",
-   "pokemon": "Regidrago",
-   "dex": 895,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_3.jpg"
-  },
-  {
-   "key": "895-regidrago-4",
-   "name": "895_Regidrago_4",
-   "pokemon": "Regidrago",
-   "dex": 895,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_4.jpg"
+   "key": "486-regigigas-tag-team-1",
+   "name": "486_Regigigas_Tag_Team_1",
+   "pokemon": "Regigigas",
+   "dex": 486,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_Tag_Team_1.jpg"
   }
  ]
 }
