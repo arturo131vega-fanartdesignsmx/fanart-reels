@@ -1187,10 +1187,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Rayquaza EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18087781418331562",
+   "permalink": "https://www.instagram.com/p/DgA00JBDZ_D/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120404083449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120404083449530"
+  },
+  "done": "2026-11-21T18:01:11.148053+00:00"
  },
  "2026-11-21-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r2.jpg",
+  "render": {
+   "duration": 16.066666666666666,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 128,
+    "root": 61,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.16,
+    "text": "Lights out..."
+   },
+   {
+    "t0": 1.16,
+    "t1": 1.69,
+    "text": "Mega Darkrai"
+   },
+   {
+    "t0": 1.69,
+    "t1": 3.417,
+    "text": "just slipped into your dreams."
+   },
+   {
+    "t0": 3.736,
+    "t1": 5.796,
+    "text": "Every card's crafted by hand,"
+   },
+   {
+    "t0": 5.796,
+    "t1": 7.346,
+    "text": "holo from corner to corner,"
+   },
+   {
+    "t0": 7.346,
+    "t1": 8.743,
+    "text": "and real card size."
+   },
+   {
+    "t0": 9.003,
+    "t1": 10.413,
+    "text": "Take home two or more"
+   },
+   {
+    "t0": 10.413,
+    "t1": 11.913,
+    "text": "and get 25% off"
+   },
+   {
+    "t0": 11.913,
+    "t1": 13.355,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.655,
+    "t1": 15.045,
+    "text": "Find it all through my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-21T18:03:06.924994+00:00",
+  "render_seconds": 116
  },
  "2026-11-21-c2": {
   "attempts": 0
