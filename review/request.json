@@ -1,11 +1,116 @@
 {
  "candidates": [
   {
-   "key": "486-regigigas-tag-team-1",
-   "name": "486_Regigigas_Tag_Team_1",
-   "pokemon": "Regigigas",
-   "dex": 486,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/486_Regigigas_Tag_Team_1.jpg"
+   "key": "487-giratina-1",
+   "name": "487_Giratina_1",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_1.jpg"
+  },
+  {
+   "key": "487-giratina-2",
+   "name": "487_Giratina_2",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_2.jpg"
+  },
+  {
+   "key": "487-giratina-3",
+   "name": "487_Giratina_3",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_3.jpg"
+  },
+  {
+   "key": "487-giratina-4",
+   "name": "487_Giratina_4",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_4.jpg"
+  },
+  {
+   "key": "487-giratina-5",
+   "name": "487_Giratina_5",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_5.jpg"
+  },
+  {
+   "key": "487-giratina-6",
+   "name": "487_Giratina_6",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_6.jpg"
+  },
+  {
+   "key": "487-giratina-7",
+   "name": "487_Giratina_7",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_7.jpg"
+  },
+  {
+   "key": "487-giratina-8",
+   "name": "487_Giratina_8",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_8.jpg"
+  },
+  {
+   "key": "487-giratina-9",
+   "name": "487_Giratina_9",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_9.jpg"
+  },
+  {
+   "key": "487-giratina-10",
+   "name": "487_Giratina_10",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_10.jpg"
+  },
+  {
+   "key": "487-giratina-11",
+   "name": "487_Giratina_11",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_11.jpg"
+  },
+  {
+   "key": "487-giratina-shiny-1",
+   "name": "487_Giratina_Shiny_1",
+   "pokemon": "Giratina",
+   "dex": 487,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_Shiny_1.jpg"
+  },
+  {
+   "key": "894-regieleki-1",
+   "name": "894_Regieleki_1",
+   "pokemon": "Regieleki",
+   "dex": 894,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_1.jpg"
+  },
+  {
+   "key": "894-regieleki-2",
+   "name": "894_Regieleki_2",
+   "pokemon": "Regieleki",
+   "dex": 894,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_2.jpg"
+  },
+  {
+   "key": "894-regieleki-3",
+   "name": "894_Regieleki_3",
+   "pokemon": "Regieleki",
+   "dex": 894,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_3.jpg"
+  },
+  {
+   "key": "894-regieleki-4",
+   "name": "894_Regieleki_4",
+   "pokemon": "Regieleki",
+   "dex": 894,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_4.jpg"
   }
  ]
 }
