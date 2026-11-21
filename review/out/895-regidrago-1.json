@@ -1,0 +1,62 @@
+{
+ "candidate": {
+  "key": "895-regidrago-1",
+  "name": "895_Regidrago_1",
+  "pokemon": "Regidrago",
+  "dex": 895,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_1.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S10P-051",
+   "lang": "ja",
+   "name": "レジドラゴ",
+   "pocket": false,
+   "inliers": 139,
+   "set": "スペースジャグラー",
+   "illustrator": "DOM",
+   "hp": 130,
+   "attacks": [
+    "きょだいなキバ"
+   ]
+  },
+  {
+   "id": "swsh10-118",
+   "lang": "en",
+   "name": "Regidrago",
+   "pocket": false,
+   "inliers": 125,
+   "set": "Astral Radiance",
+   "illustrator": "DOM",
+   "hp": 130,
+   "attacks": [
+    "Giant Fangs"
+   ]
+  },
+  {
+   "id": "S12a-116",
+   "lang": "ja",
+   "name": "レジドラゴ",
+   "pocket": false,
+   "inliers": 98,
+   "set": "VSTARユニバース",
+   "illustrator": "DOM",
+   "hp": 130,
+   "attacks": [
+    "きょだいなキバ"
+   ]
+  },
+  {
+   "id": "swsh7-124",
+   "lang": "en",
+   "name": "Regidrago",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

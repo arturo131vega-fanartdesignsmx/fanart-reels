@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "895-regidrago-4",
+  "name": "895_Regidrago_4",
+  "pokemon": "Regidrago",
+  "dex": 895,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_4.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12-077",
+   "lang": "ja",
+   "name": "レジドラゴVSTAR",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S12-108",
+   "lang": "ja",
+   "name": "レジドラゴV",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "S12-117",
+   "lang": "ja",
+   "name": "レジドラゴVSTAR",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "swsh10-118",
+   "lang": "en",
+   "name": "Regidrago",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

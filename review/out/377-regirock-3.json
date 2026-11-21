@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "377-regirock-3",
+  "name": "377_Regirock_3",
+  "pokemon": "Regirock",
+  "dex": 377,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_3.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 20,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "SV9-049",
+   "lang": "ja",
+   "name": "レジロック",
+   "pocket": false,
+   "inliers": 212,
+   "set": "バトルパートナーズ",
+   "illustrator": "Uta",
+   "hp": 130,
+   "attacks": [
+    "バスターラリアット"
+   ]
+  },
+  {
+   "id": "sv09-082",
+   "lang": "en",
+   "name": "Regirock",
+   "pocket": false,
+   "inliers": 159,
+   "set": "Journey Together",
+   "illustrator": "Uta",
+   "hp": 130,
+   "attacks": [
+    "Breaching Lariat"
+   ]
+  },
+  {
+   "id": "xy7-40",
+   "lang": "en",
+   "name": "Regirock",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "me02.5-107",
+   "lang": "en",
+   "name": "Regirock ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

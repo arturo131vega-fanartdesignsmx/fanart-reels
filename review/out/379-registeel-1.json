@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "379-registeel-1",
+  "name": "379_Registeel_1",
+  "pokemon": "Registeel",
+  "dex": 379,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_1.jpg"
+ },
+ "official_cards_checked": 17,
+ "lookup": {
+  "en": 15,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "A2-112",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": true,
+   "inliers": 144,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Tomokazu Komiya",
+   "hp": 110,
+   "attacks": [
+    "Metal Claw"
+   ]
+  },
+  {
+   "id": "me02.5-145",
+   "lang": "en",
+   "name": "Registeel ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm4-68",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv08-125",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

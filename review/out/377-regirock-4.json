@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "377-regirock-4",
+  "name": "377_Regirock_4",
+  "pokemon": "Regirock",
+  "dex": 377,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/377_Regirock_4.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 20,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh10-075",
+   "lang": "en",
+   "name": "Regirock",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "sm4-53",
+   "lang": "en",
+   "name": "Regirock",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex13-28",
+   "lang": "en",
+   "name": "Regirock",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex12-91",
+   "lang": "en",
+   "name": "Regirock ☆",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

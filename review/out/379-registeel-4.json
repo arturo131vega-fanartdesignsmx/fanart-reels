@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "379-registeel-4",
+  "name": "379_Registeel_4",
+  "pokemon": "Registeel",
+  "dex": 379,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_4.jpg"
+ },
+ "official_cards_checked": 17,
+ "lookup": {
+  "en": 15,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sm4-68",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy7-51",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "ex13-29",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "sm7-96",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

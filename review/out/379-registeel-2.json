@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "379-registeel-2",
+  "name": "379_Registeel_2",
+  "pokemon": "Registeel",
+  "dex": 379,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/379_Registeel_2.jpg"
+ },
+ "official_cards_checked": 17,
+ "lookup": {
+  "en": 15,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "SVLS-008",
+   "lang": "ja",
+   "name": "レジスチル",
+   "pocket": false,
+   "inliers": 221,
+   "set": "スターターセット テラスタイプ：ステラ ソウブレイズex",
+   "illustrator": "Shiburingaru",
+   "hp": 130,
+   "attacks": [
+    "レイジングハンマー"
+   ]
+  },
+  {
+   "id": "sv08-125",
+   "lang": "en",
+   "name": "Registeel",
+   "pocket": false,
+   "inliers": 196,
+   "set": "Surging Sparks",
+   "illustrator": "Shiburingaru",
+   "hp": 130,
+   "attacks": [
+    "Raging Hammer"
+   ]
+  },
+  {
+   "id": "S12a-097",
+   "lang": "ja",
+   "name": "レジスチル",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex5-99",
+   "lang": "en",
+   "name": "Registeel ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "895-regidrago-2",
+  "name": "895_Regidrago_2",
+  "pokemon": "Regidrago",
+  "dex": 895,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_2.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12-108",
+   "lang": "ja",
+   "name": "レジドラゴV",
+   "pocket": false,
+   "inliers": 50,
+   "set": "パラダイムトリガー",
+   "illustrator": "Hataya",
+   "hp": 220,
+   "attacks": [
+    "てんのさけび",
+    "ドラゴンレーザー"
+   ]
+  },
+  {
+   "id": "swsh12-184",
+   "lang": "en",
+   "name": "Regidrago V",
+   "pocket": false,
+   "inliers": 46,
+   "set": "Silver Tempest",
+   "illustrator": "Hataya",
+   "hp": 220,
+   "attacks": [
+    "Celestial Roar",
+    "Dragon Laser"
+   ]
+  },
+  {
+   "id": "swsh10-118",
+   "lang": "en",
+   "name": "Regidrago",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh7-124",
+   "lang": "en",
+   "name": "Regidrago",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

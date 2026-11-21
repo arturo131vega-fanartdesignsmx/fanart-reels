@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "895-regidrago-3",
+  "name": "895_Regidrago_3",
+  "pokemon": "Regidrago",
+  "dex": 895,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/895_Regidrago_3.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH281",
+   "lang": "en",
+   "name": "Regidrago V",
+   "pocket": false,
+   "inliers": 29,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 220,
+   "attacks": [
+    "Celestial Roar",
+    "Dragon Laser"
+   ]
+  },
+  {
+   "id": "swsh12-136",
+   "lang": "en",
+   "name": "Regidrago VSTAR",
+   "pocket": false,
+   "inliers": 28,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 280,
+   "attacks": [
+    "Apex Dragon"
+   ]
+  },
+  {
+   "id": "swsh12-201",
+   "lang": "en",
+   "name": "Regidrago VSTAR",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 280,
+   "attacks": [
+    "Apex Dragon"
+   ]
+  },
+  {
+   "id": "S12a-116",
+   "lang": "ja",
+   "name": "レジドラゴ",
+   "pocket": false,
+   "inliers": 15,
+   "set": "VSTARユニバース",
+   "illustrator": "DOM",
+   "hp": 130,
+   "attacks": [
+    "きょだいなキバ"
+   ]
+  }
+ ]
+}
