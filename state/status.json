@@ -1078,5 +1078,98 @@
    "permalink": "https://www.facebook.com/reel/1661104319144255/"
   },
   "done": "2026-11-21T02:31:21.380984+00:00"
+ },
+ "2026-11-21-r1": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r1.jpg",
+  "render": {
+   "duration": 16.666666666666668,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 110,
+    "root": 61,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.7,
+    "text": "Shiny Mega Lucario"
+   },
+   {
+    "t0": 1.7,
+    "t1": 3.53,
+    "text": "swaps the blue for gold..."
+   },
+   {
+    "t0": 3.53,
+    "t1": 4.537,
+    "text": "and it hits different."
+   },
+   {
+    "t0": 4.837,
+    "t1": 6.127,
+    "text": "Each one's handmade,"
+   },
+   {
+    "t0": 6.127,
+    "t1": 7.057,
+    "text": "shimmering holo,"
+   },
+   {
+    "t0": 7.057,
+    "t1": 8.943,
+    "text": "and true to real card size."
+   },
+   {
+    "t0": 9.203,
+    "t1": 10.303,
+    "text": "Stack two or more"
+   },
+   {
+    "t0": 10.303,
+    "t1": 12.133,
+    "text": "and 25% drops off"
+   },
+   {
+    "t0": 12.133,
+    "t1": 13.632,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.932,
+    "t1": 15.663,
+    "text": "The link's waiting in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-21T11:33:48.984164+00:00",
+  "render_seconds": 95
+ },
+ "2026-11-21-c1": {
+  "attempts": 0
+ },
+ "2026-11-21-r2": {
+  "attempts": 0
+ },
+ "2026-11-21-c2": {
+  "attempts": 0
+ },
+ "2026-11-21-r3": {
+  "attempts": 0
  }
 }
