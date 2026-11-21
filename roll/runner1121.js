@@ -9,7 +9,9 @@
     MIX: 'https://res.cloudinary.com/rntnboij/image/upload/v1795293025/info_mix_and_match_v2.jpg',
   };
   const VIDLINE = '📹 Videos: Holographic finish, then Triangle, Stars and Dots Holo.';
-  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  // timers via a Worker: not throttled when the pane is in the background
+  const TW = (() => { try { const w = new Worker(URL.createObjectURL(new Blob(['onmessage=e=>setTimeout(()=>postMessage(e.data),e.data.ms)'], { type: 'text/javascript' }))); const cb = {}; let n = 0; w.onmessage = e => { const f = cb[e.data.id]; delete cb[e.data.id]; f && f(); }; return ms => new Promise(r => { const id = ++n; cb[id] = r; w.postMessage({ id, ms }); }); } catch (e) { return ms => new Promise(r => setTimeout(r, ms)); } })();
+  const sleep = async ms => { await TW(ms); if (window.__RR && window.__RR.abort) throw new Error('aborted (timeout)'); };
   const until = async (fn, ms = 10000, step = 150) => { const t = Date.now(); while (Date.now() - t < ms) { let v; try { v = fn(); } catch (e) { v = null; } if (v) return v; await sleep(step); } return null; };
   const st = () => { try { return JSON.parse(localStorage.getItem(LS) || '{}'); } catch (e) { return {}; } };
   const save = s => { try { localStorage.setItem(LS, JSON.stringify(s)); } catch (e) {} };
@@ -32,7 +34,7 @@
     const setSel = (el, v) => { Object.getOwnPropertyDescriptor(w.HTMLSelectElement.prototype, 'value').set.call(el, v); el.dispatchEvent(new w.Event('change', { bubbles: true })); };
     const kd = (el, key, code) => el.dispatchEvent(new w.KeyboardEvent('keydown', { key, code, bubbles: true, cancelable: true }));
     const grid = () => [...doc.querySelectorAll('[aria-roledescription=sortable]')].map(e => ({ id: e.id, v: !!e.querySelector('video') || !!e.querySelector('[data-testid=video-delete-button]') }));
-    const ids = () => grid().map(g => g.id);
+    const ids = () => { const seen = new Set(); return grid().map(g => g.id).filter(x => !seen.has(x) && seen.add(x)); };
     const dlgPhoto = () => [...doc.querySelectorAll('[role=dialog]')].find(x => x.getBoundingClientRect().height > 50 && /Photo and video/.test(x.innerText));
     const btnIn = (root, txt) => root && [...root.querySelectorAll('button')].find(b => b.innerText.trim() === txt);
     return { doc, setVal, setSel, kd, grid, ids, dlgPhoto, btnIn };
@@ -88,6 +90,22 @@
     return nid;
   }
 
+  const dragging = h => !!h.doc.querySelector('[aria-roledescription=sortable][aria-pressed=true]');
+  async function endDrag(h) { if (!dragging(h)) return; const a = h.doc.activeElement || h.doc.body; h.kd(a, 'Escape', 'Escape'); await until(() => !dragging(h), 2500, 100); await sleep(300); }
+  async function step(h, id, dir) {
+    await endDrag(h);
+    const e = h.doc.getElementById(id); e.focus(); await sleep(300);
+    h.kd(e, ' ', 'Space');
+    if (!await until(() => dragging(h), 2000, 100)) return false;
+    await sleep(250);
+    h.kd(h.doc.activeElement || e, dir, dir); await sleep(500);
+    h.kd(h.doc.activeElement || e, ' ', 'Space');
+    await until(() => !dragging(h), 2500, 100);
+    await endDrag(h);
+    await until(() => h.ids().length === new Set(h.ids()).size, 3000, 100);
+    await sleep(350);
+    return true;
+  }
   async function moveTo(h, id, target) {
     let tries = 0, lastJ = -1, still = 0;
     while (true) {
@@ -98,11 +116,7 @@
       still = (j === lastJ) ? still + 1 : 0; lastJ = j;
       let dir = j > target ? 'ArrowLeft' : 'ArrowRight';
       if (still >= 2) { dir = j > target ? 'ArrowUp' : 'ArrowDown'; still = 0; }
-      const e = h.doc.getElementById(String(id)); e.focus(); await sleep(350);
-      h.kd(e, ' ', 'Space'); await sleep(400);
-      h.kd(h.doc.activeElement || e, dir, dir); await sleep(400);
-      h.kd(h.doc.activeElement || e, ' ', 'Space'); await sleep(750);
-      await until(() => h.ids().length === ids.length, 3000);
+      await step(h, String(id), dir);
     }
   }
 
@@ -204,7 +218,7 @@
         if (opts.limit && n >= opts.limit) break;
         n++;
         let res;
-        try { res = await processOne(q); }
+        try { R.abort = false; const wd = setTimeout(() => { R.abort = true; }, 8 * 60 * 1000); try { res = await processOne(q); } finally { clearTimeout(wd); R.abort = false; } }
         catch (e) { res = { st: 'fallo', err: String(e && e.message || e).slice(0, 300) }; document.getElementById('__rr_frame').innerHTML = ''; await sleep(3000); }
         res.t = new Date().toISOString(); res.i = i + 1;
         s.res[q.id] = res; save(s);
