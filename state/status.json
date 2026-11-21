@@ -978,9 +978,96 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "Fanart Designs MX logo: Want to see more designs and get your own? Follow me and visit my Etsy shop"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18133183198882902",
+   "permalink": "https://www.instagram.com/p/Df-5ONElh-k/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120301051449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120301051449530"
+  },
+  "done": "2026-11-21T00:01:15.471863+00:00"
  },
  "2026-11-20-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-20_2026-11-20-r3.jpg",
+  "render": {
+   "duration": 14.133333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 117,
+    "root": 56,
+    "minor": true
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 0.59,
+    "text": "You won't pull"
+   },
+   {
+    "t0": 0.59,
+    "t1": 1.81,
+    "text": "this Mega Garchomp"
+   },
+   {
+    "t0": 1.81,
+    "t1": 2.995,
+    "text": "from any booster pack."
+   },
+   {
+    "t0": 3.295,
+    "t1": 4.075,
+    "text": "Handmade,"
+   },
+   {
+    "t0": 4.075,
+    "t1": 5.285,
+    "text": "holo edge to edge,"
+   },
+   {
+    "t0": 5.285,
+    "t1": 6.848,
+    "text": "and sized like the real thing."
+   },
+   {
+    "t0": 7.108,
+    "t1": 8.408,
+    "text": "Snag any two cards"
+   },
+   {
+    "t0": 8.408,
+    "t1": 9.958,
+    "text": "for 25% off"
+   },
+   {
+    "t0": 9.958,
+    "t1": 11.46,
+    "text": "with the code 25OFF"
+   },
+   {
+    "t0": 11.76,
+    "t1": 13.103,
+    "text": "Head to the link in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-21T00:02:57.855117+00:00",
+  "render_seconds": 102
  }
 }
