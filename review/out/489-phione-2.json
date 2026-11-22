@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "489-phione-2",
+  "name": "489_Phione_2",
+  "pokemon": "Phione",
+  "dex": 489,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332904/489_Phione_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "swsh12-045",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 217,
+   "set": "Silver Tempest",
+   "illustrator": "Jiro Sasumo",
+   "hp": 70,
+   "attacks": [
+    "Sea Feast",
+    "Wave Splash"
+   ]
+  },
+  {
+   "id": "S10a-011",
+   "lang": "ja",
+   "name": "フィオネ",
+   "pocket": false,
+   "inliers": 119,
+   "set": "ダークファンタズマ",
+   "illustrator": "Jiro Sasumo",
+   "hp": 70,
+   "attacks": [
+    "うみのうたげ",
+    "スプラッシュ"
+   ]
+  },
+  {
+   "id": "dp5-27",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "bw11-36",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

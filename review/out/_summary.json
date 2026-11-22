@@ -1,298 +1,175 @@
 {
- "488-cresselia-1": {
-  "name": "488_Cresselia_1",
+ "489-phione-1": {
+  "name": "489_Phione_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2-168",
+   "id": "sv06-175",
    "lang": "en",
-   "name": "Cresselia",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 67,
+   "set": "Twilight Masquerade",
+   "illustrator": "takashi shiraishi",
+   "hp": 70,
+   "attacks": [
+    "Beckon",
+    "Energy Press"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 4
+  }
+ },
+ "489-phione-2": {
+  "name": "489_Phione_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh12-045",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 217,
+   "set": "Silver Tempest",
+   "illustrator": "Jiro Sasumo",
+   "hp": 70,
+   "attacks": [
+    "Sea Feast",
+    "Wave Splash"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 4
+  }
+ },
+ "490-manaphy-1": {
+  "name": "490_Manaphy_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-162",
+   "lang": "en",
+   "name": "Manaphy",
    "pocket": true,
-   "inliers": 83,
+   "inliers": 179,
    "set": "Space-Time Smackdown",
-   "illustrator": "rika",
-   "hp": 110,
+   "illustrator": "miki kudo",
+   "hp": 50,
    "attacks": [
-    "Moonlight Gain"
+    "Oceanic Gift"
    ]
   },
-  "official_cards_checked": 24,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 24,
-   "ja": 10
+   "en": 22,
+   "ja": 7
   }
  },
- "488-cresselia-2": {
-  "name": "488_Cresselia_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv06.5-021",
-   "lang": "en",
-   "name": "Cresselia",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 10
-  }
- },
- "488-cresselia-3": {
-  "name": "488_Cresselia_3",
+ "490-manaphy-2": {
+  "name": "490_Manaphy_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "SV6a-071",
+   "id": "S12a-178",
    "lang": "ja",
-   "name": "クレセリア",
+   "name": "マナフィ",
    "pocket": false,
-   "inliers": 39,
-   "set": "ナイトワンダラー",
-   "illustrator": "satoma",
-   "hp": 120,
+   "inliers": 70,
+   "set": "VSTARユニバース",
+   "illustrator": "Taira Akitsu",
+   "hp": 70,
    "attacks": [
-    "いやしのまい",
-    "クレセントパージ"
+    "みずかけ"
    ]
   },
-  "official_cards_checked": 24,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 24,
-   "ja": 10
+   "en": 22,
+   "ja": 7
   }
  },
- "488-cresselia-4": {
-  "name": "488_Cresselia_4",
+ "490-manaphy-3": {
+  "name": "490_Manaphy_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me02-039",
+   "id": "xyp-XY113",
    "lang": "en",
-   "name": "Cresselia",
+   "name": "Manaphy",
    "pocket": false,
-   "inliers": 182,
-   "set": "Phantasmal Flames",
-   "illustrator": "Raita Kazama",
-   "hp": 120,
+   "inliers": 63,
+   "set": "XY Black Star Promos",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
    "attacks": [
-    "Swelling Light",
-    "Aurora Beam"
+    "Marine Guidance",
+    "Aqua Ring"
    ]
   },
-  "official_cards_checked": 24,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 24,
-   "ja": 10
+   "en": 22,
+   "ja": 7
   }
  },
- "488-cresselia-5": {
-  "name": "488_Cresselia_5",
+ "490-manaphy-4": {
+  "name": "490_Manaphy_4",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh6-64",
+   "id": "swsh9-041",
    "lang": "en",
-   "name": "Cresselia",
+   "name": "Manaphy",
    "pocket": false,
    "inliers": 108,
-   "set": "Chilling Reign",
-   "illustrator": "Tika Matsuno",
-   "hp": 120,
+   "set": "Brilliant Stars",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
    "attacks": [
-    "Crescent Glow",
-    "Photon Laser"
+    "Rain Splash"
    ]
   },
-  "official_cards_checked": 24,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 24,
-   "ja": 10
+   "en": 22,
+   "ja": 7
   }
  },
- "488-cresselia-6": {
-  "name": "488_Cresselia_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh6-64",
-   "lang": "en",
-   "name": "Cresselia",
-   "pocket": false,
-   "inliers": 49,
-   "set": "Chilling Reign",
-   "illustrator": "Tika Matsuno",
-   "hp": 120,
-   "attacks": [
-    "Crescent Glow",
-    "Photon Laser"
-   ]
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 10
-  }
- },
- "488-cresselia-7": {
-  "name": "488_Cresselia_7",
+ "490-manaphy-5": {
+  "name": "490_Manaphy_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A2-168",
-   "lang": "en",
-   "name": "Cresselia",
-   "pocket": true,
+   "id": "S12a-178",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 24,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 24,
-   "ja": 10
+   "en": 22,
+   "ja": 7
   }
  },
- "488-cresselia-8": {
-  "name": "488_Cresselia_8",
+ "490-manaphy-shiny-1": {
+  "name": "490_Manaphy_Shiny_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv06.5-021",
-   "lang": "en",
-   "name": "Cresselia",
-   "pocket": false,
-   "inliers": 41,
-   "set": "Shrouded Fable",
-   "illustrator": "matazo",
-   "hp": 120,
-   "attacks": [
-    "Healing Pirouette",
-    "Crescent Purge"
-   ]
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 10
-  }
- },
- "491-darkrai-2": {
-  "name": "491_Darkrai_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-228",
+   "id": "SVK-003",
    "lang": "ja",
-   "name": "ダークライVSTAR",
+   "name": "マナフィ",
    "pocket": false,
-   "inliers": 98,
-   "set": "VSTARユニバース",
-   "illustrator": "Pani Kobayashi",
-   "hp": 270,
+   "inliers": 67,
+   "set": "デッキビルドBOX ステラミラクル",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
    "attacks": [
-    "あくのはどう"
+    "みずかけ"
    ]
   },
-  "official_cards_checked": 48,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 50,
-   "ja": 23
-  }
- },
- "491-darkrai-3": {
-  "name": "491_Darkrai_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-202",
-   "lang": "en",
-   "name": "Darkrai ex",
-   "pocket": true,
-   "inliers": 53,
-   "set": "Space-Time Smackdown",
-   "illustrator": "Oswaldo KATO",
-   "hp": 140,
-   "attacks": [
-    "Dark Prism"
-   ]
-  },
-  "official_cards_checked": 48,
-  "lookup": {
-   "en": 50,
-   "ja": 23
-  }
- },
- "491-darkrai-6": {
-  "name": "491_Darkrai_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-187",
-   "lang": "en",
-   "name": "Darkrai ex",
-   "pocket": true,
-   "inliers": 71,
-   "set": "Space-Time Smackdown",
-   "illustrator": "PLANETA Yamashita",
-   "hp": 140,
-   "attacks": [
-    "Dark Prism"
-   ]
-  },
-  "official_cards_checked": 48,
-  "lookup": {
-   "en": 50,
-   "ja": 23
-  }
- },
- "491-darkrai-7": {
-  "name": "491_Darkrai_7",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl2-3",
-   "lang": "en",
-   "name": "Darkrai G",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 48,
-  "lookup": {
-   "en": 50,
-   "ja": 23
-  }
- },
- "491-darkrai-8": {
-  "name": "491_Darkrai_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh8-167",
-   "lang": "en",
-   "name": "Darkrai",
-   "pocket": false,
-   "inliers": 338,
-   "set": "Fusion Strike",
-   "illustrator": "Megumi Mizutani",
-   "hp": 110,
-   "attacks": [
-    "Dark Cutter"
-   ]
-  },
-  "official_cards_checked": 48,
-  "lookup": {
-   "en": 50,
-   "ja": 23
-  }
- },
- "491-darkrai-9": {
-  "name": "491_Darkrai_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xyp-XY114",
-   "lang": "en",
-   "name": "Darkrai",
-   "pocket": false,
-   "inliers": 102,
-   "set": "XY Black Star Promos",
-   "illustrator": "kawayoo",
-   "hp": 110,
-   "attacks": [
-    "Dark Cutter",
-    "Abyssal Sleep"
-   ]
-  },
-  "official_cards_checked": 48,
-  "lookup": {
-   "en": 50,
-   "ja": 23
+   "en": 22,
+   "ja": 7
   }
  }
 }

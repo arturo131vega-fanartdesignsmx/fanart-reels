@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "490-manaphy-2",
+  "name": "490_Manaphy_2",
+  "pokemon": "Manaphy",
+  "dex": 490,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332907/490_Manaphy_2.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12a-178",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
+   "inliers": 70,
+   "set": "VSTARユニバース",
+   "illustrator": "Taira Akitsu",
+   "hp": 70,
+   "attacks": [
+    "みずかけ"
+   ]
+  },
+  {
+   "id": "dp1-9",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swshp-SWSH275",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp5-8",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

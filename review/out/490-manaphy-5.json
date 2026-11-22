@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "490-manaphy-5",
+  "name": "490_Manaphy_5",
+  "pokemon": "Manaphy",
+  "dex": 490,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332911/490_Manaphy_5.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "S12a-178",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "A2-162",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "dp1-9",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "pop9-2",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

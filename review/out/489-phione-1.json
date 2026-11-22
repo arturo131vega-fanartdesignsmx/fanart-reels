@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "489-phione-1",
+  "name": "489_Phione_1",
+  "pokemon": "Phione",
+  "dex": 489,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332903/489_Phione_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "sv06-175",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 67,
+   "set": "Twilight Masquerade",
+   "illustrator": "takashi shiraishi",
+   "hp": 70,
+   "attacks": [
+    "Beckon",
+    "Energy Press"
+   ]
+  },
+  {
+   "id": "SV5a-071",
+   "lang": "ja",
+   "name": "フィオネ",
+   "pocket": false,
+   "inliers": 58,
+   "set": "クリムゾンヘイズ",
+   "illustrator": "takashi shiraishi",
+   "hp": 70,
+   "attacks": [
+    "まねきよせる",
+    "エナジープレス"
+   ]
+  },
+  {
+   "id": "A2a-024",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": true,
+   "inliers": 3
+  },
+  {
+   "id": "swsh12-045",
+   "lang": "en",
+   "name": "Phione",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

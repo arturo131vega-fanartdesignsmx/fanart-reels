@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "490-manaphy-3",
+  "name": "490_Manaphy_3",
+  "pokemon": "Manaphy",
+  "dex": 490,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332909/490_Manaphy_3.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "xyp-XY113",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 63,
+   "set": "XY Black Star Promos",
+   "illustrator": "Hitoshi Ariga",
+   "hp": 70,
+   "attacks": [
+    "Marine Guidance",
+    "Aqua Ring"
+   ]
+  },
+  {
+   "id": "xy9-116",
+   "lang": "en",
+   "name": "Manaphy EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pop9-2",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp1-9",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

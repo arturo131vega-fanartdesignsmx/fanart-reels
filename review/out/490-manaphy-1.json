@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "490-manaphy-1",
+  "name": "490_Manaphy_1",
+  "pokemon": "Manaphy",
+  "dex": 490,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332906/490_Manaphy_1.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "A2-162",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": true,
+   "inliers": 179,
+   "set": "Space-Time Smackdown",
+   "illustrator": "miki kudo",
+   "hp": 50,
+   "attacks": [
+    "Oceanic Gift"
+   ]
+  },
+  {
+   "id": "bw8-34",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "pop9-2",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "pop6-3",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

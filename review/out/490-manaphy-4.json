@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "490-manaphy-4",
+  "name": "490_Manaphy_4",
+  "pokemon": "Manaphy",
+  "dex": 490,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332910/490_Manaphy_4.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 22,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "swsh9-041",
+   "lang": "en",
+   "name": "Manaphy",
+   "pocket": false,
+   "inliers": 108,
+   "set": "Brilliant Stars",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Rain Splash"
+   ]
+  },
+  {
+   "id": "SVK-003",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
+   "inliers": 107,
+   "set": "デッキビルドBOX ステラミラクル",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "みずかけ"
+   ]
+  },
+  {
+   "id": "S9-031",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
+   "inliers": 107,
+   "set": "スターバース",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "みずかけ"
+   ]
+  },
+  {
+   "id": "S12a-029",
+   "lang": "ja",
+   "name": "マナフィ",
+   "pocket": false,
+   "inliers": 58,
+   "set": "VSTARユニバース",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "みずかけ"
+   ]
+  }
+ ]
+}
