@@ -1,116 +1,487 @@
 {
  "candidates": [
   {
-   "key": "487-giratina-1",
-   "name": "487_Giratina_1",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_1.jpg"
+   "key": "778-mimikyu-1",
+   "name": "778_Mimikyu_1",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_1.jpg"
   },
   {
-   "key": "487-giratina-2",
-   "name": "487_Giratina_2",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_2.jpg"
+   "key": "778-mimikyu-2",
+   "name": "778_Mimikyu_2",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_2.jpg"
   },
   {
-   "key": "487-giratina-3",
-   "name": "487_Giratina_3",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_3.jpg"
+   "key": "778-mimikyu-3",
+   "name": "778_Mimikyu_3",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_3.jpg"
   },
   {
-   "key": "487-giratina-4",
-   "name": "487_Giratina_4",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_4.jpg"
+   "key": "778-mimikyu-4",
+   "name": "778_Mimikyu_4",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_4.jpg"
   },
   {
-   "key": "487-giratina-5",
-   "name": "487_Giratina_5",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_5.jpg"
+   "key": "778-mimikyu-5",
+   "name": "778_Mimikyu_5",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_5.jpg"
   },
   {
-   "key": "487-giratina-6",
-   "name": "487_Giratina_6",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_6.jpg"
+   "key": "778-mimikyu-6",
+   "name": "778_Mimikyu_6",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_6.jpg"
   },
   {
-   "key": "487-giratina-7",
-   "name": "487_Giratina_7",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_7.jpg"
+   "key": "778-mimikyu-7",
+   "name": "778_Mimikyu_7",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_7.jpg"
   },
   {
-   "key": "487-giratina-8",
-   "name": "487_Giratina_8",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_8.jpg"
+   "key": "778-mimikyu-8",
+   "name": "778_Mimikyu_8",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_8.jpg"
   },
   {
-   "key": "487-giratina-9",
-   "name": "487_Giratina_9",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_9.jpg"
+   "key": "778-mimikyu-9",
+   "name": "778_Mimikyu_9",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_9.jpg"
   },
   {
-   "key": "487-giratina-10",
-   "name": "487_Giratina_10",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_10.jpg"
+   "key": "778-mimikyu-10",
+   "name": "778_Mimikyu_10",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_10.jpg"
   },
   {
-   "key": "487-giratina-11",
-   "name": "487_Giratina_11",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_11.jpg"
+   "key": "778-mimikyu-11",
+   "name": "778_Mimikyu_11",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_11.jpg"
   },
   {
-   "key": "487-giratina-shiny-1",
-   "name": "487_Giratina_Shiny_1",
-   "pokemon": "Giratina",
-   "dex": 487,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/487_Giratina_Shiny_1.jpg"
+   "key": "778-mimikyu-12",
+   "name": "778_Mimikyu_12",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_12.jpg"
   },
   {
-   "key": "894-regieleki-1",
-   "name": "894_Regieleki_1",
-   "pokemon": "Regieleki",
-   "dex": 894,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_1.jpg"
+   "key": "778-mimikyu-tera-1",
+   "name": "778_Mimikyu_Tera_1",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_Tera_1.jpg"
   },
   {
-   "key": "894-regieleki-2",
-   "name": "894_Regieleki_2",
-   "pokemon": "Regieleki",
-   "dex": 894,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_2.jpg"
+   "key": "778-mimikyu-vmax",
+   "name": "778_Mimikyu_VMAX",
+   "pokemon": "Mimikyu",
+   "dex": 778,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_VMAX.jpg"
   },
   {
-   "key": "894-regieleki-3",
-   "name": "894_Regieleki_3",
-   "pokemon": "Regieleki",
-   "dex": 894,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_3.jpg"
+   "key": "1-bulbasaur-1",
+   "name": "01_Bulbasaur_1",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_1.jpg"
   },
   {
-   "key": "894-regieleki-4",
-   "name": "894_Regieleki_4",
-   "pokemon": "Regieleki",
-   "dex": 894,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/894_Regieleki_4.jpg"
+   "key": "1-bulbasaur-2",
+   "name": "01_Bulbasaur_2",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_2.jpg"
+  },
+  {
+   "key": "1-bulbasaur-3",
+   "name": "01_Bulbasaur_3",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_3.jpg"
+  },
+  {
+   "key": "1-bulbasaur-4",
+   "name": "01_Bulbasaur_4",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_4.jpg"
+  },
+  {
+   "key": "1-bulbasaur-5",
+   "name": "01_Bulbasaur_5",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_5.jpg"
+  },
+  {
+   "key": "1-bulbasaur-6",
+   "name": "01_Bulbasaur_6",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_6.jpg"
+  },
+  {
+   "key": "1-bulbasaur-7",
+   "name": "01_Bulbasaur_7",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_7.jpg"
+  },
+  {
+   "key": "1-bulbasaur-8",
+   "name": "01_Bulbasaur_8",
+   "pokemon": "Bulbasaur",
+   "dex": 1,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_8.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-1",
+   "name": "254_Mega_Sceptile_1",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_1.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-2",
+   "name": "254_Mega_Sceptile_2",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_2.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-3",
+   "name": "254_Mega_Sceptile_3",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_3.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-4",
+   "name": "254_Mega_Sceptile_4",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_4.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-5",
+   "name": "254_Mega_Sceptile_5",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_5.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-shiny-1",
+   "name": "254_Mega_Sceptile_Shiny_1",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_Shiny_1.jpg"
+  },
+  {
+   "key": "254-mega-sceptile-shiny-2",
+   "name": "254_Mega_Sceptile_Shiny_2",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_Shiny_2.jpg"
+  },
+  {
+   "key": "254-sceptile-1",
+   "name": "254_Sceptile_1",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_1.jpg"
+  },
+  {
+   "key": "254-sceptile-2",
+   "name": "254_Sceptile_2",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_2.jpg"
+  },
+  {
+   "key": "254-sceptile-3",
+   "name": "254_Sceptile_3",
+   "pokemon": "Sceptile",
+   "dex": 254,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_3.jpg"
+  },
+  {
+   "key": "359-absol-1",
+   "name": "359_Absol_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_1.jpg"
+  },
+  {
+   "key": "359-absol-2",
+   "name": "359_Absol_2",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_2.jpg"
+  },
+  {
+   "key": "359-absol-3",
+   "name": "359_Absol_3",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_3.jpg"
+  },
+  {
+   "key": "359-absol-4",
+   "name": "359_Absol_4",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_4.jpg"
+  },
+  {
+   "key": "359-absol-5",
+   "name": "359_Absol_5",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_5.jpg"
+  },
+  {
+   "key": "359-absol-6",
+   "name": "359_Absol_6",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_6.jpg"
+  },
+  {
+   "key": "359-absol-7",
+   "name": "359_Absol_7",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_7.jpg"
+  },
+  {
+   "key": "359-absol-8",
+   "name": "359_Absol_8",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_8.jpg"
+  },
+  {
+   "key": "359-absol-shiny-1",
+   "name": "359_Absol_Shiny_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_Shiny_1.jpg"
+  },
+  {
+   "key": "359-mega-absol-1",
+   "name": "359_Mega_Absol_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_1.jpg"
+  },
+  {
+   "key": "359-mega-absol-2",
+   "name": "359_Mega_Absol_2",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_2.jpg"
+  },
+  {
+   "key": "359-mega-absol-3",
+   "name": "359_Mega_Absol_3",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_3.jpg"
+  },
+  {
+   "key": "359-mega-absol-4",
+   "name": "359_Mega_Absol_4",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_4.jpg"
+  },
+  {
+   "key": "359-mega-absol-5",
+   "name": "359_Mega_Absol_5",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_5.jpg"
+  },
+  {
+   "key": "359-mega-absol-6",
+   "name": "359_Mega_Absol_6",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_6.jpg"
+  },
+  {
+   "key": "359-mega-absol-shiny-1",
+   "name": "359_Mega_Absol_Shiny_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Shiny_1.jpg"
+  },
+  {
+   "key": "359-mega-absol-z-1",
+   "name": "359_Mega_Absol_Z_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_1.jpg"
+  },
+  {
+   "key": "359-mega-absol-z-2",
+   "name": "359_Mega_Absol_Z_2",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_2.jpg"
+  },
+  {
+   "key": "359-mega-absol-z-shiny-1",
+   "name": "359_Mega_Absol_Z_Shiny_1",
+   "pokemon": "Absol",
+   "dex": 359,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_Shiny_1.jpg"
+  },
+  {
+   "key": "282-gardevoir-1",
+   "name": "282_Gardevoir_1",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_1.jpg"
+  },
+  {
+   "key": "282-gardevoir-2",
+   "name": "282_Gardevoir_2",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_2.jpg"
+  },
+  {
+   "key": "282-gardevoir-3",
+   "name": "282_Gardevoir_3",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_3.jpg"
+  },
+  {
+   "key": "282-gardevoir-4",
+   "name": "282_Gardevoir_4",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_4.jpg"
+  },
+  {
+   "key": "282-gardevoir-5",
+   "name": "282_Gardevoir_5",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_5.jpg"
+  },
+  {
+   "key": "282-gardevoir-6",
+   "name": "282_Gardevoir_6",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_6.jpg"
+  },
+  {
+   "key": "282-gardevoir-shiny-1",
+   "name": "282_Gardevoir_Shiny_1",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_1.jpg"
+  },
+  {
+   "key": "282-gardevoir-shiny-2",
+   "name": "282_Gardevoir_Shiny_2",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_2.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-1",
+   "name": "282_Mega_Gardevoir_1",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_1.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-2",
+   "name": "282_Mega_Gardevoir_2",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_2.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-3",
+   "name": "282_Mega_Gardevoir_3",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_3.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-4",
+   "name": "282_Mega_Gardevoir_4",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_4.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-5",
+   "name": "282_Mega_Gardevoir_5",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_5.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-6",
+   "name": "282_Mega_Gardevoir_6",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_6.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-7",
+   "name": "282_Mega_Gardevoir_7",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_7.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-8",
+   "name": "282_Mega_Gardevoir_8",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_8.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-shiny-1",
+   "name": "282_Mega_Gardevoir_Shiny_1",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_1.jpg"
+  },
+  {
+   "key": "282-mega-gardevoir-shiny-2",
+   "name": "282_Mega_Gardevoir_Shiny_2",
+   "pokemon": "Gardevoir",
+   "dex": 282,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_2.jpg"
   }
  ]
 }
