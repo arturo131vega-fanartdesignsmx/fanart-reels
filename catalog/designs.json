@@ -4965,39 +4965,44 @@
   "verdict": "approved",
   "reason": "Extended art of the swsh3-105 illustration (regular card); name + attacks are the Pocket Darkrai (B1-154)",
   "pocket": true,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 3"
  },
  "491-darkrai-2": {
   "pokemon": "Darkrai",
-  "card_name": "Darkrai",
-  "listing_id": 4606526831,
-  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_2.jpg",
+  "card_name": "Darkrai VSTAR",
+  "listing_id": 4543715769,
+  "design_label": "Design 1 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330732/491_Darkrai_2.jpg",
   "used": [],
   "own": false,
   "art_check": {
-   "printed_max": 5,
+   "printed_max": 98,
    "pocket_max": 0
   },
-  "verdict": "approved",
-  "reason": "Artwork not official; name + attacks are the Pocket Darkrai (B1-154)",
-  "pocket": true,
-  "added": "2026-11-21"
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical Darkrai VSTAR SAR S12a-228",
+  "pocket": false,
+  "added": "2026-11-21",
+  "updated": "2026-11-22"
  },
  "491-darkrai-3": {
   "pokemon": "Darkrai",
   "card_name": "Darkrai EX",
   "listing_id": 4606526831,
-  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_3.jpg",
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330734/491_Darkrai_3.jpg",
   "used": [],
   "own": false,
   "art_check": {
-   "printed_max": 4,
-   "pocket_max": 0
+   "printed_max": 5,
+   "pocket_max": 53
   },
   "verdict": "approved",
-  "reason": "Artwork not official; name + attacks are the Pocket Darkrai ex (A2-110)",
+  "reason": "TCG Pocket artwork (A2-202), not a physical card",
   "pocket": true,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "updated": "2026-11-22"
  },
  "491-darkrai-4": {
   "pokemon": "Darkrai",
@@ -5013,7 +5018,8 @@
   "verdict": "approved",
   "reason": "Artwork not official",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 5"
  },
  "491-darkrai-5": {
   "pokemon": "Darkrai",
@@ -5029,7 +5035,8 @@
   "verdict": "approved",
   "reason": "Artwork not official",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 2"
  },
  "491-mega-darkrai-1": {
   "pokemon": "Darkrai",
@@ -5045,7 +5052,8 @@
   "verdict": "approved",
   "reason": "Artwork not official",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 2"
  },
  "491-mega-darkrai-2": {
   "pokemon": "Darkrai",
@@ -5060,10 +5068,11 @@
    "printed_max": 6,
    "pocket_max": 5
   },
-  "verdict": "approved",
-  "reason": "Artwork not official",
+  "verdict": "rejected",
+  "reason": "Removed from the shop on 2026-11-22: Arturo left it out of the regrouped Mega Darkrai EX listing (was: artwork not official)",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "updated": "2026-11-22"
  },
  "491-mega-darkrai-3": {
   "pokemon": "Darkrai",
@@ -5079,7 +5088,8 @@
   "verdict": "rejected",
   "reason": "Same artwork and crop as the physical Mega Darkrai ex me05-116 (PBL), recolored",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 1"
  },
  "491-mega-darkrai-4": {
   "pokemon": "Darkrai",
@@ -5095,7 +5105,8 @@
   "verdict": "rejected",
   "reason": "Gold card showing the official set number PBL 120/084 and an official illustrator (Sbsn Graphics)",
   "pocket": false,
-  "added": "2026-11-21"
+  "added": "2026-11-21",
+  "design_label": "Design 3"
  },
  "250-ho-oh-1": {
   "pokemon": "Ho-Oh",
@@ -7152,6 +7163,210 @@
   },
   "verdict": "approved",
   "reason": "Only VSTAR frame noise (32-38 inliers spread over unrelated cards); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-1": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia",
+  "listing_id": 4579388711,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 83
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-168), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-3": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia",
+  "listing_id": 4579388711,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 39,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical illustration rare Cresselia sv06.5-071 / SV6a-071",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-2": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia",
+  "listing_id": 4579388711,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-7": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia",
+  "listing_id": 4579388711,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-5": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia EX",
+  "listing_id": 4543729798,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 108,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Cresselia swsh6-64 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-4": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia EX",
+  "listing_id": 4543729798,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 182,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Cresselia me02-039; name + attacks are the Pocket Cresselia ex (P-A-037)",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-6": {
+  "pokemon": "Cresselia",
+  "card_name": "Shiny Cresselia EX",
+  "listing_id": 4543729798,
+  "design_label": "Design 3 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 49,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Cresselia 5 (extended art of swsh6-64, art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "488-cresselia-8": {
+  "pokemon": "Cresselia",
+  "card_name": "Cresselia EX",
+  "listing_id": 4543729798,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 41,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Cresselia sv06.5-021 / SV6a-021; extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "491-darkrai-6": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai EX",
+  "listing_id": 4606526831,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 71
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-187), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "491-darkrai-9": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai",
+  "listing_id": 4606526831,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 102,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art promo Darkrai XY114",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "491-darkrai-7": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai EX",
+  "listing_id": 4543715769,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "491-darkrai-8": {
+  "pokemon": "Darkrai",
+  "card_name": "Darkrai EX",
+  "listing_id": 4543715769,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 338,
+   "pocket_max": 236
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Darkrai swsh8-167 (same art on Pocket B1-154, art box only); extended art allowed",
   "pocket": false,
   "added": "2026-11-22"
  }
