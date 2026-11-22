@@ -1407,5 +1407,98 @@
    "permalink": "https://www.facebook.com/reel/2188592211694502/"
   },
   "done": "2026-11-22T02:41:24.398547+00:00"
+ },
+ "2026-11-22-r1": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r1.jpg",
+  "render": {
+   "duration": 15.133333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 113,
+    "root": 62,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 0.9,
+    "text": "Bulbasaur"
+   },
+   {
+    "t0": 0.9,
+    "t1": 2.43,
+    "text": "on a cherry blossom path..."
+   },
+   {
+    "t0": 2.43,
+    "t1": 3.883,
+    "text": "tell me that's not adorable."
+   },
+   {
+    "t0": 4.183,
+    "t1": 5.513,
+    "text": "Handmade one by one,"
+   },
+   {
+    "t0": 5.513,
+    "t1": 6.683,
+    "text": "holographic all over,"
+   },
+   {
+    "t0": 6.683,
+    "t1": 8.023,
+    "text": "and real card size."
+   },
+   {
+    "t0": 8.283,
+    "t1": 9.123,
+    "text": "Bundle any two"
+   },
+   {
+    "t0": 9.123,
+    "t1": 10.683,
+    "text": "and save 25%"
+   },
+   {
+    "t0": 10.683,
+    "t1": 11.961,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.261,
+    "t1": 14.112,
+    "text": "Tap my bio to grab yours!"
+   }
+  ],
+  "rendered_at": "2026-11-22T11:33:42.096523+00:00",
+  "render_seconds": 92
+ },
+ "2026-11-22-c1": {
+  "attempts": 0
+ },
+ "2026-11-22-r2": {
+  "attempts": 0
+ },
+ "2026-11-22-c2": {
+  "attempts": 0
+ },
+ "2026-11-22-r3": {
+  "attempts": 0
  }
 }
