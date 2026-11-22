@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "493-arceus-dialga-palkia-tag-team",
+  "name": "493_Arceus_Dialga_Palkia_Tag_Team",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_Dialga_Palkia_Tag_Team.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm12-156",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 77,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 280,
+   "attacks": [
+    "Ultimate Ray",
+    "Altered Creation GX"
+   ]
+  },
+  {
+   "id": "sm12-221",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 75,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Kouki Saitou",
+   "hp": 280,
+   "attacks": [
+    "Ultimate Ray",
+    "Altered Creation GX"
+   ]
+  },
+  {
+   "id": "sm12-258",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 59,
+   "set": "Cosmic Eclipse",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Ultimate Ray",
+    "Altered Creation GX"
+   ]
+  },
+  {
+   "id": "sm12-220",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 57,
+   "set": "Cosmic Eclipse",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Ultimate Ray",
+    "Altered Creation GX"
+   ]
+  }
+ ]
+}

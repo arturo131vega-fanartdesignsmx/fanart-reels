@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "493-arceus-13",
+  "name": "493_Arceus_13",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_13.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "pl4-AR1",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S10a-063",
+   "lang": "ja",
+   "name": "アルセウスフォン",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "A2a-070",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": true,
+   "inliers": 0
+  },
+  {
+   "id": "A2a-071",
+   "lang": "en",
+   "name": "Arceus ex",
+   "pocket": true,
+   "inliers": 0
+  }
+ ]
+}

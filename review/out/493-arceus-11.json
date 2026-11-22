@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "493-arceus-11",
+  "name": "493_Arceus_11",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_11.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "xyp-XY83",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 109,
+   "set": "XY Black Star Promos",
+   "illustrator": "Shin Nagasawa",
+   "hp": 120,
+   "attacks": [
+    "Gather Light",
+    "Judgment Blast"
+   ]
+  },
+  {
+   "id": "A2a-095",
+   "lang": "en",
+   "name": "Arceus ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-221",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl4-AR2",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

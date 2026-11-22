@@ -1,1345 +1,319 @@
 {
- "778-mimikyu-1": {
-  "name": "778_Mimikyu_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me02-042",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-2": {
-  "name": "778_Mimikyu_2",
+ "493-arceus-1": {
+  "name": "493_Arceus_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "S11-050",
-   "lang": "ja",
-   "name": "ミミッキュ",
-   "pocket": false,
-   "inliers": 103,
-   "set": "ロストアビス",
-   "illustrator": "Ligton",
-   "hp": 70,
-   "attacks": [
-    "まどわす",
-    "ワーストギフト"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-3": {
-  "name": "778_Mimikyu_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-199",
+   "id": "A2a-095",
    "lang": "en",
-   "name": "Mimikyu ex",
+   "name": "Arceus ex",
    "pocket": true,
-   "inliers": 90,
-   "set": "Fantastical Parade",
-   "illustrator": "Mori Yuu",
-   "hp": 120,
-   "attacks": [
-    "Claw Slash"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-4": {
-  "name": "778_Mimikyu_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "P-A-066",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": true,
-   "inliers": 295,
-   "set": "Promos-A",
-   "illustrator": "Amelicart",
-   "hp": 70,
-   "attacks": [
-    "Shadow Hit"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-5": {
-  "name": "778_Mimikyu_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv09-069",
-   "lang": "en",
-   "name": "Mimikyu ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-6": {
-  "name": "778_Mimikyu_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-238",
-   "lang": "en",
-   "name": "Team Rocket's Mimikyu",
-   "pocket": false,
-   "inliers": 144,
-   "set": "Ascended Heroes",
-   "illustrator": "GOSSAN",
-   "hp": 60,
-   "attacks": [
-    "Gemstone Mimicry"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-7": {
-  "name": "778_Mimikyu_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-075",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 72,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 70,
-   "attacks": [
-    "Ghost Eye"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-8": {
-  "name": "778_Mimikyu_8",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "sv02-097",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 24,
-   "set": "Paldea Evolved",
-   "illustrator": "Kagemaru Himeno",
-   "hp": 70,
-   "attacks": [
-    "Ghost Eye"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-9": {
-  "name": "778_Mimikyu_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm12-245",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 139,
-   "set": "Cosmic Eclipse",
-   "illustrator": "You Iribi",
-   "hp": 70,
-   "attacks": [
-    "Impersonation",
-    "Mischievous Hands"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-10": {
-  "name": "778_Mimikyu_10",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-186",
-   "lang": "en",
-   "name": "Mimikyu ex",
-   "pocket": true,
-   "inliers": 95,
-   "set": "Fantastical Parade",
-   "illustrator": "PLANETA CG Works",
-   "hp": 120,
-   "attacks": [
-    "Claw Slash"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-11": {
-  "name": "778_Mimikyu_11",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-042",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 151,
-   "set": "Phantasmal Flames",
-   "illustrator": "miki kudo",
-   "hp": 70,
-   "attacks": [
-    "Call for Family",
-    "Scratch"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-12": {
-  "name": "778_Mimikyu_12",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm12-96",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": false,
-   "inliers": 165,
-   "set": "Cosmic Eclipse",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
-   "attacks": [
-    "Impersonation",
-    "Mischievous Hands"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-tera-1": {
-  "name": "778_Mimikyu_Tera_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3-083",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": true,
-   "inliers": 26,
-   "set": "Celestial Guardians",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
-   "attacks": [
-    "Shadow Hit"
-   ]
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "778-mimikyu-vmax": {
-  "name": "778_Mimikyu_VMAX",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A3b-035",
-   "lang": "en",
-   "name": "Mimikyu",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 45,
-  "lookup": {
-   "en": 40,
-   "ja": 30
-  }
- },
- "1-bulbasaur-1": {
-  "name": "01_Bulbasaur_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me01-133",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 117,
-   "set": "Mega Evolution",
-   "illustrator": "mashu",
-   "hp": 80,
-   "attacks": [
-    "Bind Down"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-2": {
-  "name": "01_Bulbasaur_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-227",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": true,
-   "inliers": 191,
-   "set": "Genetic Apex",
-   "illustrator": "Ryota Murayama",
-   "hp": 70,
-   "attacks": [
-    "Vine Whip"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-3": {
-  "name": "01_Bulbasaur_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv07-143",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-4": {
-  "name": "01_Bulbasaur_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv07-143",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 82,
-   "set": "Stellar Crown",
-   "illustrator": "Orca",
-   "hp": 70,
-   "attacks": [
-    "Leech Seed"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-5": {
-  "name": "01_Bulbasaur_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv03.5-166",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 203,
-   "set": "151",
-   "illustrator": "Yoriyuki Ikegami",
-   "hp": 70,
-   "attacks": [
-    "Leech Seed"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-6": {
-  "name": "01_Bulbasaur_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv03.5-001",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 58,
-   "set": "151",
-   "illustrator": "Yuu Nishida",
-   "hp": 70,
-   "attacks": [
-    "Leech Seed"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-7": {
-  "name": "01_Bulbasaur_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-046",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 118,
-   "set": "SVP Black Star Promos",
-   "illustrator": "OKACHEKE",
-   "hp": 70,
-   "attacks": [
-    "Vine Whip"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "1-bulbasaur-8": {
-  "name": "01_Bulbasaur_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bw5-1",
-   "lang": "en",
-   "name": "Bulbasaur",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 35,
-   "ja": 10
-  }
- },
- "254-mega-sceptile-1": {
-  "name": "254_Mega_Sceptile_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop4-5",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-2": {
-  "name": "254_Mega_Sceptile_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xyp-XY53",
-   "lang": "en",
-   "name": "Sceptile EX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-3": {
-  "name": "254_Mega_Sceptile_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy7-7",
-   "lang": "en",
-   "name": "Sceptile EX",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-4": {
-  "name": "254_Mega_Sceptile_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop1-4",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-5": {
-  "name": "254_Mega_Sceptile_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl4-31",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-shiny-1": {
-  "name": "254_Mega_Sceptile_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop4-5",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-mega-sceptile-shiny-2": {
-  "name": "254_Mega_Sceptile_Shiny_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ex9-10",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-sceptile-1": {
-  "name": "254_Sceptile_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy5-9",
-   "lang": "en",
-   "name": "Sceptile",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-sceptile-2": {
-  "name": "254_Sceptile_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy7-80",
-   "lang": "en",
-   "name": "Sceptile Spirit Link",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "254-sceptile-3": {
-  "name": "254_Sceptile_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy7-84",
-   "lang": "en",
-   "name": "Sceptile EX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 24,
-  "lookup": {
-   "en": 24,
-   "ja": 6
-  }
- },
- "359-absol-1": {
-  "name": "359_Absol_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv04-113",
-   "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 101,
-   "set": "Paradox Rift",
-   "illustrator": "Shinji Kanda",
-   "hp": 100,
-   "attacks": [
-    "Drawareness",
-    "Enhanced Blade"
-   ]
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-2": {
-  "name": "359_Absol_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV3-073",
-   "lang": "ja",
-   "name": "アブソルex",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-3": {
-  "name": "359_Absol_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-063",
-   "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 108,
-   "set": "Phantasmal Flames",
+   "inliers": 146,
+   "set": "Triumphant Light",
    "illustrator": "Takumi Wada",
-   "hp": 110,
+   "hp": 140,
    "attacks": [
-    "Allure",
-    "Dark Cutter"
+    "Ultimate Force"
    ]
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-absol-4": {
-  "name": "359_Absol_4",
+ "493-arceus-2": {
+  "name": "493_Arceus_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh8-164",
+   "id": "A2a-086",
    "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 125,
-   "set": "Fusion Strike",
-   "illustrator": "Eri Yamaki",
-   "hp": 100,
-   "attacks": [
-    "Drag Off",
-    "Slash"
-   ]
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-5": {
-  "name": "359_Absol_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-191",
-   "lang": "ja",
-   "name": "アブソル",
-   "pocket": false,
-   "inliers": 64,
-   "set": "VSTARユニバース",
-   "illustrator": "Uta",
-   "hp": 100,
-   "attacks": [
-    "うずまくわざわい",
-    "ツメでえぐる"
-   ]
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-6": {
-  "name": "359_Absol_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xyp-XY63",
-   "lang": "en",
-   "name": "M Absol EX",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-7": {
-  "name": "359_Absol_7",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "B1-151",
-   "lang": "en",
-   "name": "Mega Absol ex",
+   "name": "Arceus ex",
    "pocket": true,
-   "inliers": 6
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-8": {
-  "name": "359_Absol_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV6a-030",
-   "lang": "ja",
-   "name": "アブソル",
-   "pocket": false,
-   "inliers": 172,
-   "set": "ナイトワンダラー",
-   "illustrator": "rika",
-   "hp": 110,
-   "attacks": [
-    "バッドフォール"
-   ]
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-absol-shiny-1": {
-  "name": "359_Absol_Shiny_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV6a-030",
-   "lang": "ja",
-   "name": "アブソル",
-   "pocket": false,
-   "inliers": 164,
-   "set": "ナイトワンダラー",
-   "illustrator": "rika",
-   "hp": 110,
-   "attacks": [
-    "バッドフォール"
-   ]
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-mega-absol-1": {
-  "name": "359_Mega_Absol_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv03-214",
-   "lang": "en",
-   "name": "Absol ex",
-   "pocket": false,
-   "inliers": 9
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-mega-absol-2": {
-  "name": "359_Mega_Absol_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp3-21",
-   "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-mega-absol-3": {
-  "name": "359_Mega_Absol_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B1-262",
-   "lang": "en",
-   "name": "Mega Absol ex",
-   "pocket": true,
-   "inliers": 62,
-   "set": "Mega Rising",
+   "inliers": 124,
+   "set": "Triumphant Light",
    "illustrator": "PLANETA CG Works",
-   "hp": 170,
+   "hp": 140,
    "attacks": [
-    "Darkness Claw"
+    "Ultimate Force"
    ]
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-mega-absol-4": {
-  "name": "359_Mega_Absol_4",
+ "493-arceus-3": {
+  "name": "493_Arceus_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dpp-DP56",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-4": {
+  "name": "493_Arceus_4",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me01-161",
+   "id": "A2a-096",
    "lang": "en",
-   "name": "Mega Absol ex",
+   "name": "Arceus ex",
+   "pocket": true,
+   "inliers": 115,
+   "set": "Triumphant Light",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Ultimate Force"
+   ]
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-5": {
+  "name": "493_Arceus_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2a-070",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": true,
+   "inliers": 157,
+   "set": "Triumphant Light",
+   "illustrator": "Nurikabe",
+   "hp": 120,
+   "attacks": [
+    "Power Blast"
+   ]
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-6": {
+  "name": "493_Arceus_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm12-258",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
    "pocket": false,
-   "inliers": 166,
-   "set": "Mega Evolution",
-   "illustrator": "aky CG Works",
+   "inliers": 40,
+   "set": "Cosmic Eclipse",
+   "illustrator": "5ban Graphics",
    "hp": 280,
    "attacks": [
-    "Terminal Period",
-    "Claw of Darkness"
+    "Ultimate Ray",
+    "Altered Creation GX"
    ]
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-mega-absol-5": {
-  "name": "359_Mega_Absol_5",
+ "493-arceus-7": {
+  "name": "493_Arceus_7",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "B1-280",
+   "id": "swshp-SWSH204",
    "lang": "en",
-   "name": "Mega Absol ex",
-   "pocket": true,
-   "inliers": 79,
-   "set": "Mega Rising",
-   "illustrator": "kawayoo",
-   "hp": 170,
+   "name": "Arceus V",
+   "pocket": false,
+   "inliers": 155,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 220,
    "attacks": [
-    "Darkness Claw"
+    "Trinity Charge",
+    "Power Edge"
    ]
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-mega-absol-6": {
-  "name": "359_Mega_Absol_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh3.5-38",
-   "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-mega-absol-shiny-1": {
-  "name": "359_Mega_Absol_Shiny_1",
+ "493-arceus-8": {
+  "name": "493_Arceus_8",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "B1-280",
-   "lang": "en",
-   "name": "Mega Absol ex",
-   "pocket": true,
-   "inliers": 98,
-   "set": "Mega Rising",
+   "id": "S9-112",
+   "lang": "ja",
+   "name": "アルセウスV",
+   "pocket": false,
+   "inliers": 87,
+   "set": "スターバース",
    "illustrator": "kawayoo",
-   "hp": 170,
+   "hp": 220,
    "attacks": [
-    "Darkness Claw"
+    "トリニティチャージ",
+    "パワーエッジ"
    ]
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-mega-absol-z-1": {
-  "name": "359_Mega_Absol_Z_1",
+ "493-arceus-9": {
+  "name": "493_Arceus_9",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh9-123",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-10": {
+  "name": "493_Arceus_10",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh9-123",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 38,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-11": {
+  "name": "493_Arceus_11",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "xyp-XY83",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 109,
+   "set": "XY Black Star Promos",
+   "illustrator": "Shin Nagasawa",
+   "hp": 120,
+   "attacks": [
+    "Gather Light",
+    "Judgment Blast"
+   ]
+  },
+  "official_cards_checked": 46,
+  "lookup": {
+   "en": 41,
+   "ja": 18
+  }
+ },
+ "493-arceus-12": {
+  "name": "493_Arceus_12",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "ex12-15",
+   "id": "sm12-221",
    "lang": "en",
-   "name": "Absol",
+   "name": "Arceus & Dialga & Palkia GX",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "359-mega-absol-z-2": {
-  "name": "359_Mega_Absol_Z_2",
+ "493-arceus-13": {
+  "name": "493_Arceus_13",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm12-133",
+   "id": "pl4-AR1",
    "lang": "en",
-   "name": "Absol",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 42,
-  "lookup": {
-   "en": 36,
-   "ja": 17
-  }
- },
- "359-mega-absol-z-shiny-1": {
-  "name": "359_Mega_Absol_Z_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy6-40",
-   "lang": "en",
-   "name": "Absol",
+   "name": "Arceus",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 42,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 36,
-   "ja": 17
+   "en": 41,
+   "ja": 18
   }
  },
- "282-gardevoir-1": {
-  "name": "282_Gardevoir_1",
-  "verdict": "NO_ART_MATCH",
+ "493-arceus-shiny-1": {
+  "name": "493_Arceus_Shiny_1",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "xy7-54",
+   "id": "A2a-095",
    "lang": "en",
-   "name": "Gardevoir",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-2": {
-  "name": "282_Gardevoir_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S11a-038",
-   "lang": "ja",
-   "name": "サーナイト",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-3": {
-  "name": "282_Gardevoir_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV1S-101",
-   "lang": "ja",
-   "name": "サーナイトex",
-   "pocket": false,
-   "inliers": 128,
-   "set": "スカーレットex",
-   "illustrator": "Jiro Sasumo",
-   "hp": 310,
-   "attacks": [
-    "ミラクルフォース"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-4": {
-  "name": "282_Gardevoir_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S11a-072",
-   "lang": "ja",
-   "name": "サーナイト",
-   "pocket": false,
-   "inliers": 102,
-   "set": "白熱のアルカナ",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 150,
-   "attacks": [
-    "マジカルショット"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-5": {
-  "name": "282_Gardevoir_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-065",
-   "lang": "en",
-   "name": "Gardevoir",
+   "name": "Arceus ex",
    "pocket": true,
-   "inliers": 56,
-   "set": "Fantastical Parade",
-   "illustrator": "mingo",
-   "hp": 130,
+   "inliers": 66,
+   "set": "Triumphant Light",
+   "illustrator": "Takumi Wada",
+   "hp": 140,
    "attacks": [
-    "Psy Turbo"
+    "Ultimate Force"
    ]
   },
-  "official_cards_checked": 70,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 65,
-   "ja": 30
+   "en": 41,
+   "ja": 18
   }
  },
- "282-gardevoir-6": {
-  "name": "282_Gardevoir_6",
+ "493-arceus-dialga-palkia-tag-team": {
+  "name": "493_Arceus_Dialga_Palkia_Tag_Team",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A1-132",
+   "id": "sm12-156",
    "lang": "en",
-   "name": "Gardevoir",
-   "pocket": true,
-   "inliers": 60,
-   "set": "Genetic Apex",
-   "illustrator": "Yuu Nishida",
-   "hp": 110,
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 77,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 280,
    "attacks": [
-    "Psyshot"
+    "Ultimate Ray",
+    "Altered Creation GX"
    ]
   },
-  "official_cards_checked": 70,
+  "official_cards_checked": 46,
   "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-shiny-1": {
-  "name": "282_Gardevoir_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S10a-027",
-   "lang": "ja",
-   "name": "かがやくサーナイト",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-gardevoir-shiny-2": {
-  "name": "282_Gardevoir_Shiny_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV4a-348",
-   "lang": "ja",
-   "name": "サーナイトex",
-   "pocket": false,
-   "inliers": 44,
-   "set": "シャイニートレジャーex",
-   "illustrator": "Kuroimori",
-   "hp": 310,
-   "attacks": [
-    "ミラクルフォース"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-1": {
-  "name": "282_Mega_Gardevoir_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-203",
-   "lang": "en",
-   "name": "Mega Gardevoir ex",
-   "pocket": true,
-   "inliers": 55,
-   "set": "Fantastical Parade",
-   "illustrator": "DOM",
-   "hp": 210,
-   "attacks": [
-    "Fantasia Force"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-2": {
-  "name": "282_Mega_Gardevoir_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me01-178",
-   "lang": "en",
-   "name": "Mega Gardevoir ex",
-   "pocket": false,
-   "inliers": 73,
-   "set": "Mega Evolution",
-   "illustrator": "Raita Kazama",
-   "hp": 360,
-   "attacks": [
-    "Overflowing Wishes",
-    "Mega Symphonia"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-3": {
-  "name": "282_Mega_Gardevoir_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-185",
-   "lang": "en",
-   "name": "Mega Gardevoir ex",
-   "pocket": true,
-   "inliers": 57,
-   "set": "Fantastical Parade",
-   "illustrator": "PLANETA CG Works",
-   "hp": 210,
-   "attacks": [
-    "Fantasia Force"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-4": {
-  "name": "282_Mega_Gardevoir_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me01-159",
-   "lang": "en",
-   "name": "Mega Gardevoir ex",
-   "pocket": false,
-   "inliers": 100,
-   "set": "Mega Evolution",
-   "illustrator": "takuyoa",
-   "hp": 360,
-   "attacks": [
-    "Overflowing Wishes",
-    "Mega Symphonia"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-5": {
-  "name": "282_Mega_Gardevoir_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xy5-156",
-   "lang": "en",
-   "name": "M Gardevoir EX",
-   "pocket": false,
-   "inliers": 200,
-   "set": "Primal Clash",
-   "illustrator": "5ban Graphics",
-   "hp": 210,
-   "attacks": [
-    "Brilliant Arrow"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-6": {
-  "name": "282_Mega_Gardevoir_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bw5-109",
-   "lang": "en",
-   "name": "Gardevoir",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-7": {
-  "name": "282_Mega_Gardevoir_7",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy11-78",
-   "lang": "en",
-   "name": "Gardevoir EX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-8": {
-  "name": "282_Mega_Gardevoir_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm3-93",
-   "lang": "en",
-   "name": "Gardevoir GX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-shiny-1": {
-  "name": "282_Mega_Gardevoir_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy11-116",
-   "lang": "en",
-   "name": "Gardevoir EX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
-  }
- },
- "282-mega-gardevoir-shiny-2": {
-  "name": "282_Mega_Gardevoir_Shiny_2",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "B2-203",
-   "lang": "en",
-   "name": "Mega Gardevoir ex",
-   "pocket": true,
-   "inliers": 15,
-   "set": "Fantastical Parade",
-   "illustrator": "DOM",
-   "hp": 210,
-   "attacks": [
-    "Fantasia Force"
-   ]
-  },
-  "official_cards_checked": 70,
-  "lookup": {
-   "en": 65,
-   "ja": 30
+   "en": 41,
+   "ja": 18
   }
  }
 }

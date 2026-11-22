@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "493-arceus-10",
+  "name": "493_Arceus_10",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_10.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "swsh9-123",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 38,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  {
+   "id": "swsh9-176",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 38,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  {
+   "id": "swsh9-184",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 34,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  {
+   "id": "S9-084",
+   "lang": "ja",
+   "name": "アルセウスVSTAR",
+   "pocket": false,
+   "inliers": 32,
+   "set": "スターバース",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "トリニティノヴァ",
+    "特性",
+    "スターバース"
+   ]
+  }
+ ]
+}

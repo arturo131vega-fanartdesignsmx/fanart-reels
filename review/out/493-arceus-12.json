@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "493-arceus-12",
+  "name": "493_Arceus_12",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_12.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm12-221",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dpp-DP53",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-258",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl4-AR2",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "493-arceus-6",
+  "name": "493_Arceus_6",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_6.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm12-258",
+   "lang": "en",
+   "name": "Arceus & Dialga & Palkia GX",
+   "pocket": false,
+   "inliers": 40,
+   "set": "Cosmic Eclipse",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Ultimate Ray",
+    "Altered Creation GX"
+   ]
+  },
+  {
+   "id": "swsh9-123",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  {
+   "id": "swsh9-176",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  },
+  {
+   "id": "swsh9-184",
+   "lang": "en",
+   "name": "Arceus VSTAR",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 280,
+   "attacks": [
+    "Trinity Nova"
+   ]
+  }
+ ]
+}

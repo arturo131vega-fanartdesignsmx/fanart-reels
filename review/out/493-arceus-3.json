@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "493-arceus-3",
+  "name": "493_Arceus_3",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_3.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "dpp-DP56",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH204",
+   "lang": "en",
+   "name": "Arceus V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xyp-XY116",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh9-165",
+   "lang": "en",
+   "name": "Arceus V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

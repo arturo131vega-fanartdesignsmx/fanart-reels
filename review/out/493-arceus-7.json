@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "493-arceus-7",
+  "name": "493_Arceus_7",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_7.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH204",
+   "lang": "en",
+   "name": "Arceus V",
+   "pocket": false,
+   "inliers": 155,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 220,
+   "attacks": [
+    "Trinity Charge",
+    "Power Edge"
+   ]
+  },
+  {
+   "id": "pl4-AR9",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xyp-XY83",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl4-95",
+   "lang": "en",
+   "name": "Arceus LV.X",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

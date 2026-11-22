@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "493-arceus-2",
+  "name": "493_Arceus_2",
+  "pokemon": "Arceus",
+  "dex": 493,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_2.jpg"
+ },
+ "official_cards_checked": 46,
+ "lookup": {
+  "en": 41,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A2a-086",
+   "lang": "en",
+   "name": "Arceus ex",
+   "pocket": true,
+   "inliers": 124,
+   "set": "Triumphant Light",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Ultimate Force"
+   ]
+  },
+  {
+   "id": "B1-328",
+   "lang": "en",
+   "name": "Arceus ex",
+   "pocket": true,
+   "inliers": 11
+  },
+  {
+   "id": "pl4-AR3",
+   "lang": "en",
+   "name": "Arceus",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "S12a-127",
+   "lang": "ja",
+   "name": "アルセウスVSTAR",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}
