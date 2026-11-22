@@ -1516,10 +1516,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Mimikyu EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18115569413147717",
+   "permalink": "https://www.instagram.com/p/DgDZnB9Acch/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120527935449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120527935449530"
+  },
+  "done": "2026-11-22T18:01:11.716366+00:00"
  },
  "2026-11-22-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r2.jpg",
+  "render": {
+   "duration": 15.733333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 114,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.38,
+    "text": "Mega Sceptile"
+   },
+   {
+    "t0": 1.38,
+    "t1": 2.72,
+    "text": "just cut through the jungle..."
+   },
+   {
+    "t0": 2.72,
+    "t1": 4.149,
+    "text": "and straight into your binder."
+   },
+   {
+    "t0": 4.449,
+    "t1": 5.719,
+    "text": "Crafted by hand,"
+   },
+   {
+    "t0": 5.719,
+    "t1": 7.329,
+    "text": "holo that catches every light,"
+   },
+   {
+    "t0": 7.329,
+    "t1": 8.668,
+    "text": "and real card size."
+   },
+   {
+    "t0": 8.928,
+    "t1": 9.818,
+    "text": "Choose two or more"
+   },
+   {
+    "t0": 9.818,
+    "t1": 11.408,
+    "text": "to save 25%"
+   },
+   {
+    "t0": 11.408,
+    "t1": 12.876,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.176,
+    "t1": 14.73,
+    "text": "Go check the link in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-22T18:02:24.555428+00:00",
+  "render_seconds": 73
  },
  "2026-11-22-c2": {
   "attempts": 0
