@@ -5773,5 +5773,1131 @@
   "reason": "Artwork not official",
   "pocket": false,
   "added": "2026-11-21"
+ },
+ "778-mimikyu-1": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_1.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-2": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 103,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Japanese card S11-050 (art expanded beyond the art window), not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-3": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 90
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-199), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-4": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 295
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (P-A-066), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-5": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_5.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-6": {
+  "pokemon": "Mimikyu",
+  "card_name": "Team Rocket's Mimikyu",
+  "listing_id": 4606527665,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 144,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Team Rocket's Mimikyu me02.5-238",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-7": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 72,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art promo Mimikyu svp-075",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-8": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_8.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 24,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (24 inliers with sv02-097 are only the Mimikyu figure; different artwork by eye)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-9": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 139,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Mimikyu sm12-245 (with Acerola)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-10": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 95
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-186), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-11": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_11.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 151,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card me02-042, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-12": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_12.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 165,
+   "pocket_max": 146
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card sm12-96 (same art as Pocket A3-083), not a physical card as is",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-tera-1": {
+  "pokemon": "Mimikyu",
+  "card_name": "Tera Mimikyu EX",
+  "listing_id": 4618196690,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_Tera_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 19,
+   "pocket_max": 26
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and a (c) Pokemon/Nintendo line; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "778-mimikyu-vmax": {
+  "pokemon": "Mimikyu",
+  "card_name": "Mimikyu VMAX",
+  "listing_id": 4618196690,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_VMAX.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and set symbols; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-1": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 117,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical illustration rare Bulbasaur me01-133",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-2": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 191
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-227), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-3": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_3.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-4": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 82,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical illustration rare Bulbasaur sv07-143",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-5": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 203,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical illustration rare Bulbasaur sv03.5-166",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-6": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 58,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card sv03.5-001, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-7": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 118,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular promo svp-046, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "1-bulbasaur-8": {
+  "pokemon": "Bulbasaur",
+  "card_name": "Bulbasaur",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (name + Vine Whip 40 match the Pocket Bulbasaur A1-001: neutral wording)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-1": {
+  "pokemon": "Sceptile",
+  "card_name": "Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_1.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not matched to any official card; name + Terminating Tail = TCG Pocket Mega Sceptile ex (Pulsing Aura B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-2": {
+  "pokemon": "Sceptile",
+  "card_name": "Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not matched to any official card; name + Terminating Tail = TCG Pocket Mega Sceptile ex (Pulsing Aura B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-3": {
+  "pokemon": "Sceptile",
+  "card_name": "Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not matched to any official card; name + Terminating Tail = TCG Pocket Mega Sceptile ex (Pulsing Aura B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-4": {
+  "pokemon": "Sceptile",
+  "card_name": "Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not matched to any official card; name + Terminating Tail = TCG Pocket Mega Sceptile ex (Pulsing Aura B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-5": {
+  "pokemon": "Sceptile",
+  "card_name": "Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not matched to any official card; name + Terminating Tail = TCG Pocket Mega Sceptile ex (Pulsing Aura B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-shiny-1": {
+  "pokemon": "Sceptile",
+  "card_name": "Shiny Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor; artwork not official; Terminating Tail = TCG Pocket Mega Sceptile ex (B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-mega-sceptile-shiny-2": {
+  "pokemon": "Sceptile",
+  "card_name": "Shiny Mega Sceptile EX",
+  "listing_id": 4609198399,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor; artwork not official; Terminating Tail = TCG Pocket Mega Sceptile ex (B3): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "254-sceptile-1": {
+  "pokemon": "Sceptile",
+  "card_name": "Sceptile",
+  "listing_id": 4605347075,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "254-sceptile-2": {
+  "pokemon": "Sceptile",
+  "card_name": "Sceptile",
+  "listing_id": 4605347075,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "254-sceptile-3": {
+  "pokemon": "Sceptile",
+  "card_name": "Sceptile EX",
+  "listing_id": 4605347075,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (card text unverified)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-1": {
+  "pokemon": "Absol",
+  "card_name": "Absol",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 101,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card sv04-113, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-2": {
+  "pokemon": "Absol",
+  "card_name": "Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-3": {
+  "pokemon": "Absol",
+  "card_name": "Absol",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 108,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card me02-063, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-4": {
+  "pokemon": "Absol",
+  "card_name": "Absol",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 125,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular card swsh8-164, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-5": {
+  "pokemon": "Absol",
+  "card_name": "Absol",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 64,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical art rare Absol S12a-191",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-6": {
+  "pokemon": "Absol",
+  "card_name": "Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-7": {
+  "pokemon": "Absol",
+  "card_name": "Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 6
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-8": {
+  "pokemon": "Absol",
+  "card_name": "Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 172,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Japanese card SV6a-030, not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-absol-shiny-1": {
+  "pokemon": "Absol",
+  "card_name": "Shiny Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 164,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of an extended art of SV6a-030 (regular card), not a physical card as is",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-1": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Mega Absol ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-2": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text copies printed Mega Absol ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-3": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 62
+  },
+  "verdict": "needs_check",
+  "reason": "TCG Pocket artwork (B1-262) but the card shows another artist's handle (@aschefield) in the corner: keep out until Arturo checks",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-4": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 166,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Mega Absol ex me01-161",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-5": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 79
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B1-280), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-6": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + Darkness Claw = TCG Pocket Mega Absol ex (B1): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-shiny-1": {
+  "pokemon": "Absol",
+  "card_name": "Shiny Mega Absol EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 98
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork (B1-280), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-z-1": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol Z EX",
+  "listing_id": 4543751320,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-z-2": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol Z EX",
+  "listing_id": 4543751320,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_2.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "359-mega-absol-z-shiny-1": {
+  "pokemon": "Absol",
+  "card_name": "Shiny Mega Absol Z EX",
+  "listing_id": 4543751320,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-1": {
+  "pokemon": "Gardevoir",
+  "card_name": "Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; text uses the Pocket Energy Zone wording: treat as pocket (neutral wording)",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-2": {
+  "pokemon": "Gardevoir",
+  "card_name": "Gardevoir",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_2.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + Psy Shadow = TCG Pocket Gardevoir: pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-3": {
+  "pokemon": "Gardevoir",
+  "card_name": "Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 128,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical special art rare Gardevoir ex SV1S-101",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-4": {
+  "pokemon": "Gardevoir",
+  "card_name": "Diantha's Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 102,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical character rare Gardevoir S11a-072 (with Diantha)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-5": {
+  "pokemon": "Gardevoir",
+  "card_name": "Gardevoir",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 56
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-065), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-6": {
+  "pokemon": "Gardevoir",
+  "card_name": "Gardevoir",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 60
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-132), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-shiny-1": {
+  "pokemon": "Gardevoir",
+  "card_name": "Shiny Gardevoir EX",
+  "listing_id": 4553590534,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_1.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-gardevoir-shiny-2": {
+  "pokemon": "Gardevoir",
+  "card_name": "Shiny Gardevoir EX",
+  "listing_id": 4553590534,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 44,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Recolor of the physical special art rare Gardevoir ex SV4a-348 (same artwork and crop)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-1": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_1.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 55
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-203), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-2": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 73,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Mega Gardevoir ex me01-178",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-3": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 57
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-185), not a physical card",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-4": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 100,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art Mega Gardevoir ex me01-159",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-5": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 200,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art M Gardevoir EX xy5-156",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-6": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + Fantasia Force = TCG Pocket Mega Gardevoir ex (B2): pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-7": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text based on printed Mega Gardevoir ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-8": {
+  "pokemon": "Gardevoir",
+  "card_name": "Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Copy of the official gold hyper rare Mega Gardevoir ex (prints MEG 187/132, Illus. 5ban Graphics and the (c) line)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-shiny-1": {
+  "pokemon": "Gardevoir",
+  "card_name": "Shiny Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_1.jpg",
+  "used": [
+   "2026-11-22"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (text based on printed Mega Gardevoir ex)",
+  "pocket": false,
+  "added": "2026-11-21"
+ },
+ "282-mega-gardevoir-shiny-2": {
+  "pokemon": "Gardevoir",
+  "card_name": "Shiny Mega Gardevoir EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 15
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork (B2-203) with Pocket Fantasia Force text: pocket design",
+  "pocket": true,
+  "added": "2026-11-21"
  }
 }

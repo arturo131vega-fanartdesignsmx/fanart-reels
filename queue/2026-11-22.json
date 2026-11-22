@@ -1,0 +1,264 @@
+{
+ "items": [
+  {
+   "id": "2026-11-22-r1",
+   "type": "reel",
+   "publish_at": "2026-11-22T08:00:00-06:00",
+   "pokemon": "Bulbasaur",
+   "listing_id": null,
+   "design_key": "1-bulbasaur-3",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_3.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "Bulbasaur",
+      "on a cherry blossom path...",
+      "tell me that's not adorable."
+     ],
+     "speed": 0.97,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Handmade one by one,",
+      "holographic all over,",
+      "and real card size."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Bundle any two",
+      [
+       "and save twenty-five percent",
+       "and save 25%"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Tap my bio to grab yours!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "bf_emma",
+   "speed": 1.04,
+   "variant_seed": 696600,
+   "music_seed": 180817,
+   "highlight": [
+    "Bulbasaur",
+    "Handmade",
+    "holographic"
+   ],
+   "caption_ig": "Bulbasaur just found the prettiest path in Kanto, and it's on a Pokémon card 🌸🌱\nBulbasaur is the Grass/Poison Seed Pokémon and #0001 in the National Pokédex, the very first entry. Here Bulbasaur trots down a cherry blossom path with its vines out, on a handmade holographic full art proxy card in real card size.\n\nBulbasaur, Charmander or Squirtle: who was your very first starter? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Bulbasaur, Ivysaur and Mega Venusaur designs: link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#bulbasaur #bulbasaurfanart #pokemoncollector #customcards #fanartdesignsmx",
+   "caption_fb": "Bulbasaur just found the prettiest path in Kanto, and it's on a Pokémon card 🌸🌱\nBulbasaur is the Grass/Poison Seed Pokémon and #0001 in the National Pokédex, the very first entry. Here Bulbasaur trots down a cherry blossom path with its vines out, on a handmade holographic full art proxy card in real card size.\n\nBulbasaur, Charmander or Squirtle: who was your very first starter? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 See every Bulbasaur design: https://fanartsdesignsmx.etsy.com/?search_query=bulbasaur\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#bulbasaur #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-22-c1",
+   "type": "carousel",
+   "publish_at": "2026-11-22T12:00:00-06:00",
+   "pokemon": "Mimikyu",
+   "listing_id": null,
+   "design_keys": [
+    "778-mimikyu-5",
+    "778-mimikyu-1",
+    "778-mimikyu-8",
+    "778-mimikyu-11"
+   ],
+   "slides": [
+    {
+     "hero": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_5.jpg",
+     "alt": "Mimikyu EX Pokémon fan art card under a giant full moon in a spooky forest, holographic full art handmade proxy card by Fanart Designs MX"
+    },
+    {
+     "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+    },
+    {
+     "collage": [
+      "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_1.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_8.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_11.jpg"
+     ],
+     "alt": "Mimikyu at a sewing table, Mimikyu EX with Acerola and Gengar, and Mimikyu in a flower forest: Pokémon fan art cards fanned out, handmade holographic proxy cards"
+    },
+    {
+     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+     "alt": "More handmade holographic Pokémon proxy cards like Mimikyu EX from Fanart Designs MX"
+    }
+   ],
+   "caption_ig": "It's not Pikachu, it's Mimikyu: a Mimikyu EX Pokémon card that keeps spooky season going all year 🌕👻\nMimikyu is the Ghost/Fairy Disguise Pokémon from Alola, hiding under a homemade Pikachu costume because it just wants to be loved. The cover is a moonlit Mimikyu EX; swipe to slide 3 for a crafty Mimikyu at a sewing table, a Mimikyu EX sneaking up on Acerola and Gengar, and one more in a flower forest. Every one is a handmade holographic full art proxy card in real card size.\n\nMoonlight, sewing room or haunted house: which Mimikyu would you adopt? 👇\n\n👻 Grab 2+ cards together and code 25OFF trims 25% off the total\n🛒 A dozen-plus Mimikyu designs live in the shop, link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#mimikyu #mimikyufanart #pokemonfanart #pokemoncollector #fanartdesignsmx",
+   "caption_fb": "It's not Pikachu, it's Mimikyu: a Mimikyu EX Pokémon card that keeps spooky season going all year 🌕👻\nMimikyu is the Ghost/Fairy Disguise Pokémon from Alola, hiding under a homemade Pikachu costume because it just wants to be loved. The cover is a moonlit Mimikyu EX; swipe to slide 3 for a crafty Mimikyu at a sewing table, a Mimikyu EX sneaking up on Acerola and Gengar, and one more in a flower forest. Every one is a handmade holographic full art proxy card in real card size.\n\nMoonlight, sewing room or haunted house: which Mimikyu would you adopt? 👇\n\n👻 Grab 2+ cards together and code 25OFF trims 25% off the total\n🛒 Browse every Mimikyu design: https://fanartsdesignsmx.etsy.com/?search_query=mimikyu\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#mimikyu #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-22-r2",
+   "type": "reel",
+   "publish_at": "2026-11-22T14:00:00-06:00",
+   "pokemon": "Sceptile",
+   "listing_id": 4609198399,
+   "design_key": "254-mega-sceptile-1",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_1.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "Mega Sceptile",
+      "just cut through the jungle...",
+      "and straight into your binder."
+     ],
+     "speed": 0.97,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Crafted by hand,",
+      "holo that catches every light,",
+      "and real card size."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Choose two or more",
+      [
+       "to save twenty-five percent",
+       "to save 25%"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "Go check the link in my bio!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "af_heart",
+   "speed": 1.04,
+   "variant_seed": 447584,
+   "music_seed": 809193,
+   "highlight": [
+    "Sceptile",
+    "hand",
+    "holo"
+   ],
+   "caption_ig": "Mega Sceptile EX just sliced through the jungle and onto a Pokémon card 🌿🦎\nSceptile is the Grass-type Forest Pokémon, the final evolution of Hoenn starter Treecko, and Mega Sceptile turns Grass/Dragon. The Terminating Tail attack comes from TCG Pocket; here Mega Sceptile is a handmade holographic full art proxy card in real card size that you can actually hold.\n\nTreecko, Grovyle or Mega Sceptile: which stage gets your vote? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 All seven Mega Sceptile designs, shiny ones too: link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#sceptile #megasceptile #tcgpocket #holocards #fanartdesignsmx",
+   "caption_fb": "Mega Sceptile EX just sliced through the jungle and onto a Pokémon card 🌿🦎\nSceptile is the Grass-type Forest Pokémon, the final evolution of Hoenn starter Treecko, and Mega Sceptile turns Grass/Dragon. The Terminating Tail attack comes from TCG Pocket; here Mega Sceptile is a handmade holographic full art proxy card in real card size that you can actually hold.\n\nTreecko, Grovyle or Mega Sceptile: which stage gets your vote? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Get this Mega Sceptile EX here: https://fanartsdesignsmx.etsy.com/listing/4609198399\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#sceptile #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-22-c2",
+   "type": "carousel",
+   "publish_at": "2026-11-22T18:00:00-06:00",
+   "pokemon": "Gardevoir",
+   "listing_id": null,
+   "design_keys": [
+    "282-mega-gardevoir-shiny-1",
+    "282-gardevoir-2",
+    "282-gardevoir-shiny-1",
+    "282-mega-gardevoir-1"
+   ],
+   "slides": [
+    {
+     "hero": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_1.jpg",
+     "alt": "Shiny Mega Gardevoir EX Pokémon fan art card in a stained-glass cathedral, holographic full art handmade proxy card by Fanart Designs MX"
+    },
+    {
+     "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+    },
+    {
+     "collage": [
+      "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_2.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_1.jpg",
+      "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_1.jpg"
+     ],
+     "alt": "Gardevoir in a rose garden, Shiny Gardevoir EX over ocean waves and Mega Gardevoir EX: Pokémon fan art cards fanned out, handmade holographic proxy cards"
+    },
+    {
+     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+     "alt": "More handmade holographic Pokémon proxy cards like Mega Gardevoir EX from Fanart Designs MX"
+    }
+   ],
+   "caption_ig": "Some cards you just stare at: a Shiny Mega Gardevoir EX Pokémon card lit by stained glass 💙✨\nGardevoir is the Psychic/Fairy Embrace Pokémon from Hoenn, said to create a small black hole to protect its Trainer. Its Mega Evolution takes the cover in shiny blue, and slide 3 brings three more: Gardevoir in a rose garden, a Shiny Gardevoir EX rising from the waves and a classic Mega Gardevoir EX. All are handmade holographic full art proxy cards, sized like real cards.\n\nClassic green or shiny blue: which Gardevoir would you keep for yourself? 👇\n\n💎 Pair up 2+ cards and code 25OFF gives you 25% off\n🛒 Gardevoir and Mega Gardevoir, shiny versions included, all in the shop: link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#gardevoir #megagardevoir #pokemonbinder #customcards #fanartdesignsmx",
+   "caption_fb": "Some cards you just stare at: a Shiny Mega Gardevoir EX Pokémon card lit by stained glass 💙✨\nGardevoir is the Psychic/Fairy Embrace Pokémon from Hoenn, said to create a small black hole to protect its Trainer. Its Mega Evolution takes the cover in shiny blue, and slide 3 brings three more: Gardevoir in a rose garden, a Shiny Gardevoir EX rising from the waves and a classic Mega Gardevoir EX. All are handmade holographic full art proxy cards, sized like real cards.\n\nClassic green or shiny blue: which Gardevoir would you keep for yourself? 👇\n\n💎 Pair up 2+ cards and code 25OFF gives you 25% off\n🛒 Shop every Gardevoir card: https://fanartsdesignsmx.etsy.com/?search_query=gardevoir\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#gardevoir #pokemoncards #fanartdesignsmx"
+  },
+  {
+   "id": "2026-11-22-r3",
+   "type": "reel",
+   "publish_at": "2026-11-22T20:30:00-06:00",
+   "pokemon": "Absol",
+   "listing_id": 4543751320,
+   "design_key": "359-mega-absol-z-2",
+   "card_image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Z_2.jpg",
+   "card_has_watermark": true,
+   "script": [
+    {
+     "chunks": [
+      "When Mega Absol Z shows up...",
+      "something big is coming."
+     ],
+     "speed": 0.97,
+     "pause": 0.32
+    },
+    {
+     "chunks": [
+      "Each card is handmade,",
+      "glowing with holo,",
+      "and real card size."
+     ],
+     "speed": 1.03,
+     "pause": 0.26
+    },
+    {
+     "chunks": [
+      "Add two or more to your cart",
+      [
+       "for twenty-five percent off",
+       "for 25% off"
+      ],
+      [
+       "with code twenty-five off.",
+       "with code 25OFF"
+      ]
+     ],
+     "speed": 1.05,
+     "pause": 0.3
+    },
+    {
+     "chunks": [
+      "My bio has the link!"
+     ],
+     "speed": 1.0,
+     "pause": 0
+    }
+   ],
+   "voice": "af_bella",
+   "speed": 1.03,
+   "variant_seed": 188972,
+   "music_seed": 919765,
+   "highlight": [
+    "Absol",
+    "handmade",
+    "holo"
+   ],
+   "caption_ig": "Absol only shows up before a disaster… so why is this Mega Absol Z EX Pokémon card on your feed? ⚡🌑\nAbsol is the Dark-type Disaster Pokémon from Hoenn, often misunderstood because it appears to warn people of danger. This Mega Absol Z EX stands in a storm of red lightning and lava on a handmade holographic full art proxy card, real card size and binder-ready.\n\nOmen of doom or loyal guardian: what's your take on Absol? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Mega Absol Z EX, its shiny and more Absol designs: link in bio\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#absol #megaabsol #pokemontcg #pokemonbinder #fanartdesignsmx",
+   "caption_fb": "Absol only shows up before a disaster… so why is this Mega Absol Z EX Pokémon card on your feed? ⚡🌑\nAbsol is the Dark-type Disaster Pokémon from Hoenn, often misunderstood because it appears to warn people of danger. This Mega Absol Z EX stands in a storm of red lightning and lava on a handmade holographic full art proxy card, real card size and binder-ready.\n\nOmen of doom or loyal guardian: what's your take on Absol? 👇\n\n🔥 Buy 2+ cards, save 25% with code 25OFF\n🛒 Get this Mega Absol Z EX here: https://fanartsdesignsmx.etsy.com/listing/4543751320\n\nFan-made art card. Not an official Pokémon / Nintendo product.\n\n#absol #pokemoncards #fanartdesignsmx"
+  }
+ ]
+}
