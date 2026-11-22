@@ -6899,5 +6899,260 @@
   "reason": "Shiny recolor of TCG Pocket artwork (B2-203) with Pocket Fantasia Force text: pocket design",
   "pocket": true,
   "added": "2026-11-21"
+ },
+ "493-arceus-1": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 146
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-095), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-3": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art; TCG Pocket attack text (Fabled Luster / Ultimate Force)",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-2": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 124
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-086), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-shiny-1": {
+  "pokemon": "Arceus",
+  "card_name": "Shiny Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 66
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-095) in shiny colors, not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-4": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 115
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-096), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-13": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730666,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_13.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art; TCG Pocket attack text (Fabled Luster / Ultimate Force)",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-7": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730376,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 155,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as physical promo Arceus V SWSH204 (155 inliers)",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-8": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730376,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 87,
+   "pocket_max": 8
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as physical full art Arceus V (S9-112 / swsh9-166)",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-12": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus EX",
+  "listing_id": 4543730376,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_12.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-5": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus",
+  "listing_id": 4543730376,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 157
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-070), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "493-arceus-11": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus",
+  "listing_id": 4543730376,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_11.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 109,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as physical promo Arceus XY83 (109 inliers)",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-6": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus VSTAR",
+  "listing_id": 4543730280,
+  "design_label": "Design 1 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 40,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Matches are VSTAR frame noise only (33-40 inliers on unrelated arts); artwork not on a physical card",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-dialga-palkia-tag-team": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus & Dialga & Palkia Tag Team GX",
+  "listing_id": 4543730280,
+  "design_label": "Design 2 Tag Team",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_Dialga_Palkia_Tag_Team.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 77,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as physical Arceus & Dialga & Palkia GX (sm12-221 / sm12-156)",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-9": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus VSTAR",
+  "listing_id": 4543730280,
+  "design_label": "Design 3 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 37,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Only VSTAR frame noise (27-37 inliers spread over unrelated cards); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "493-arceus-10": {
+  "pokemon": "Arceus",
+  "card_name": "Arceus VSTAR",
+  "listing_id": 4543730280,
+  "design_label": "Design 4 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 38,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Only VSTAR frame noise (32-38 inliers spread over unrelated cards); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
  }
 }
