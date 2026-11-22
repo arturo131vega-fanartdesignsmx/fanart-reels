@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "488-cresselia-1",
+  "name": "488_Cresselia_1",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_1.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "A2-168",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": true,
+   "inliers": 83,
+   "set": "Space-Time Smackdown",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Moonlight Gain"
+   ]
+  },
+  {
+   "id": "dp5-2",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh7-228",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

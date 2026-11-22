@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "491-darkrai-7",
+  "name": "491_Darkrai_7",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_7.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy9-74",
+   "lang": "en",
+   "name": "Darkrai EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh11-120",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bwp-BW73",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

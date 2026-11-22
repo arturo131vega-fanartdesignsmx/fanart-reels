@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "488-cresselia-4",
+  "name": "488_Cresselia_4",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_4.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "me02-039",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 182,
+   "set": "Phantasmal Flames",
+   "illustrator": "Raita Kazama",
+   "hp": 120,
+   "attacks": [
+    "Swelling Light",
+    "Aurora Beam"
+   ]
+  },
+  {
+   "id": "bw7-143",
+   "lang": "en",
+   "name": "Cresselia-EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss4-99",
+   "lang": "en",
+   "name": "Darkrai & Cresselia LEGEND",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dpp-DP51",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

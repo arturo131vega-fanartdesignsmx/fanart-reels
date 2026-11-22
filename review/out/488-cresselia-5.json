@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "488-cresselia-5",
+  "name": "488_Cresselia_5",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_5.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 108,
+   "set": "Chilling Reign",
+   "illustrator": "Tika Matsuno",
+   "hp": 120,
+   "attacks": [
+    "Crescent Glow",
+    "Photon Laser"
+   ]
+  },
+  {
+   "id": "dp4-2",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "dp5-2",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv06.5-021",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

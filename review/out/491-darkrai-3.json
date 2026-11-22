@@ -4,7 +4,7 @@
   "name": "491_Darkrai_3",
   "pokemon": "Darkrai",
   "dex": 491,
-  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_3.jpg"
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330734/491_Darkrai_3.jpg"
  },
  "official_cards_checked": 48,
  "lookup": {
@@ -13,28 +13,34 @@
  },
  "top": [
   {
+   "id": "A2-202",
+   "lang": "en",
+   "name": "Darkrai ex",
+   "pocket": true,
+   "inliers": 53,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Oswaldo KATO",
+   "hp": 140,
+   "attacks": [
+    "Dark Prism"
+   ]
+  },
+  {
    "id": "pl2-3",
    "lang": "en",
    "name": "Darkrai G",
    "pocket": false,
-   "inliers": 4
+   "inliers": 5
   },
   {
-   "id": "me06-063",
+   "id": "xy9-74",
    "lang": "en",
-   "name": "Darkrai",
+   "name": "Darkrai EX",
    "pocket": false,
-   "inliers": 4
+   "inliers": 5
   },
   {
-   "id": "swsh11-120",
-   "lang": "en",
-   "name": "Darkrai",
-   "pocket": false,
-   "inliers": 4
-  },
-  {
-   "id": "dpp-DP52",
+   "id": "dp5-3",
    "lang": "en",
    "name": "Darkrai",
    "pocket": false,

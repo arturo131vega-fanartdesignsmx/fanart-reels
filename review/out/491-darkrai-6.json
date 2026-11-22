@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "491-darkrai-6",
+  "name": "491_Darkrai_6",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_6.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "A2-187",
+   "lang": "en",
+   "name": "Darkrai ex",
+   "pocket": true,
+   "inliers": 71,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 140,
+   "attacks": [
+    "Dark Prism"
+   ]
+  },
+  {
+   "id": "sm3-88",
+   "lang": "en",
+   "name": "Darkrai GX",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sm3-139",
+   "lang": "en",
+   "name": "Darkrai GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "svp-110",
+   "lang": "en",
+   "name": "Darkrai ex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

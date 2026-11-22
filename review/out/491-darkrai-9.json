@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "491-darkrai-9",
+  "name": "491_Darkrai_9",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_9.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "xyp-XY114",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 102,
+   "set": "XY Black Star Promos",
+   "illustrator": "kawayoo",
+   "hp": 110,
+   "attacks": [
+    "Dark Cutter",
+    "Abyssal Sleep"
+   ]
+  },
+  {
+   "id": "sm3-87",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dpp-DP19",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S12a-228",
+   "lang": "ja",
+   "name": "ダークライVSTAR",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

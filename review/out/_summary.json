@@ -1,319 +1,298 @@
 {
- "493-arceus-1": {
-  "name": "493_Arceus_1",
+ "488-cresselia-1": {
+  "name": "488_Cresselia_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2a-095",
+   "id": "A2-168",
    "lang": "en",
-   "name": "Arceus ex",
+   "name": "Cresselia",
    "pocket": true,
-   "inliers": 146,
-   "set": "Triumphant Light",
-   "illustrator": "Takumi Wada",
-   "hp": 140,
+   "inliers": 83,
+   "set": "Space-Time Smackdown",
+   "illustrator": "rika",
+   "hp": 110,
    "attacks": [
-    "Ultimate Force"
+    "Moonlight Gain"
    ]
   },
-  "official_cards_checked": 46,
+  "official_cards_checked": 24,
   "lookup": {
-   "en": 41,
-   "ja": 18
+   "en": 24,
+   "ja": 10
   }
  },
- "493-arceus-2": {
-  "name": "493_Arceus_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-086",
-   "lang": "en",
-   "name": "Arceus ex",
-   "pocket": true,
-   "inliers": 124,
-   "set": "Triumphant Light",
-   "illustrator": "PLANETA CG Works",
-   "hp": 140,
-   "attacks": [
-    "Ultimate Force"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-3": {
-  "name": "493_Arceus_3",
+ "488-cresselia-2": {
+  "name": "488_Cresselia_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "dpp-DP56",
+   "id": "sv06.5-021",
    "lang": "en",
-   "name": "Arceus",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-4": {
-  "name": "493_Arceus_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-096",
-   "lang": "en",
-   "name": "Arceus ex",
-   "pocket": true,
-   "inliers": 115,
-   "set": "Triumphant Light",
-   "illustrator": "PLANETA CG Works",
-   "hp": 140,
-   "attacks": [
-    "Ultimate Force"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-5": {
-  "name": "493_Arceus_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-070",
-   "lang": "en",
-   "name": "Arceus",
-   "pocket": true,
-   "inliers": 157,
-   "set": "Triumphant Light",
-   "illustrator": "Nurikabe",
-   "hp": 120,
-   "attacks": [
-    "Power Blast"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-6": {
-  "name": "493_Arceus_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm12-258",
-   "lang": "en",
-   "name": "Arceus & Dialga & Palkia GX",
-   "pocket": false,
-   "inliers": 40,
-   "set": "Cosmic Eclipse",
-   "illustrator": "5ban Graphics",
-   "hp": 280,
-   "attacks": [
-    "Ultimate Ray",
-    "Altered Creation GX"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-7": {
-  "name": "493_Arceus_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH204",
-   "lang": "en",
-   "name": "Arceus V",
-   "pocket": false,
-   "inliers": 155,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 220,
-   "attacks": [
-    "Trinity Charge",
-    "Power Edge"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-8": {
-  "name": "493_Arceus_8",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S9-112",
-   "lang": "ja",
-   "name": "アルセウスV",
-   "pocket": false,
-   "inliers": 87,
-   "set": "スターバース",
-   "illustrator": "kawayoo",
-   "hp": 220,
-   "attacks": [
-    "トリニティチャージ",
-    "パワーエッジ"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-9": {
-  "name": "493_Arceus_9",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh9-123",
-   "lang": "en",
-   "name": "Arceus VSTAR",
-   "pocket": false,
-   "inliers": 37,
-   "set": "Brilliant Stars",
-   "illustrator": "5ban Graphics",
-   "hp": 280,
-   "attacks": [
-    "Trinity Nova"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-10": {
-  "name": "493_Arceus_10",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh9-123",
-   "lang": "en",
-   "name": "Arceus VSTAR",
-   "pocket": false,
-   "inliers": 38,
-   "set": "Brilliant Stars",
-   "illustrator": "5ban Graphics",
-   "hp": 280,
-   "attacks": [
-    "Trinity Nova"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-11": {
-  "name": "493_Arceus_11",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xyp-XY83",
-   "lang": "en",
-   "name": "Arceus",
-   "pocket": false,
-   "inliers": 109,
-   "set": "XY Black Star Promos",
-   "illustrator": "Shin Nagasawa",
-   "hp": 120,
-   "attacks": [
-    "Gather Light",
-    "Judgment Blast"
-   ]
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-12": {
-  "name": "493_Arceus_12",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm12-221",
-   "lang": "en",
-   "name": "Arceus & Dialga & Palkia GX",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 46,
-  "lookup": {
-   "en": 41,
-   "ja": 18
-  }
- },
- "493-arceus-13": {
-  "name": "493_Arceus_13",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl4-AR1",
-   "lang": "en",
-   "name": "Arceus",
+   "name": "Cresselia",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 46,
+  "official_cards_checked": 24,
   "lookup": {
-   "en": 41,
-   "ja": 18
+   "en": 24,
+   "ja": 10
   }
  },
- "493-arceus-shiny-1": {
-  "name": "493_Arceus_Shiny_1",
+ "488-cresselia-3": {
+  "name": "488_Cresselia_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A2a-095",
+   "id": "SV6a-071",
+   "lang": "ja",
+   "name": "クレセリア",
+   "pocket": false,
+   "inliers": 39,
+   "set": "ナイトワンダラー",
+   "illustrator": "satoma",
+   "hp": 120,
+   "attacks": [
+    "いやしのまい",
+    "クレセントパージ"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "488-cresselia-4": {
+  "name": "488_Cresselia_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me02-039",
    "lang": "en",
-   "name": "Arceus ex",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 182,
+   "set": "Phantasmal Flames",
+   "illustrator": "Raita Kazama",
+   "hp": 120,
+   "attacks": [
+    "Swelling Light",
+    "Aurora Beam"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "488-cresselia-5": {
+  "name": "488_Cresselia_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 108,
+   "set": "Chilling Reign",
+   "illustrator": "Tika Matsuno",
+   "hp": 120,
+   "attacks": [
+    "Crescent Glow",
+    "Photon Laser"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "488-cresselia-6": {
+  "name": "488_Cresselia_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 49,
+   "set": "Chilling Reign",
+   "illustrator": "Tika Matsuno",
+   "hp": 120,
+   "attacks": [
+    "Crescent Glow",
+    "Photon Laser"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "488-cresselia-7": {
+  "name": "488_Cresselia_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A2-168",
+   "lang": "en",
+   "name": "Cresselia",
    "pocket": true,
-   "inliers": 66,
-   "set": "Triumphant Light",
-   "illustrator": "Takumi Wada",
+   "inliers": 5
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "488-cresselia-8": {
+  "name": "488_Cresselia_8",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv06.5-021",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Shrouded Fable",
+   "illustrator": "matazo",
+   "hp": 120,
+   "attacks": [
+    "Healing Pirouette",
+    "Crescent Purge"
+   ]
+  },
+  "official_cards_checked": 24,
+  "lookup": {
+   "en": 24,
+   "ja": 10
+  }
+ },
+ "491-darkrai-2": {
+  "name": "491_Darkrai_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S12a-228",
+   "lang": "ja",
+   "name": "ダークライVSTAR",
+   "pocket": false,
+   "inliers": 98,
+   "set": "VSTARユニバース",
+   "illustrator": "Pani Kobayashi",
+   "hp": 270,
+   "attacks": [
+    "あくのはどう"
+   ]
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-3": {
+  "name": "491_Darkrai_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2-202",
+   "lang": "en",
+   "name": "Darkrai ex",
+   "pocket": true,
+   "inliers": 53,
+   "set": "Space-Time Smackdown",
+   "illustrator": "Oswaldo KATO",
    "hp": 140,
    "attacks": [
-    "Ultimate Force"
+    "Dark Prism"
    ]
   },
-  "official_cards_checked": 46,
+  "official_cards_checked": 48,
   "lookup": {
-   "en": 41,
-   "ja": 18
+   "en": 50,
+   "ja": 23
   }
  },
- "493-arceus-dialga-palkia-tag-team": {
-  "name": "493_Arceus_Dialga_Palkia_Tag_Team",
+ "491-darkrai-6": {
+  "name": "491_Darkrai_6",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sm12-156",
+   "id": "A2-187",
    "lang": "en",
-   "name": "Arceus & Dialga & Palkia GX",
-   "pocket": false,
-   "inliers": 77,
-   "set": "Cosmic Eclipse",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 280,
+   "name": "Darkrai ex",
+   "pocket": true,
+   "inliers": 71,
+   "set": "Space-Time Smackdown",
+   "illustrator": "PLANETA Yamashita",
+   "hp": 140,
    "attacks": [
-    "Ultimate Ray",
-    "Altered Creation GX"
+    "Dark Prism"
    ]
   },
-  "official_cards_checked": 46,
+  "official_cards_checked": 48,
   "lookup": {
-   "en": 41,
-   "ja": 18
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-7": {
+  "name": "491_Darkrai_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-3",
+   "lang": "en",
+   "name": "Darkrai G",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-8": {
+  "name": "491_Darkrai_8",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh8-167",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 338,
+   "set": "Fusion Strike",
+   "illustrator": "Megumi Mizutani",
+   "hp": 110,
+   "attacks": [
+    "Dark Cutter"
+   ]
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
+  }
+ },
+ "491-darkrai-9": {
+  "name": "491_Darkrai_9",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "xyp-XY114",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 102,
+   "set": "XY Black Star Promos",
+   "illustrator": "kawayoo",
+   "hp": 110,
+   "attacks": [
+    "Dark Cutter",
+    "Abyssal Sleep"
+   ]
+  },
+  "official_cards_checked": 48,
+  "lookup": {
+   "en": 50,
+   "ja": 23
   }
  }
 }

@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "491-darkrai-8",
+  "name": "491_Darkrai_8",
+  "pokemon": "Darkrai",
+  "dex": 491,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_8.jpg"
+ },
+ "official_cards_checked": 48,
+ "lookup": {
+  "en": 50,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "swsh8-167",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 338,
+   "set": "Fusion Strike",
+   "illustrator": "Megumi Mizutani",
+   "hp": 110,
+   "attacks": [
+    "Dark Cutter"
+   ]
+  },
+  {
+   "id": "B1-154",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": true,
+   "inliers": 236,
+   "set": "Mega Rising",
+   "illustrator": "Uta",
+   "hp": 120,
+   "attacks": [
+    "Shadow Cage"
+   ]
+  },
+  {
+   "id": "bwp-BW73",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "dp4-4",
+   "lang": "en",
+   "name": "Darkrai",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "488-cresselia-3",
+  "name": "488_Cresselia_3",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_3.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "SV6a-071",
+   "lang": "ja",
+   "name": "クレセリア",
+   "pocket": false,
+   "inliers": 39,
+   "set": "ナイトワンダラー",
+   "illustrator": "satoma",
+   "hp": 120,
+   "attacks": [
+    "いやしのまい",
+    "クレセントパージ"
+   ]
+  },
+  {
+   "id": "sv06.5-071",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Shrouded Fable",
+   "illustrator": "satoma",
+   "hp": 120,
+   "attacks": [
+    "Healing Pirouette",
+    "Crescent Purge"
+   ]
+  },
+  {
+   "id": "me02-039",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

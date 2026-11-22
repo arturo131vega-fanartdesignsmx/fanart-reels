@@ -4,7 +4,7 @@
   "name": "491_Darkrai_2",
   "pokemon": "Darkrai",
   "dex": 491,
-  "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_2.jpg"
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330732/491_Darkrai_2.jpg"
  },
  "official_cards_checked": 48,
  "lookup": {
@@ -13,32 +13,58 @@
  },
  "top": [
   {
-   "id": "dp5-3",
-   "lang": "en",
-   "name": "Darkrai",
+   "id": "S12a-228",
+   "lang": "ja",
+   "name": "ダークライVSTAR",
    "pocket": false,
-   "inliers": 5
+   "inliers": 98,
+   "set": "VSTARユニバース",
+   "illustrator": "Pani Kobayashi",
+   "hp": 270,
+   "attacks": [
+    "あくのはどう"
+   ]
   },
   {
-   "id": "dp4-4",
+   "id": "swsh10-099",
    "lang": "en",
-   "name": "Darkrai",
+   "name": "Darkrai VSTAR",
    "pocket": false,
-   "inliers": 5
+   "inliers": 22,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Dark Pulse"
+   ]
   },
   {
-   "id": "pl2-3",
+   "id": "xy9-118",
    "lang": "en",
-   "name": "Darkrai G",
+   "name": "Darkrai EX",
    "pocket": false,
-   "inliers": 4
+   "inliers": 19,
+   "set": "BREAKpoint",
+   "illustrator": "Ryo Ueda",
+   "hp": 180,
+   "attacks": [
+    "Dark Pulse",
+    "Dark Head"
+   ]
   },
   {
-   "id": "swsh10-098",
+   "id": "sm3-88",
    "lang": "en",
-   "name": "Darkrai V",
+   "name": "Darkrai GX",
    "pocket": false,
-   "inliers": 4
+   "inliers": 15,
+   "set": "Burning Shadows",
+   "illustrator": "PLANETA",
+   "hp": 180,
+   "attacks": [
+    "Dark Cleave",
+    "Dead End GX"
+   ]
   }
  ]
 }

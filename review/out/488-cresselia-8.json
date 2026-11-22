@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "488-cresselia-8",
+  "name": "488_Cresselia_8",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_8.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv06.5-021",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Shrouded Fable",
+   "illustrator": "matazo",
+   "hp": 120,
+   "attacks": [
+    "Healing Pirouette",
+    "Crescent Purge"
+   ]
+  },
+  {
+   "id": "SV6a-021",
+   "lang": "ja",
+   "name": "クレセリア",
+   "pocket": false,
+   "inliers": 33,
+   "set": "ナイトワンダラー",
+   "illustrator": "matazo",
+   "hp": 120,
+   "attacks": [
+    "いやしのまい",
+    "クレセントパージ"
+   ]
+  },
+  {
+   "id": "sm11-87",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Unified Minds",
+   "illustrator": "Megumi Mizutani",
+   "hp": 130,
+   "attacks": [
+    "Aurora Gain",
+    "Luminous Blade"
+   ]
+  },
+  {
+   "id": "swshp-SWSH114",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 18,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 120,
+   "attacks": [
+    "Crescent Glow",
+    "Photon Laser"
+   ]
+  }
+ ]
+}

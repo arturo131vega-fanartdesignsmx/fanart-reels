@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "488-cresselia-2",
+  "name": "488_Cresselia_2",
+  "pokemon": "Cresselia",
+  "dex": 488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_2.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv06.5-021",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-037",
+   "lang": "en",
+   "name": "Cresselia ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "swsh6-64",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy8-70",
+   "lang": "en",
+   "name": "Cresselia",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
