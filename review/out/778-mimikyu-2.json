@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-2",
+  "name": "778_Mimikyu_2",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_2.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "S11-050",
+   "lang": "ja",
+   "name": "ミミッキュ",
+   "pocket": false,
+   "inliers": 103,
+   "set": "ロストアビス",
+   "illustrator": "Ligton",
+   "hp": 70,
+   "attacks": [
+    "まどわす",
+    "ワーストギフト"
+   ]
+  },
+  {
+   "id": "swsh11-080",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 78,
+   "set": "Lost Origin",
+   "illustrator": "Ligton",
+   "hp": 70,
+   "attacks": [
+    "Perplex",
+    "Worst Gift"
+   ]
+  },
+  {
+   "id": "sm12-97",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv09-069",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

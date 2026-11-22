@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-vmax",
+  "name": "778_Mimikyu_VMAX",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_VMAX.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "A3b-035",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "sm2-58",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh11-080",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm12-97",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

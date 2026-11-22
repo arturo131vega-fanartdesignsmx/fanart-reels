@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "254-sceptile-1",
+  "name": "254_Sceptile_1",
+  "pokemon": "Sceptile",
+  "dex": 254,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_1.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "xy5-9",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pop1-4",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "pop4-5",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "xy7-7",
+   "lang": "en",
+   "name": "Sceptile EX",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

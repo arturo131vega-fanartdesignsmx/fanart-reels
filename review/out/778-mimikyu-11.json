@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-11",
+  "name": "778_Mimikyu_11",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_11.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "me02-042",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 151,
+   "set": "Phantasmal Flames",
+   "illustrator": "miki kudo",
+   "hp": 70,
+   "attacks": [
+    "Call for Family",
+    "Scratch"
+   ]
+  },
+  {
+   "id": "svp-004",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv04.5-160",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "A3-083",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "282-mega-gardevoir-shiny-1",
+  "name": "282_Mega_Gardevoir_Shiny_1",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_Shiny_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "xy11-116",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B2-203",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "me01-060",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "g1-RC30",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

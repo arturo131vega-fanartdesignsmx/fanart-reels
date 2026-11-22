@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "282-mega-gardevoir-4",
+  "name": "282_Mega_Gardevoir_4",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_4.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "me01-159",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": false,
+   "inliers": 100,
+   "set": "Mega Evolution",
+   "illustrator": "takuyoa",
+   "hp": 360,
+   "attacks": [
+    "Overflowing Wishes",
+    "Mega Symphonia"
+   ]
+  },
+  {
+   "id": "SV1S-101",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy11-111",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh3.5-70",
+   "lang": "en",
+   "name": "Gardevoir V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

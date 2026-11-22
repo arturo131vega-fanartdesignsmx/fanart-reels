@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-5",
+  "name": "01_Bulbasaur_5",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_5.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv03.5-166",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 203,
+   "set": "151",
+   "illustrator": "Yoriyuki Ikegami",
+   "hp": 70,
+   "attacks": [
+    "Leech Seed"
+   ]
+  },
+  {
+   "id": "SV2a-166",
+   "lang": "ja",
+   "name": "フシギダネ",
+   "pocket": false,
+   "inliers": 154,
+   "set": "ポケモンカード151",
+   "illustrator": "Yoriyuki Ikegami",
+   "hp": 70,
+   "attacks": [
+    "やどりぎのタネ"
+   ]
+  },
+  {
+   "id": "bw5-1",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1a-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

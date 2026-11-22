@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-4",
+  "name": "778_Mimikyu_4",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_4.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "P-A-066",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 295,
+   "set": "Promos-A",
+   "illustrator": "Amelicart",
+   "hp": 70,
+   "attacks": [
+    "Shadow Hit"
+   ]
+  },
+  {
+   "id": "sm12-245",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "me02-042",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B2-199",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

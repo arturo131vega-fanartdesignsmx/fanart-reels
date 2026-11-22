@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-9",
+  "name": "778_Mimikyu_9",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_9.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "sm12-245",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 139,
+   "set": "Cosmic Eclipse",
+   "illustrator": "You Iribi",
+   "hp": 70,
+   "attacks": [
+    "Impersonation",
+    "Mischievous Hands"
+   ]
+  },
+  {
+   "id": "SV2P-034",
+   "lang": "ja",
+   "name": "ミミッキュ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "svp-004",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "A3b-035",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 0
+  }
+ ]
+}

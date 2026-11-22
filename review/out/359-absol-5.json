@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "359-absol-5",
+  "name": "359_Absol_5",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_5.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "S12a-191",
+   "lang": "ja",
+   "name": "アブソル",
+   "pocket": false,
+   "inliers": 64,
+   "set": "VSTARユニバース",
+   "illustrator": "Uta",
+   "hp": 100,
+   "attacks": [
+    "うずまくわざわい",
+    "ツメでえぐる"
+   ]
+  },
+  {
+   "id": "me01-086",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex13-18",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3-112",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

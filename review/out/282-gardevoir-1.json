@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-1",
+  "name": "282_Gardevoir_1",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_1.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "xy7-54",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm10-225",
+   "lang": "en",
+   "name": "Gardevoir & Sylveon GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex11-6",
+   "lang": "en",
+   "name": "Gardevoir δ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh3.5-76",
+   "lang": "en",
+   "name": "Gardevoir VMAX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "359-absol-4",
+  "name": "359_Absol_4",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_4.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "swsh8-164",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 125,
+   "set": "Fusion Strike",
+   "illustrator": "Eri Yamaki",
+   "hp": 100,
+   "attacks": [
+    "Drag Off",
+    "Slash"
+   ]
+  },
+  {
+   "id": "dp3-21",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv06.5-030",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw9-67",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

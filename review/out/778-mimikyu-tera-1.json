@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-tera-1",
+  "name": "778_Mimikyu_Tera_1",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_Tera_1.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "A3-083",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 26,
+   "set": "Celestial Guardians",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Shadow Hit"
+   ]
+  },
+  {
+   "id": "sv04.5-037",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Paldean Fates",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  },
+  {
+   "id": "sv04.5-160",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Paldean Fates",
+   "illustrator": "Nelnal",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  },
+  {
+   "id": "sm12-97",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 17,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Yuka Morii",
+   "hp": 70,
+   "attacks": [
+    "Tail Trickery"
+   ]
+  }
+ ]
+}

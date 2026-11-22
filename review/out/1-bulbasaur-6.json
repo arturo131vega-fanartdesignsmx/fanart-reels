@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-6",
+  "name": "01_Bulbasaur_6",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_6.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv03.5-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 58,
+   "set": "151",
+   "illustrator": "Yuu Nishida",
+   "hp": 70,
+   "attacks": [
+    "Leech Seed"
+   ]
+  },
+  {
+   "id": "SV2a-001",
+   "lang": "ja",
+   "name": "フシギダネ",
+   "pocket": false,
+   "inliers": 52,
+   "set": "ポケモンカード151",
+   "illustrator": "Yuu Nishida",
+   "hp": 70,
+   "attacks": [
+    "やどりぎのタネ"
+   ]
+  },
+  {
+   "id": "B1a-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "ex4-39",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

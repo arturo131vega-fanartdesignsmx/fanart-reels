@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-2",
+  "name": "01_Bulbasaur_2",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_2.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "A1-227",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": true,
+   "inliers": 191,
+   "set": "Genetic Apex",
+   "illustrator": "Ryota Murayama",
+   "hp": 70,
+   "attacks": [
+    "Vine Whip"
+   ]
+  },
+  {
+   "id": "me01-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "P-A-023",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "SV2a-001",
+   "lang": "ja",
+   "name": "フシギダネ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

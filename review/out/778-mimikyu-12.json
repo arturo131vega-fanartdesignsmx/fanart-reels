@@ -1,0 +1,57 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-12",
+  "name": "778_Mimikyu_12",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_12.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "sm12-96",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 165,
+   "set": "Cosmic Eclipse",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Impersonation",
+    "Mischievous Hands"
+   ]
+  },
+  {
+   "id": "A3-083",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": true,
+   "inliers": 146,
+   "set": "Celestial Guardians",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 70,
+   "attacks": [
+    "Shadow Hit"
+   ]
+  },
+  {
+   "id": "me02-042",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "svp-004",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

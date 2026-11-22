@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-6",
+  "name": "282_Gardevoir_6",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_6.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "A1-132",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": true,
+   "inliers": 60,
+   "set": "Genetic Apex",
+   "illustrator": "Yuu Nishida",
+   "hp": 110,
+   "attacks": [
+    "Psyshot"
+   ]
+  },
+  {
+   "id": "SV1S-092",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "me01-159",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV4a-328",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

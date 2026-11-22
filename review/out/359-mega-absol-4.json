@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "359-mega-absol-4",
+  "name": "359_Mega_Absol_4",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_4.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me01-161",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": false,
+   "inliers": 166,
+   "set": "Mega Evolution",
+   "illustrator": "aky CG Works",
+   "hp": 280,
+   "attacks": [
+    "Terminal Period",
+    "Claw of Darkness"
+   ]
+  },
+  {
+   "id": "ex13-18",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp3-21",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-40",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

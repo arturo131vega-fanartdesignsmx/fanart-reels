@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "359-mega-absol-3",
+  "name": "359_Mega_Absol_3",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_3.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "B1-262",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": true,
+   "inliers": 62,
+   "set": "Mega Rising",
+   "illustrator": "PLANETA CG Works",
+   "hp": 170,
+   "attacks": [
+    "Darkness Claw"
+   ]
+  },
+  {
+   "id": "sm12-133",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "me01-180",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "B1-280",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": true,
+   "inliers": 6
+  }
+ ]
+}

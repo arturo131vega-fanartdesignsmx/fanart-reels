@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-shiny-2",
+  "name": "282_Gardevoir_Shiny_2",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_Shiny_2.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "SV4a-348",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 44,
+   "set": "シャイニートレジャーex",
+   "illustrator": "Kuroimori",
+   "hp": 310,
+   "attacks": [
+    "ミラクルフォース"
+   ]
+  },
+  {
+   "id": "sv04.5-233",
+   "lang": "en",
+   "name": "Gardevoir ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Paldean Fates",
+   "illustrator": "Kuroimori",
+   "hp": 310,
+   "attacks": [
+    "Miracle Force"
+   ]
+  },
+  {
+   "id": "swsh6-61",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04.5-029",
+   "lang": "en",
+   "name": "Gardevoir ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

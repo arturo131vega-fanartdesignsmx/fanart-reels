@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-1",
+  "name": "778_Mimikyu_1",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_1.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "me02-042",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-96",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh3-81",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm8-206",
+   "lang": "en",
+   "name": "Mimikyu GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

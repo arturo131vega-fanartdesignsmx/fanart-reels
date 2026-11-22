@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "282-mega-gardevoir-5",
+  "name": "282_Mega_Gardevoir_5",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_5.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "xy5-156",
+   "lang": "en",
+   "name": "M Gardevoir EX",
+   "pocket": false,
+   "inliers": 200,
+   "set": "Primal Clash",
+   "illustrator": "5ban Graphics",
+   "hp": 210,
+   "attacks": [
+    "Brilliant Arrow"
+   ]
+  },
+  {
+   "id": "xy7-54",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh3.5-70",
+   "lang": "en",
+   "name": "Gardevoir V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy11-78",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

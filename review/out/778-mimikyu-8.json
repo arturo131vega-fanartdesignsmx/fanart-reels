@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-8",
+  "name": "778_Mimikyu_8",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_8.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "sv02-097",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Paldea Evolved",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  },
+  {
+   "id": "sm12-97",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Cosmic Eclipse",
+   "illustrator": "Yuka Morii",
+   "hp": 70,
+   "attacks": [
+    "Tail Trickery"
+   ]
+  },
+  {
+   "id": "sv04.5-037",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Paldean Fates",
+   "illustrator": "Kagemaru Himeno",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  },
+  {
+   "id": "sv04.5-160",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Paldean Fates",
+   "illustrator": "Nelnal",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  }
+ ]
+}

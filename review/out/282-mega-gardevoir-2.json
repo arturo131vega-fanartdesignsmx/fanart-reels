@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "282-mega-gardevoir-2",
+  "name": "282_Mega_Gardevoir_2",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_2.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "me01-178",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": false,
+   "inliers": 73,
+   "set": "Mega Evolution",
+   "illustrator": "Raita Kazama",
+   "hp": 360,
+   "attacks": [
+    "Overflowing Wishes",
+    "Mega Symphonia"
+   ]
+  },
+  {
+   "id": "xy5-106",
+   "lang": "en",
+   "name": "M Gardevoir EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "B2-065",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "xy11-116",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

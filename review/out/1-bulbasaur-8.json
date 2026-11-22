@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-8",
+  "name": "01_Bulbasaur_8",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_8.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "bw5-1",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv03.5-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh10.5-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "det1-1",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

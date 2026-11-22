@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "359-absol-2",
+  "name": "359_Absol_2",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_2.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "SV3-073",
+   "lang": "ja",
+   "name": "アブソルex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me02-063",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "me01-086",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex4-96",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

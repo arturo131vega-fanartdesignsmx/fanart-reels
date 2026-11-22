@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-7",
+  "name": "778_Mimikyu_7",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_7.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "svp-075",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 72,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 70,
+   "attacks": [
+    "Ghost Eye"
+   ]
+  },
+  {
+   "id": "SV4a-341",
+   "lang": "ja",
+   "name": "ミミッキュ",
+   "pocket": false,
+   "inliers": 56,
+   "set": "シャイニートレジャーex",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 70,
+   "attacks": [
+    "ゴーストアイ"
+   ]
+  },
+  {
+   "id": "smp-SM163",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "smp-SM29",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

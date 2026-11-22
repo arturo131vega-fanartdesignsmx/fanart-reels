@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-1",
+  "name": "01_Bulbasaur_1",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_1.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "me01-133",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 117,
+   "set": "Mega Evolution",
+   "illustrator": "mashu",
+   "hp": 80,
+   "attacks": [
+    "Bind Down"
+   ]
+  },
+  {
+   "id": "sv03.5-166",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "swsh10.5-001",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex6-54",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

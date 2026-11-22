@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-6",
+  "name": "778_Mimikyu_6",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_6.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "me02.5-238",
+   "lang": "en",
+   "name": "Team Rocket's Mimikyu",
+   "pocket": false,
+   "inliers": 144,
+   "set": "Ascended Heroes",
+   "illustrator": "GOSSAN",
+   "hp": 60,
+   "attacks": [
+    "Gemstone Mimicry"
+   ]
+  },
+  {
+   "id": "sv09-069",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B2-073",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "sv10-087",
+   "lang": "en",
+   "name": "Team Rocket's Mimikyu",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

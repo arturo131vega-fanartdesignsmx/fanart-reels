@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-4",
+  "name": "282_Gardevoir_4",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_4.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "S11a-072",
+   "lang": "ja",
+   "name": "サーナイト",
+   "pocket": false,
+   "inliers": 102,
+   "set": "白熱のアルカナ",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 150,
+   "attacks": [
+    "マジカルショット"
+   ]
+  },
+  {
+   "id": "me01-159",
+   "lang": "en",
+   "name": "Mega Gardevoir ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV4a-328",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh3.5-17",
+   "lang": "en",
+   "name": "Gardevoir VMAX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

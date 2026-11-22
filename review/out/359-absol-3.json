@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "359-absol-3",
+  "name": "359_Absol_3",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_3.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "me02-063",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 108,
+   "set": "Phantasmal Flames",
+   "illustrator": "Takumi Wada",
+   "hp": 110,
+   "attacks": [
+    "Allure",
+    "Dark Cutter"
+   ]
+  },
+  {
+   "id": "SV3a-036",
+   "lang": "ja",
+   "name": "アブソル",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV3-126",
+   "lang": "ja",
+   "name": "アブソルex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw9-67",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

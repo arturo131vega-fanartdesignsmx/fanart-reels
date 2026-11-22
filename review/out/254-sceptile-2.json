@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "254-sceptile-2",
+  "name": "254_Sceptile_2",
+  "pokemon": "Sceptile",
+  "dex": 254,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Sceptile_2.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "xy7-80",
+   "lang": "en",
+   "name": "Sceptile Spirit Link",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex4-93",
+   "lang": "en",
+   "name": "Sceptile ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy7-7",
+   "lang": "en",
+   "name": "Sceptile EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy5-8",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

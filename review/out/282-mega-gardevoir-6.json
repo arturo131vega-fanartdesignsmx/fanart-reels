@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "282-mega-gardevoir-6",
+  "name": "282_Mega_Gardevoir_6",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Mega_Gardevoir_6.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "bw5-109",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "xy5-105",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy11-111",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy11-116",
+   "lang": "en",
+   "name": "Gardevoir EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

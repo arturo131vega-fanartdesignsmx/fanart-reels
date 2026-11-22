@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-5",
+  "name": "778_Mimikyu_5",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_5.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "sv09-069",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh3-81",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm2-58",
+   "lang": "en",
+   "name": "Mimikyu",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh5-62",
+   "lang": "en",
+   "name": "Mimikyu V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

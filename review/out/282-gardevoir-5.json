@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-5",
+  "name": "282_Gardevoir_5",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_5.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "B2-065",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": true,
+   "inliers": 56,
+   "set": "Fantastical Parade",
+   "illustrator": "mingo",
+   "hp": 130,
+   "attacks": [
+    "Psy Turbo"
+   ]
+  },
+  {
+   "id": "swsh3.5-70",
+   "lang": "en",
+   "name": "Gardevoir V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm10-130",
+   "lang": "en",
+   "name": "Gardevoir & Sylveon GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S10a-027",
+   "lang": "ja",
+   "name": "かがやくサーナイト",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

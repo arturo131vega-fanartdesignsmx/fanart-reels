@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "254-mega-sceptile-4",
+  "name": "254_Mega_Sceptile_4",
+  "pokemon": "Sceptile",
+  "dex": 254,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/254_Mega_Sceptile_4.jpg"
+ },
+ "official_cards_checked": 24,
+ "lookup": {
+  "en": 24,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "pop1-4",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "pop4-5",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "xy7-7",
+   "lang": "en",
+   "name": "Sceptile EX",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw9-8",
+   "lang": "en",
+   "name": "Sceptile",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

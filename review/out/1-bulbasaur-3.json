@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1-bulbasaur-3",
+  "name": "01_Bulbasaur_3",
+  "pokemon": "Bulbasaur",
+  "dex": 1,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/01_Bulbasaur_3.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 35,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv07-143",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex4-39",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "gym2-39",
+   "lang": "en",
+   "name": "Erika's Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "base1-44",
+   "lang": "en",
+   "name": "Bulbasaur",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

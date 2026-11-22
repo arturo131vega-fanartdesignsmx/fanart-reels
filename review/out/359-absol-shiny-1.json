@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "359-absol-shiny-1",
+  "name": "359_Absol_Shiny_1",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_Shiny_1.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "SV6a-030",
+   "lang": "ja",
+   "name": "アブソル",
+   "pocket": false,
+   "inliers": 164,
+   "set": "ナイトワンダラー",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "バッドフォール"
+   ]
+  },
+  {
+   "id": "sv06.5-030",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 151,
+   "set": "Shrouded Fable",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Darkfall"
+   ]
+  },
+  {
+   "id": "me01-086",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1-150",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

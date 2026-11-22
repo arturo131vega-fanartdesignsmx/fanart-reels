@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "359-mega-absol-6",
+  "name": "359_Mega_Absol_6",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_6.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "swsh3.5-38",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp3-21",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv06.5-030",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw9-67",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

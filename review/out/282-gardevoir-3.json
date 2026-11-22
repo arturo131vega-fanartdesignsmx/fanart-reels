@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "282-gardevoir-3",
+  "name": "282_Gardevoir_3",
+  "pokemon": "Gardevoir",
+  "dex": 282,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/282_Gardevoir_3.jpg"
+ },
+ "official_cards_checked": 70,
+ "lookup": {
+  "en": 65,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "SV1S-101",
+   "lang": "ja",
+   "name": "サーナイトex",
+   "pocket": false,
+   "inliers": 128,
+   "set": "スカーレットex",
+   "illustrator": "Jiro Sasumo",
+   "hp": 310,
+   "attacks": [
+    "ミラクルフォース"
+   ]
+  },
+  {
+   "id": "sv01-245",
+   "lang": "en",
+   "name": "Gardevoir ex",
+   "pocket": false,
+   "inliers": 80,
+   "set": "Scarlet & Violet",
+   "illustrator": "Jiro Sasumo",
+   "hp": 310,
+   "attacks": [
+    "Miracle Force"
+   ]
+  },
+  {
+   "id": "xy7-54",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh12-069",
+   "lang": "en",
+   "name": "Gardevoir",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

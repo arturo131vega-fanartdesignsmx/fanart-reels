@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "359-absol-6",
+  "name": "359_Absol_6",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Absol_6.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "xyp-XY63",
+   "lang": "en",
+   "name": "M Absol EX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh3.5-38",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl3-141",
+   "lang": "en",
+   "name": "Absol G LV.X",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1-150",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

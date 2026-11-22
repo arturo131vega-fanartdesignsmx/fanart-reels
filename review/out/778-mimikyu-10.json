@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "778-mimikyu-10",
+  "name": "778_Mimikyu_10",
+  "pokemon": "Mimikyu",
+  "dex": 778,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/778_Mimikyu_10.jpg"
+ },
+ "official_cards_checked": 45,
+ "lookup": {
+  "en": 40,
+  "ja": 30
+ },
+ "top": [
+  {
+   "id": "B2-186",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": true,
+   "inliers": 95,
+   "set": "Fantastical Parade",
+   "illustrator": "PLANETA CG Works",
+   "hp": 120,
+   "attacks": [
+    "Claw Slash"
+   ]
+  },
+  {
+   "id": "svp-004",
+   "lang": "en",
+   "name": "Mimikyu ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "SV2P-034",
+   "lang": "ja",
+   "name": "ミミッキュ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV4a-088",
+   "lang": "ja",
+   "name": "ミミッキュ",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "359-mega-absol-shiny-1",
+  "name": "359_Mega_Absol_Shiny_1",
+  "pokemon": "Absol",
+  "dex": 359,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/359_Mega_Absol_Shiny_1.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 36,
+  "ja": 17
+ },
+ "top": [
+  {
+   "id": "B1-280",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": true,
+   "inliers": 98,
+   "set": "Mega Rising",
+   "illustrator": "kawayoo",
+   "hp": 170,
+   "attacks": [
+    "Darkness Claw"
+   ]
+  },
+  {
+   "id": "ex12-15",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex4-96",
+   "lang": "en",
+   "name": "Absol",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B1-151",
+   "lang": "en",
+   "name": "Mega Absol ex",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}
