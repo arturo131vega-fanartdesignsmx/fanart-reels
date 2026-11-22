@@ -7,6 +7,7 @@
     VF: 'https://res.cloudinary.com/rntnboij/video/upload/v1795295488/finishes_3s.mp4',
     HOW: 'https://res.cloudinary.com/rntnboij/image/upload/v1795231347/info_how_to_order.jpg',
     MIX: 'https://res.cloudinary.com/rntnboij/image/upload/v1795293025/info_mix_and_match_v2.jpg',
+    FIN: 'https://res.cloudinary.com/rntnboij/image/upload/v1795323779/info_finishes.jpg',
   };
   const VIDLINE = '📹 Videos: Holographic finish, then Triangle, Stars and Dots Holo.';
   // timers via a Worker: not throttled when the pane is in the background
@@ -171,9 +172,10 @@
     const vf = await upload(w, h, 'VF', 'finishes_3s.mp4', 'video/mp4');
     const how = q.how ? String(q.how) : await upload(w, h, 'HOW', 'how_to_order.jpg', 'image/jpeg');
     const mix = await upload(w, h, 'MIX', 'mix_and_match.jpg', 'image/jpeg');
+    const fin = await upload(w, h, 'FIN', 'finishes.jpg', 'image/jpeg');
     // 3. order
     bar(`${R.pos}/${R.q.length} · ${T}\nacomodando carrusel…`);
-    const target = [String(q.keep[0]), vp, vf, ...q.keep.slice(1).map(String), ...unknown, how, mix];
+    const target = [String(q.keep[0]), vp, vf, fin, ...q.keep.slice(1).map(String), ...unknown, how, mix];
     for (let i = 0; i < target.length; i++) await moveTo(h, target[i], i);
     const ord = h.ids();
     if (ord.join(',') !== target.join(',')) throw new Error('orden final distinto: ' + ord.join(','));
@@ -198,16 +200,41 @@
     document.getElementById('__rr_frame').innerHTML = '';
     // 7. verify public page
     bar(`${R.pos}/${R.q.length} · ${T}\nverificando…`);
-    const expSeq = [String(q.keep[0]), 'V', 'V', ...q.keep.slice(1).map(String), ...unknown, how, mix];
+    const expSeq = [String(q.keep[0]), 'V', 'V', fin, ...q.keep.slice(1).map(String), ...unknown, how, mix];
     let post = null, okSeq = false;
     for (let k = 0; k < 4 && !okSeq; k++) { await sleep(k ? 15000 : 3000); post = await pubInfo(q.id); okSeq = post.seq.slice(0, expSeq.length).join(',') === expSeq.join(',') && post.seq.length === expSeq.length; }
     if (!okSeq) iss.push('VERIFICAR orden público: ' + post.seq.join(','));
     if (JSON.stringify(post.map) !== JSON.stringify(pre.map)) iss.push('VERIFICAR ligas cambiaron: ' + JSON.stringify(pre.map) + ' -> ' + JSON.stringify(post.map));
     for (const iid of q.keep) { const a = post.alts[String(iid)]; if (a !== undefined && a !== altOf(iid)) iss.push('alt distinto ' + iid); }
     if (!post.vidline) iss.push('VERIFICAR línea de video en descripción pública');
-    return { st: iss.some(x => x.startsWith('VERIFICAR') || x.startsWith('liga') || x.startsWith('sin foto')) ? 'revisar' : 'ok', iss, s: Math.round((Date.now() - t0) / 1000), vp, vf, how, mix };
+    return { st: iss.some(x => x.startsWith('VERIFICAR') || x.startsWith('liga') || x.startsWith('sin foto')) ? 'revisar' : 'ok', iss, s: Math.round((Date.now() - t0) / 1000), vp, vf, how, mix, fin, finok: 1 };
   }
 
+
+  async function processFin(q) {
+    const iss = []; const t0 = Date.now();
+    const pre = await pubInfo(q.id);
+    const f = await loadEditor(q.id); const w = f.contentWindow; const h = H(w);
+    bar(`${R.pos}/${R.q.length} · ${q.nt || q.t}\nagregando foto de acabados…`);
+    const g = h.grid();
+    if (!(g[1] && g[1].v && g[2] && g[2].v)) throw new Error('videos no están en 2 y 3: ' + h.ids().join(','));
+    const fin = await upload(w, h, 'FIN', 'finishes.jpg', 'image/jpeg');
+    await moveTo(h, fin, 3);
+    const ids = h.ids(); if (ids[3] !== fin) throw new Error('foto de acabados no quedó en 4: ' + ids.join(','));
+    await sleep(500);
+    const D = h.doc; const pb = [...D.querySelectorAll('button')].find(b => /^Publish changes$/.test(b.innerText.trim()));
+    if (!pb) throw new Error('no publish button');
+    pb.click();
+    const left = await until(() => { try { return !/listing-editor/.test(w.location.pathname); } catch (e) { return true; } }, 60000, 500);
+    if (!left) throw new Error('no se publicó (fin)');
+    document.getElementById('__rr_frame').innerHTML = '';
+    const exp = ids.map(x => (g.find(y => y.id === x) || {}).v ? 'V' : x);
+    let post = null, ok = false;
+    for (let k = 0; k < 4 && !ok; k++) { await sleep(k ? 15000 : 3000); post = await pubInfo(q.id); ok = post.seq.join(',') === exp.join(','); }
+    if (!ok) iss.push('VERIFICAR orden público (fin): ' + post.seq.join(','));
+    if (JSON.stringify(post.map) !== JSON.stringify(pre.map)) iss.push('VERIFICAR ligas cambiaron (fin)');
+    return { iss, fin, s: Math.round((Date.now() - t0) / 1000) };
+  }
   R.start = async function (queue, opts = {}) {
     if (R.running) return 'running';
     R.q = queue; R.running = true; R.stop = false;
@@ -218,7 +245,21 @@
         if (R.stop) break;
         const q = queue[i]; R.pos = i + 1; R.cur = q.id;
         const prev = s.res[q.id];
-        if (prev && (prev.st === 'ok' || prev.st === 'revisar')) continue;
+        const done = prev && (prev.st === 'ok' || prev.st === 'revisar');
+        if (opts.mode === 'fin') {
+          if (!done || prev.finok) continue;
+          if (opts.limit && n >= opts.limit) break;
+          n++;
+          let r2;
+          try { R.abort = false; const wd = setTimeout(() => { R.abort = true; }, 6 * 60 * 1000); try { r2 = await processFin(q); } finally { clearTimeout(wd); R.abort = false; } prev.finok = 1; prev.fin = r2.fin; if (r2.iss.length) { prev.iss = (prev.iss || []).concat(r2.iss); prev.st = 'revisar'; } }
+          catch (e) { prev.finerr = String(e && e.message || e).slice(0, 200); document.getElementById('__rr_frame').innerHTML = ''; await sleep(3000); }
+          s.res[q.id] = prev; save(s);
+          R.log.push([q.id, prev.finok ? 'fin-ok' : 'fin-fallo', prev.finerr || '']);
+          const vals = Object.values(s.res); bar(`acabados ${vals.filter(v => v.finok).length}/${vals.filter(v => v.st === 'ok' || v.st === 'revisar').length} · último: ${q.t.slice(0, 50)} (${prev.finok ? 'ok' : 'fallo'})`);
+          if (R.log.slice(-5).length === 5 && R.log.slice(-5).every(x => x[1] === 'fin-fallo')) { bar('5 fallos seguidos (acabados): me detuve. ' + R.log.slice(-1)[0][2]); break; }
+          continue;
+        }
+        if (done) continue;
         if (opts.limit && n >= opts.limit) break;
         n++;
         let res;
