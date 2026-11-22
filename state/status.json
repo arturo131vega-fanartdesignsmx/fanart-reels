@@ -1306,9 +1306,96 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Ho-Oh EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18116176982606903",
+   "permalink": "https://www.instagram.com/p/DgBeBR_HE_5/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120438103449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120438103449530"
+  },
+  "done": "2026-11-22T00:01:12.919344+00:00"
  },
  "2026-11-21-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-21_2026-11-21-r3.jpg",
+  "render": {
+   "duration": 15.8,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 119,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.34,
+    "text": "Alakazam"
+   },
+   {
+    "t0": 1.34,
+    "t1": 3.08,
+    "text": "has an IQ of 5,000..."
+   },
+   {
+    "t0": 3.08,
+    "t1": 4.848,
+    "text": "so it knows you want this card."
+   },
+   {
+    "t0": 5.148,
+    "t1": 5.988,
+    "text": "Fully handmade,"
+   },
+   {
+    "t0": 5.988,
+    "t1": 7.078,
+    "text": "with a holo finish,"
+   },
+   {
+    "t0": 7.078,
+    "t1": 8.617,
+    "text": "in real card dimensions."
+   },
+   {
+    "t0": 8.877,
+    "t1": 10.187,
+    "text": "Two cards or more"
+   },
+   {
+    "t0": 10.187,
+    "t1": 11.817,
+    "text": "gets you 25% off"
+   },
+   {
+    "t0": 11.817,
+    "t1": 13.25,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.55,
+    "t1": 14.788,
+    "text": "The link's up in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-22T00:02:44.214208+00:00",
+  "render_seconds": 91
  }
 }
