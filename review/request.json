@@ -1,109 +1,102 @@
 {
  "candidates": [
   {
-   "key": "493-arceus-1",
-   "name": "493_Arceus_1",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_1.jpg"
+   "key": "488-cresselia-1",
+   "name": "488_Cresselia_1",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_1.jpg"
   },
   {
-   "key": "493-arceus-2",
-   "name": "493_Arceus_2",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_2.jpg"
+   "key": "488-cresselia-2",
+   "name": "488_Cresselia_2",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_2.jpg"
   },
   {
-   "key": "493-arceus-3",
-   "name": "493_Arceus_3",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_3.jpg"
+   "key": "488-cresselia-3",
+   "name": "488_Cresselia_3",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_3.jpg"
   },
   {
-   "key": "493-arceus-4",
-   "name": "493_Arceus_4",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_4.jpg"
+   "key": "488-cresselia-4",
+   "name": "488_Cresselia_4",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_4.jpg"
   },
   {
-   "key": "493-arceus-5",
-   "name": "493_Arceus_5",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_5.jpg"
+   "key": "488-cresselia-5",
+   "name": "488_Cresselia_5",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_5.jpg"
   },
   {
-   "key": "493-arceus-6",
-   "name": "493_Arceus_6",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_6.jpg"
+   "key": "488-cresselia-6",
+   "name": "488_Cresselia_6",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_6.jpg"
   },
   {
-   "key": "493-arceus-7",
-   "name": "493_Arceus_7",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_7.jpg"
+   "key": "488-cresselia-7",
+   "name": "488_Cresselia_7",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_7.jpg"
   },
   {
-   "key": "493-arceus-8",
-   "name": "493_Arceus_8",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_8.jpg"
+   "key": "488-cresselia-8",
+   "name": "488_Cresselia_8",
+   "pokemon": "Cresselia",
+   "dex": 488,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_8.jpg"
   },
   {
-   "key": "493-arceus-9",
-   "name": "493_Arceus_9",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_9.jpg"
+   "key": "491-darkrai-2",
+   "name": "491_Darkrai_2",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330732/491_Darkrai_2.jpg"
   },
   {
-   "key": "493-arceus-10",
-   "name": "493_Arceus_10",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_10.jpg"
+   "key": "491-darkrai-3",
+   "name": "491_Darkrai_3",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330734/491_Darkrai_3.jpg"
   },
   {
-   "key": "493-arceus-11",
-   "name": "493_Arceus_11",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_11.jpg"
+   "key": "491-darkrai-6",
+   "name": "491_Darkrai_6",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_6.jpg"
   },
   {
-   "key": "493-arceus-12",
-   "name": "493_Arceus_12",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_12.jpg"
+   "key": "491-darkrai-7",
+   "name": "491_Darkrai_7",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_7.jpg"
   },
   {
-   "key": "493-arceus-13",
-   "name": "493_Arceus_13",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_13.jpg"
+   "key": "491-darkrai-8",
+   "name": "491_Darkrai_8",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_8.jpg"
   },
   {
-   "key": "493-arceus-shiny-1",
-   "name": "493_Arceus_Shiny_1",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_Shiny_1.jpg"
-  },
-  {
-   "key": "493-arceus-dialga-palkia-tag-team",
-   "name": "493_Arceus_Dialga_Palkia_Tag_Team",
-   "pokemon": "Arceus",
-   "dex": 493,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/493_Arceus_Dialga_Palkia_Tag_Team.jpg"
+   "key": "491-darkrai-9",
+   "name": "491_Darkrai_9",
+   "pokemon": "Darkrai",
+   "dex": 491,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_9.jpg"
   }
  ]
 }
