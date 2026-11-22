@@ -1,102 +1,60 @@
 {
  "candidates": [
   {
-   "key": "488-cresselia-1",
-   "name": "488_Cresselia_1",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_1.jpg"
+   "key": "489-phione-1",
+   "name": "489_Phione_1",
+   "pokemon": "Phione",
+   "dex": 489,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332903/489_Phione_1.jpg"
   },
   {
-   "key": "488-cresselia-2",
-   "name": "488_Cresselia_2",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_2.jpg"
+   "key": "489-phione-2",
+   "name": "489_Phione_2",
+   "pokemon": "Phione",
+   "dex": 489,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332904/489_Phione_2.jpg"
   },
   {
-   "key": "488-cresselia-3",
-   "name": "488_Cresselia_3",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_3.jpg"
+   "key": "490-manaphy-1",
+   "name": "490_Manaphy_1",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332906/490_Manaphy_1.jpg"
   },
   {
-   "key": "488-cresselia-4",
-   "name": "488_Cresselia_4",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_4.jpg"
+   "key": "490-manaphy-2",
+   "name": "490_Manaphy_2",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332907/490_Manaphy_2.jpg"
   },
   {
-   "key": "488-cresselia-5",
-   "name": "488_Cresselia_5",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_5.jpg"
+   "key": "490-manaphy-3",
+   "name": "490_Manaphy_3",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332909/490_Manaphy_3.jpg"
   },
   {
-   "key": "488-cresselia-6",
-   "name": "488_Cresselia_6",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_6.jpg"
+   "key": "490-manaphy-4",
+   "name": "490_Manaphy_4",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332910/490_Manaphy_4.jpg"
   },
   {
-   "key": "488-cresselia-7",
-   "name": "488_Cresselia_7",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_7.jpg"
+   "key": "490-manaphy-5",
+   "name": "490_Manaphy_5",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332911/490_Manaphy_5.jpg"
   },
   {
-   "key": "488-cresselia-8",
-   "name": "488_Cresselia_8",
-   "pokemon": "Cresselia",
-   "dex": 488,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/488_Cresselia_8.jpg"
-  },
-  {
-   "key": "491-darkrai-2",
-   "name": "491_Darkrai_2",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330732/491_Darkrai_2.jpg"
-  },
-  {
-   "key": "491-darkrai-3",
-   "name": "491_Darkrai_3",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795330734/491_Darkrai_3.jpg"
-  },
-  {
-   "key": "491-darkrai-6",
-   "name": "491_Darkrai_6",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_6.jpg"
-  },
-  {
-   "key": "491-darkrai-7",
-   "name": "491_Darkrai_7",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_7.jpg"
-  },
-  {
-   "key": "491-darkrai-8",
-   "name": "491_Darkrai_8",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_8.jpg"
-  },
-  {
-   "key": "491-darkrai-9",
-   "name": "491_Darkrai_9",
-   "pokemon": "Darkrai",
-   "dex": 491,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/491_Darkrai_9.jpg"
+   "key": "490-manaphy-shiny-1",
+   "name": "490_Manaphy_Shiny_1",
+   "pokemon": "Manaphy",
+   "dex": 490,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332913/490_Manaphy_Shiny_1.jpg"
   }
  ]
 }
