@@ -1401,7 +1401,11 @@
    "media_id": "17958461028039225",
    "permalink": "https://www.instagram.com/reel/DgBvLcVEi3-/"
   },
-  "error": "HTTP 400 on https://graph.facebook.com/v26.0/1614237529909143 -> GraphMethodException 100/33: Unsupported get request. Object with ID '1614237529909143' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
-  "error_at": "2026-11-22T02:31:33.034138+00:00"
+  "error_at": "2026-11-22T02:31:33.034138+00:00",
+  "fb": {
+   "video_id": "2188592211694502",
+   "permalink": "https://www.facebook.com/reel/2188592211694502/"
+  },
+  "done": "2026-11-22T02:41:24.398547+00:00"
  }
 }
