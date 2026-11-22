@@ -7369,5 +7369,141 @@
   "reason": "Extended art of the regular Darkrai swsh8-167 (same art on Pocket B1-154, art box only); extended art allowed",
   "pocket": false,
   "added": "2026-11-22"
+ },
+ "489-phione-1": {
+  "pokemon": "Phione",
+  "card_name": "Phione",
+  "listing_id": 4543715723,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332903/489_Phione_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 67,
+   "pocket_max": 3
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical illustration rare Phione sv06-175 / SV5a-071",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "489-phione-2": {
+  "pokemon": "Phione",
+  "card_name": "Phione",
+  "listing_id": 4543715723,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332904/489_Phione_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 217,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Phione swsh12-045 / S10a-011 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-1": {
+  "pokemon": "Manaphy",
+  "card_name": "Manaphy",
+  "listing_id": 4543715643,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332906/490_Manaphy_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 179
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-162), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-2": {
+  "pokemon": "Manaphy",
+  "card_name": "Manaphy",
+  "listing_id": 4543715643,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332907/490_Manaphy_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 70,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical art rare Manaphy S12a-178",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-3": {
+  "pokemon": "Manaphy",
+  "card_name": "Manaphy",
+  "listing_id": 4543715643,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332909/490_Manaphy_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 63,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork and crop as the physical full art promo Manaphy XY113",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-4": {
+  "pokemon": "Manaphy",
+  "card_name": "Manaphy EX",
+  "listing_id": 4543715595,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332910/490_Manaphy_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 108,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Manaphy swsh9-041 / S9-031 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-shiny-1": {
+  "pokemon": "Manaphy",
+  "card_name": "Shiny Manaphy EX",
+  "listing_id": 4543715595,
+  "design_label": "Design 2 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332913/490_Manaphy_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 67,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Manaphy 4 (extended art of swsh9-041, art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "490-manaphy-5": {
+  "pokemon": "Manaphy",
+  "card_name": "Manaphy EX",
+  "listing_id": 4543715595,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795332911/490_Manaphy_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
  }
 }
