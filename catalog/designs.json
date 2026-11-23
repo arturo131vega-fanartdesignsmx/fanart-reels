@@ -7641,5 +7641,141 @@
   "reason": "No match with official card art",
   "pocket": false,
   "added": "2026-11-22"
+ },
+ "494-victini-1": {
+  "pokemon": "Victini",
+  "card_name": "Victini",
+  "listing_id": 4543714807,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403104/494_Victini_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-2": {
+  "pokemon": "Victini",
+  "card_name": "Victini",
+  "listing_id": 4543714807,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403106/494_Victini_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-3": {
+  "pokemon": "Victini",
+  "card_name": "Victini",
+  "listing_id": 4543714807,
+  "design_label": "Design 3",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403107/494_Victini_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-6": {
+  "pokemon": "Victini",
+  "card_name": "Victini",
+  "listing_id": 4543714807,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403114/494_Victini_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 238,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Victini SV8-012 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-4": {
+  "pokemon": "Victini",
+  "card_name": "Victini EX",
+  "listing_id": 4543713349,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403109/494_Victini_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 94,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Victini sm2-10 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-7": {
+  "pokemon": "Victini",
+  "card_name": "Victini EX",
+  "listing_id": 4543713349,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403116/494_Victini_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-shiny-1": {
+  "pokemon": "Victini",
+  "card_name": "Shiny Victini EX",
+  "listing_id": 4543713349,
+  "design_label": "Design 3 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403117/494_Victini_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 66,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Victini 4 (extended art of sm2-10, art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "494-victini-5": {
+  "pokemon": "Victini",
+  "card_name": "Victini EX",
+  "listing_id": 4543713349,
+  "design_label": "Design 4",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403113/494_Victini_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
  }
 }
