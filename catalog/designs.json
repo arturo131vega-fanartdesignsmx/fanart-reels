@@ -7505,5 +7505,141 @@
   "reason": "No match with official card art",
   "pocket": false,
   "added": "2026-11-22"
+ },
+ "492-shaymin-1": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin",
+  "listing_id": 4605351229,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394815/492_Shaymin_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 98
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2-159), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-2": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin",
+  "listing_id": 4605351229,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394817/492_Shaymin_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 92,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Wider crop of the art rare Shaymin SV9a-066 / sv10-185 (more of the scene shown than on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-4": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin EX",
+  "listing_id": 4543715503,
+  "design_label": "Design 1",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394828/492_Shaymin_Sky_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 76,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Shaymin sv05-013 / SV5K-006 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-1": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin Sky Forme",
+  "listing_id": 4543715503,
+  "design_label": "Design 2",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394818/492_Shaymin_Sky_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 254
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A2a-081), not a physical card",
+  "pocket": true,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-2": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin VSTAR",
+  "listing_id": 4543715503,
+  "design_label": "Design 3 VSTAR",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394821/492_Shaymin_Sky_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 103,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Wider, recolored crop of the full art Shaymin EX xy6-77a (more of the scene shown than on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-shiny-1": {
+  "pokemon": "Shaymin",
+  "card_name": "Shiny Shaymin EX",
+  "listing_id": 4543715503,
+  "design_label": "Design 4 Shiny",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394831/492_Shaymin_Sky_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 64,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Shaymin Sky 4 (extended art of sv05-013, art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-3": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin Sky Forme",
+  "listing_id": 4543715503,
+  "design_label": "Design 5",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394826/492_Shaymin_Sky_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 231,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Shaymin sv08.5-087 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-22"
+ },
+ "492-shaymin-sky-5": {
+  "pokemon": "Shaymin",
+  "card_name": "Shaymin EX",
+  "listing_id": 4543715503,
+  "design_label": "Design 6",
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394829/492_Shaymin_Sky_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No match with official card art",
+  "pocket": false,
+  "added": "2026-11-22"
  }
 }
