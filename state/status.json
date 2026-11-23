@@ -1635,9 +1635,91 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Mega Gardevoir EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18047093477838787",
+   "permalink": "https://www.instagram.com/p/DgEC0PYDnLn/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122120556837449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122120556837449530"
+  },
+  "done": "2026-11-23T00:01:13.891399+00:00"
  },
  "2026-11-22-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-22_2026-11-22-r3.jpg",
+  "render": {
+   "duration": 15.033333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 106,
+    "root": 58,
+    "minor": true
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 2.2,
+    "text": "When Mega Absol Z shows up..."
+   },
+   {
+    "t0": 2.2,
+    "t1": 3.413,
+    "text": "something big is coming."
+   },
+   {
+    "t0": 3.733,
+    "t1": 5.183,
+    "text": "Each card is handmade,"
+   },
+   {
+    "t0": 5.183,
+    "t1": 6.263,
+    "text": "glowing with holo,"
+   },
+   {
+    "t0": 6.263,
+    "t1": 7.615,
+    "text": "and real card size."
+   },
+   {
+    "t0": 7.875,
+    "t1": 9.415,
+    "text": "Add two or more to your cart"
+   },
+   {
+    "t0": 9.415,
+    "t1": 11.105,
+    "text": "for 25% off"
+   },
+   {
+    "t0": 11.105,
+    "t1": 12.554,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.854,
+    "t1": 14.003,
+    "text": "My bio has the link!"
+   }
+  ],
+  "rendered_at": "2026-11-23T00:03:03.913009+00:00",
+  "render_seconds": 110
  }
 }
