@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "494-victini-3",
+  "name": "494_Victini_3",
+  "pokemon": "Victini",
+  "dex": 494,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403107/494_Victini_3.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 40,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "bw3-15",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xyp-XY189",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "30th-013",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

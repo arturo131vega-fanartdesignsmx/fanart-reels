@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "494-victini-5",
+  "name": "494_Victini_5",
+  "pokemon": "Victini",
+  "dex": 494,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403113/494_Victini_5.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 40,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-30",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10.5b-012",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw3-43",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

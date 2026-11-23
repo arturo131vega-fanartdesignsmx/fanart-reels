@@ -1,174 +1,148 @@
 {
- "492-shaymin-1": {
-  "name": "492_Shaymin_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-159",
-   "lang": "en",
-   "name": "Shaymin",
-   "pocket": true,
-   "inliers": 98,
-   "set": "Space-Time Smackdown",
-   "illustrator": "REND",
-   "hp": 60,
-   "attacks": [
-    "Flop"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-2": {
-  "name": "492_Shaymin_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV9a-066",
-   "lang": "ja",
-   "name": "シェイミ",
-   "pocket": false,
-   "inliers": 92,
-   "set": "熱風のアリーナ",
-   "illustrator": "Heisuke Kitazawa",
-   "hp": 80,
-   "attacks": [
-    "けとばす"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-sky-1": {
-  "name": "492_Shaymin_Sky_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2a-081",
-   "lang": "en",
-   "name": "Shaymin",
-   "pocket": true,
-   "inliers": 254,
-   "set": "Triumphant Light",
-   "illustrator": "MINAMINAMI Take",
-   "hp": 70,
-   "attacks": [
-    "Flap"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-sky-2": {
-  "name": "492_Shaymin_Sky_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "xy6-77a",
-   "lang": "en",
-   "name": "Shaymin EX",
-   "pocket": false,
-   "inliers": 103,
-   "set": "Roaring Skies",
-   "illustrator": "Ayaka Yoshida",
-   "hp": 110,
-   "attacks": [
-    "Sky Return"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-sky-3": {
-  "name": "492_Shaymin_Sky_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08.5-087",
-   "lang": "en",
-   "name": "Shaymin",
-   "pocket": false,
-   "inliers": 231,
-   "set": "Prismatic Evolutions",
-   "illustrator": "Amelicart",
-   "hp": 70,
-   "attacks": [
-    "Reflect Energy"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-sky-4": {
-  "name": "492_Shaymin_Sky_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-013",
-   "lang": "en",
-   "name": "Shaymin",
-   "pocket": false,
-   "inliers": 76,
-   "set": "Temporal Forces",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 70,
-   "attacks": [
-    "Pinpoint Dive",
-    "Rear Kick"
-   ]
-  },
-  "official_cards_checked": 47,
-  "lookup": {
-   "en": 40,
-   "ja": 19
-  }
- },
- "492-shaymin-sky-5": {
-  "name": "492_Shaymin_Sky_5",
+ "494-victini-1": {
+  "name": "494_Victini_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "S9-117",
-   "lang": "ja",
-   "name": "シェイミVSTAR",
+   "id": "sm12-30",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
+  }
+ },
+ "494-victini-2": {
+  "name": "494_Victini_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw3-15",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
+  }
+ },
+ "494-victini-3": {
+  "name": "494_Victini_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw3-15",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
+  }
+ },
+ "494-victini-4": {
+  "name": "494_Victini_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 94,
+   "set": "Guardians Rising",
+   "illustrator": "kodama",
+   "hp": 70,
+   "attacks": [
+    "V Flame"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
+  }
+ },
+ "494-victini-5": {
+  "name": "494_Victini_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 47,
+  "official_cards_checked": 37,
   "lookup": {
    "en": 40,
-   "ja": 19
+   "ja": 23
   }
  },
- "492-shaymin-sky-shiny-1": {
-  "name": "492_Shaymin_Sky_Shiny_1",
+ "494-victini-6": {
+  "name": "494_Victini_6",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv05-013",
-   "lang": "en",
-   "name": "Shaymin",
+   "id": "SV8-012",
+   "lang": "ja",
+   "name": "ビクティニ",
    "pocket": false,
-   "inliers": 64,
-   "set": "Temporal Forces",
-   "illustrator": "Atsushi Furusawa",
+   "inliers": 238,
+   "set": "超電ブレイカー",
+   "illustrator": "0313",
    "hp": 70,
    "attacks": [
-    "Pinpoint Dive",
-    "Rear Kick"
+    "ほのお"
    ]
   },
-  "official_cards_checked": 47,
+  "official_cards_checked": 37,
   "lookup": {
    "en": 40,
-   "ja": 19
+   "ja": 23
+  }
+ },
+ "494-victini-7": {
+  "name": "494_Victini_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw3-43",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
+  }
+ },
+ "494-victini-shiny-1": {
+  "name": "494_Victini_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 66,
+   "set": "Guardians Rising",
+   "illustrator": "kodama",
+   "hp": 70,
+   "attacks": [
+    "V Flame"
+   ]
+  },
+  "official_cards_checked": 37,
+  "lookup": {
+   "en": 40,
+   "ja": 23
   }
  }
 }

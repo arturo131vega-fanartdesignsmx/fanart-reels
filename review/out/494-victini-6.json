@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "494-victini-6",
+  "name": "494_Victini_6",
+  "pokemon": "Victini",
+  "dex": 494,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403114/494_Victini_6.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 40,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "SV8-012",
+   "lang": "ja",
+   "name": "ビクティニ",
+   "pocket": false,
+   "inliers": 238,
+   "set": "超電ブレイカー",
+   "illustrator": "0313",
+   "hp": 70,
+   "attacks": [
+    "ほのお"
+   ]
+  },
+  {
+   "id": "sv08-021",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 223,
+   "set": "Surging Sparks",
+   "illustrator": "0313",
+   "hp": 70,
+   "attacks": [
+    "Flare"
+   ]
+  },
+  {
+   "id": "swsh3.5-7",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

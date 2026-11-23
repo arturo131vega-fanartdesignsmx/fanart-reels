@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "494-victini-7",
+  "name": "494_Victini_7",
+  "pokemon": "Victini",
+  "dex": 494,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403116/494_Victini_7.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 40,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "bw3-43",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv03-033",
+   "lang": "en",
+   "name": "Victini ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh5-144",
+   "lang": "en",
+   "name": "Victini V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S12-012",
+   "lang": "ja",
+   "name": "ビクティニ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

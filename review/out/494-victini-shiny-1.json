@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "494-victini-shiny-1",
+  "name": "494_Victini_Shiny_1",
+  "pokemon": "Victini",
+  "dex": 494,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795403117/494_Victini_Shiny_1.jpg"
+ },
+ "official_cards_checked": 37,
+ "lookup": {
+  "en": 40,
+  "ja": 23
+ },
+ "top": [
+  {
+   "id": "sm2-10",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 66,
+   "set": "Guardians Rising",
+   "illustrator": "kodama",
+   "hp": 70,
+   "attacks": [
+    "V Flame"
+   ]
+  },
+  {
+   "id": "xyp-XY189",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10.5b-012",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv05-030",
+   "lang": "en",
+   "name": "Victini",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
