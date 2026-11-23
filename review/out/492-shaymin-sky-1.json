@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "492-shaymin-sky-1",
+  "name": "492_Shaymin_Sky_1",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394818/492_Shaymin_Sky_1.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "A2a-081",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": true,
+   "inliers": 254,
+   "set": "Triumphant Light",
+   "illustrator": "MINAMINAMI Take",
+   "hp": 70,
+   "attacks": [
+    "Flap"
+   ]
+  },
+  {
+   "id": "sv05-013",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me06-008",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "hgss2-8",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

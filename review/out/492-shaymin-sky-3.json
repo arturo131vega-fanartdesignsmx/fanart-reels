@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "492-shaymin-sky-3",
+  "name": "492_Shaymin_Sky_3",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394826/492_Shaymin_Sky_3.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "sv08.5-087",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 231,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Amelicart",
+   "hp": 70,
+   "attacks": [
+    "Reflect Energy"
+   ]
+  },
+  {
+   "id": "me06-008",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh12.5-115",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV9a-006",
+   "lang": "ja",
+   "name": "シェイミ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "492-shaymin-2",
+  "name": "492_Shaymin_2",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394817/492_Shaymin_2.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "SV9a-066",
+   "lang": "ja",
+   "name": "シェイミ",
+   "pocket": false,
+   "inliers": 92,
+   "set": "熱風のアリーナ",
+   "illustrator": "Heisuke Kitazawa",
+   "hp": 80,
+   "attacks": [
+    "けとばす"
+   ]
+  },
+  {
+   "id": "sv10-185",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 86,
+   "set": "Destined Rivals",
+   "illustrator": "Heisuke Kitazawa",
+   "hp": 80,
+   "attacks": [
+    "Smash Kick"
+   ]
+  },
+  {
+   "id": "SV9a-006",
+   "lang": "ja",
+   "name": "シェイミ",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "swsh6-123",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

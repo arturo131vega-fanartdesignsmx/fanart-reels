@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "492-shaymin-sky-2",
+  "name": "492_Shaymin_Sky_2",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394821/492_Shaymin_Sky_2.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "xy6-77a",
+   "lang": "en",
+   "name": "Shaymin EX",
+   "pocket": false,
+   "inliers": 103,
+   "set": "Roaring Skies",
+   "illustrator": "Ayaka Yoshida",
+   "hp": 110,
+   "attacks": [
+    "Sky Return"
+   ]
+  },
+  {
+   "id": "swsh9-173",
+   "lang": "en",
+   "name": "Shaymin VSTAR",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 250,
+   "attacks": [
+    "Revenge Blast"
+   ]
+  },
+  {
+   "id": "swsh9-014",
+   "lang": "en",
+   "name": "Shaymin VSTAR",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Brilliant Stars",
+   "illustrator": "5ban Graphics",
+   "hp": 250,
+   "attacks": [
+    "Revenge Blast"
+   ]
+  },
+  {
+   "id": "swsh9-013",
+   "lang": "en",
+   "name": "Shaymin V",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Brilliant Stars",
+   "illustrator": "Satoshi Shirai",
+   "hp": 190,
+   "attacks": [
+    "Flap",
+    "Revenge Blast"
+   ]
+  }
+ ]
+}

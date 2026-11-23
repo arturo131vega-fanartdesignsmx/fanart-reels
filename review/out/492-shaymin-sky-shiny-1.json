@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "492-shaymin-sky-shiny-1",
+  "name": "492_Shaymin_Sky_Shiny_1",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394831/492_Shaymin_Sky_Shiny_1.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "sv05-013",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 64,
+   "set": "Temporal Forces",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 70,
+   "attacks": [
+    "Pinpoint Dive",
+    "Rear Kick"
+   ]
+  },
+  {
+   "id": "SV5K-006",
+   "lang": "ja",
+   "name": "シェイミ",
+   "pocket": false,
+   "inliers": 58,
+   "set": "ワイルドフォース",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 70,
+   "attacks": [
+    "ピンポイントダイブ",
+    "うしろげり"
+   ]
+  },
+  {
+   "id": "me06-008",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm5-111",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,175 +1,174 @@
 {
- "489-phione-1": {
-  "name": "489_Phione_1",
+ "492-shaymin-1": {
+  "name": "492_Shaymin_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv06-175",
+   "id": "A2-159",
    "lang": "en",
-   "name": "Phione",
-   "pocket": false,
-   "inliers": 67,
-   "set": "Twilight Masquerade",
-   "illustrator": "takashi shiraishi",
-   "hp": 70,
-   "attacks": [
-    "Beckon",
-    "Energy Press"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 10,
-   "ja": 4
-  }
- },
- "489-phione-2": {
-  "name": "489_Phione_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh12-045",
-   "lang": "en",
-   "name": "Phione",
-   "pocket": false,
-   "inliers": 217,
-   "set": "Silver Tempest",
-   "illustrator": "Jiro Sasumo",
-   "hp": 70,
-   "attacks": [
-    "Sea Feast",
-    "Wave Splash"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 10,
-   "ja": 4
-  }
- },
- "490-manaphy-1": {
-  "name": "490_Manaphy_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2-162",
-   "lang": "en",
-   "name": "Manaphy",
+   "name": "Shaymin",
    "pocket": true,
-   "inliers": 179,
+   "inliers": 98,
    "set": "Space-Time Smackdown",
-   "illustrator": "miki kudo",
-   "hp": 50,
+   "illustrator": "REND",
+   "hp": 60,
    "attacks": [
-    "Oceanic Gift"
+    "Flop"
    ]
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  },
- "490-manaphy-2": {
-  "name": "490_Manaphy_2",
+ "492-shaymin-2": {
+  "name": "492_Shaymin_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "S12a-178",
+   "id": "SV9a-066",
    "lang": "ja",
-   "name": "マナフィ",
+   "name": "シェイミ",
    "pocket": false,
-   "inliers": 70,
-   "set": "VSTARユニバース",
-   "illustrator": "Taira Akitsu",
-   "hp": 70,
+   "inliers": 92,
+   "set": "熱風のアリーナ",
+   "illustrator": "Heisuke Kitazawa",
+   "hp": 80,
    "attacks": [
-    "みずかけ"
+    "けとばす"
    ]
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  },
- "490-manaphy-3": {
-  "name": "490_Manaphy_3",
+ "492-shaymin-sky-1": {
+  "name": "492_Shaymin_Sky_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "xyp-XY113",
+   "id": "A2a-081",
    "lang": "en",
-   "name": "Manaphy",
-   "pocket": false,
-   "inliers": 63,
-   "set": "XY Black Star Promos",
-   "illustrator": "Hitoshi Ariga",
+   "name": "Shaymin",
+   "pocket": true,
+   "inliers": 254,
+   "set": "Triumphant Light",
+   "illustrator": "MINAMINAMI Take",
    "hp": 70,
    "attacks": [
-    "Marine Guidance",
-    "Aqua Ring"
+    "Flap"
    ]
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  },
- "490-manaphy-4": {
-  "name": "490_Manaphy_4",
+ "492-shaymin-sky-2": {
+  "name": "492_Shaymin_Sky_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh9-041",
+   "id": "xy6-77a",
    "lang": "en",
-   "name": "Manaphy",
+   "name": "Shaymin EX",
    "pocket": false,
-   "inliers": 108,
-   "set": "Brilliant Stars",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 70,
+   "inliers": 103,
+   "set": "Roaring Skies",
+   "illustrator": "Ayaka Yoshida",
+   "hp": 110,
    "attacks": [
-    "Rain Splash"
+    "Sky Return"
    ]
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  },
- "490-manaphy-5": {
-  "name": "490_Manaphy_5",
+ "492-shaymin-sky-3": {
+  "name": "492_Shaymin_Sky_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv08.5-087",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 231,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Amelicart",
+   "hp": 70,
+   "attacks": [
+    "Reflect Energy"
+   ]
+  },
+  "official_cards_checked": 47,
+  "lookup": {
+   "en": 40,
+   "ja": 19
+  }
+ },
+ "492-shaymin-sky-4": {
+  "name": "492_Shaymin_Sky_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-013",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 76,
+   "set": "Temporal Forces",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 70,
+   "attacks": [
+    "Pinpoint Dive",
+    "Rear Kick"
+   ]
+  },
+  "official_cards_checked": 47,
+  "lookup": {
+   "en": 40,
+   "ja": 19
+  }
+ },
+ "492-shaymin-sky-5": {
+  "name": "492_Shaymin_Sky_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "S12a-178",
+   "id": "S9-117",
    "lang": "ja",
-   "name": "マナフィ",
+   "name": "シェイミVSTAR",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  },
- "490-manaphy-shiny-1": {
-  "name": "490_Manaphy_Shiny_1",
+ "492-shaymin-sky-shiny-1": {
+  "name": "492_Shaymin_Sky_Shiny_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "SVK-003",
-   "lang": "ja",
-   "name": "マナフィ",
+   "id": "sv05-013",
+   "lang": "en",
+   "name": "Shaymin",
    "pocket": false,
-   "inliers": 67,
-   "set": "デッキビルドBOX ステラミラクル",
-   "illustrator": "HYOGONOSUKE",
+   "inliers": 64,
+   "set": "Temporal Forces",
+   "illustrator": "Atsushi Furusawa",
    "hp": 70,
    "attacks": [
-    "みずかけ"
+    "Pinpoint Dive",
+    "Rear Kick"
    ]
   },
-  "official_cards_checked": 23,
+  "official_cards_checked": 47,
   "lookup": {
-   "en": 22,
-   "ja": 7
+   "en": 40,
+   "ja": 19
   }
  }
 }

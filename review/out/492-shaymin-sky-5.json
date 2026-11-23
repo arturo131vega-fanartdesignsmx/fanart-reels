@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "492-shaymin-sky-5",
+  "name": "492_Shaymin_Sky_5",
+  "pokemon": "Shaymin",
+  "dex": 492,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795394829/492_Shaymin_Sky_5.jpg"
+ },
+ "official_cards_checked": 47,
+ "lookup": {
+  "en": 40,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "S9-117",
+   "lang": "ja",
+   "name": "シェイミVSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv10-010",
+   "lang": "en",
+   "name": "Shaymin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh9-013",
+   "lang": "en",
+   "name": "Shaymin V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-106",
+   "lang": "en",
+   "name": "Shaymin EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
