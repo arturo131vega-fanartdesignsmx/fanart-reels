@@ -9083,5 +9083,1413 @@
   "reason": "Shiny recolor of TCG Pocket artwork B2-178 (19 inliers, confirmed by eye), not a physical card",
   "pocket": true,
   "added": "2026-11-25"
+ },
+ "865-sirfetchd-3": {
+  "pokemon": "Sirfetch'd",
+  "card_name": "Sirfetch'd",
+  "listing_id": 4543702836,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641753/865_Sirfetch_d_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "865-sirfetchd-1": {
+  "pokemon": "Sirfetch'd",
+  "card_name": "Sirfetch'd",
+  "listing_id": 4543702836,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641750/865_Sirfetch_d_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "865-sirfetchd-2": {
+  "pokemon": "Sirfetch'd",
+  "card_name": "Sirfetch'd",
+  "listing_id": 4543702836,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641751/865_Sirfetch_d_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "865-sirfetchd-4": {
+  "pokemon": "Sirfetch'd",
+  "card_name": "Sirfetch'd",
+  "listing_id": 4543702836,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641755/865_Sirfetch_d_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "866-mr-rime-2": {
+  "pokemon": "Mr. Rime",
+  "card_name": "Mr. Rime",
+  "listing_id": 4543715089,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641758/866_Mr._Rime_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "866-mr-rime-1": {
+  "pokemon": "Mr. Rime",
+  "card_name": "Mr. Rime",
+  "listing_id": 4543715089,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641756/866_Mr._Rime_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 92,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: swshp-SWSH079 Galarian Mr. Rime (92 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "866-mr-rime-3": {
+  "pokemon": "Mr. Rime",
+  "card_name": "Mr. Rime",
+  "listing_id": 4543715089,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641759/866_Mr._Rime_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "936-armarouge-1": {
+  "pokemon": "Armarouge",
+  "card_name": "Armarouge",
+  "listing_id": 4606615641,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641772/936_Armarouge_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 94,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV1S-080 グレンアルマ (94 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "936-armarouge-5": {
+  "pokemon": "Armarouge",
+  "card_name": "Armarouge",
+  "listing_id": 4606615641,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641779/936_Armarouge_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "936-armarouge-3": {
+  "pokemon": "Armarouge",
+  "card_name": "Armarouge",
+  "listing_id": 4606615641,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641776/936_Armarouge_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 169,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: me05-086 Armarouge (169 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "936-armarouge-4": {
+  "pokemon": "Armarouge",
+  "card_name": "Armarouge",
+  "listing_id": 4606615641,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641777/936_Armarouge_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "936-armarouge-2": {
+  "pokemon": "Armarouge",
+  "card_name": "Armarouge",
+  "listing_id": 4606615641,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641774/936_Armarouge_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 167,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv03-044 Armarouge (167 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "937-ceruledge-1": {
+  "pokemon": "Ceruledge",
+  "card_name": "Ceruledge",
+  "listing_id": 4605373478,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641780/937_Ceruledge_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "937-ceruledge-2": {
+  "pokemon": "Ceruledge",
+  "card_name": "Ceruledge",
+  "listing_id": 4605373478,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641782/937_Ceruledge_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 32,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv08-197 Ceruledge (32 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "937-ceruledge-3": {
+  "pokemon": "Ceruledge",
+  "card_name": "Ceruledge",
+  "listing_id": 4605373478,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641785/937_Ceruledge_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "937-ceruledge-5": {
+  "pokemon": "Ceruledge",
+  "card_name": "Ceruledge",
+  "listing_id": 4605373478,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641788/937_Ceruledge_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "937-ceruledge-4": {
+  "pokemon": "Ceruledge",
+  "card_name": "Ceruledge",
+  "listing_id": 4605373478,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641787/937_Ceruledge_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "909-fuecoco-1": {
+  "pokemon": "Fuecoco",
+  "card_name": "Fuecoco",
+  "listing_id": 4605353917,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641765/909_Fuecoco_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 107,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: 30th-147 Fuecoco ex (107 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "909-fuecoco-2": {
+  "pokemon": "Fuecoco",
+  "card_name": "Fuecoco",
+  "listing_id": 4605353917,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641766/909_Fuecoco_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "909-fuecoco-3": {
+  "pokemon": "Fuecoco",
+  "card_name": "Fuecoco",
+  "listing_id": 4605353917,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641768/909_Fuecoco_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "909-fuecoco-4": {
+  "pokemon": "Fuecoco",
+  "card_name": "Fuecoco",
+  "listing_id": 4605353917,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641769/909_Fuecoco_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "909-fuecoco-5": {
+  "pokemon": "Fuecoco",
+  "card_name": "Fuecoco",
+  "listing_id": 4605353917,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641771/909_Fuecoco_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 117,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv01-036 Fuecoco (117 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "980-clodsire-2": {
+  "pokemon": "Clodsire",
+  "card_name": "Clodsire",
+  "listing_id": 4605353769,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641791/980_Clodsire_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "980-clodsire-5": {
+  "pokemon": "Clodsire",
+  "card_name": "Clodsire",
+  "listing_id": 4605353769,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641795/980_Clodsire_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "980-clodsire-4": {
+  "pokemon": "Clodsire",
+  "card_name": "Clodsire",
+  "listing_id": 4605353769,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641794/980_Clodsire_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "980-clodsire-1": {
+  "pokemon": "Clodsire",
+  "card_name": "Clodsire",
+  "listing_id": 4605353769,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641790/980_Clodsire_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 50,
+   "pocket_max": 3
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV3-069 パルデア ドオー (50 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "980-clodsire-3": {
+  "pokemon": "Clodsire",
+  "card_name": "Clodsire",
+  "listing_id": 4605353769,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641792/980_Clodsire_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 50
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork A2b-085 (50 inliers), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "495-snivy-1": {
+  "pokemon": "Snivy",
+  "card_name": "Snivy",
+  "listing_id": 4625724376,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641717/495_Snivy_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 377,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-087 Snivy (377 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "495-snivy-2": {
+  "pokemon": "Snivy",
+  "card_name": "Snivy",
+  "listing_id": 4625724376,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641724/495_Snivy_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 224,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-001 Snivy (224 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "495-snivy-3": {
+  "pokemon": "Snivy",
+  "card_name": "Snivy",
+  "listing_id": 4625724376,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641727/495_Snivy_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "496-servine-1": {
+  "pokemon": "Servine",
+  "card_name": "Servine",
+  "listing_id": 4625716963,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641729/496_Servine_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 135,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-088 Servine (135 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "496-servine-2": {
+  "pokemon": "Servine",
+  "card_name": "Servine",
+  "listing_id": 4625716963,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641730/496_Servine_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 221,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-002 Servine (221 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "496-servine-3": {
+  "pokemon": "Servine",
+  "card_name": "Servine",
+  "listing_id": 4625716963,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641732/496_Servine_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-5": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725686,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641744/497_Serperior_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 81,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-164 Serperior ex (81 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-4": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725686,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641739/497_Serperior_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 100,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: S11a-084 ジャローダV (100 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-6": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior VSTAR",
+  "listing_id": 4625725686,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641745/497_Serperior_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 41,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (top matches are VSTAR frame/text noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-shiny-1": {
+  "pokemon": "Serperior",
+  "card_name": "Shiny Serperior",
+  "listing_id": 4625725686,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641748/497_Serperior_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 54,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5b-164 Serperior ex (54 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-3": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725686,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641738/497_Serperior_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-1": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725790,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641735/497_Serperior_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 337
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork A1a-070 (337 inliers), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "497-serperior-2": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725790,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641736/497_Serperior_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-serperior-7": {
+  "pokemon": "Serperior",
+  "card_name": "Serperior",
+  "listing_id": 4625725790,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641746/497_Serperior_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 30,
+   "pocket_max": 26
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (~30 inliers spread over several ex cards = frame/text noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "497-mega-serperior-1": {
+  "pokemon": "Serperior",
+  "card_name": "Mega Serperior EX",
+  "listing_id": 4625725872,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641733/497_Mega_Serperior_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "984-great-tusk-2": {
+  "pokemon": "Great Tusk",
+  "card_name": "Great Tusk",
+  "listing_id": 4625720291,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641798/984_Great_Tusk_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "984-great-tusk-1": {
+  "pokemon": "Great Tusk",
+  "card_name": "Great Tusk",
+  "listing_id": 4625720291,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641797/984_Great_Tusk_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 107,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV5K-042 イダイナキバ (107 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "985-scream-tail-1": {
+  "pokemon": "Scream Tail",
+  "card_name": "Scream Tail",
+  "listing_id": 4625728868,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641800/985_Scream_Tail_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 164,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV4K-071 サケブシッポ (164 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "985-scream-tail-2": {
+  "pokemon": "Scream Tail",
+  "card_name": "Scream Tail",
+  "listing_id": 4625728868,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641801/985_Scream_Tail_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "985-scream-tail-3": {
+  "pokemon": "Scream Tail",
+  "card_name": "Scream Tail",
+  "listing_id": 4625728868,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641805/985_Scream_Tail_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 22,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended version of the official sv06-094 artwork (22 inliers, extended-art rule)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "987-flutter-mane-2": {
+  "pokemon": "Flutter Mane",
+  "card_name": "Flutter Mane",
+  "listing_id": 4625720479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641808/987_Flutter_Mane_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "987-flutter-mane-1": {
+  "pokemon": "Flutter Mane",
+  "card_name": "Flutter Mane",
+  "listing_id": 4625720479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641807/987_Flutter_Mane_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 34,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV5K-076 ハバタクカミ (34 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "987-flutter-mane-3": {
+  "pokemon": "Flutter Mane",
+  "card_name": "Flutter Mane",
+  "listing_id": 4625720479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641810/987_Flutter_Mane_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "987-flutter-mane-4": {
+  "pokemon": "Flutter Mane",
+  "card_name": "Flutter Mane",
+  "listing_id": 4625720479,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641811/987_Flutter_Mane_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "989-sandy-shocks-1": {
+  "pokemon": "Sandy Shocks",
+  "card_name": "Sandy Shocks",
+  "listing_id": 4625729078,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641813/989_Sandy_Shocks_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "989-sandy-shocks-2": {
+  "pokemon": "Sandy Shocks",
+  "card_name": "Sandy Shocks",
+  "listing_id": 4625729078,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641814/989_Sandy_Shocks_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 207,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV4K-089 スナノケガワex (207 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "989-sandy-shocks-3": {
+  "pokemon": "Sandy Shocks",
+  "card_name": "Sandy Shocks",
+  "listing_id": 4625729078,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641816/989_Sandy_Shocks_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 68,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-098 Sandy Shocks (68 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1005-roaring-moon-5": {
+  "pokemon": "Roaring Moon",
+  "card_name": "Roaring Moon",
+  "listing_id": 4625731474,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641825/1005_Roaring_Moon_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 81,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv08.5-162 Roaring Moon ex (81 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1005-roaring-moon-4": {
+  "pokemon": "Roaring Moon",
+  "card_name": "Roaring Moon",
+  "listing_id": 4625731474,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641822/1005_Roaring_Moon_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 125,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV4K-090 トドロクツキex (125 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1005-roaring-moon-2": {
+  "pokemon": "Roaring Moon",
+  "card_name": "Roaring Moon",
+  "listing_id": 4625731474,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641819/1005_Roaring_Moon_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 101,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV8a-100 トドロクツキ (101 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1005-roaring-moon-1": {
+  "pokemon": "Roaring Moon",
+  "card_name": "Roaring Moon",
+  "listing_id": 4625731474,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641818/1005_Roaring_Moon_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1005-roaring-moon-3": {
+  "pokemon": "Roaring Moon",
+  "card_name": "Roaring Moon",
+  "listing_id": 4625731474,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641820/1005_Roaring_Moon_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1009-walking-wake-3": {
+  "pokemon": "Walking Wake",
+  "card_name": "Walking Wake",
+  "listing_id": 4625731540,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641830/1009_Walking_Wake_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 71,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-205 Walking Wake ex (71 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1009-walking-wake-2": {
+  "pokemon": "Walking Wake",
+  "card_name": "Walking Wake",
+  "listing_id": 4625731540,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641829/1009_Walking_Wake_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1009-walking-wake-shiny-1": {
+  "pokemon": "Walking Wake",
+  "card_name": "Shiny Walking Wake",
+  "listing_id": 4625731540,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641833/1009_Walking_Wake_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 49,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-205 Walking Wake ex (49 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1009-walking-wake-1": {
+  "pokemon": "Walking Wake",
+  "card_name": "Walking Wake",
+  "listing_id": 4625731540,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641827/1009_Walking_Wake_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1020-gouging-fire-3": {
+  "pokemon": "Gouging Fire",
+  "card_name": "Gouging Fire",
+  "listing_id": 4625723223,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641838/1020_Gouging_Fire_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 109,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-204 Gouging Fire ex (109 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1020-gouging-fire-2": {
+  "pokemon": "Gouging Fire",
+  "card_name": "Gouging Fire",
+  "listing_id": 4625723223,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641837/1020_Gouging_Fire_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 43,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv08-038 Gouging Fire (43 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1020-gouging-fire-shiny-1": {
+  "pokemon": "Gouging Fire",
+  "card_name": "Shiny Gouging Fire",
+  "listing_id": 4625723223,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641840/1020_Gouging_Fire_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 78,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-204 Gouging Fire ex (78 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1020-gouging-fire-1": {
+  "pokemon": "Gouging Fire",
+  "card_name": "Gouging Fire",
+  "listing_id": 4625723223,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641835/1020_Gouging_Fire_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1021-raging-bolt-3": {
+  "pokemon": "Raging Bolt",
+  "card_name": "Raging Bolt",
+  "listing_id": 4625731754,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641844/1021_Raging_Bolt_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1021-raging-bolt-2": {
+  "pokemon": "Raging Bolt",
+  "card_name": "Raging Bolt",
+  "listing_id": 4625731754,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641843/1021_Raging_Bolt_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 9,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1021-raging-bolt-shiny-1": {
+  "pokemon": "Raging Bolt",
+  "card_name": "Shiny Raging Bolt",
+  "listing_id": 4625731754,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641849/1021_Raging_Bolt_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1021-raging-bolt-1": {
+  "pokemon": "Raging Bolt",
+  "card_name": "Raging Bolt",
+  "listing_id": 4625731754,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641841/1021_Raging_Bolt_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 73,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv08.5-166 Raging Bolt ex (73 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "990-iron-treads-3": {
+  "pokemon": "Iron Treads",
+  "card_name": "Iron Treads",
+  "listing_id": 4625726207,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641853/990_Iron_Treads_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "990-iron-treads-2": {
+  "pokemon": "Iron Treads",
+  "card_name": "Iron Treads",
+  "listing_id": 4625726207,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641852/990_Iron_Treads_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "990-iron-treads-1": {
+  "pokemon": "Iron Treads",
+  "card_name": "Iron Treads",
+  "listing_id": 4625726207,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641850/990_Iron_Treads_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 47,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV8a-116 テツノワダチ (47 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "991-iron-bundle-2": {
+  "pokemon": "Iron Bundle",
+  "card_name": "Iron Bundle",
+  "listing_id": 4625726289,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641856/991_Iron_Bundle_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "991-iron-bundle-1": {
+  "pokemon": "Iron Bundle",
+  "card_name": "Iron Bundle",
+  "listing_id": 4625726289,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641855/991_Iron_Bundle_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 32,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: svp-066 promo (31 inliers, confirmed by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "991-iron-bundle-3": {
+  "pokemon": "Iron Bundle",
+  "card_name": "Iron Bundle",
+  "listing_id": 4625726289,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641857/991_Iron_Bundle_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 49,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV8-031 テツノツツミ (49 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "992-iron-hands-1": {
+  "pokemon": "Iron Hands",
+  "card_name": "Iron Hands",
+  "listing_id": 4625734886,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641860/992_Iron_Hands_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 218,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv04-248 Iron Hands ex (218 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "992-iron-hands-2": {
+  "pokemon": "Iron Hands",
+  "card_name": "Iron Hands",
+  "listing_id": 4625734886,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641861/992_Iron_Hands_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "992-iron-hands-3": {
+  "pokemon": "Iron Hands",
+  "card_name": "Iron Hands",
+  "listing_id": 4625734886,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641863/992_Iron_Hands_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 116,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-061 Iron Hands (116 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "995-iron-thorns-1": {
+  "pokemon": "Iron Thorns",
+  "card_name": "Iron Thorns",
+  "listing_id": 4625734974,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641864/995_Iron_Thorns_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 48,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: svp-098 Iron Thorns (48 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "995-iron-thorns-2": {
+  "pokemon": "Iron Thorns",
+  "card_name": "Iron Thorns",
+  "listing_id": 4625734974,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641866/995_Iron_Thorns_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-5": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641878/1006_Iron_Valiant_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 52,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv04-249 Iron Valiant ex (52 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-4": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641876/1006_Iron_Valiant_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 40,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-080 Iron Valiant (40 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-3": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641874/1006_Iron_Valiant_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 43,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv08.5-157 Iron Valiant ex (43 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-1": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641871/1006_Iron_Valiant_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-2": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641873/1006_Iron_Valiant_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv05-079 Iron Valiant (33 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "1006-iron-valiant-6": {
+  "pokemon": "Iron Valiant",
+  "card_name": "Iron Valiant",
+  "listing_id": 4625726587,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641880/1006_Iron_Valiant_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 35,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv04-261 Iron Valiant ex (35 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
  }
 }
