@@ -1730,5 +1730,131 @@
    "permalink": "https://www.facebook.com/reel/1868681421141789/"
   },
   "done": "2026-11-23T02:31:11.866718+00:00"
+ },
+ "2026-11-25-c1": {
+  "attempts": 0,
+  "slides": [
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-c1_slide1.jpg",
+    "alt": "Arceus EX Pokémon fan art card wrapped in golden fire, holographic full art handmade proxy card by Fanart Designs MX"
+   },
+   {
+    "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-c1_slide3.jpg",
+    "alt": "Three Arceus VSTAR Pokémon fan art cards in gold, cosmic pink and pearl white, fanned out, handmade holographic proxy cards"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+    "alt": "More handmade holographic Pokémon proxy cards like Arceus EX from Fanart Designs MX"
+   }
+  ],
+  "ig": {
+   "media_id": "18648392914021255",
+   "permalink": "https://www.instagram.com/p/DgLIEYmDaVs/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122122469715449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122122469715449530"
+  },
+  "done": "2026-11-25T18:01:45.250952+00:00"
+ },
+ "2026-11-25-r2": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-r2.jpg",
+  "render": {
+   "duration": 16.266666666666666,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 122,
+    "root": 62,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 2.46,
+    "text": "Heat Rotom just possessed the oven..."
+   },
+   {
+    "t0": 2.46,
+    "t1": 4.443,
+    "text": "and now it wants a spot in your binder."
+   },
+   {
+    "t0": 4.743,
+    "t1": 6.483,
+    "text": "Every card's made by hand,"
+   },
+   {
+    "t0": 6.483,
+    "t1": 7.733,
+    "text": "with a holo shine,"
+   },
+   {
+    "t0": 7.733,
+    "t1": 9.111,
+    "text": "at real card size."
+   },
+   {
+    "t0": 9.371,
+    "t1": 10.521,
+    "text": "Order two or more,"
+   },
+   {
+    "t0": 10.521,
+    "t1": 11.861,
+    "text": "save 25%"
+   },
+   {
+    "t0": 11.861,
+    "t1": 13.481,
+    "text": "using code 25OFF"
+   },
+   {
+    "t0": 13.781,
+    "t1": 15.262,
+    "text": "The link's waiting in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-25T18:03:13.689486+00:00",
+  "render_seconds": 88
+ },
+ "2026-11-25-c2": {
+  "attempts": 0
+ },
+ "2026-11-25-r3": {
+  "attempts": 0
+ },
+ "2026-11-26-r1": {
+  "attempts": 0
+ },
+ "2026-11-26-c1": {
+  "attempts": 0
+ },
+ "2026-11-26-r2": {
+  "attempts": 0
+ },
+ "2026-11-26-c2": {
+  "attempts": 0
+ },
+ "2026-11-26-r3": {
+  "attempts": 0
  }
 }
