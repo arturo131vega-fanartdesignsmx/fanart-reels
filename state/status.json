@@ -1834,7 +1834,16 @@
    }
   ],
   "rendered_at": "2026-11-25T18:03:13.689486+00:00",
-  "render_seconds": 88
+  "render_seconds": 88,
+  "ig": {
+   "media_id": "18005665211807157",
+   "permalink": "https://www.instagram.com/reel/DgLVpXIMyEd/"
+  },
+  "fb": {
+   "video_id": "1467584262163483",
+   "permalink": "https://www.facebook.com/reel/1467584262163483/"
+  },
+  "done": "2026-11-25T20:01:10.661268+00:00"
  },
  "2026-11-25-c2": {
   "attempts": 0
