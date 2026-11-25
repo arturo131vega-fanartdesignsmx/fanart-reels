@@ -231,19 +231,52 @@ def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, h
     PILLY = 1530
 
     # subtitles
+    SUB_MAXW = 880  # text width limit; leaves margin for padding, stroke and the pop-in overshoot
+
+    def _line_w(parts, sz):
+        f = ImageFont.truetype(FX, sz)
+        return sum(f.getbbox(p[0], stroke_width=8)[2] for p in parts) + int(sz * 0.28) * (len(parts) - 1)
+
+    def _stack(imgs, gap):
+        wmax = max(i.shape[1] for i in imgs)
+        htot = sum(i.shape[0] for i in imgs) - gap * (len(imgs) - 1)
+        out = np.zeros((htot, wmax, 4), np.float32)
+        y = 0
+        for i in imgs:
+            h_, w_ = i.shape[:2]
+            x = (wmax - w_) // 2
+            reg = out[y:y + h_, x:x + w_]
+            a_ = i[..., 3:4]
+            reg[..., :3] = reg[..., :3] * (1 - a_) + i[..., :3] * a_
+            reg[..., 3:4] = np.maximum(reg[..., 3:4], a_)
+            y += h_ - gap
+        return out
+
+    # subtitles: one line when it fits, otherwise two balanced lines (never wider than the frame)
     def sub_img(text):
         tokens = text.split()
         allhl = text.lower().startswith(("link", "shop", "tap", "check the link", "find"))
         parts = [(w, YEL if (allhl or w.strip(",.!?:").lower() in keys) else WHITE) for w in tokens]
-        sz = 72
-        while sz > 56:
-            f = ImageFont.truetype(FX, sz)
-            w = sum(f.getbbox(p[0], stroke_width=8)[2] for p in parts) + int(sz * 0.28) * (len(parts) - 1)
-            if w <= 940:
-                break
+        lines, sz = [parts], 72
+        while sz > 64 and _line_w(parts, sz) > SUB_MAXW:
             sz -= 2
-        if V["subs"] == "box":
-            img = text_img([(p[0], WHITE if p[1] == WHITE else YEL) for p in parts], sz, FX, stroke=0, pad=26, shadow=False)
+        if _line_w(parts, sz) > SUB_MAXW and len(parts) > 1:
+            best = None
+            for k in range(1, len(parts)):
+                a_, b_ = parts[:k], parts[k:]
+                cost = max(_line_w(a_, 72), _line_w(b_, 72)) + 0.3 * abs(_line_w(a_, 72) - _line_w(b_, 72))
+                if best is None or cost < best[0]:
+                    best = (cost, [a_, b_])
+            lines, sz = best[1], 72
+        while sz > 44 and max(_line_w(l, sz) for l in lines) > SUB_MAXW:
+            sz -= 2
+        boxed = V["subs"] == "box"
+        imgs = [text_img(l, sz, FX, stroke=0 if boxed else 8, pad=26 if boxed else 24, shadow=not boxed) for l in lines]
+        img = imgs[0] if len(imgs) == 1 else _stack(imgs, int(sz * 0.85))
+        if img.shape[1] > W - 40:  # hard safety net
+            r_ = (W - 40) / img.shape[1]
+            img = cv2.resize(img, (W - 40, max(1, int(img.shape[0] * r_))), interpolation=cv2.INTER_AREA)
+        if boxed:
             box = np.zeros_like(img)
             box[..., :3] = 0.05
             box[..., 3] = 0.62
@@ -260,7 +293,7 @@ def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, h
             out[..., :3] = box[..., :3] * (1 - a2) + img[..., :3] * a2
             out[..., 3:4] = np.maximum(box[..., 3:4], a2)
             return out
-        return text_img(parts, sz, FX, stroke=8, pad=24)
+        return img
 
     ss = meta["subs"]
     subs = []
@@ -268,6 +301,8 @@ def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, h
         t1 = ss[k + 1]["t0"] if k + 1 < len(ss) and ss[k + 1]["t0"] - s_["t1"] < 0.5 else (D + 1 if k == len(ss) - 1 else s_["t1"])
         subs.append((s_["t0"], t1, sub_img(s_["text"])))
     SUBY = 1395
+    SUB_BOTTOM = PILLY - pill.shape[0] // 2 - 6  # subtitles never overlap the "ETSY Link in Bio" pill
+    subs = [(a_, b_, im_, min(SUBY, SUB_BOTTOM - im_.shape[0] / 2)) for a_, b_, im_ in subs]
     last_t0 = ss[-1]["t0"] if ss else D
 
     tmpdir = tempfile.mkdtemp()
@@ -354,10 +389,10 @@ def render(card_path, meta, voice_wav, out_path, variant_seed=0, music_seed=0, h
             blit(fr, pill, W / 2, y, pulse if p >= 1 else e, min(p * 2, 1))
 
         # subtitles
-        for t0, t1, img in subs:
+        for t0, t1, img, sy in subs:
             if t0 <= t < t1:
                 q = (t - t0) / 0.12
-                blit(fr, img, W / 2, SUBY, 0.86 + 0.14 * ease_back(min(q, 1)) if q < 1 else 1.0, min(q * 1.5, 1))
+                blit(fr, img, W / 2, sy, 0.86 + 0.14 * ease_back(min(q, 1)) if q < 1 else 1.0, min(q * 1.5, 1))
 
         frame = (np.clip(fr, 0, 1) * 255).astype(np.uint8)
         ff.stdin.write(frame.tobytes())
