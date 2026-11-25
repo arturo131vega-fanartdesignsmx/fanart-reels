@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-9",
+  "name": "150_Mewtwo_9",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450578/150_Mewtwo_9.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-282",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "xy12-52",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "30th-063",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-71",
+   "lang": "en",
+   "name": "Mewtwo & Mew GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

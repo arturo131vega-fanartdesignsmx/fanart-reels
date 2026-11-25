@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-12",
+  "name": "150_Mewtwo_12",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450436/150_Mewtwo_12.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-282",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 40,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Psychic Sphere",
+    "Psydrive"
+   ]
+  },
+  {
+   "id": "xy8-158",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "P-A-010",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-51",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

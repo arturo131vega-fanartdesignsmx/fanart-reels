@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-dragonite-10",
+  "name": "149_Dragonite_10",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450432/149_Dragonite_10.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "hgss4-18",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3b-090",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": true,
+   "inliers": 3
+  },
+  {
+   "id": "swsh12-131",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "swshp-SWSH154",
+   "lang": "en",
+   "name": "Dragonite V",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

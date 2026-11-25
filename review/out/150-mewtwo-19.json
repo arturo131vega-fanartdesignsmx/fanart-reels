@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-19",
+  "name": "150_Mewtwo_19",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450385/150_Mewtwo_19.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "dpp-DP28",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xy8-159",
+   "lang": "en",
+   "name": "M Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base4-10",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy12-52",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

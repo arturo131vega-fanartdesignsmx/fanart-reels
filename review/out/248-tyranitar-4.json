@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "248-tyranitar-4",
+  "name": "248_Tyranitar_4",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640546/248_Tyranitar_4.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "hgss2-26",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex7-19",
+   "lang": "en",
+   "name": "Dark Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10.5-043",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08.5-064",
+   "lang": "en",
+   "name": "Tyranitar ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

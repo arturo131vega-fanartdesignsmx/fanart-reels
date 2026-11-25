@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-dragonite-4",
+  "name": "149_Dragonite_4",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450609/149_Dragonite_4.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm9-119",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm11-229",
+   "lang": "en",
+   "name": "Dragonite GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "base3-4",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base5-22",
+   "lang": "en",
+   "name": "Dark Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

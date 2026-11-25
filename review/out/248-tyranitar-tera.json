@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "248-tyranitar-tera",
+  "name": "248_Tyranitar_Tera",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640334/248_Tyranitar_Tera.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "SV3-122",
+   "lang": "ja",
+   "name": "バンギラスex",
+   "pocket": false,
+   "inliers": 71,
+   "set": "黒炎の支配者",
+   "illustrator": "5ban Graphics",
+   "hp": 340,
+   "attacks": [
+    "やまとばし",
+    "トールランページ"
+   ]
+  },
+  {
+   "id": "sv03-211",
+   "lang": "en",
+   "name": "Tyranitar ex",
+   "pocket": false,
+   "inliers": 56,
+   "set": "Obsidian Flames",
+   "illustrator": "5ban Graphics",
+   "hp": 340,
+   "attacks": [
+    "Mountain Hurl",
+    "Lightning Rampage"
+   ]
+  },
+  {
+   "id": "A2a-041",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": true,
+   "inliers": 8
+  },
+  {
+   "id": "neo4-113",
+   "lang": "en",
+   "name": "Shining Tyranitar",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

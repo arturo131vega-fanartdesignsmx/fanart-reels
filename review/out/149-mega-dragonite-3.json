@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-mega-dragonite-3",
+  "name": "149_Mega_Dragonite_3",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450510/149_Mega_Dragonite_3.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "neo4-14",
+   "lang": "en",
+   "name": "Light Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "base3-19",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl3-56",
+   "lang": "en",
+   "name": "Dragonite FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV2a-149",
+   "lang": "ja",
+   "name": "カイリュー",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

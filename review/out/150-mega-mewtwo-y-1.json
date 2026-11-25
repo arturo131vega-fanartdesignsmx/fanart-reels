@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-y-1",
+  "name": "150_Mega_Mewtwo_Y_1",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450579/150_Mega_Mewtwo_Y_1.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "basep-12",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy12-51",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy12-52",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy12-103",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

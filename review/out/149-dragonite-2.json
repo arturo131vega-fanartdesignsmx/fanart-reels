@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "149-dragonite-2",
+  "name": "149_Dragonite_2",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450436/149_Dragonite_2.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sv03.5-149",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 114,
+   "set": "151",
+   "illustrator": "Sanosuke Sakuma",
+   "hp": 180,
+   "attacks": [
+    "Dragon Pulse"
+   ]
+  },
+  {
+   "id": "SV2a-149",
+   "lang": "ja",
+   "name": "カイリュー",
+   "pocket": false,
+   "inliers": 72,
+   "set": "ポケモンカード151",
+   "illustrator": "Sanosuke Sakuma",
+   "hp": 180,
+   "attacks": [
+    "りゅうのはどう"
+   ]
+  },
+  {
+   "id": "dp6-2",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy3-74",
+   "lang": "en",
+   "name": "Dragonite EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

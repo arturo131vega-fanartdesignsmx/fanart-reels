@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-y-4",
+  "name": "150_Mega_Mewtwo_Y_4",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450576/150_Mega_Mewtwo_Y_4.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "swsh10.5-030",
+   "lang": "en",
+   "name": "Mewtwo V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S12a-050",
+   "lang": "ja",
+   "name": "ミュウツーV",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xyp-XY101",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base1-10",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-x-4",
+  "name": "150_Mega_Mewtwo_X_4",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450384/150_Mega_Mewtwo_X_4.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "swsh10.5-079",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "swsh10.5-086",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy12-103",
+   "lang": "en",
+   "name": "Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

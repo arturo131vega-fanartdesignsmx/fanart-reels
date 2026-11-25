@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "248-tyranitar-2",
+  "name": "248_Tyranitar_2",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640353/248_Tyranitar_2.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "SV2D-079",
+   "lang": "ja",
+   "name": "バンギラス",
+   "pocket": false,
+   "inliers": 104,
+   "set": "クレイバースト",
+   "illustrator": "Nurikabe",
+   "hp": 180,
+   "attacks": [
+    "けちらす",
+    "ドレッドマウンテン"
+   ]
+  },
+  {
+   "id": "sv02-222",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 96,
+   "set": "Paldea Evolved",
+   "illustrator": "Nurikabe",
+   "hp": 180,
+   "attacks": [
+    "Rout",
+    "Dread Mountain"
+   ]
+  },
+  {
+   "id": "xy7-81",
+   "lang": "en",
+   "name": "Tyranitar Spirit Link",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh5-155",
+   "lang": "en",
+   "name": "Tyranitar V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

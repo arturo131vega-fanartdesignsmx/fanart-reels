@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-mega-dragonite-6",
+  "name": "149_Mega_Dragonite_6",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450383/149_Mega_Dragonite_6.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "ecard1-9",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "hgss4-18",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl3-56",
+   "lang": "en",
+   "name": "Dragonite FB",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-151",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

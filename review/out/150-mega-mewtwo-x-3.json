@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-x-3",
+  "name": "150_Mega_Mewtwo_X_3",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450510/150_Mega_Mewtwo_X_3.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "dp5-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ecard1-20",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-050",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "bw4-54",
+   "lang": "en",
+   "name": "Mewtwo-EX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

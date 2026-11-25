@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "149-mega-dragonite-shiny-1",
+  "name": "149_Mega_Dragonite_Shiny_1",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450514/149_Mega_Dragonite_Shiny_1.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "me02.5-290",
+   "lang": "en",
+   "name": "Mega Dragonite ex",
+   "pocket": false,
+   "inliers": 77,
+   "set": "Ascended Heroes",
+   "illustrator": "DOM",
+   "hp": 370,
+   "attacks": [
+    "Ryuno Glide"
+   ]
+  },
+  {
+   "id": "sv03.5-149",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "me02.5-295",
+   "lang": "en",
+   "name": "Mega Dragonite ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "base3-19",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

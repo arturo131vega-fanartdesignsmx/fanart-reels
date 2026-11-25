@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-18",
+  "name": "150_Mewtwo_18",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450611/150_Mewtwo_18.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "sm11-222",
+   "lang": "en",
+   "name": "Mewtwo & Mew GX",
+   "pocket": false,
+   "inliers": 42,
+   "set": "Unified Minds",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Miraculous Duo GX"
+   ]
+  },
+  {
+   "id": "sm11-71",
+   "lang": "en",
+   "name": "Mewtwo & Mew GX",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Unified Minds",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 270,
+   "attacks": [
+    "Miraculous Duo GX"
+   ]
+  },
+  {
+   "id": "sm11-242",
+   "lang": "en",
+   "name": "Mewtwo & Mew GX",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Unified Minds",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Miraculous Duo GX"
+   ]
+  },
+  {
+   "id": "sm10-75",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 29,
+   "set": "Unbroken Bonds",
+   "illustrator": "Shin Nagasawa",
+   "hp": 120,
+   "attacks": [
+    "Psyshock"
+   ]
+  }
+ ]
+}

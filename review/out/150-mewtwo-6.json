@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-6",
+  "name": "150_Mewtwo_6",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450515/150_Mewtwo_6.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "sv10-231",
+   "lang": "en",
+   "name": "Team Rocket's Mewtwo ex",
+   "pocket": false,
+   "inliers": 44,
+   "set": "Destined Rivals",
+   "illustrator": "Iwamoto05",
+   "hp": 280,
+   "attacks": [
+    "Erasure Ball"
+   ]
+  },
+  {
+   "id": "xy8-159",
+   "lang": "en",
+   "name": "M Mewtwo EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-010",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-shiny-2",
+  "name": "150_Mewtwo_Shiny_2",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450521/150_Mewtwo_Shiny_2.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "30th-151",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": false,
+   "inliers": 83,
+   "set": "30th Celebration",
+   "illustrator": "Yano Keiji",
+   "hp": 230,
+   "attacks": [
+    "Photon Bullets",
+    "Psychic Powers"
+   ]
+  },
+  {
+   "id": "xy8-144",
+   "lang": "en",
+   "name": "Mewtwo Spirit Link",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "bw11-54",
+   "lang": "en",
+   "name": "Mewtwo-EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex13-103",
+   "lang": "en",
+   "name": "Mewtwo Star",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

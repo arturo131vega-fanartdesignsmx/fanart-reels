@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-x-2",
+  "name": "150_Mega_Mewtwo_X_2",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450386/150_Mega_Mewtwo_X_2.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "S11a-035",
+   "lang": "ja",
+   "name": "ミュウツー",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "ru1-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "P-A-010",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "dp6-11",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

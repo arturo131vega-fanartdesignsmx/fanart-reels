@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "373-salamence-3",
+  "name": "373_Salamence_3",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794788349/373_Salamence_3.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "smp-SM140",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh7-109",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "dv1-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "pl4-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-ancient",
+  "name": "150_Mewtwo_Ancient",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450628/150_Mewtwo_Ancient.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "base4-10",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex1-101",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10.5-031",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "swsh9-056",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

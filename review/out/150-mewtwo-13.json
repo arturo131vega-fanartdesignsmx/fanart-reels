@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-13",
+  "name": "150_Mewtwo_13",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450580/150_Mewtwo_13.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "30th-151",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": false,
+   "inliers": 110,
+   "set": "30th Celebration",
+   "illustrator": "Yano Keiji",
+   "hp": 230,
+   "attacks": [
+    "Photon Bullets",
+    "Psychic Powers"
+   ]
+  },
+  {
+   "id": "sm115-31",
+   "lang": "en",
+   "name": "Mewtwo GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sma-SV59",
+   "lang": "en",
+   "name": "Mewtwo-GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp6-11",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

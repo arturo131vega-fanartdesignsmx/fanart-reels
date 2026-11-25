@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "373-salamence-7",
+  "name": "373_Salamence_7",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794788045/373_Salamence_7.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "swsh3-143",
+   "lang": "en",
+   "name": "Salamence V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "xyp-XY59",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl4-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy6-57",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-21",
+  "name": "150_Mewtwo_21",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450384/150_Mewtwo_21.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-286",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 132,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 150,
+   "attacks": [
+    "Psychic Sphere",
+    "Psydrive"
+   ]
+  },
+  {
+   "id": "A1-262",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 150,
+   "attacks": [
+    "Psychic Sphere",
+    "Psydrive"
+   ]
+  },
+  {
+   "id": "P-A-050",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 11
+  },
+  {
+   "id": "swsh10.5-072",
+   "lang": "en",
+   "name": "Mewtwo V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

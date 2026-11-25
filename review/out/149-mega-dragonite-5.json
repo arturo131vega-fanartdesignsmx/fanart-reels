@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-mega-dragonite-5",
+  "name": "149_Mega_Dragonite_5",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450576/149_Mega_Dragonite_5.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "me02.5-295",
+   "lang": "en",
+   "name": "Mega Dragonite ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "dp6-2",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "ex11-3",
+   "lang": "en",
+   "name": "Dragonite δ",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "base3-4",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

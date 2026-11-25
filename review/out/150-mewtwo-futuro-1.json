@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-futuro-1",
+  "name": "150_Mewtwo_Futuro_1",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450386/150_Mewtwo_Futuro_1.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "30th-157",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": false,
+   "inliers": 56,
+   "set": "30th Celebration",
+   "illustrator": "YOSHIROTTEN",
+   "hp": 230,
+   "attacks": [
+    "Photon Bullets",
+    "Psychic Powers"
+   ]
+  },
+  {
+   "id": "sv07-059",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh12.5-059",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv03.5-150",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

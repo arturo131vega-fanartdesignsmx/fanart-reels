@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "149-dragonite-shiny-1",
+  "name": "149_Dragonite_Shiny_1",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450383/149_Dragonite_Shiny_1.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A3b-090",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": true,
+   "inliers": 34,
+   "set": "Eevee Grove",
+   "illustrator": "Mori Yuu",
+   "hp": 180,
+   "attacks": [
+    "Giga Impact"
+   ]
+  },
+  {
+   "id": "xy6-51",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "ecard1-9",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dv1-5",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

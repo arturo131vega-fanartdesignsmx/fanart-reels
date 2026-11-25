@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-3",
+  "name": "150_Mewtwo_3",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450438/150_Mewtwo_3.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "swsh12.5-059",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 132,
+   "set": "Crown Zenith",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 130,
+   "attacks": [
+    "Psypump",
+    "Limit Break"
+   ]
+  },
+  {
+   "id": "S11a-035",
+   "lang": "ja",
+   "name": "ミュウツー",
+   "pocket": false,
+   "inliers": 76,
+   "set": "白熱のアルカナ",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 130,
+   "attacks": [
+    "サイコパンプ",
+    "リミットブレイク"
+   ]
+  },
+  {
+   "id": "sv10-231",
+   "lang": "en",
+   "name": "Team Rocket's Mewtwo ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp5-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

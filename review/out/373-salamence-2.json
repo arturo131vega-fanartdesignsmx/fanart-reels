@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "373-salamence-2",
+  "name": "373_Salamence_2",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794788331/373_Salamence_2.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "swsh7-109",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 159,
+   "set": "Evolving Skies",
+   "illustrator": "kodama",
+   "hp": 170,
+   "attacks": [
+    "Fierce Dragon"
+   ]
+  },
+  {
+   "id": "B2-123",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": true,
+   "inliers": 129,
+   "set": "Fantastical Parade",
+   "illustrator": "kodama",
+   "hp": 150,
+   "attacks": [
+    "Dragon Dive"
+   ]
+  },
+  {
+   "id": "SV9-129",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "dv1-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

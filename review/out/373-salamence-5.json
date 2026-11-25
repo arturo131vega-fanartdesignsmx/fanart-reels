@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "373-salamence-5",
+  "name": "373_Salamence_5",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794787782/373_Salamence_5.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv09-187",
+   "lang": "en",
+   "name": "Salamence ex",
+   "pocket": false,
+   "inliers": 79,
+   "set": "Journey Together",
+   "illustrator": "Tsuyoshi Nagano",
+   "hp": 320,
+   "attacks": [
+    "Wide Blast",
+    "Dragon Impact"
+   ]
+  },
+  {
+   "id": "SV9-129",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 39,
+   "set": "バトルパートナーズ",
+   "illustrator": "Tsuyoshi Nagano",
+   "hp": 320,
+   "attacks": [
+    "ワイドブラスト",
+    "ドラゴンインパクト"
+   ]
+  },
+  {
+   "id": "dv1-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV9-072",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

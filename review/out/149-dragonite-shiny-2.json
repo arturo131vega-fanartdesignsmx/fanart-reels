@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-dragonite-shiny-2",
+  "name": "149_Dragonite_Shiny_2",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450434/149_Dragonite_Shiny_2.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A1-244",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": true,
+   "inliers": 7
+  },
+  {
+   "id": "sm11-152",
+   "lang": "en",
+   "name": "Dragonite GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dv1-5",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV2a-149",
+   "lang": "ja",
+   "name": "カイリュー",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

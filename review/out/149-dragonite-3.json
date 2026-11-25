@@ -1,0 +1,57 @@
+{
+ "candidate": {
+  "key": "149-dragonite-3",
+  "name": "149_Dragonite_3",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450510/149_Dragonite_3.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "sm1-96",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 52,
+   "set": "Sun & Moon",
+   "illustrator": "Hiroyuki Yamamoto",
+   "hp": 160,
+   "attacks": [
+    "Dragon Wave",
+    "Giant Tail"
+   ]
+  },
+  {
+   "id": "A1-185",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": true,
+   "inliers": 34,
+   "set": "Genetic Apex",
+   "illustrator": "Hiroyuki Yamamoto",
+   "hp": 160,
+   "attacks": [
+    "Draco Meteor"
+   ]
+  },
+  {
+   "id": "hgss4-18",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex3-90",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

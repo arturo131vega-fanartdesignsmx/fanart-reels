@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-14",
+  "name": "150_Mewtwo_14",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450578/150_Mewtwo_14.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-128",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 34,
+   "set": "Genetic Apex",
+   "illustrator": "kawayoo",
+   "hp": 120,
+   "attacks": [
+    "Power Blast"
+   ]
+  },
+  {
+   "id": "smp-SM214",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 33,
+   "set": "SM Black Star Promos",
+   "illustrator": "kawayoo",
+   "hp": 120,
+   "attacks": [
+    "Psyshock"
+   ]
+  },
+  {
+   "id": "SV10-039",
+   "lang": "ja",
+   "name": "ロケット団のミュウツーex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ru1-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

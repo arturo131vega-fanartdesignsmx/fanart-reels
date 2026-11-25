@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "149-dragonite-1",
+  "name": "149_Dragonite_1",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450507/149_Dragonite_1.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A1-244",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Genetic Apex",
+   "illustrator": "Gemi",
+   "hp": 160,
+   "attacks": [
+    "Draco Meteor"
+   ]
+  },
+  {
+   "id": "base5-5",
+   "lang": "en",
+   "name": "Dark Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3b-082",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "ex3-90",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

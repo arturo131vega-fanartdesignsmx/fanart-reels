@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-1",
+  "name": "150_Mewtwo_1",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450510/150_Mewtwo_1.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "P-A-010",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 98,
+   "set": "Promos-A",
+   "illustrator": "Krgc",
+   "hp": 120,
+   "attacks": [
+    "Power Blast"
+   ]
+  },
+  {
+   "id": "swsh10.5-030",
+   "lang": "en",
+   "name": "Mewtwo V",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "swsh10.5-086",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy8-144",
+   "lang": "en",
+   "name": "Mewtwo Spirit Link",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

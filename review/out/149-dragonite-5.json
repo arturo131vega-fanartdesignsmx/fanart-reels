@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "149-dragonite-5",
+  "name": "149_Dragonite_5",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450438/149_Dragonite_5.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "A3b-090",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": true,
+   "inliers": 51,
+   "set": "Eevee Grove",
+   "illustrator": "Mori Yuu",
+   "hp": 180,
+   "attacks": [
+    "Giga Impact"
+   ]
+  },
+  {
+   "id": "dv1-5",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "base5-5",
+   "lang": "en",
+   "name": "Dark Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm1-96",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "373-salamence-6",
+  "name": "373_Salamence_6",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794788245/373_Salamence_6.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "30th-156",
+   "lang": "en",
+   "name": "Salamence ex",
+   "pocket": false,
+   "inliers": 32,
+   "set": "30th Celebration",
+   "illustrator": "Ryota Murayama",
+   "hp": 330,
+   "attacks": [
+    "Booming Call",
+    "Dragon Pulse"
+   ]
+  },
+  {
+   "id": "dv1-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV9-072",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV9-129",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

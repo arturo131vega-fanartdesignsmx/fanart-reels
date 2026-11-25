@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-x",
+  "name": "150_Mega_Mewtwo_X",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450515/150_Mega_Mewtwo_X.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "bwp-BW45",
+   "lang": "en",
+   "name": "Mewtwo-EX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "S12a-050",
+   "lang": "ja",
+   "name": "ミュウツーV",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "neo4-109",
+   "lang": "en",
+   "name": "Shining Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp6-11",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-2",
+  "name": "150_Mewtwo_2",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450623/150_Mewtwo_2.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "svp-052",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 24,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Bun Toujo",
+   "hp": 130,
+   "attacks": [
+    "Reflective Barrier",
+    "Psyslash"
+   ]
+  },
+  {
+   "id": "SV2a-183",
+   "lang": "ja",
+   "name": "ミュウツー",
+   "pocket": false,
+   "inliers": 21,
+   "set": "ポケモンカード151",
+   "illustrator": "Bun Toujo",
+   "hp": 130,
+   "attacks": [
+    "リフレクトバリア",
+    "サイコストライク"
+   ]
+  },
+  {
+   "id": "xy12-51",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH229",
+   "lang": "en",
+   "name": "Mewtwo V",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

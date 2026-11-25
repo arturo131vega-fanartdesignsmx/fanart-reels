@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "149-mega-dragonite-shiny-2",
+  "name": "149_Mega_Dragonite_Shiny_2",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450433/149_Mega_Dragonite_Shiny_2.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "me02.5-152",
+   "lang": "en",
+   "name": "Mega Dragonite ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "lc-5",
+   "lang": "en",
+   "name": "Dark Dragonite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10.5-081",
+   "lang": "en",
+   "name": "Dragonite VSTAR",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw9-83",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

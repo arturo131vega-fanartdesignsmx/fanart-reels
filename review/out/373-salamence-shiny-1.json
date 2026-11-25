@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "373-salamence-shiny-1",
+  "name": "373_Salamence_Shiny_1",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794787851/373_Salamence_Shiny_1.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "B2-178",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": true,
+   "inliers": 19,
+   "set": "Fantastical Parade",
+   "illustrator": "Shiburingaru",
+   "hp": 150,
+   "attacks": [
+    "Dragon Dive"
+   ]
+  },
+  {
+   "id": "dp7-24",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xyp-XY171",
+   "lang": "en",
+   "name": "M Salamence-EX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV9-129",
+   "lang": "ja",
+   "name": "ボーマンダex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "248-tyranitar-3",
+  "name": "248_Tyranitar_3",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640485/248_Tyranitar_3.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "SV2D-052",
+   "lang": "ja",
+   "name": "バンギラス",
+   "pocket": false,
+   "inliers": 165,
+   "set": "クレイバースト",
+   "illustrator": "hncl",
+   "hp": 180,
+   "attacks": [
+    "けちらす",
+    "ドレッドマウンテン"
+   ]
+  },
+  {
+   "id": "sv02-135",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 148,
+   "set": "Paldea Evolved",
+   "illustrator": "hncl",
+   "hp": 180,
+   "attacks": [
+    "Rout",
+    "Dread Mountain"
+   ]
+  },
+  {
+   "id": "pop1-17",
+   "lang": "en",
+   "name": "Tyranitar ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "ex7-19",
+   "lang": "en",
+   "name": "Dark Tyranitar",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

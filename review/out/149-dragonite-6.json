@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "149-dragonite-6",
+  "name": "149_Dragonite_6",
+  "pokemon": "Dragonite",
+  "dex": 149,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450448/149_Dragonite_6.jpg"
+ },
+ "official_cards_checked": 53,
+ "lookup": {
+  "en": 56,
+  "ja": 18
+ },
+ "top": [
+  {
+   "id": "swsh7-192",
+   "lang": "en",
+   "name": "Dragonite V",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Evolving Skies",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 230,
+   "attacks": [
+    "Shred",
+    "Dragon Gale"
+   ]
+  },
+  {
+   "id": "ecard1-43",
+   "lang": "en",
+   "name": "Dragonite",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "sv03-159",
+   "lang": "en",
+   "name": "Dragonite ex",
+   "pocket": false,
+   "inliers": 11
+  },
+  {
+   "id": "swsh10.5-049",
+   "lang": "en",
+   "name": "Dragonite V",
+   "pocket": false,
+   "inliers": 8
+  }
+ ]
+}

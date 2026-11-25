@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-vstar",
+  "name": "150_Mewtwo_VSTAR",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450623/150_Mewtwo_VSTAR.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "S12a-221",
+   "lang": "ja",
+   "name": "ミュウツーVSTAR",
+   "pocket": false,
+   "inliers": 153,
+   "set": "VSTARユニバース",
+   "illustrator": "GOSSAN",
+   "hp": 280,
+   "attacks": [
+    "サイコパージ",
+    "スターレイド"
+   ]
+  },
+  {
+   "id": "swsh10.5-079",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 39,
+   "set": "Pokémon GO",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 280,
+   "attacks": [
+    "Psy Purge",
+    "Star Raid"
+   ]
+  },
+  {
+   "id": "swsh10.5-031",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 37,
+   "set": "Pokémon GO",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 280,
+   "attacks": [
+    "Psy Purge",
+    "Star Raid"
+   ]
+  },
+  {
+   "id": "swsh10.5-086",
+   "lang": "en",
+   "name": "Mewtwo VSTAR",
+   "pocket": false,
+   "inliers": 34,
+   "set": "Pokémon GO",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 280,
+   "attacks": [
+    "Psy Purge",
+    "Star Raid"
+   ]
+  }
+ ]
+}

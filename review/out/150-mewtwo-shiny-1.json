@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-shiny-1",
+  "name": "150_Mewtwo_Shiny_1",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450438/150_Mewtwo_Shiny_1.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-282",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 27,
+   "set": "Genetic Apex",
+   "illustrator": "Nurikabe",
+   "hp": 150,
+   "attacks": [
+    "Psychic Sphere",
+    "Psydrive"
+   ]
+  },
+  {
+   "id": "smp-SM77",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "P-A-010",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 5
+  },
+  {
+   "id": "me02.5-079",
+   "lang": "en",
+   "name": "Team Rocket's Mewtwo ex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

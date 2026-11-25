@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "373-mega-salamence-2",
+  "name": "373_Mega_Salamence_2",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794787916/373_Mega_Salamence_2.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv09-114",
+   "lang": "en",
+   "name": "Salamence ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xyp-XY59",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "ex15-98",
+   "lang": "en",
+   "name": "Salamence ex δ",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm7-106",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "248-mega-tyranitar-3",
+  "name": "248_Mega_Tyranitar_3",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640337/248_Mega_Tyranitar_3.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "neo2-31",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy10-56",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy7-91",
+   "lang": "en",
+   "name": "Tyranitar EX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm11-245",
+   "lang": "en",
+   "name": "Mega Sableye & Tyranitar GX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

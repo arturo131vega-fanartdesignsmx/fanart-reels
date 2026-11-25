@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "248-mega-tyranitar-1",
+  "name": "248_Mega_Tyranitar_1",
+  "pokemon": "Tyranitar",
+  "dex": 248,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794640535/248_Mega_Tyranitar_1.jpg"
+ },
+ "official_cards_checked": 56,
+ "lookup": {
+  "en": 52,
+  "ja": 19
+ },
+ "top": [
+  {
+   "id": "sm8-223",
+   "lang": "en",
+   "name": "Tyranitar GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "neo2-12",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pop1-17",
+   "lang": "en",
+   "name": "Tyranitar ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "dp2-17",
+   "lang": "en",
+   "name": "Tyranitar",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

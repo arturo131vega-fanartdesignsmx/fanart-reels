@@ -1,0 +1,64 @@
+{
+ "candidate": {
+  "key": "150-mewtwo-tera-1",
+  "name": "150_Mewtwo_Tera_1",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450613/150_Mewtwo_Tera_1.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "A1-128",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": true,
+   "inliers": 15,
+   "set": "Genetic Apex",
+   "illustrator": "kawayoo",
+   "hp": 120,
+   "attacks": [
+    "Power Blast"
+   ]
+  },
+  {
+   "id": "A1-129",
+   "lang": "en",
+   "name": "Mewtwo ex",
+   "pocket": true,
+   "inliers": 14,
+   "set": "Genetic Apex",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 150,
+   "attacks": [
+    "Psychic Sphere",
+    "Psydrive"
+   ]
+  },
+  {
+   "id": "ex13-103",
+   "lang": "en",
+   "name": "Mewtwo Star",
+   "pocket": false,
+   "inliers": 12,
+   "set": "Holon Phantoms",
+   "illustrator": "Masakazu Fukuda",
+   "hp": 80,
+   "attacks": [
+    "Energy Absorption",
+    "Psychic Star"
+   ]
+  },
+  {
+   "id": "gym2-14",
+   "lang": "en",
+   "name": "Rocket's Mewtwo",
+   "pocket": false,
+   "inliers": 11
+  }
+ ]
+}

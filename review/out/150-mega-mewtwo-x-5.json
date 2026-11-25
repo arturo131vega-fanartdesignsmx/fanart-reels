@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "150-mega-mewtwo-x-5",
+  "name": "150_Mega_Mewtwo_X_5",
+  "pokemon": "Mewtwo",
+  "dex": 150,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794450434/150_Mega_Mewtwo_X_5.jpg"
+ },
+ "official_cards_checked": 94,
+ "lookup": {
+  "en": 100,
+  "ja": 36
+ },
+ "top": [
+  {
+   "id": "dp5-9",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "smp-SM214",
+   "lang": "en",
+   "name": "Mewtwo",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH159",
+   "lang": "en",
+   "name": "Mewtwo V-UNION",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH160",
+   "lang": "en",
+   "name": "Mewtwo V-UNION",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

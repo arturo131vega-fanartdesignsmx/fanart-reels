@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "373-salamence-1",
+  "name": "373_Salamence_1",
+  "pokemon": "Salamence",
+  "dex": 373,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794787947/373_Salamence_1.jpg"
+ },
+ "official_cards_checked": 35,
+ "lookup": {
+  "en": 34,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "B2-178",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": true,
+   "inliers": 39,
+   "set": "Fantastical Parade",
+   "illustrator": "Shiburingaru",
+   "hp": 150,
+   "attacks": [
+    "Dragon Dive"
+   ]
+  },
+  {
+   "id": "swsh7-109",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "30th-156",
+   "lang": "en",
+   "name": "Salamence ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "pl4-8",
+   "lang": "en",
+   "name": "Salamence",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}
