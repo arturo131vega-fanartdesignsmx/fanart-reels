@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "936-armarouge-1",
+  "name": "936_Armarouge_1",
+  "pokemon": "Armarouge",
+  "dex": 936,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641772/936_Armarouge_1.jpg"
+ },
+ "official_cards_checked": 19,
+ "lookup": {
+  "en": 15,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "SV1S-080",
+   "lang": "ja",
+   "name": "グレンアルマ",
+   "pocket": false,
+   "inliers": 94,
+   "set": "スカーレットex",
+   "illustrator": "nagimiso",
+   "hp": 130,
+   "attacks": [
+    "フレイムキャノン"
+   ]
+  },
+  {
+   "id": "sv01-203",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 78,
+   "set": "Scarlet & Violet",
+   "illustrator": "nagimiso",
+   "hp": 130,
+   "attacks": [
+    "Flame Cannon"
+   ]
+  },
+  {
+   "id": "SV4K-079",
+   "lang": "ja",
+   "name": "グレンアルマex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv08-034",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

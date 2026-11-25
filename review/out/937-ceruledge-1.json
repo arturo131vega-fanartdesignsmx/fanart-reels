@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "937-ceruledge-1",
+  "name": "937_Ceruledge_1",
+  "pokemon": "Ceruledge",
+  "dex": 937,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641780/937_Ceruledge_1.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 10,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "SV2D-031",
+   "lang": "ja",
+   "name": "ソウブレイズ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me02-020",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-035",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV4a-091",
+   "lang": "ja",
+   "name": "ソウブレイズ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "497-serperior-1",
+  "name": "497_Serperior_1",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641735/497_Serperior_1.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "A1a-070",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": true,
+   "inliers": 337,
+   "set": "Mythical Island",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Solar Beam"
+   ]
+  },
+  {
+   "id": "bw7-13",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S11a-092",
+   "lang": "ja",
+   "name": "ジャローダVSTAR",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A1a-006",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

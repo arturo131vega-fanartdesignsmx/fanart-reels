@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "1020-gouging-fire-2",
+  "name": "1020_Gouging_Fire_2",
+  "pokemon": "Gouging Fire",
+  "dex": 1020,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641837/1020_Gouging_Fire_2.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv08-038",
+   "lang": "en",
+   "name": "Gouging Fire",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Surging Sparks",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 130,
+   "attacks": [
+    "Lunge Out",
+    "Blazing Charge"
+   ]
+  },
+  {
+   "id": "SV7a-009",
+   "lang": "ja",
+   "name": "ウガツホムラ",
+   "pocket": false,
+   "inliers": 41,
+   "set": "楽園ドラゴーナ",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 130,
+   "attacks": [
+    "つきたおし",
+    "えんじょうとつげき"
+   ]
+  },
+  {
+   "id": "sv05-038",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "svp-144",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

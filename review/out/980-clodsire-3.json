@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "980-clodsire-3",
+  "name": "980_Clodsire_3",
+  "pokemon": "Clodsire",
+  "dex": 980,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641792/980_Clodsire_3.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 12,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "A2b-085",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 50,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 160,
+   "attacks": [
+    "Venoshock"
+   ]
+  },
+  {
+   "id": "A4a-104",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sv04.5-059",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv04.5-219",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

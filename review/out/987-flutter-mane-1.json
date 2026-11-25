@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "987-flutter-mane-1",
+  "name": "987_Flutter_Mane_1",
+  "pokemon": "Flutter Mane",
+  "dex": 987,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641807/987_Flutter_Mane_1.jpg"
+ },
+ "official_cards_checked": 8,
+ "lookup": {
+  "en": 4,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "SV5K-076",
+   "lang": "ja",
+   "name": "ハバタクカミ",
+   "pocket": false,
+   "inliers": 34,
+   "set": "ワイルドフォース",
+   "illustrator": "Takumi Wada",
+   "hp": 90,
+   "attacks": [
+    "たたりとばす"
+   ]
+  },
+  {
+   "id": "svp-097",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 22,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Takumi Wada",
+   "hp": 90,
+   "attacks": [
+    "Hex Hurl"
+   ]
+  },
+  {
+   "id": "sv08.5-043",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sv05-078",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

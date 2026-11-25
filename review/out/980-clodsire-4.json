@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "980-clodsire-4",
+  "name": "980_Clodsire_4",
+  "pokemon": "Clodsire",
+  "dex": 980,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641794/980_Clodsire_4.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 12,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "sv04.5-059",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv09-094",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV1a-054",
+   "lang": "ja",
+   "name": "パルデア ドオーex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV3-069",
+   "lang": "ja",
+   "name": "パルデア ドオー",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "936-armarouge-5",
+  "name": "936_Armarouge_5",
+  "pokemon": "Armarouge",
+  "dex": 936,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641779/936_Armarouge_5.jpg"
+ },
+ "official_cards_checked": 19,
+ "lookup": {
+  "en": 15,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "SV4a-218",
+   "lang": "ja",
+   "name": "グレンアルマ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04-027",
+   "lang": "en",
+   "name": "Armarouge ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-034",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV4a-034",
+   "lang": "ja",
+   "name": "グレンアルマ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

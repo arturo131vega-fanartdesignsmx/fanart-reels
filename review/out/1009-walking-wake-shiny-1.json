@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1009-walking-wake-shiny-1",
+  "name": "1009_Walking_Wake_Shiny",
+  "pokemon": "Walking Wake",
+  "dex": 1009,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641833/1009_Walking_Wake_Shiny.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 7,
+  "ja": 9
+ },
+ "top": [
+  {
+   "id": "sv05-205",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 49,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 220,
+   "attacks": [
+    "Catharsis Roar"
+   ]
+  },
+  {
+   "id": "SV5K-094",
+   "lang": "ja",
+   "name": "ウネルミナモex",
+   "pocket": false,
+   "inliers": 45,
+   "set": "ワイルドフォース",
+   "illustrator": "Teeziro",
+   "hp": 220,
+   "attacks": [
+    "カタルシスロアー"
+   ]
+  },
+  {
+   "id": "sv08.5-178",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv05-215",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

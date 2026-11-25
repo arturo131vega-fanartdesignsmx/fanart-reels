@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1009-walking-wake-2",
+  "name": "1009_Walking_Wake_2",
+  "pokemon": "Walking Wake",
+  "dex": 1009,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641829/1009_Walking_Wake_2.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 7,
+  "ja": 9
+ },
+ "top": [
+  {
+   "id": "sv08.5-178",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV5K-024",
+   "lang": "ja",
+   "name": "ウネルミナモex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV5K-099",
+   "lang": "ja",
+   "name": "ウネルミナモex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv05-189",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

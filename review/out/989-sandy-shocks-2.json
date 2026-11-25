@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "989-sandy-shocks-2",
+  "name": "989_Sandy_Shocks_2",
+  "pokemon": "Sandy Shocks",
+  "dex": 989,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641814/989_Sandy_Shocks_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV4K-089",
+   "lang": "ja",
+   "name": "スナノケガワex",
+   "pocket": false,
+   "inliers": 207,
+   "set": "古代の咆哮",
+   "illustrator": "Toshinao Aoki",
+   "hp": 220,
+   "attacks": [
+    "グラウンドスパイク"
+   ]
+  },
+  {
+   "id": "sv04-250",
+   "lang": "en",
+   "name": "Sandy Shocks ex",
+   "pocket": false,
+   "inliers": 182,
+   "set": "Paradox Rift",
+   "illustrator": "Toshinao Aoki",
+   "hp": 220,
+   "attacks": [
+    "Earthen Spike"
+   ]
+  },
+  {
+   "id": "sv08.5-159",
+   "lang": "en",
+   "name": "Sandy Shocks ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV4K-083",
+   "lang": "ja",
+   "name": "スナノケガワex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

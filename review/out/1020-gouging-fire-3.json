@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "1020-gouging-fire-3",
+  "name": "1020_Gouging_Fire_3",
+  "pokemon": "Gouging Fire",
+  "dex": 1020,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641838/1020_Gouging_Fire_3.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv05-204",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 109,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 230,
+   "attacks": [
+    "Heat Blast",
+    "Blaze Blitz"
+   ]
+  },
+  {
+   "id": "SV5K-093",
+   "lang": "ja",
+   "name": "ウガツホムラex",
+   "pocket": false,
+   "inliers": 84,
+   "set": "ワイルドフォース",
+   "illustrator": "Teeziro",
+   "hp": 230,
+   "attacks": [
+    "ヒートブラスト",
+    "れっかばくしん"
+   ]
+  },
+  {
+   "id": "SV5K-012",
+   "lang": "ja",
+   "name": "ウガツホムラex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "svp-144",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

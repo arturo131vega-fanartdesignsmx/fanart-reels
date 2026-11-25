@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1006-iron-valiant-5",
+  "name": "1006_Iron_Valiant_5",
+  "pokemon": "Iron Valiant",
+  "dex": 1006,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641878/1006_Iron_Valiant_5.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 8,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv04-249",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 52,
+   "set": "Paradox Rift",
+   "illustrator": "kantaro",
+   "hp": 220,
+   "attacks": [
+    "Laser Blade"
+   ]
+  },
+  {
+   "id": "SV4M-089",
+   "lang": "ja",
+   "name": "テツノブジンex",
+   "pocket": false,
+   "inliers": 40,
+   "set": "未来の一閃",
+   "illustrator": "kantaro",
+   "hp": 220,
+   "attacks": [
+    "レーザーブレード"
+   ]
+  },
+  {
+   "id": "sv05-079",
+   "lang": "en",
+   "name": "Iron Valiant",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sv04-225",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

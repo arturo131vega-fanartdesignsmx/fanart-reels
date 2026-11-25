@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "495-snivy-1",
+  "name": "495_Snivy_1",
+  "pokemon": "Snivy",
+  "dex": 495,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641717/495_Snivy_1.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 20,
+  "ja": 9
+ },
+ "top": [
+  {
+   "id": "sv10.5b-087",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 377,
+   "set": "Black Bolt",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 70,
+   "attacks": [
+    "Tackle",
+    "Vine Whip"
+   ]
+  },
+  {
+   "id": "bw1-1",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv10.5b-001",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm12-1",
+   "lang": "en",
+   "name": "Venusaur & Snivy GX",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

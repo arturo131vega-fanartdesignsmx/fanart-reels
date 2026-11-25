@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "992-iron-hands-1",
+  "name": "992_Iron_Hands_1",
+  "pokemon": "Iron Hands",
+  "dex": 992,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641860/992_Iron_Hands_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv04-248",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 218,
+   "set": "Paradox Rift",
+   "illustrator": "Toshinao Aoki",
+   "hp": 230,
+   "attacks": [
+    "Arm Press",
+    "Amp You Very Much"
+   ]
+  },
+  {
+   "id": "SV4M-088",
+   "lang": "ja",
+   "name": "テツノカイナex",
+   "pocket": false,
+   "inliers": 200,
+   "set": "未来の一閃",
+   "illustrator": "Toshinao Aoki",
+   "hp": 230,
+   "attacks": [
+    "アームプレス",
+    "ごっつあんプリファイ"
+   ]
+  },
+  {
+   "id": "SV4M-027",
+   "lang": "ja",
+   "name": "テツノカイナex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv08.5-031",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

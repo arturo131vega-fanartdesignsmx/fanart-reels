@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "497-serperior-6",
+  "name": "497_Serperior_6",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641745/497_Serperior_6.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh12-008",
+   "lang": "en",
+   "name": "Serperior VSTAR",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 270,
+   "attacks": [
+    "Regal Blender",
+    "Star Winder"
+   ]
+  },
+  {
+   "id": "swsh12-196",
+   "lang": "en",
+   "name": "Serperior VSTAR",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 270,
+   "attacks": [
+    "Regal Blender",
+    "Star Winder"
+   ]
+  },
+  {
+   "id": "swsh12-210",
+   "lang": "en",
+   "name": "Serperior VSTAR",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 270,
+   "attacks": [
+    "Regal Blender",
+    "Star Winder"
+   ]
+  },
+  {
+   "id": "S11a-075",
+   "lang": "ja",
+   "name": "ジャローダV",
+   "pocket": false,
+   "inliers": 15,
+   "set": "白熱のアルカナ",
+   "illustrator": "Ayaka Yoshida",
+   "hp": 210,
+   "attacks": [
+    "けだかいひかり",
+    "ソーラービーム"
+   ]
+  }
+ ]
+}

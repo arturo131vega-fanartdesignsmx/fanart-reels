@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "1005-roaring-moon-2",
+  "name": "1005_Roaring_Moon_2",
+  "pokemon": "Roaring Moon",
+  "dex": 1005,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641819/1005_Roaring_Moon_2.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 9,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "SV8a-100",
+   "lang": "ja",
+   "name": "トドロクツキ",
+   "pocket": false,
+   "inliers": 101,
+   "set": "テラスタルフェスex",
+   "illustrator": "hncl",
+   "hp": 140,
+   "attacks": [
+    "あだうちやばね",
+    "スピードウイング"
+   ]
+  },
+  {
+   "id": "SV5K-051",
+   "lang": "ja",
+   "name": "トドロクツキ",
+   "pocket": false,
+   "inliers": 95,
+   "set": "ワイルドフォース",
+   "illustrator": "hncl",
+   "hp": 140,
+   "attacks": [
+    "あだうちやばね",
+    "スピードウイング"
+   ]
+  },
+  {
+   "id": "sv08.5-065",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 81,
+   "set": "Prismatic Evolutions",
+   "illustrator": "hncl",
+   "hp": 140,
+   "attacks": [
+    "Vengeance Fletching",
+    "Speed Wing"
+   ]
+  },
+  {
+   "id": "sv05-109",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 74,
+   "set": "Temporal Forces",
+   "illustrator": "hncl",
+   "hp": 140,
+   "attacks": [
+    "Vengeance Fletching",
+    "Speed Wing"
+   ]
+  }
+ ]
+}

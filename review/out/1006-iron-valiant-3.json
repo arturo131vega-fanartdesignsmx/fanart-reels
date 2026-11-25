@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1006-iron-valiant-3",
+  "name": "1006_Iron_Valiant_3",
+  "pokemon": "Iron Valiant",
+  "dex": 1006,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641874/1006_Iron_Valiant_3.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 8,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv08.5-157",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Prismatic Evolutions",
+   "illustrator": "danciao",
+   "hp": 220,
+   "attacks": [
+    "Laser Blade"
+   ]
+  },
+  {
+   "id": "SV8a-213",
+   "lang": "ja",
+   "name": "テツノブジンex",
+   "pocket": false,
+   "inliers": 40,
+   "set": "テラスタルフェスex",
+   "illustrator": "danciao",
+   "hp": 220,
+   "attacks": [
+    "レーザーブレード"
+   ]
+  },
+  {
+   "id": "svp-068",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv05-079",
+   "lang": "en",
+   "name": "Iron Valiant",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

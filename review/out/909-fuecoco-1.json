@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "909-fuecoco-1",
+  "name": "909_Fuecoco_1",
+  "pokemon": "Fuecoco",
+  "dex": 909,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641765/909_Fuecoco_1.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 15,
+  "ja": 12
+ },
+ "top": [
+  {
+   "id": "30th-147",
+   "lang": "en",
+   "name": "Fuecoco ex",
+   "pocket": false,
+   "inliers": 107,
+   "set": "30th Celebration",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 210,
+   "attacks": [
+    "Singe",
+    "Cheerful Flame"
+   ]
+  },
+  {
+   "id": "sv08-029",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv02-035",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV1a-018",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

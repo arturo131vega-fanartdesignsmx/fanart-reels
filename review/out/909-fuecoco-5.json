@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "909-fuecoco-5",
+  "name": "909_Fuecoco_5",
+  "pokemon": "Fuecoco",
+  "dex": 909,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641771/909_Fuecoco_5.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 15,
+  "ja": 12
+ },
+ "top": [
+  {
+   "id": "sv01-036",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 117,
+   "set": "Scarlet & Violet",
+   "illustrator": "Akira Komayama",
+   "hp": 80,
+   "attacks": [
+    "Gnaw",
+    "Combustion"
+   ]
+  },
+  {
+   "id": "svp-079",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV4a-030",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV8-017",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "866-mr-rime-3",
+  "name": "866_Mr._Rime_3",
+  "pokemon": "Mr. Rime",
+  "dex": 866,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641759/866_Mr._Rime_3.jpg"
+ },
+ "official_cards_checked": 6,
+ "lookup": {
+  "en": 7,
+  "ja": 2
+ },
+ "top": [
+  {
+   "id": "swsh5-35",
+   "lang": "en",
+   "name": "Galarian Mr. Rime",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "B2-031",
+   "lang": "en",
+   "name": "Galarian Mr. Rime",
+   "pocket": true,
+   "inliers": 0
+  },
+  {
+   "id": "swsh3-36",
+   "lang": "en",
+   "name": "Galarian Mr. Rime",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh2-38",
+   "lang": "en",
+   "name": "Galarian Mr. Rime",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "937-ceruledge-2",
+  "name": "937_Ceruledge_2",
+  "pokemon": "Ceruledge",
+  "dex": 937,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641782/937_Ceruledge_2.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 10,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv08-197",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Surging Sparks",
+   "illustrator": "Rond",
+   "hp": 140,
+   "attacks": [
+    "Cursed Edge",
+    "Black Blaze Slash"
+   ]
+  },
+  {
+   "id": "SV8a-070",
+   "lang": "ja",
+   "name": "ソウブレイズ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-035",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV4a-091",
+   "lang": "ja",
+   "name": "ソウブレイズ",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

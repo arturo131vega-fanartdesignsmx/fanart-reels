@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "497-serperior-7",
+  "name": "497_Serperior_7",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641746/497_Serperior_7.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "sv10.5b-156",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Black Bolt",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  {
+   "id": "sv10.5b-164",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Black Bolt",
+   "illustrator": "Ryota Murayama",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  {
+   "id": "sv10.5b-003",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 28,
+   "set": "Black Bolt",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  {
+   "id": "A1a-070",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": true,
+   "inliers": 26,
+   "set": "Mythical Island",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Solar Beam"
+   ]
+  }
+ ]
+}

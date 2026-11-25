@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1006-iron-valiant-1",
+  "name": "1006_Iron_Valiant_1",
+  "pokemon": "Iron Valiant",
+  "dex": 1006,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641871/1006_Iron_Valiant_1.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 8,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv08.5-157",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv04-261",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv05-080",
+   "lang": "en",
+   "name": "Iron Valiant",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv04-249",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

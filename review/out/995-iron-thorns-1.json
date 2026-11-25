@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "995-iron-thorns-1",
+  "name": "995_Iron_Thorns_1",
+  "pokemon": "Iron Thorns",
+  "dex": 995,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641864/995_Iron_Thorns_1.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 5,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "svp-098",
+   "lang": "en",
+   "name": "Iron Thorns",
+   "pocket": false,
+   "inliers": 48,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Tonji Matsuno",
+   "hp": 140,
+   "attacks": [
+    "Destructo-Press",
+    "Megaton Lariat"
+   ]
+  },
+  {
+   "id": "sv05-062",
+   "lang": "en",
+   "name": "Iron Thorns",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv06-196",
+   "lang": "en",
+   "name": "Iron Thorns ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV5a-081",
+   "lang": "ja",
+   "name": "テツノイバラex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1020-gouging-fire-1",
+  "name": "1020_Gouging_Fire_1",
+  "pokemon": "Gouging Fire",
+  "dex": 1020,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641835/1020_Gouging_Fire_1.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv05-188",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv08-038",
+   "lang": "en",
+   "name": "Gouging Fire",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "svp-144",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv05-204",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

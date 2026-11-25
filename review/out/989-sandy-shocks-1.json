@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "989-sandy-shocks-1",
+  "name": "989_Sandy_Shocks_1",
+  "pokemon": "Sandy Shocks",
+  "dex": 989,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641813/989_Sandy_Shocks_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv08.5-056",
+   "lang": "en",
+   "name": "Sandy Shocks ex",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv05-098",
+   "lang": "en",
+   "name": "Sandy Shocks",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv04-108",
+   "lang": "en",
+   "name": "Sandy Shocks ex",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv08.5-159",
+   "lang": "en",
+   "name": "Sandy Shocks ex",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

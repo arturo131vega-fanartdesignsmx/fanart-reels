@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "991-iron-bundle-2",
+  "name": "991_Iron_Bundle_2",
+  "pokemon": "Iron Bundle",
+  "dex": 991,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641856/991_Iron_Bundle_2.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 5,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV8a-047",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv06-062",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV4M-020",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08-055",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

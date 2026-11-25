@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "990-iron-treads-2",
+  "name": "990_Iron_Treads_2",
+  "pokemon": "Iron Treads",
+  "dex": 990,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641852/990_Iron_Treads_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV4a-333",
+   "lang": "ja",
+   "name": "テツノワダチex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv01-248",
+   "lang": "en",
+   "name": "Iron Treads ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV1V-096",
+   "lang": "ja",
+   "name": "テツノワダチex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "SV8a-116",
+   "lang": "ja",
+   "name": "テツノワダチ",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "909-fuecoco-4",
+  "name": "909_Fuecoco_4",
+  "pokemon": "Fuecoco",
+  "dex": 909,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641769/909_Fuecoco_4.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 15,
+  "ja": 12
+ },
+ "top": [
+  {
+   "id": "SV8-017",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv02-035",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08-029",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV1a-018",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

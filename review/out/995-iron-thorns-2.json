@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "995-iron-thorns-2",
+  "name": "995_Iron_Thorns_2",
+  "pokemon": "Iron Thorns",
+  "dex": 995,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641866/995_Iron_Thorns_2.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 5,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv06-077",
+   "lang": "en",
+   "name": "Iron Thorns ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv05-062",
+   "lang": "en",
+   "name": "Iron Thorns",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "svp-098",
+   "lang": "en",
+   "name": "Iron Thorns",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "sv06-196",
+   "lang": "en",
+   "name": "Iron Thorns ex",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

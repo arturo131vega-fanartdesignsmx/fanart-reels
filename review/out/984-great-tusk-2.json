@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "984-great-tusk-2",
+  "name": "984_Great_Tusk_2",
+  "pokemon": "Great Tusk",
+  "dex": 984,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641798/984_Great_Tusk_2.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv01-246",
+   "lang": "en",
+   "name": "Great Tusk ex",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "SV1S-102",
+   "lang": "ja",
+   "name": "イダイナキバex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV4a-330",
+   "lang": "ja",
+   "name": "イダイナキバex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08.5-055",
+   "lang": "en",
+   "name": "Great Tusk",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

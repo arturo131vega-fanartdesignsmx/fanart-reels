@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "987-flutter-mane-3",
+  "name": "987_Flutter_Mane_3",
+  "pokemon": "Flutter Mane",
+  "dex": 987,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641810/987_Flutter_Mane_3.jpg"
+ },
+ "official_cards_checked": 8,
+ "lookup": {
+  "en": 4,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv08.5-043",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "svp-097",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv05-078",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv08-096",
+   "lang": "en",
+   "name": "Flutter Mane",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

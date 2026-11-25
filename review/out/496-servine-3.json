@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "496-servine-3",
+  "name": "496_Servine_3",
+  "pokemon": "Servine",
+  "dex": 496,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641732/496_Servine_3.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 11,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "sv10.5b-002",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-3",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-4",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "me03-005",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

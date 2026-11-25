@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "936-armarouge-3",
+  "name": "936_Armarouge_3",
+  "pokemon": "Armarouge",
+  "dex": 936,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641776/936_Armarouge_3.jpg"
+ },
+ "official_cards_checked": 19,
+ "lookup": {
+  "en": 15,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "me05-086",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 169,
+   "set": "Pitch Black",
+   "illustrator": "Iwamoto05",
+   "hp": 140,
+   "attacks": [
+    "Flame Legion"
+   ]
+  },
+  {
+   "id": "sv08-034",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV4a-218",
+   "lang": "ja",
+   "name": "グレンアルマ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04.5-015",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

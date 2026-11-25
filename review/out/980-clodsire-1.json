@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "980-clodsire-1",
+  "name": "980_Clodsire_1",
+  "pokemon": "Clodsire",
+  "dex": 980,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641790/980_Clodsire_1.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 12,
+  "ja": 5
+ },
+ "top": [
+  {
+   "id": "SV3-069",
+   "lang": "ja",
+   "name": "パルデア ドオー",
+   "pocket": false,
+   "inliers": 50,
+   "set": "黒炎の支配者",
+   "illustrator": "Shin Nagasawa",
+   "hp": 140,
+   "attacks": [
+    "とびちるどく",
+    "ベノムショック"
+   ]
+  },
+  {
+   "id": "sv03-129",
+   "lang": "en",
+   "name": "Paldean Clodsire",
+   "pocket": false,
+   "inliers": 35,
+   "set": "Obsidian Flames",
+   "illustrator": "Shin Nagasawa",
+   "hp": 140,
+   "attacks": [
+    "Splattering Poison",
+    "Venoshock"
+   ]
+  },
+  {
+   "id": "sv04.5-059",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "A2b-093",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

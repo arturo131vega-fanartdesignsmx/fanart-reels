@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "1009-walking-wake-3",
+  "name": "1009_Walking_Wake_3",
+  "pokemon": "Walking Wake",
+  "dex": 1009,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641830/1009_Walking_Wake_3.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 7,
+  "ja": 9
+ },
+ "top": [
+  {
+   "id": "sv05-205",
+   "lang": "en",
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 71,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 220,
+   "attacks": [
+    "Catharsis Roar"
+   ]
+  },
+  {
+   "id": "SV5K-094",
+   "lang": "ja",
+   "name": "ウネルミナモex",
+   "pocket": false,
+   "inliers": 63,
+   "set": "ワイルドフォース",
+   "illustrator": "Teeziro",
+   "hp": 220,
+   "attacks": [
+    "カタルシスロアー"
+   ]
+  },
+  {
+   "id": "SV5a-026",
+   "lang": "ja",
+   "name": "ウネルミナモ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV5K-099",
+   "lang": "ja",
+   "name": "ウネルミナモex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

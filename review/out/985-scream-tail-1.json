@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "985-scream-tail-1",
+  "name": "985_Scream_Tail_1",
+  "pokemon": "Scream Tail",
+  "dex": 985,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641800/985_Scream_Tail_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "SV4K-071",
+   "lang": "ja",
+   "name": "サケブシッポ",
+   "pocket": false,
+   "inliers": 164,
+   "set": "古代の咆哮",
+   "illustrator": "GIDORA",
+   "hp": 90,
+   "attacks": [
+    "ビンタ",
+    "ほえさけぶ"
+   ]
+  },
+  {
+   "id": "svp-065",
+   "lang": "en",
+   "name": "Scream Tail",
+   "pocket": false,
+   "inliers": 153,
+   "set": "SVP Black Star Promos",
+   "illustrator": "GIDORA",
+   "hp": 90,
+   "attacks": [
+    "Slap",
+    "Roaring Scream"
+   ]
+  },
+  {
+   "id": "SV8a-071",
+   "lang": "ja",
+   "name": "サケブシッポ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08.5-042",
+   "lang": "en",
+   "name": "Scream Tail",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

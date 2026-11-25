@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "991-iron-bundle-3",
+  "name": "991_Iron_Bundle_3",
+  "pokemon": "Iron Bundle",
+  "dex": 991,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641857/991_Iron_Bundle_3.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 5,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV8-031",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 49,
+   "set": "超電ブレイカー",
+   "illustrator": "rika",
+   "hp": 100,
+   "attacks": [
+    "ガストコリジョン 200-"
+   ]
+  },
+  {
+   "id": "sv08-055",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 35,
+   "set": "Surging Sparks",
+   "illustrator": "rika",
+   "hp": 100,
+   "attacks": [
+    "Gusting Collision"
+   ]
+  },
+  {
+   "id": "SV8a-047",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv04-056",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

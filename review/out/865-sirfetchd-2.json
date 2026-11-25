@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "865-sirfetchd-2",
+  "name": "865_Sirfetch_d_2",
+  "pokemon": "Sirfetch'd",
+  "dex": 865,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641751/865_Sirfetch_d_2.jpg"
+ },
+ "official_cards_checked": 5,
+ "lookup": {
+  "en": 6,
+  "ja": 0
+ },
+ "top": [
+  {
+   "id": "swsh3-98",
+   "lang": "en",
+   "name": "Galarian Sirfetch'd",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swshp-SWSH043",
+   "lang": "en",
+   "name": "Galarian Sirfetch'd V",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh6-79",
+   "lang": "en",
+   "name": "Galarian Sirfetch'd",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh2-95",
+   "lang": "en",
+   "name": "Galarian Sirfetch'd",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

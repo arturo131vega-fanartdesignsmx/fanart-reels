@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "985-scream-tail-2",
+  "name": "985_Scream_Tail_2",
+  "pokemon": "Scream Tail",
+  "dex": 985,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641801/985_Scream_Tail_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv08.5-042",
+   "lang": "en",
+   "name": "Scream Tail",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "SV8a-071",
+   "lang": "ja",
+   "name": "サケブシッポ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "svp-065",
+   "lang": "en",
+   "name": "Scream Tail",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv05-077",
+   "lang": "en",
+   "name": "Scream Tail",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

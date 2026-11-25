@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "497-serperior-3",
+  "name": "497_Serperior_3",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641738/497_Serperior_3.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "bw1-6",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw6-125",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv10.5b-164",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A1a-006",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": true,
+   "inliers": 3
+  }
+ ]
+}

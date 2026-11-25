@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "984-great-tusk-1",
+  "name": "984_Great_Tusk_1",
+  "pokemon": "Great Tusk",
+  "dex": 984,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641797/984_Great_Tusk_1.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 8,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "SV5K-042",
+   "lang": "ja",
+   "name": "イダイナキバ",
+   "pocket": false,
+   "inliers": 107,
+   "set": "ワイルドフォース",
+   "illustrator": "GIDORA",
+   "hp": 140,
+   "attacks": [
+    "じばんほうかい",
+    "きょだいなキバ"
+   ]
+  },
+  {
+   "id": "sv08.5-055",
+   "lang": "en",
+   "name": "Great Tusk",
+   "pocket": false,
+   "inliers": 90,
+   "set": "Prismatic Evolutions",
+   "illustrator": "GIDORA",
+   "hp": 140,
+   "attacks": [
+    "Land Collapse",
+    "Giant Tusk"
+   ]
+  },
+  {
+   "id": "SV8a-086",
+   "lang": "ja",
+   "name": "イダイナキバ",
+   "pocket": false,
+   "inliers": 88,
+   "set": "テラスタルフェスex",
+   "illustrator": "GIDORA",
+   "hp": 140,
+   "attacks": [
+    "じばんほうかい",
+    "きょだいなキバ"
+   ]
+  },
+  {
+   "id": "sv05-097",
+   "lang": "en",
+   "name": "Great Tusk",
+   "pocket": false,
+   "inliers": 78,
+   "set": "Temporal Forces",
+   "illustrator": "GIDORA",
+   "hp": 140,
+   "attacks": [
+    "Land Collapse",
+    "Giant Tusk"
+   ]
+  }
+ ]
+}

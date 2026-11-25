@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "1005-roaring-moon-4",
+  "name": "1005_Roaring_Moon_4",
+  "pokemon": "Roaring Moon",
+  "dex": 1005,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641822/1005_Roaring_Moon_4.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 9,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "SV4K-090",
+   "lang": "ja",
+   "name": "トドロクツキex",
+   "pocket": false,
+   "inliers": 125,
+   "set": "古代の咆哮",
+   "illustrator": "Ryota Murayama",
+   "hp": 230,
+   "attacks": [
+    "くるいえぐる",
+    "カラミティストーム"
+   ]
+  },
+  {
+   "id": "sv04-251",
+   "lang": "en",
+   "name": "Roaring Moon ex",
+   "pocket": false,
+   "inliers": 72,
+   "set": "Paradox Rift",
+   "illustrator": "Ryota Murayama",
+   "hp": 230,
+   "attacks": [
+    "Frenzied Gouging",
+    "Calamity Storm"
+   ]
+  },
+  {
+   "id": "sv08.5-065",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv05-109",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

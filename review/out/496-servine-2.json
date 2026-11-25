@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "496-servine-2",
+  "name": "496_Servine_2",
+  "pokemon": "Servine",
+  "dex": 496,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641730/496_Servine_2.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 11,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "sv10.5b-002",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 221,
+   "set": "Black Bolt",
+   "illustrator": "Susumu Maeya",
+   "hp": 100,
+   "attacks": [
+    "Wrap",
+    "Vine Whip"
+   ]
+  },
+  {
+   "id": "bw1-3",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw7-12",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw1-4",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

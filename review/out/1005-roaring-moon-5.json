@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "1005-roaring-moon-5",
+  "name": "1005_Roaring_Moon_5",
+  "pokemon": "Roaring Moon",
+  "dex": 1005,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641825/1005_Roaring_Moon_5.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 9,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv08.5-162",
+   "lang": "en",
+   "name": "Roaring Moon ex",
+   "pocket": false,
+   "inliers": 81,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Shinji Kanda",
+   "hp": 230,
+   "attacks": [
+    "Frenzied Gouging",
+    "Calamity Storm"
+   ]
+  },
+  {
+   "id": "SV8a-218",
+   "lang": "ja",
+   "name": "トドロクツキex",
+   "pocket": false,
+   "inliers": 70,
+   "set": "テラスタルフェスex",
+   "illustrator": "Shinji Kanda",
+   "hp": 230,
+   "attacks": [
+    "くるいえぐる",
+    "カラミティストーム"
+   ]
+  },
+  {
+   "id": "sv05-109",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08.5-065",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

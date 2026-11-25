@@ -1,1525 +1,1706 @@
 {
- "149-dragonite-1": {
-  "name": "149_Dragonite_1",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "A1-244",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": true,
-   "inliers": 15,
-   "set": "Genetic Apex",
-   "illustrator": "Gemi",
-   "hp": 160,
-   "attacks": [
-    "Draco Meteor"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-10": {
-  "name": "149_Dragonite_10",
+ "865-sirfetchd-3": {
+  "name": "865_Sirfetch_d_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "hgss4-18",
+   "id": "swsh2-95",
    "lang": "en",
-   "name": "Dragonite",
+   "name": "Galarian Sirfetch'd",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 53,
+  "official_cards_checked": 5,
   "lookup": {
-   "en": 56,
-   "ja": 18
+   "en": 6,
+   "ja": 0
   }
  },
- "149-dragonite-2": {
-  "name": "149_Dragonite_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv03.5-149",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 114,
-   "set": "151",
-   "illustrator": "Sanosuke Sakuma",
-   "hp": 180,
-   "attacks": [
-    "Dragon Pulse"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-3": {
-  "name": "149_Dragonite_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm1-96",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 52,
-   "set": "Sun & Moon",
-   "illustrator": "Hiroyuki Yamamoto",
-   "hp": 160,
-   "attacks": [
-    "Dragon Wave",
-    "Giant Tail"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-4": {
-  "name": "149_Dragonite_4",
+ "865-sirfetchd-1": {
+  "name": "865_Sirfetch_d_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm9-119",
+   "id": "swsh6-79",
    "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-5": {
-  "name": "149_Dragonite_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3b-090",
-   "lang": "en",
-   "name": "Dragonite ex",
-   "pocket": true,
-   "inliers": 51,
-   "set": "Eevee Grove",
-   "illustrator": "Mori Yuu",
-   "hp": 180,
-   "attacks": [
-    "Giga Impact"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-6": {
-  "name": "149_Dragonite_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh7-192",
-   "lang": "en",
-   "name": "Dragonite V",
-   "pocket": false,
-   "inliers": 41,
-   "set": "Evolving Skies",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 230,
-   "attacks": [
-    "Shred",
-    "Dragon Gale"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-7": {
-  "name": "149_Dragonite_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3b-082",
-   "lang": "en",
-   "name": "Dragonite ex",
-   "pocket": true,
-   "inliers": 62,
-   "set": "Eevee Grove",
-   "illustrator": "PLANETA Mochizuki",
-   "hp": 180,
-   "attacks": [
-    "Giga Impact"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-8": {
-  "name": "149_Dragonite_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "base5-5",
-   "lang": "en",
-   "name": "Dark Dragonite",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-9": {
-  "name": "149_Dragonite_9",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ecard1-43",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-shiny-1": {
-  "name": "149_Dragonite_Shiny_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3b-090",
-   "lang": "en",
-   "name": "Dragonite ex",
-   "pocket": true,
-   "inliers": 34,
-   "set": "Eevee Grove",
-   "illustrator": "Mori Yuu",
-   "hp": 180,
-   "attacks": [
-    "Giga Impact"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-shiny-2": {
-  "name": "149_Dragonite_Shiny_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A1-244",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": true,
-   "inliers": 7
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-tera-1": {
-  "name": "149_Dragonite_Tera_1",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "sv03-159",
-   "lang": "en",
-   "name": "Dragonite ex",
-   "pocket": false,
-   "inliers": 18,
-   "set": "Obsidian Flames",
-   "illustrator": "5ban Graphics",
-   "hp": 330,
-   "attacks": [
-    "Wing Attack",
-    "Mighty Meteor"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-tera-2": {
-  "name": "149_Dragonite_Tera_2",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "sv03.5-149",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 15,
-   "set": "151",
-   "illustrator": "Sanosuke Sakuma",
-   "hp": 180,
-   "attacks": [
-    "Dragon Pulse"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-dragonite-tera-3": {
-  "name": "149_Dragonite_Tera_3",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "sv03.5-149",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 15,
-   "set": "151",
-   "illustrator": "Sanosuke Sakuma",
-   "hp": 180,
-   "attacks": [
-    "Dragon Pulse"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-1": {
-  "name": "149_Mega_Dragonite_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-290",
-   "lang": "en",
-   "name": "Mega Dragonite ex",
-   "pocket": false,
-   "inliers": 86,
-   "set": "Ascended Heroes",
-   "illustrator": "DOM",
-   "hp": 370,
-   "attacks": [
-    "Ryuno Glide"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-2": {
-  "name": "149_Mega_Dragonite_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-271",
-   "lang": "en",
-   "name": "Mega Dragonite ex",
-   "pocket": false,
-   "inliers": 323,
-   "set": "Ascended Heroes",
-   "illustrator": "DOM",
-   "hp": 370,
-   "attacks": [
-    "Ryuno Glide"
-   ]
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-3": {
-  "name": "149_Mega_Dragonite_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "neo4-14",
-   "lang": "en",
-   "name": "Light Dragonite",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-4": {
-  "name": "149_Mega_Dragonite_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp6-2",
-   "lang": "en",
-   "name": "Dragonite",
+   "name": "Galarian Sirfetch'd",
    "pocket": false,
    "inliers": 0
   },
-  "official_cards_checked": 53,
+  "official_cards_checked": 5,
   "lookup": {
-   "en": 56,
-   "ja": 18
+   "en": 6,
+   "ja": 0
   }
  },
- "149-mega-dragonite-5": {
-  "name": "149_Mega_Dragonite_5",
+ "865-sirfetchd-2": {
+  "name": "865_Sirfetch_d_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "me02.5-295",
+   "id": "swsh3-98",
    "lang": "en",
-   "name": "Mega Dragonite ex",
+   "name": "Galarian Sirfetch'd",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 5,
+  "lookup": {
+   "en": 6,
+   "ja": 0
+  }
+ },
+ "865-sirfetchd-4": {
+  "name": "865_Sirfetch_d_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh2-95",
+   "lang": "en",
+   "name": "Galarian Sirfetch'd",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 5,
+  "lookup": {
+   "en": 6,
+   "ja": 0
+  }
+ },
+ "866-mr-rime-2": {
+  "name": "866_Mr._Rime_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh2-38",
+   "lang": "en",
+   "name": "Galarian Mr. Rime",
    "pocket": false,
    "inliers": 3
   },
-  "official_cards_checked": 53,
+  "official_cards_checked": 6,
   "lookup": {
-   "en": 56,
-   "ja": 18
+   "en": 7,
+   "ja": 2
   }
  },
- "149-mega-dragonite-6": {
-  "name": "149_Mega_Dragonite_6",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ecard1-9",
-   "lang": "en",
-   "name": "Dragonite",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-7": {
-  "name": "149_Mega_Dragonite_7",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A3b-053",
-   "lang": "en",
-   "name": "Dragonite ex",
-   "pocket": true,
-   "inliers": 4
-  },
-  "official_cards_checked": 53,
-  "lookup": {
-   "en": 56,
-   "ja": 18
-  }
- },
- "149-mega-dragonite-shiny-1": {
-  "name": "149_Mega_Dragonite_Shiny_1",
+ "866-mr-rime-1": {
+  "name": "866_Mr._Rime_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me02.5-290",
+   "id": "swshp-SWSH079",
    "lang": "en",
-   "name": "Mega Dragonite ex",
+   "name": "Galarian Mr. Rime",
    "pocket": false,
-   "inliers": 77,
-   "set": "Ascended Heroes",
-   "illustrator": "DOM",
-   "hp": 370,
+   "inliers": 92,
+   "set": "SWSH Black Star Promos",
+   "illustrator": "KEIICHIRO ITO",
+   "hp": 120,
    "attacks": [
-    "Ryuno Glide"
+    "Mad Party"
    ]
   },
-  "official_cards_checked": 53,
+  "official_cards_checked": 6,
   "lookup": {
-   "en": 56,
-   "ja": 18
+   "en": 7,
+   "ja": 2
   }
  },
- "149-mega-dragonite-shiny-2": {
-  "name": "149_Mega_Dragonite_Shiny_2",
+ "866-mr-rime-3": {
+  "name": "866_Mr._Rime_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "me02.5-152",
+   "id": "swsh5-35",
    "lang": "en",
-   "name": "Mega Dragonite ex",
+   "name": "Galarian Mr. Rime",
    "pocket": false,
-   "inliers": 5
+   "inliers": 4
   },
-  "official_cards_checked": 53,
+  "official_cards_checked": 6,
   "lookup": {
-   "en": 56,
-   "ja": 18
+   "en": 7,
+   "ja": 2
   }
  },
- "150-mega-mewtwo-x": {
-  "name": "150_Mega_Mewtwo_X",
-  "verdict": "NO_ART_MATCH",
+ "936-armarouge-1": {
+  "name": "936_Armarouge_1",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "bwp-BW45",
-   "lang": "en",
-   "name": "Mewtwo-EX",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-x-2": {
-  "name": "150_Mega_Mewtwo_X_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S11a-035",
+   "id": "SV1S-080",
    "lang": "ja",
-   "name": "ミュウツー",
+   "name": "グレンアルマ",
    "pocket": false,
-   "inliers": 6
+   "inliers": 94,
+   "set": "スカーレットex",
+   "illustrator": "nagimiso",
+   "hp": 130,
+   "attacks": [
+    "フレイムキャノン"
+   ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 19,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 15,
+   "ja": 10
   }
  },
- "150-mega-mewtwo-x-3": {
-  "name": "150_Mega_Mewtwo_X_3",
+ "936-armarouge-5": {
+  "name": "936_Armarouge_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "dp5-9",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-x-4": {
-  "name": "150_Mega_Mewtwo_X_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh10.5-079",
-   "lang": "en",
-   "name": "Mewtwo VSTAR",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-x-5": {
-  "name": "150_Mega_Mewtwo_X_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp5-9",
-   "lang": "en",
-   "name": "Mewtwo",
+   "id": "SV4a-218",
+   "lang": "ja",
+   "name": "グレンアルマ",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 19,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 15,
+   "ja": 10
   }
  },
- "150-mega-mewtwo-y-1": {
-  "name": "150_Mega_Mewtwo_Y_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "basep-12",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-y-2": {
-  "name": "150_Mega_Mewtwo_Y_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "P-A-050",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 4
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-y-3": {
-  "name": "150_Mega_Mewtwo_Y_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp6-144",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mega-mewtwo-y-4": {
-  "name": "150_Mega_Mewtwo_Y_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh10.5-030",
-   "lang": "en",
-   "name": "Mewtwo V",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-1": {
-  "name": "150_Mewtwo_1",
+ "936-armarouge-3": {
+  "name": "936_Armarouge_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "P-A-010",
+   "id": "me05-086",
    "lang": "en",
-   "name": "Mewtwo",
-   "pocket": true,
-   "inliers": 98,
-   "set": "Promos-A",
-   "illustrator": "Krgc",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 169,
+   "set": "Pitch Black",
+   "illustrator": "Iwamoto05",
+   "hp": 140,
+   "attacks": [
+    "Flame Legion"
+   ]
+  },
+  "official_cards_checked": 19,
+  "lookup": {
+   "en": 15,
+   "ja": 10
+  }
+ },
+ "936-armarouge-4": {
+  "name": "936_Armarouge_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv01-203",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 19,
+  "lookup": {
+   "en": 15,
+   "ja": 10
+  }
+ },
+ "936-armarouge-2": {
+  "name": "936_Armarouge_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv03-044",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 167,
+   "set": "Obsidian Flames",
+   "illustrator": "Souichirou Gunjima",
    "hp": 120,
    "attacks": [
-    "Power Blast"
+    "Steam Artillery"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 19,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 15,
+   "ja": 10
   }
  },
- "150-mewtwo-10": {
-  "name": "150_Mewtwo_10",
+ "937-ceruledge-1": {
+  "name": "937_Ceruledge_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sv10-213",
-   "lang": "en",
-   "name": "Team Rocket's Mewtwo ex",
+   "id": "SV2D-031",
+   "lang": "ja",
+   "name": "ソウブレイズ",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 15,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 10,
+   "ja": 10
   }
  },
- "150-mewtwo-11": {
-  "name": "150_Mewtwo_11",
+ "937-ceruledge-2": {
+  "name": "937_Ceruledge_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A1-262",
+   "id": "sv08-197",
    "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 118,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA Mochizuki",
-   "hp": 150,
-   "attacks": [
-    "Psychic Sphere",
-    "Psydrive"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-12": {
-  "name": "150_Mewtwo_12",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-282",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 40,
-   "set": "Genetic Apex",
-   "illustrator": "Nurikabe",
-   "hp": 150,
-   "attacks": [
-    "Psychic Sphere",
-    "Psydrive"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-13": {
-  "name": "150_Mewtwo_13",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-151",
-   "lang": "en",
-   "name": "Mewtwo ex",
+   "name": "Ceruledge",
    "pocket": false,
-   "inliers": 110,
+   "inliers": 32,
+   "set": "Surging Sparks",
+   "illustrator": "Rond",
+   "hp": 140,
+   "attacks": [
+    "Cursed Edge",
+    "Black Blaze Slash"
+   ]
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 10,
+   "ja": 10
+  }
+ },
+ "937-ceruledge-3": {
+  "name": "937_Ceruledge_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me02-020",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 10,
+   "ja": 10
+  }
+ },
+ "937-ceruledge-5": {
+  "name": "937_Ceruledge_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV4a-268",
+   "lang": "ja",
+   "name": "ソウブレイズ",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 10,
+   "ja": 10
+  }
+ },
+ "937-ceruledge-4": {
+  "name": "937_Ceruledge_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv08-197",
+   "lang": "en",
+   "name": "Ceruledge",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 10,
+   "ja": 10
+  }
+ },
+ "909-fuecoco-1": {
+  "name": "909_Fuecoco_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "30th-147",
+   "lang": "en",
+   "name": "Fuecoco ex",
+   "pocket": false,
+   "inliers": 107,
    "set": "30th Celebration",
-   "illustrator": "Yano Keiji",
-   "hp": 230,
+   "illustrator": "Atsushi Furusawa",
+   "hp": 210,
    "attacks": [
-    "Photon Bullets",
-    "Psychic Powers"
+    "Singe",
+    "Cheerful Flame"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 16,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 15,
+   "ja": 12
   }
  },
- "150-mewtwo-14": {
-  "name": "150_Mewtwo_14",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-128",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": true,
-   "inliers": 34,
-   "set": "Genetic Apex",
-   "illustrator": "kawayoo",
-   "hp": 120,
-   "attacks": [
-    "Power Blast"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-15": {
-  "name": "150_Mewtwo_15",
+ "909-fuecoco-2": {
+  "name": "909_Fuecoco_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "30th-151",
+   "id": "SV1a-078",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 15,
+   "ja": 12
+  }
+ },
+ "909-fuecoco-3": {
+  "name": "909_Fuecoco_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv08-029",
    "lang": "en",
-   "name": "Mewtwo ex",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 15,
+   "ja": 12
+  }
+ },
+ "909-fuecoco-4": {
+  "name": "909_Fuecoco_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV8-017",
+   "lang": "ja",
+   "name": "ホゲータ",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 15,
+   "ja": 12
+  }
+ },
+ "909-fuecoco-5": {
+  "name": "909_Fuecoco_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv01-036",
+   "lang": "en",
+   "name": "Fuecoco",
+   "pocket": false,
+   "inliers": 117,
+   "set": "Scarlet & Violet",
+   "illustrator": "Akira Komayama",
+   "hp": 80,
+   "attacks": [
+    "Gnaw",
+    "Combustion"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 15,
+   "ja": 12
+  }
+ },
+ "980-clodsire-2": {
+  "name": "980_Clodsire_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A2b-093",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 5
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 12,
+   "ja": 5
+  }
+ },
+ "980-clodsire-5": {
+  "name": "980_Clodsire_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A2b-048",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 0
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 12,
+   "ja": 5
+  }
+ },
+ "980-clodsire-4": {
+  "name": "980_Clodsire_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv04.5-059",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 12,
+   "ja": 5
+  }
+ },
+ "980-clodsire-1": {
+  "name": "980_Clodsire_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV3-069",
+   "lang": "ja",
+   "name": "パルデア ドオー",
+   "pocket": false,
+   "inliers": 50,
+   "set": "黒炎の支配者",
+   "illustrator": "Shin Nagasawa",
+   "hp": 140,
+   "attacks": [
+    "とびちるどく",
+    "ベノムショック"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 12,
+   "ja": 5
+  }
+ },
+ "980-clodsire-3": {
+  "name": "980_Clodsire_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A2b-085",
+   "lang": "en",
+   "name": "Paldean Clodsire ex",
+   "pocket": true,
+   "inliers": 50,
+   "set": "Shining Revelry",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 160,
+   "attacks": [
+    "Venoshock"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 12,
+   "ja": 5
+  }
+ },
+ "495-snivy-1": {
+  "name": "495_Snivy_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-087",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 377,
+   "set": "Black Bolt",
+   "illustrator": "Yoshimi Miyoshi",
+   "hp": 70,
+   "attacks": [
+    "Tackle",
+    "Vine Whip"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 20,
+   "ja": 9
+  }
+ },
+ "495-snivy-2": {
+  "name": "495_Snivy_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-001",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 224,
+   "set": "Black Bolt",
+   "illustrator": "Susumu Maeya",
+   "hp": 70,
+   "attacks": [
+    "Tackle",
+    "Vine Whip"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 20,
+   "ja": 9
+  }
+ },
+ "495-snivy-3": {
+  "name": "495_Snivy_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw7-11",
+   "lang": "en",
+   "name": "Snivy",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 20,
+   "ja": 9
+  }
+ },
+ "496-servine-1": {
+  "name": "496_Servine_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-088",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 135,
+   "set": "Black Bolt",
+   "illustrator": "Jiro Sasumo",
+   "hp": 100,
+   "attacks": [
+    "Wrap",
+    "Vine Whip"
+   ]
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 11,
+   "ja": 4
+  }
+ },
+ "496-servine-2": {
+  "name": "496_Servine_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-002",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 221,
+   "set": "Black Bolt",
+   "illustrator": "Susumu Maeya",
+   "hp": 100,
+   "attacks": [
+    "Wrap",
+    "Vine Whip"
+   ]
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 11,
+   "ja": 4
+  }
+ },
+ "496-servine-3": {
+  "name": "496_Servine_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv10.5b-002",
+   "lang": "en",
+   "name": "Servine",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 11,
+   "ja": 4
+  }
+ },
+ "497-serperior-5": {
+  "name": "497_Serperior_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-164",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 81,
+   "set": "Black Bolt",
+   "illustrator": "Ryota Murayama",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-4": {
+  "name": "497_Serperior_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "S11a-084",
+   "lang": "ja",
+   "name": "ジャローダV",
+   "pocket": false,
+   "inliers": 100,
+   "set": "白熱のアルカナ",
+   "illustrator": "Teeziro",
+   "hp": 210,
+   "attacks": [
+    "けだかいひかり",
+    "ソーラービーム"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-6": {
+  "name": "497_Serperior_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh12-008",
+   "lang": "en",
+   "name": "Serperior VSTAR",
+   "pocket": false,
+   "inliers": 41,
+   "set": "Silver Tempest",
+   "illustrator": "PLANETA Mochizuki",
+   "hp": 270,
+   "attacks": [
+    "Regal Blender",
+    "Star Winder"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-shiny-1": {
+  "name": "497_Serperior_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-164",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 54,
+   "set": "Black Bolt",
+   "illustrator": "Ryota Murayama",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-3": {
+  "name": "497_Serperior_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw1-6",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-1": {
+  "name": "497_Serperior_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1a-070",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": true,
+   "inliers": 337,
+   "set": "Mythical Island",
+   "illustrator": "rika",
+   "hp": 110,
+   "attacks": [
+    "Solar Beam"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-2": {
+  "name": "497_Serperior_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh12-170",
+   "lang": "en",
+   "name": "Serperior V",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-serperior-7": {
+  "name": "497_Serperior_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5b-156",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Black Bolt",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "497-mega-serperior-1": {
+  "name": "497_Mega_Serperior_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S11a-084",
+   "lang": "ja",
+   "name": "ジャローダV",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 25,
+  "lookup": {
+   "en": 21,
+   "ja": 11
+  }
+ },
+ "984-great-tusk-2": {
+  "name": "984_Great_Tusk_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv01-246",
+   "lang": "en",
+   "name": "Great Tusk ex",
+   "pocket": false,
+   "inliers": 9
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "984-great-tusk-1": {
+  "name": "984_Great_Tusk_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV5K-042",
+   "lang": "ja",
+   "name": "イダイナキバ",
+   "pocket": false,
+   "inliers": 107,
+   "set": "ワイルドフォース",
+   "illustrator": "GIDORA",
+   "hp": 140,
+   "attacks": [
+    "じばんほうかい",
+    "きょだいなキバ"
+   ]
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "985-scream-tail-1": {
+  "name": "985_Scream_Tail_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV4K-071",
+   "lang": "ja",
+   "name": "サケブシッポ",
+   "pocket": false,
+   "inliers": 164,
+   "set": "古代の咆哮",
+   "illustrator": "GIDORA",
+   "hp": 90,
+   "attacks": [
+    "ビンタ",
+    "ほえさけぶ"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 7
+  }
+ },
+ "985-scream-tail-2": {
+  "name": "985_Scream_Tail_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv08.5-042",
+   "lang": "en",
+   "name": "Scream Tail",
    "pocket": false,
    "inliers": 8
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 6,
+   "ja": 7
   }
  },
- "150-mewtwo-16": {
-  "name": "150_Mewtwo_16",
-  "verdict": "ART_MATCH",
+ "985-scream-tail-3": {
+  "name": "985_Scream_Tail_3",
+  "verdict": "POSSIBLE",
   "best": {
-   "id": "sv10-240",
+   "id": "sv06-094",
    "lang": "en",
-   "name": "Team Rocket's Mewtwo ex",
+   "name": "Scream Tail ex",
    "pocket": false,
-   "inliers": 33,
-   "set": "Destined Rivals",
-   "illustrator": "aky CG Works",
-   "hp": 280,
+   "inliers": 22,
+   "set": "Twilight Masquerade",
+   "illustrator": "akagi",
+   "hp": 190,
    "attacks": [
-    "Erasure Ball"
+    "Scream",
+    "Crunch"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 6,
+   "ja": 7
   }
  },
- "150-mewtwo-17": {
-  "name": "150_Mewtwo_17",
+ "987-flutter-mane-2": {
+  "name": "987_Flutter_Mane_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A1-282",
+   "id": "sv08.5-043",
    "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-18": {
-  "name": "150_Mewtwo_18",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm11-222",
-   "lang": "en",
-   "name": "Mewtwo & Mew GX",
-   "pocket": false,
-   "inliers": 42,
-   "set": "Unified Minds",
-   "illustrator": "5ban Graphics",
-   "hp": 270,
-   "attacks": [
-    "Miraculous Duo GX"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-19": {
-  "name": "150_Mewtwo_19",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dpp-DP28",
-   "lang": "en",
-   "name": "Mewtwo",
+   "name": "Flutter Mane",
    "pocket": false,
    "inliers": 6
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 8,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 4,
+   "ja": 7
   }
  },
- "150-mewtwo-2": {
-  "name": "150_Mewtwo_2",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "svp-052",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 24,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Bun Toujo",
-   "hp": 130,
-   "attacks": [
-    "Reflective Barrier",
-    "Psyslash"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-20": {
-  "name": "150_Mewtwo_20",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv04-058",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-21": {
-  "name": "150_Mewtwo_21",
+ "987-flutter-mane-1": {
+  "name": "987_Flutter_Mane_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A1-286",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 132,
-   "set": "Genetic Apex",
-   "illustrator": "PLANETA Mochizuki",
-   "hp": 150,
+   "id": "SV5K-076",
+   "lang": "ja",
+   "name": "ハバタクカミ",
+   "pocket": false,
+   "inliers": 34,
+   "set": "ワイルドフォース",
+   "illustrator": "Takumi Wada",
+   "hp": 90,
    "attacks": [
-    "Psychic Sphere",
-    "Psydrive"
+    "たたりとばす"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 8,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 4,
+   "ja": 7
   }
  },
- "150-mewtwo-3": {
-  "name": "150_Mewtwo_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh12.5-059",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 132,
-   "set": "Crown Zenith",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 130,
-   "attacks": [
-    "Psypump",
-    "Limit Break"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-4": {
-  "name": "150_Mewtwo_4",
+ "987-flutter-mane-3": {
+  "name": "987_Flutter_Mane_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "P-A-010",
+   "id": "sv08.5-043",
    "lang": "en",
-   "name": "Mewtwo",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-5": {
-  "name": "150_Mewtwo_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "ecard1-20",
-   "lang": "en",
-   "name": "Mewtwo",
+   "name": "Flutter Mane",
    "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-6": {
-  "name": "150_Mewtwo_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10-231",
-   "lang": "en",
-   "name": "Team Rocket's Mewtwo ex",
-   "pocket": false,
-   "inliers": 44,
-   "set": "Destined Rivals",
-   "illustrator": "Iwamoto05",
-   "hp": 280,
-   "attacks": [
-    "Erasure Ball"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-7": {
-  "name": "150_Mewtwo_7",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "me02.5-281",
-   "lang": "en",
-   "name": "Team Rocket's Mewtwo ex",
-   "pocket": false,
-   "inliers": 14,
-   "set": "Ascended Heroes",
-   "illustrator": "Mitsuhiro Arita",
-   "hp": 280,
-   "attacks": [
-    "Erasure Ball"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-8": {
-  "name": "150_Mewtwo_8",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "swsh10.5-072",
-   "lang": "en",
-   "name": "Mewtwo V",
-   "pocket": false,
-   "inliers": 16,
-   "set": "Pokémon GO",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 220,
-   "attacks": [
-    "Super Psy Bolt",
-    "Transfer Break"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-9": {
-  "name": "150_Mewtwo_9",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A1-282",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-ancient": {
-  "name": "150_Mewtwo_Ancient",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "base4-10",
-   "lang": "en",
-   "name": "Mewtwo",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-armored": {
-  "name": "150_Mewtwo_Armored",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A1-282",
-   "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
    "inliers": 7
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 8,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 4,
+   "ja": 7
   }
  },
- "150-mewtwo-futuro-1": {
-  "name": "150_Mewtwo_Futuro_1",
-  "verdict": "ART_MATCH",
+ "987-flutter-mane-4": {
+  "name": "987_Flutter_Mane_4",
+  "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "30th-157",
+   "id": "sv08.5-043",
    "lang": "en",
-   "name": "Mewtwo ex",
+   "name": "Flutter Mane",
    "pocket": false,
-   "inliers": 56,
-   "set": "30th Celebration",
-   "illustrator": "YOSHIROTTEN",
-   "hp": 230,
-   "attacks": [
-    "Photon Bullets",
-    "Psychic Powers"
-   ]
+   "inliers": 5
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 8,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 4,
+   "ja": 7
   }
  },
- "150-mewtwo-shiny-1": {
-  "name": "150_Mewtwo_Shiny_1",
-  "verdict": "ART_MATCH",
+ "989-sandy-shocks-1": {
+  "name": "989_Sandy_Shocks_1",
+  "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A1-282",
+   "id": "sv08.5-056",
    "lang": "en",
-   "name": "Mewtwo ex",
-   "pocket": true,
-   "inliers": 27,
-   "set": "Genetic Apex",
-   "illustrator": "Nurikabe",
-   "hp": 150,
-   "attacks": [
-    "Psychic Sphere",
-    "Psydrive"
-   ]
-  },
-  "official_cards_checked": 94,
-  "lookup": {
-   "en": 100,
-   "ja": 36
-  }
- },
- "150-mewtwo-shiny-2": {
-  "name": "150_Mewtwo_Shiny_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-151",
-   "lang": "en",
-   "name": "Mewtwo ex",
+   "name": "Sandy Shocks ex",
    "pocket": false,
-   "inliers": 83,
-   "set": "30th Celebration",
-   "illustrator": "Yano Keiji",
-   "hp": 230,
-   "attacks": [
-    "Photon Bullets",
-    "Psychic Powers"
-   ]
+   "inliers": 0
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 6,
+   "ja": 6
   }
  },
- "150-mewtwo-tera-1": {
-  "name": "150_Mewtwo_Tera_1",
-  "verdict": "POSSIBLE",
+ "989-sandy-shocks-2": {
+  "name": "989_Sandy_Shocks_2",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "A1-128",
+   "id": "SV4K-089",
+   "lang": "ja",
+   "name": "スナノケガワex",
+   "pocket": false,
+   "inliers": 207,
+   "set": "古代の咆哮",
+   "illustrator": "Toshinao Aoki",
+   "hp": 220,
+   "attacks": [
+    "グラウンドスパイク"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "989-sandy-shocks-3": {
+  "name": "989_Sandy_Shocks_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-098",
    "lang": "en",
-   "name": "Mewtwo",
-   "pocket": true,
-   "inliers": 15,
-   "set": "Genetic Apex",
-   "illustrator": "kawayoo",
+   "name": "Sandy Shocks",
+   "pocket": false,
+   "inliers": 68,
+   "set": "Temporal Forces",
+   "illustrator": "DOM",
    "hp": 120,
    "attacks": [
-    "Power Blast"
+    "Magnetic Burst",
+    "Power Gem"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 6,
+   "ja": 6
   }
  },
- "150-mewtwo-vstar": {
-  "name": "150_Mewtwo_VSTAR",
+ "1005-roaring-moon-5": {
+  "name": "1005_Roaring_Moon_5",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "S12a-221",
-   "lang": "ja",
-   "name": "ミュウツーVSTAR",
+   "id": "sv08.5-162",
+   "lang": "en",
+   "name": "Roaring Moon ex",
    "pocket": false,
-   "inliers": 153,
-   "set": "VSTARユニバース",
-   "illustrator": "GOSSAN",
-   "hp": 280,
+   "inliers": 81,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Shinji Kanda",
+   "hp": 230,
    "attacks": [
-    "サイコパージ",
-    "スターレイド"
+    "Frenzied Gouging",
+    "Calamity Storm"
    ]
   },
-  "official_cards_checked": 94,
+  "official_cards_checked": 16,
   "lookup": {
-   "en": 100,
-   "ja": 36
+   "en": 9,
+   "ja": 8
   }
  },
- "248-mega-tyranitar-1": {
-  "name": "248_Mega_Tyranitar_1",
-  "verdict": "NO_ART_MATCH",
+ "1005-roaring-moon-4": {
+  "name": "1005_Roaring_Moon_4",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "sm8-223",
-   "lang": "en",
-   "name": "Tyranitar GX",
+   "id": "SV4K-090",
+   "lang": "ja",
+   "name": "トドロクツキex",
    "pocket": false,
-   "inliers": 5
+   "inliers": 125,
+   "set": "古代の咆哮",
+   "illustrator": "Ryota Murayama",
+   "hp": 230,
+   "attacks": [
+    "くるいえぐる",
+    "カラミティストーム"
+   ]
   },
-  "official_cards_checked": 56,
+  "official_cards_checked": 16,
   "lookup": {
-   "en": 52,
-   "ja": 19
+   "en": 9,
+   "ja": 8
   }
  },
- "248-mega-tyranitar-2": {
-  "name": "248_Mega_Tyranitar_2",
+ "1005-roaring-moon-2": {
+  "name": "1005_Roaring_Moon_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8a-100",
+   "lang": "ja",
+   "name": "トドロクツキ",
+   "pocket": false,
+   "inliers": 101,
+   "set": "テラスタルフェスex",
+   "illustrator": "hncl",
+   "hp": 140,
+   "attacks": [
+    "あだうちやばね",
+    "スピードウイング"
+   ]
+  },
+  "official_cards_checked": 16,
+  "lookup": {
+   "en": 9,
+   "ja": 8
+  }
+ },
+ "1005-roaring-moon-1": {
+  "name": "1005_Roaring_Moon_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm11-126",
+   "id": "sv08.5-065",
    "lang": "en",
-   "name": "Mega Sableye & Tyranitar GX",
+   "name": "Roaring Moon",
    "pocket": false,
    "inliers": 6
   },
-  "official_cards_checked": 56,
+  "official_cards_checked": 16,
   "lookup": {
-   "en": 52,
-   "ja": 19
+   "en": 9,
+   "ja": 8
   }
  },
- "248-mega-tyranitar-3": {
-  "name": "248_Mega_Tyranitar_3",
+ "1005-roaring-moon-3": {
+  "name": "1005_Roaring_Moon_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "neo2-31",
+   "id": "sv05-109",
    "lang": "en",
-   "name": "Tyranitar",
+   "name": "Roaring Moon",
    "pocket": false,
-   "inliers": 4
+   "inliers": 6
   },
-  "official_cards_checked": 56,
+  "official_cards_checked": 16,
   "lookup": {
-   "en": 52,
-   "ja": 19
+   "en": 9,
+   "ja": 8
   }
  },
- "248-tyranitar-1": {
-  "name": "248_Tyranitar_1",
+ "1009-walking-wake-3": {
+  "name": "1009_Walking_Wake_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "A4-179",
+   "id": "sv05-205",
    "lang": "en",
-   "name": "Tyranitar",
-   "pocket": true,
-   "inliers": 241,
-   "set": "Wisdom of Sea and Sky",
-   "illustrator": "Saboteri",
-   "hp": 160,
-   "attacks": [
-    "Buster Tail"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 52,
-   "ja": 19
-  }
- },
- "248-tyranitar-2": {
-  "name": "248_Tyranitar_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV2D-079",
-   "lang": "ja",
-   "name": "バンギラス",
-   "pocket": false,
-   "inliers": 104,
-   "set": "クレイバースト",
-   "illustrator": "Nurikabe",
-   "hp": 180,
-   "attacks": [
-    "けちらす",
-    "ドレッドマウンテン"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 52,
-   "ja": 19
-  }
- },
- "248-tyranitar-3": {
-  "name": "248_Tyranitar_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV2D-052",
-   "lang": "ja",
-   "name": "バンギラス",
-   "pocket": false,
-   "inliers": 165,
-   "set": "クレイバースト",
-   "illustrator": "hncl",
-   "hp": 180,
-   "attacks": [
-    "けちらす",
-    "ドレッドマウンテン"
-   ]
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 52,
-   "ja": 19
-  }
- },
- "248-tyranitar-4": {
-  "name": "248_Tyranitar_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "hgss2-26",
-   "lang": "en",
-   "name": "Tyranitar",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 56,
-  "lookup": {
-   "en": 52,
-   "ja": 19
-  }
- },
- "248-tyranitar-tera": {
-  "name": "248_Tyranitar_Tera",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV3-122",
-   "lang": "ja",
-   "name": "バンギラスex",
+   "name": "Walking Wake ex",
    "pocket": false,
    "inliers": 71,
-   "set": "黒炎の支配者",
-   "illustrator": "5ban Graphics",
-   "hp": 340,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 220,
    "attacks": [
-    "やまとばし",
-    "トールランページ"
+    "Catharsis Roar"
    ]
   },
-  "official_cards_checked": 56,
+  "official_cards_checked": 14,
   "lookup": {
-   "en": 52,
-   "ja": 19
+   "en": 7,
+   "ja": 9
   }
  },
- "373-mega-salamence-1": {
-  "name": "373_Mega_Salamence_1",
+ "1009-walking-wake-2": {
+  "name": "1009_Walking_Wake_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sm7-106",
+   "id": "sv08.5-178",
    "lang": "en",
-   "name": "Salamence",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-mega-salamence-2": {
-  "name": "373_Mega_Salamence_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv09-114",
-   "lang": "en",
-   "name": "Salamence ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-1": {
-  "name": "373_Salamence_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "B2-178",
-   "lang": "en",
-   "name": "Salamence",
-   "pocket": true,
-   "inliers": 39,
-   "set": "Fantastical Parade",
-   "illustrator": "Shiburingaru",
-   "hp": 150,
-   "attacks": [
-    "Dragon Dive"
-   ]
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-2": {
-  "name": "373_Salamence_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh7-109",
-   "lang": "en",
-   "name": "Salamence",
-   "pocket": false,
-   "inliers": 159,
-   "set": "Evolving Skies",
-   "illustrator": "kodama",
-   "hp": 170,
-   "attacks": [
-    "Fierce Dragon"
-   ]
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-3": {
-  "name": "373_Salamence_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "smp-SM140",
-   "lang": "en",
-   "name": "Salamence",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-4": {
-  "name": "373_Salamence_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "xy6-57",
-   "lang": "en",
-   "name": "Salamence",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-5": {
-  "name": "373_Salamence_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv09-187",
-   "lang": "en",
-   "name": "Salamence ex",
-   "pocket": false,
-   "inliers": 79,
-   "set": "Journey Together",
-   "illustrator": "Tsuyoshi Nagano",
-   "hp": 320,
-   "attacks": [
-    "Wide Blast",
-    "Dragon Impact"
-   ]
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-6": {
-  "name": "373_Salamence_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-156",
-   "lang": "en",
-   "name": "Salamence ex",
-   "pocket": false,
-   "inliers": 32,
-   "set": "30th Celebration",
-   "illustrator": "Ryota Murayama",
-   "hp": 330,
-   "attacks": [
-    "Booming Call",
-    "Dragon Pulse"
-   ]
-  },
-  "official_cards_checked": 35,
-  "lookup": {
-   "en": 34,
-   "ja": 10
-  }
- },
- "373-salamence-7": {
-  "name": "373_Salamence_7",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh3-143",
-   "lang": "en",
-   "name": "Salamence V",
+   "name": "Walking Wake ex",
    "pocket": false,
    "inliers": 6
   },
-  "official_cards_checked": 35,
+  "official_cards_checked": 14,
   "lookup": {
-   "en": 34,
-   "ja": 10
+   "en": 7,
+   "ja": 9
   }
  },
- "373-salamence-shiny-1": {
-  "name": "373_Salamence_Shiny_1",
-  "verdict": "POSSIBLE",
+ "1009-walking-wake-shiny-1": {
+  "name": "1009_Walking_Wake_Shiny",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "B2-178",
+   "id": "sv05-205",
    "lang": "en",
-   "name": "Salamence",
-   "pocket": true,
-   "inliers": 19,
-   "set": "Fantastical Parade",
-   "illustrator": "Shiburingaru",
-   "hp": 150,
+   "name": "Walking Wake ex",
+   "pocket": false,
+   "inliers": 49,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 220,
    "attacks": [
-    "Dragon Dive"
+    "Catharsis Roar"
    ]
   },
-  "official_cards_checked": 35,
+  "official_cards_checked": 14,
   "lookup": {
-   "en": 34,
-   "ja": 10
+   "en": 7,
+   "ja": 9
+  }
+ },
+ "1009-walking-wake-1": {
+  "name": "1009_Walking_Wake_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV5a-026",
+   "lang": "ja",
+   "name": "ウネルミナモ",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 7,
+   "ja": 9
+  }
+ },
+ "1020-gouging-fire-3": {
+  "name": "1020_Gouging_Fire_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-204",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 109,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 230,
+   "attacks": [
+    "Heat Blast",
+    "Blaze Blitz"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1020-gouging-fire-2": {
+  "name": "1020_Gouging_Fire_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv08-038",
+   "lang": "en",
+   "name": "Gouging Fire",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Surging Sparks",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 130,
+   "attacks": [
+    "Lunge Out",
+    "Blazing Charge"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1020-gouging-fire-shiny-1": {
+  "name": "1020_Gouging_Fire_Shiny",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-204",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 78,
+   "set": "Temporal Forces",
+   "illustrator": "Teeziro",
+   "hp": 230,
+   "attacks": [
+    "Heat Blast",
+    "Blaze Blitz"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1020-gouging-fire-1": {
+  "name": "1020_Gouging_Fire_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv05-188",
+   "lang": "en",
+   "name": "Gouging Fire ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1021-raging-bolt-3": {
+  "name": "1021_Raging_Bolt_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV5K-095",
+   "lang": "ja",
+   "name": "タケルライコex",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1021-raging-bolt-2": {
+  "name": "1021_Raging_Bolt_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv05-218",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 9
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1021-raging-bolt-shiny-1": {
+  "name": "1021_Raging_Bolt_Shiny",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv05-218",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 8
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "1021-raging-bolt-1": {
+  "name": "1021_Raging_Bolt_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv08.5-166",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 73,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Uninori",
+   "hp": 240,
+   "attacks": [
+    "Burst Roar",
+    "Bellowing Thunder"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "990-iron-treads-3": {
+  "name": "990_Iron_Treads_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv01-248",
+   "lang": "en",
+   "name": "Iron Treads ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "990-iron-treads-2": {
+  "name": "990_Iron_Treads_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV4a-333",
+   "lang": "ja",
+   "name": "テツノワダチex",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "990-iron-treads-1": {
+  "name": "990_Iron_Treads_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8a-116",
+   "lang": "ja",
+   "name": "テツノワダチ",
+   "pocket": false,
+   "inliers": 47,
+   "set": "テラスタルフェスex",
+   "illustrator": "Tonji Matsuno",
+   "hp": 130,
+   "attacks": [
+    "パスホイール"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "991-iron-bundle-2": {
+  "name": "991_Iron_Bundle_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV8a-047",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 5,
+   "ja": 6
+  }
+ },
+ "991-iron-bundle-1": {
+  "name": "991_Iron_Bundle_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "svp-058",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 32,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Lee HyunJung",
+   "hp": 100,
+   "attacks": [
+    "Refrigerated Stream"
+   ]
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 5,
+   "ja": 6
+  }
+ },
+ "991-iron-bundle-3": {
+  "name": "991_Iron_Bundle_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8-031",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 49,
+   "set": "超電ブレイカー",
+   "illustrator": "rika",
+   "hp": 100,
+   "attacks": [
+    "ガストコリジョン 200-"
+   ]
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 5,
+   "ja": 6
+  }
+ },
+ "992-iron-hands-1": {
+  "name": "992_Iron_Hands_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv04-248",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 218,
+   "set": "Paradox Rift",
+   "illustrator": "Toshinao Aoki",
+   "hp": 230,
+   "attacks": [
+    "Arm Press",
+    "Amp You Very Much"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "992-iron-hands-2": {
+  "name": "992_Iron_Hands_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv08.5-154",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "992-iron-hands-3": {
+  "name": "992_Iron_Hands_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-061",
+   "lang": "en",
+   "name": "Iron Hands",
+   "pocket": false,
+   "inliers": 116,
+   "set": "Temporal Forces",
+   "illustrator": "Souichirou Gunjima",
+   "hp": 140,
+   "attacks": [
+    "Volt Wave",
+    "Superalloy Hands"
+   ]
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 6,
+   "ja": 6
+  }
+ },
+ "995-iron-thorns-1": {
+  "name": "995_Iron_Thorns_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "svp-098",
+   "lang": "en",
+   "name": "Iron Thorns",
+   "pocket": false,
+   "inliers": 48,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Tonji Matsuno",
+   "hp": 140,
+   "attacks": [
+    "Destructo-Press",
+    "Megaton Lariat"
+   ]
+  },
+  "official_cards_checked": 9,
+  "lookup": {
+   "en": 5,
+   "ja": 8
+  }
+ },
+ "995-iron-thorns-2": {
+  "name": "995_Iron_Thorns_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv06-077",
+   "lang": "en",
+   "name": "Iron Thorns ex",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 9,
+  "lookup": {
+   "en": 5,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-5": {
+  "name": "1006_Iron_Valiant_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv04-249",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 52,
+   "set": "Paradox Rift",
+   "illustrator": "kantaro",
+   "hp": 220,
+   "attacks": [
+    "Laser Blade"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-4": {
+  "name": "1006_Iron_Valiant_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-080",
+   "lang": "en",
+   "name": "Iron Valiant",
+   "pocket": false,
+   "inliers": 40,
+   "set": "Temporal Forces",
+   "illustrator": "chibi",
+   "hp": 130,
+   "attacks": [
+    "Calculation",
+    "Majestic Sword"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-3": {
+  "name": "1006_Iron_Valiant_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv08.5-157",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 43,
+   "set": "Prismatic Evolutions",
+   "illustrator": "danciao",
+   "hp": 220,
+   "attacks": [
+    "Laser Blade"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-1": {
+  "name": "1006_Iron_Valiant_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv08.5-157",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-2": {
+  "name": "1006_Iron_Valiant_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv05-079",
+   "lang": "en",
+   "name": "Iron Valiant",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Temporal Forces",
+   "illustrator": "takuyoa",
+   "hp": 130,
+   "attacks": [
+    "Gemini Laser",
+    "Zen Blade"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
+  }
+ },
+ "1006-iron-valiant-6": {
+  "name": "1006_Iron_Valiant_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv04-261",
+   "lang": "en",
+   "name": "Iron Valiant ex",
+   "pocket": false,
+   "inliers": 35,
+   "set": "Paradox Rift",
+   "illustrator": "aky CG Works",
+   "hp": 220,
+   "attacks": [
+    "Laser Blade"
+   ]
+  },
+  "official_cards_checked": 14,
+  "lookup": {
+   "en": 8,
+   "ja": 8
   }
  }
 }

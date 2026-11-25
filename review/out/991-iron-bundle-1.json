@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "991-iron-bundle-1",
+  "name": "991_Iron_Bundle_1",
+  "pokemon": "Iron Bundle",
+  "dex": 991,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641855/991_Iron_Bundle_1.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 5,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "svp-058",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 32,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Lee HyunJung",
+   "hp": 100,
+   "attacks": [
+    "Refrigerated Stream"
+   ]
+  },
+  {
+   "id": "svp-066",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 31,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Teeziro",
+   "hp": 100,
+   "attacks": [
+    "Refrigerated Stream"
+   ]
+  },
+  {
+   "id": "sv04-056",
+   "lang": "en",
+   "name": "Iron Bundle",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Paradox Rift",
+   "illustrator": "Oswaldo KATO",
+   "hp": 100,
+   "attacks": [
+    "Refrigerated Stream"
+   ]
+  },
+  {
+   "id": "SV4M-071",
+   "lang": "ja",
+   "name": "テツノツツミ",
+   "pocket": false,
+   "inliers": 17,
+   "set": "未来の一閃",
+   "illustrator": "Teeziro",
+   "hp": 100,
+   "attacks": [
+    "れいきゃくジェット"
+   ]
+  }
+ ]
+}

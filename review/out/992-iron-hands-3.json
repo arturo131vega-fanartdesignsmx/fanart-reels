@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "992-iron-hands-3",
+  "name": "992_Iron_Hands_3",
+  "pokemon": "Iron Hands",
+  "dex": 992,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641863/992_Iron_Hands_3.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv05-061",
+   "lang": "en",
+   "name": "Iron Hands",
+   "pocket": false,
+   "inliers": 116,
+   "set": "Temporal Forces",
+   "illustrator": "Souichirou Gunjima",
+   "hp": 140,
+   "attacks": [
+    "Volt Wave",
+    "Superalloy Hands"
+   ]
+  },
+  {
+   "id": "sv08.5-154",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV8a-210",
+   "lang": "ja",
+   "name": "テツノカイナex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv04-223",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

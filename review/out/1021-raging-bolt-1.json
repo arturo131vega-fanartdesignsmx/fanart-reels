@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "1021-raging-bolt-1",
+  "name": "1021_Raging_Bolt_1",
+  "pokemon": "Raging Bolt",
+  "dex": 1021,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641841/1021_Raging_Bolt_1.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv08.5-166",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 73,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Uninori",
+   "hp": 240,
+   "attacks": [
+    "Burst Roar",
+    "Bellowing Thunder"
+   ]
+  },
+  {
+   "id": "SV8a-222",
+   "lang": "ja",
+   "name": "タケルライコex",
+   "pocket": false,
+   "inliers": 69,
+   "set": "テラスタルフェスex",
+   "illustrator": "Uninori",
+   "hp": 240,
+   "attacks": [
+    "はじけるほうこう",
+    "きょくらいごう"
+   ]
+  },
+  {
+   "id": "svp-145",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sv05-218",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 7
+  }
+ ]
+}

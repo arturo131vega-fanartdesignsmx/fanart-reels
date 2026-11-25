@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "992-iron-hands-2",
+  "name": "992_Iron_Hands_2",
+  "pokemon": "Iron Hands",
+  "dex": 992,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641861/992_Iron_Hands_2.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 6,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "sv08.5-154",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV8a-054",
+   "lang": "ja",
+   "name": "テツノカイナex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv08.5-031",
+   "lang": "en",
+   "name": "Iron Hands ex",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sv05-061",
+   "lang": "en",
+   "name": "Iron Hands",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "497-serperior-4",
+  "name": "497_Serperior_4",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641739/497_Serperior_4.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "S11a-084",
+   "lang": "ja",
+   "name": "ジャローダV",
+   "pocket": false,
+   "inliers": 100,
+   "set": "白熱のアルカナ",
+   "illustrator": "Teeziro",
+   "hp": 210,
+   "attacks": [
+    "けだかいひかり",
+    "ソーラービーム"
+   ]
+  },
+  {
+   "id": "me03-006",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw7-13",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "S11a-075",
+   "lang": "ja",
+   "name": "ジャローダV",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

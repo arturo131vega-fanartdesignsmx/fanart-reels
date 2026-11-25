@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1005-roaring-moon-3",
+  "name": "1005_Roaring_Moon_3",
+  "pokemon": "Roaring Moon",
+  "dex": 1005,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641820/1005_Roaring_Moon_3.jpg"
+ },
+ "official_cards_checked": 16,
+ "lookup": {
+  "en": 9,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv05-109",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv08.5-065",
+   "lang": "en",
+   "name": "Roaring Moon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv04-229",
+   "lang": "en",
+   "name": "Roaring Moon ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV4K-090",
+   "lang": "ja",
+   "name": "トドロクツキex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

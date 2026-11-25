@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "936-armarouge-2",
+  "name": "936_Armarouge_2",
+  "pokemon": "Armarouge",
+  "dex": 936,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641774/936_Armarouge_2.jpg"
+ },
+ "official_cards_checked": 19,
+ "lookup": {
+  "en": 15,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "sv03-044",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 167,
+   "set": "Obsidian Flames",
+   "illustrator": "Souichirou Gunjima",
+   "hp": 120,
+   "attacks": [
+    "Steam Artillery"
+   ]
+  },
+  {
+   "id": "svp-125",
+   "lang": "en",
+   "name": "Armarouge ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me05-012",
+   "lang": "en",
+   "name": "Armarouge",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "svp-105",
+   "lang": "en",
+   "name": "Armarouge ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "1021-raging-bolt-3",
+  "name": "1021_Raging_Bolt_3",
+  "pokemon": "Raging Bolt",
+  "dex": 1021,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641844/1021_Raging_Bolt_3.jpg"
+ },
+ "official_cards_checked": 14,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "SV5K-095",
+   "lang": "ja",
+   "name": "タケルライコex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sv05-218",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv05-123",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "svp-145",
+   "lang": "en",
+   "name": "Raging Bolt ex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "497-serperior-shiny-1",
+  "name": "497_Serperior_Shiny_1",
+  "pokemon": "Serperior",
+  "dex": 497,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641748/497_Serperior_Shiny_1.jpg"
+ },
+ "official_cards_checked": 25,
+ "lookup": {
+  "en": 21,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "sv10.5b-164",
+   "lang": "en",
+   "name": "Serperior ex",
+   "pocket": false,
+   "inliers": 54,
+   "set": "Black Bolt",
+   "illustrator": "Ryota Murayama",
+   "hp": 320,
+   "attacks": [
+    "Command the Grass"
+   ]
+  },
+  {
+   "id": "S11a-092",
+   "lang": "ja",
+   "name": "ジャローダVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "bw1-5",
+   "lang": "en",
+   "name": "Serperior",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh12-007",
+   "lang": "en",
+   "name": "Serperior V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
