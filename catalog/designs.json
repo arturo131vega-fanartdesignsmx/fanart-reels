@@ -4302,7 +4302,9 @@
   "listing_id": 4543717521,
   "design_label": "Design 1",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/378_Regice_3.jpg",
-  "used": [],
+  "used": [
+   "2026-11-26"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 4,
@@ -7777,5 +7779,1289 @@
   "reason": "No match with official card art",
   "pocket": false,
   "added": "2026-11-22"
+ },
+ "149-dragonite-1": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 15
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-244, confirmed by eye; Draco Meteor), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-10": {
+  "pokemon": "Dragonite",
+  "card_name": "Lance's Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_10.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-2": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 114,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Dragonite sv03.5-149 (art box only on the physical card); extended art allowed. Card text (Hurricane Charge, Energy Zone) is TCG Pocket wording",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-3": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 52,
+   "pocket_max": 34
+  },
+  "verdict": "approved",
+  "reason": "Extended art of Dragonite sm1-96 (art box only on the physical card; same art reused in TCG Pocket A1-185); extended art allowed",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-4": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_4.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-5": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 51
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A3b-090), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-6": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 41,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the physical Dragonite V alt art swsh7-192",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-7": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 62
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A3b-082), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-8": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; card text (Energy Hurricane, Energy Zone) is TCG Pocket wording",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-9": {
+  "pokemon": "Dragonite",
+  "card_name": "Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_9.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; Hyper Beam text is TCG Pocket wording",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-shiny-1": {
+  "pokemon": "Dragonite",
+  "card_name": "Shiny Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 34
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork A3b-090, not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-shiny-2": {
+  "pokemon": "Dragonite",
+  "card_name": "Shiny Dragonite",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork A1-244 (Draco Meteor), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-tera-1": {
+  "pokemon": "Dragonite",
+  "card_name": "Tera Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_Tera_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 18,
+   "pocket_max": 10
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and a (c) Pokemon/Nintendo line; art also close to Tera Dragonite ex sv03-159 (18 inliers); rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-tera-2": {
+  "pokemon": "Dragonite",
+  "card_name": "Tera Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_Tera_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 15,
+   "pocket_max": 13
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and a (c) Pokemon/Nintendo line; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-dragonite-tera-3": {
+  "pokemon": "Dragonite",
+  "card_name": "Tera Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Dragonite_Tera_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 15,
+   "pocket_max": 9
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and a (c) Pokemon/Nintendo line; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-1": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 86,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Dragonite ex me02.5-290",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-2": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 323,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Dragonite ex me02.5-271",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-3": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_3.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-4": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Copy of the official gold card ASC 295/217 (set number and illustrator aky CG Works on the card)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-5": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); name + attack Draconic Meteor are the TCG Pocket Mega Dragonite ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-6": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); name + attack Draconic Meteor are the TCG Pocket Mega Dragonite ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-7": {
+  "pokemon": "Dragonite",
+  "card_name": "Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); name + attack Draconic Meteor are the TCG Pocket Mega Dragonite ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-shiny-1": {
+  "pokemon": "Dragonite",
+  "card_name": "Shiny Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 77,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork recolored: Mega Dragonite ex me02.5-290 (shiny recolor)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "149-mega-dragonite-shiny-2": {
+  "pokemon": "Dragonite",
+  "card_name": "Shiny Mega Dragonite EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/149_Mega_Dragonite_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny version of Mega Dragonite 5; no physical match; Draconic Meteor is TCG Pocket",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-x": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo X EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_X.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-x-2": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo X EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_X_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Dual Impact matches the TCG Pocket Mega Mewtwo X ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-x-3": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo X EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_X_3.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Dual Impact matches the TCG Pocket Mega Mewtwo X ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-x-4": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo X EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_X_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Dual Impact matches the TCG Pocket Mega Mewtwo X ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-x-5": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo X EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_X_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Dual Impact matches the TCG Pocket Mega Mewtwo X ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-y-1": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo Y EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_Y_1.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-y-2": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo Y EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_Y_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Psychic Blaster is TCG Pocket",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-y-3": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo Y EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_Y_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Psychic Blaster is TCG Pocket",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mega-mewtwo-y-4": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mega Mewtwo Y EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mega_Mewtwo_Y_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Psychic Blaster is TCG Pocket",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-1": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 98
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (P-A-010), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-10": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_10.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks (Psychic Sphere, Psydrive) are the TCG Pocket Mewtwo ex A1-129",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-11": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_11.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 118
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-262), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-12": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_12.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 40
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-282), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-13": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_13.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 110,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mewtwo ex 30th-151",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-14": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_14.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 34
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the Mewtwo SM214 promo (art box only on the physical card; same art in TCG Pocket A1-128); extended art allowed",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-15": {
+  "pokemon": "Mewtwo",
+  "card_name": "Team Rocket's Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_15.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-16": {
+  "pokemon": "Mewtwo",
+  "card_name": "Team Rocket's Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_16.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Team Rocket's Mewtwo ex sv10-240",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-17": {
+  "pokemon": "Mewtwo",
+  "card_name": "Team Rocket's Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_17.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-18": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo & Mew EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_18.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 42,
+   "pocket_max": 0
+  },
+  "verdict": "needs_check",
+  "reason": "Matches several official Mewtwo & Mew / Mewtwo cards at 29-42 inliers (sm11-222, sm11-71, sm11-242, sm10-75); composition looks different but may reuse official renders; check by eye before using",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-19": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_19.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks (Psychic Sphere, Psydrive) are the TCG Pocket Mewtwo ex A1-129",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-2": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 24,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the full-art promo Mewtwo svp-052 / SV2a-183 (24 inliers, confirmed by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-20": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_20.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-21": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_21.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 132
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-286, crown rare), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-3": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 132,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Mewtwo swsh12.5-059 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-4": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-5": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-6": {
+  "pokemon": "Mewtwo",
+  "card_name": "Team Rocket's Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 44,
+   "pocket_max": 4
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Team Rocket's Mewtwo ex sv10-231 (recolored)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-7": {
+  "pokemon": "Mewtwo",
+  "card_name": "Team Rocket's Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 14,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as Team Rocket's Mewtwo ex me02.5-281 (14 inliers, confirmed by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-8": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 16,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Same artwork as the Mewtwo V alt art swsh10.5-072 (16 inliers, confirmed by eye)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-9": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_9.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-ancient": {
+  "pokemon": "Mewtwo",
+  "card_name": "Ancient Mewtwo",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Ancient.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Vintage Ancient-promo layout with an official-style (c) Pokemon/Nintendo/Creatures/GAME FREAK line; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-armored": {
+  "pokemon": "Mewtwo",
+  "card_name": "Armored Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Armored.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 7
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-futuro-1": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Futuro_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 56,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mewtwo ex 30th-157",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-shiny-1": {
+  "pokemon": "Mewtwo",
+  "card_name": "Shiny Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 27
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork A1-282, not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-shiny-2": {
+  "pokemon": "Mewtwo",
+  "card_name": "Shiny Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 83,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork recolored: Mewtwo ex 30th-151 (shiny recolor)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-tera-1": {
+  "pokemon": "Mewtwo",
+  "card_name": "Tera Mewtwo EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_Tera_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 12,
+   "pocket_max": 15
+  },
+  "verdict": "rejected",
+  "reason": "Card prints a set number (13/95) and a (c) Pokemon/Nintendo line; rejected by eye (rule 1)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "150-mewtwo-vstar": {
+  "pokemon": "Mewtwo",
+  "card_name": "Mewtwo VSTAR",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/150_Mewtwo_VSTAR.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 153,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mewtwo VSTAR S12a-221 (VSTAR Universe)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "248-mega-tyranitar-1": {
+  "pokemon": "Tyranitar",
+  "card_name": "Mega Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Mega_Tyranitar_1.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "248-mega-tyranitar-2": {
+  "pokemon": "Tyranitar",
+  "card_name": "Mega Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Mega_Tyranitar_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Crushing Rampage matches the TCG Pocket Mega Tyranitar ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "248-mega-tyranitar-3": {
+  "pokemon": "Tyranitar",
+  "card_name": "Mega Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Mega_Tyranitar_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (no physical match); attack Crushing Rampage matches the TCG Pocket Mega Tyranitar ex",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "248-tyranitar-1": {
+  "pokemon": "Tyranitar",
+  "card_name": "Tyranitar",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Tyranitar_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 241
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A4-179), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "248-tyranitar-2": {
+  "pokemon": "Tyranitar",
+  "card_name": "Tyranitar",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Tyranitar_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 104,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Tyranitar sv02-222 / SV2D-079 (illustration rare)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "248-tyranitar-3": {
+  "pokemon": "Tyranitar",
+  "card_name": "Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Tyranitar_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 165,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Tyranitar sv02-135 / SV2D-052 (art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "248-tyranitar-4": {
+  "pokemon": "Tyranitar",
+  "card_name": "Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Tyranitar_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "248-tyranitar-tera": {
+  "pokemon": "Tyranitar",
+  "card_name": "Tera Tyranitar EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/248_Tyranitar_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 71,
+   "pocket_max": 8
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Tera Tyranitar ex sv03-211 / SV3-122",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-mega-salamence-1": {
+  "pokemon": "Salamence",
+  "card_name": "Mega Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Mega_Salamence_1.jpg",
+  "used": [
+   "2026-11-26"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-mega-salamence-2": {
+  "pokemon": "Salamence",
+  "card_name": "Mega Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Mega_Salamence_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-1": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 39
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (B2-178), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "373-salamence-2": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 159,
+   "pocket_max": 129
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Salamence swsh7-109 (art box only on the physical card; same art in TCG Pocket B2-123); extended art allowed",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "373-salamence-3": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-4": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-5": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 79,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Salamence ex sv09-187",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-6": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 32,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Salamence ex 30th-156",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-7": {
+  "pokemon": "Salamence",
+  "card_name": "Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "373-salamence-shiny-1": {
+  "pokemon": "Salamence",
+  "card_name": "Shiny Salamence EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/373_Salamence_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 19
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork B2-178 (19 inliers, confirmed by eye), not a physical card",
+  "pocket": true,
+  "added": "2026-11-25"
  }
 }
