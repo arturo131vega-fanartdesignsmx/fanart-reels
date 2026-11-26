@@ -2062,10 +2062,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Mega Dragonite EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18656622838031089",
+   "permalink": "https://www.instagram.com/p/DgNsy-KEegV/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122122906977449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122122906977449530"
+  },
+  "done": "2026-11-26T18:01:13.681186+00:00"
  },
  "2026-11-26-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r2.jpg",
+  "render": {
+   "duration": 15.066666666666666,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 128,
+    "root": 56,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 2.0,
+    "text": "Regice's body was born"
+   },
+   {
+    "t0": 2.0,
+    "t1": 3.64,
+    "text": "in an ancient ice age..."
+   },
+   {
+    "t0": 3.64,
+    "t1": 4.851,
+    "text": "and it still won't melt."
+   },
+   {
+    "t0": 5.151,
+    "t1": 5.841,
+    "text": "Handmade,"
+   },
+   {
+    "t0": 5.841,
+    "t1": 6.781,
+    "text": "frosted in holo,"
+   },
+   {
+    "t0": 6.781,
+    "t1": 7.979,
+    "text": "real card size."
+   },
+   {
+    "t0": 8.239,
+    "t1": 9.929,
+    "text": "Chill out and pick two or more,"
+   },
+   {
+    "t0": 9.929,
+    "t1": 11.249,
+    "text": "25% off"
+   },
+   {
+    "t0": 11.249,
+    "t1": 12.508,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.809,
+    "t1": 14.063,
+    "text": "It's waiting in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-26T18:02:39.911000+00:00",
+  "render_seconds": 86
  },
  "2026-11-26-c2": {
   "attempts": 0
