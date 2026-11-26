@@ -10699,5 +10699,197 @@
   "reason": "Official artwork: me02.5-273 Mega Emboar ex (163 inliers)",
   "pocket": false,
   "added": "2026-11-25"
+ },
+ "501-oshawott-1": {
+  "pokemon": "Oshawott",
+  "card_name": "Oshawott",
+  "listing_id": 4579407488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670978/501_Oshawhott_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 104,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-105 Oshawott (104 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "501-oshawott-2": {
+  "pokemon": "Oshawott",
+  "card_name": "Oshawott",
+  "listing_id": 4579407488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670982/501_Oshawhott_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 213,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: swshp-SWSH222 Oshawott (213 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "501-oshawott-3": {
+  "pokemon": "Oshawott",
+  "card_name": "Oshawott",
+  "listing_id": 4579407488,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670984/501_Oshawhott_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 243,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-021 Oshawott (243 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "502-dewott-1": {
+  "pokemon": "Dewott",
+  "card_name": "Dewott",
+  "listing_id": 4625948723,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670986/502_Dewott_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 165,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: swsh4-34 Dewott (165 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "502-dewott-2": {
+  "pokemon": "Dewott",
+  "card_name": "Dewott",
+  "listing_id": 4625948723,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670987/502_Dewott_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 168,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-106 Dewott (168 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "502-dewott-3": {
+  "pokemon": "Dewott",
+  "card_name": "Dewott",
+  "listing_id": 4625948723,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670989/502_Dewott_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-1": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670992/503_Samurott_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 30,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (top match sv10.5w-023 = frame/icon noise, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-2": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670994/503_Samurott_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-3": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott EX",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670995/503_Samurott_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-4": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott EX",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670997/503_Samurott_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 27,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-107 Samurott (27 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-shiny-1": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott EX Shiny",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670998/503_Samurott_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Shiny recolor of official artwork sv10.5w-107 (same art as 503-samurott-4, checked by eye)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "503-samurott-5": {
+  "pokemon": "Samurott",
+  "card_name": "Samurott",
+  "listing_id": 4605373986,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795671510/503_Samurott_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
  }
 }
