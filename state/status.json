@@ -1960,7 +1960,80 @@
   "done": "2026-11-26T02:31:24.080038+00:00"
  },
  "2026-11-26-r1": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r1.jpg",
+  "render": {
+   "duration": 14.6,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 109,
+    "root": 57,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.95,
+    "text": "Mega Tyranitar wakes up..."
+   },
+   {
+    "t0": 1.95,
+    "t1": 3.618,
+    "text": "and the mountains start to crumble."
+   },
+   {
+    "t0": 3.918,
+    "t1": 4.748,
+    "text": "Built by hand,"
+   },
+   {
+    "t0": 4.748,
+    "t1": 5.758,
+    "text": "holo that flashes,"
+   },
+   {
+    "t0": 5.758,
+    "t1": 7.132,
+    "text": "and real card size."
+   },
+   {
+    "t0": 7.392,
+    "t1": 8.682,
+    "text": "Any two cards or more"
+   },
+   {
+    "t0": 8.682,
+    "t1": 10.392,
+    "text": "take 25% off"
+   },
+   {
+    "t0": 10.392,
+    "t1": 11.733,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.033,
+    "t1": 13.569,
+    "text": "Grab it from the link in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-26T11:23:08.267322+00:00",
+  "render_seconds": 82
  },
  "2026-11-26-c1": {
   "attempts": 0
