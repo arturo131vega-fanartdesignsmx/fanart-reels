@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "502-dewott-2",
+  "name": "502_Dewott_2",
+  "pokemon": "Dewott",
+  "dex": 502,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670987/502_Dewott_2.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 10,
+  "ja": 2
+ },
+ "top": [
+  {
+   "id": "sv10.5w-106",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 168,
+   "set": "White Flare",
+   "illustrator": "Taira Akitsu",
+   "hp": 100,
+   "attacks": [
+    "Energized Shell"
+   ]
+  },
+  {
+   "id": "sv10.5w-022",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-042",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw1-29",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

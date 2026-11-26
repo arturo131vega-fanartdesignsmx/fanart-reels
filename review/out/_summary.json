@@ -1,273 +1,239 @@
 {
- "498-tepig-1": {
-  "name": "498_Tepig_1",
+ "501-oshawott-1": {
+  "name": "501_Oshawhott_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5w-096",
+   "id": "sv10.5w-105",
    "lang": "en",
-   "name": "Tepig",
+   "name": "Oshawott",
    "pocket": false,
-   "inliers": 160,
+   "inliers": 104,
    "set": "White Flare",
-   "illustrator": "Orca",
+   "illustrator": "OKACHEKE",
    "hp": 70,
    "attacks": [
     "Tackle",
-    "Rollout"
+    "Water Gun"
    ]
   },
   "official_cards_checked": 12,
   "lookup": {
    "en": 15,
-   "ja": 8
+   "ja": 3
   }
  },
- "498-tepig-2": {
-  "name": "498_Tepig_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv10.5w-011",
-   "lang": "en",
-   "name": "Tepig",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 15,
-   "ja": 8
-  }
- },
- "498-tepig-3": {
-  "name": "498_Tepig_3",
+ "501-oshawott-2": {
+  "name": "501_Oshawhott_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "bw11-25",
+   "id": "swshp-SWSH222",
    "lang": "en",
-   "name": "Tepig",
+   "name": "Oshawott",
    "pocket": false,
-   "inliers": 297,
-   "set": "Legendary Treasures",
-   "illustrator": "Kanako Eo",
+   "inliers": 213,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
    "hp": 70,
    "attacks": [
-    "Take Down"
+    "Beat"
    ]
   },
   "official_cards_checked": 12,
   "lookup": {
    "en": 15,
-   "ja": 8
+   "ja": 3
   }
  },
- "499-pignite-1": {
-  "name": "499_Pignite_1",
+ "501-oshawott-3": {
+  "name": "501_Oshawhott_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5w-097",
+   "id": "sv10.5w-021",
    "lang": "en",
-   "name": "Pignite",
+   "name": "Oshawott",
    "pocket": false,
-   "inliers": 87,
+   "inliers": 243,
    "set": "White Flare",
-   "illustrator": "Masa",
-   "hp": 110,
+   "illustrator": "rika",
+   "hp": 70,
    "attacks": [
-    "Combustion",
-    "Heat Crash"
+    "Tackle",
+    "Water Gun"
+   ]
+  },
+  "official_cards_checked": 12,
+  "lookup": {
+   "en": 15,
+   "ja": 3
+  }
+ },
+ "502-dewott-1": {
+  "name": "502_Dewott_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh4-34",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 165,
+   "set": "Vivid Voltage",
+   "illustrator": "Megumi Higuchi",
+   "hp": 90,
+   "attacks": [
+    "Water Gun",
+    "Aqua Wash"
    ]
   },
   "official_cards_checked": 9,
   "lookup": {
    "en": 10,
-   "ja": 7
+   "ja": 2
   }
  },
- "499-pignite-2": {
-  "name": "499_Pignite_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv10.5w-012",
-   "lang": "en",
-   "name": "Pignite",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 9,
-  "lookup": {
-   "en": 10,
-   "ja": 7
-  }
- },
- "499-pignite-3": {
-  "name": "499_Pignite_3",
+ "502-dewott-2": {
+  "name": "502_Dewott_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "bw11-26",
+   "id": "sv10.5w-106",
    "lang": "en",
-   "name": "Pignite",
+   "name": "Dewott",
    "pocket": false,
-   "inliers": 219,
-   "set": "Legendary Treasures",
-   "illustrator": "Kanako Eo",
+   "inliers": 168,
+   "set": "White Flare",
+   "illustrator": "Taira Akitsu",
    "hp": 100,
    "attacks": [
-    "Rollout",
-    "Flamethrower"
+    "Energized Shell"
    ]
   },
   "official_cards_checked": 9,
   "lookup": {
    "en": 10,
-   "ja": 7
+   "ja": 2
   }
  },
- "500-emboar-1": {
-  "name": "500_Emboar_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5w-098",
-   "lang": "en",
-   "name": "Emboar",
-   "pocket": false,
-   "inliers": 123,
-   "set": "White Flare",
-   "illustrator": "NC Empire",
-   "hp": 180,
-   "attacks": [
-    "Heat Crash"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 14,
-   "ja": 8
-  }
- },
- "500-emboar-2": {
-  "name": "500_Emboar_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sm12-33",
-   "lang": "en",
-   "name": "Emboar",
-   "pocket": false,
-   "inliers": 79,
-   "set": "Cosmic Eclipse",
-   "illustrator": "kawayoo",
-   "hp": 170,
-   "attacks": [
-    "Heat Blast"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 14,
-   "ja": 8
-  }
- },
- "500-emboar-3": {
-  "name": "500_Emboar_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "bw11-27",
-   "lang": "en",
-   "name": "Emboar",
-   "pocket": false,
-   "inliers": 412,
-   "set": "Legendary Treasures",
-   "illustrator": "Kanako Eo",
-   "hp": 150,
-   "attacks": [
-    "Heat Crash"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 14,
-   "ja": 8
-  }
- },
- "500-emboar-4": {
-  "name": "500_Emboar_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5w-013",
-   "lang": "en",
-   "name": "Emboar",
-   "pocket": false,
-   "inliers": 75,
-   "set": "White Flare",
-   "illustrator": "Teeziro",
-   "hp": 180,
-   "attacks": [
-    "Heat Crash"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 14,
-   "ja": 8
-  }
- },
- "500-emboar-5": {
-  "name": "500_Emboar_5",
+ "502-dewott-3": {
+  "name": "502_Dewott_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "xy9-14",
+   "id": "sv10.5w-106",
    "lang": "en",
-   "name": "Emboar EX",
+   "name": "Dewott",
    "pocket": false,
-   "inliers": 3
+   "inliers": 4
   },
-  "official_cards_checked": 13,
+  "official_cards_checked": 9,
   "lookup": {
-   "en": 14,
-   "ja": 8
+   "en": 10,
+   "ja": 2
   }
  },
- "500-emboar-shiny-1": {
-  "name": "500_Emboar_Shiny_1",
+ "503-samurott-1": {
+  "name": "503_Samurott_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5w-013",
+   "id": "sv10.5w-023",
    "lang": "en",
-   "name": "Emboar",
+   "name": "Samurott",
    "pocket": false,
-   "inliers": 66,
+   "inliers": 30,
    "set": "White Flare",
-   "illustrator": "Teeziro",
-   "hp": 180,
+   "illustrator": "rika",
+   "hp": 160,
    "attacks": [
-    "Heat Crash"
+    "Energized Slash"
    ]
   },
-  "official_cards_checked": 13,
+  "official_cards_checked": 26,
   "lookup": {
-   "en": 14,
-   "ja": 8
+   "en": 19,
+   "ja": 11
   }
  },
- "500-mega-emboar-1": {
-  "name": "500_Mega_Emboar_1",
+ "503-samurott-2": {
+  "name": "503_Samurott_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh4-35",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 8
+  },
+  "official_cards_checked": 26,
+  "lookup": {
+   "en": 19,
+   "ja": 11
+  }
+ },
+ "503-samurott-3": {
+  "name": "503_Samurott_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S9a-087",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 26,
+  "lookup": {
+   "en": 19,
+   "ja": 11
+  }
+ },
+ "503-samurott-4": {
+  "name": "503_Samurott_4",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me02.5-273",
+   "id": "sv10.5w-107",
    "lang": "en",
-   "name": "Mega Emboar ex",
+   "name": "Samurott",
    "pocket": false,
-   "inliers": 163,
-   "set": "Ascended Heroes",
-   "illustrator": "nagimiso",
-   "hp": 380,
+   "inliers": 27,
+   "set": "White Flare",
+   "illustrator": "DOM",
+   "hp": 160,
    "attacks": [
-    "Crimson Blast"
+    "Energized Slash"
    ]
   },
-  "official_cards_checked": 13,
+  "official_cards_checked": 26,
   "lookup": {
-   "en": 14,
-   "ja": 8
+   "en": 19,
+   "ja": 11
+  }
+ },
+ "503-samurott-shiny-1": {
+  "name": "503_Samurott_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bw1-32",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 26,
+  "lookup": {
+   "en": 19,
+   "ja": 11
+  }
+ },
+ "503-samurott-5": {
+  "name": "503_Samurott_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S9a-091",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 26,
+  "lookup": {
+   "en": 19,
+   "ja": 11
   }
  }
 }

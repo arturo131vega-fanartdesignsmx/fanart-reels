@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "501-oshawott-3",
+  "name": "501_Oshawhott_3",
+  "pokemon": "Oshawott",
+  "dex": 501,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670984/501_Oshawhott_3.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 15,
+  "ja": 3
+ },
+ "top": [
+  {
+   "id": "sv10.5w-021",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 243,
+   "set": "White Flare",
+   "illustrator": "rika",
+   "hp": 70,
+   "attacks": [
+    "Tackle",
+    "Water Gun"
+   ]
+  },
+  {
+   "id": "bwp-BW08",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw1-27",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-28",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

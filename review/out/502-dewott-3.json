@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "502-dewott-3",
+  "name": "502_Dewott_3",
+  "pokemon": "Dewott",
+  "dex": 502,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670989/502_Dewott_3.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 10,
+  "ja": 2
+ },
+ "top": [
+  {
+   "id": "sv10.5w-106",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw11-38",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv10.5w-022",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-29",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

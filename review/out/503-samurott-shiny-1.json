@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "503-samurott-shiny-1",
+  "name": "503_Samurott_Shiny_1",
+  "pokemon": "Samurott",
+  "dex": 503,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670998/503_Samurott_Shiny_1.jpg"
+ },
+ "official_cards_checked": 26,
+ "lookup": {
+  "en": 19,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "bw1-32",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swshp-SWSH207",
+   "lang": "en",
+   "name": "Hisuian Samurott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh10-176",
+   "lang": "en",
+   "name": "Hisuian Samurott V",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "swsh10-197",
+   "lang": "en",
+   "name": "Hisuian Samurott VSTAR",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

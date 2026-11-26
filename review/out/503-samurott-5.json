@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "503-samurott-5",
+  "name": "503_Samurott_5",
+  "pokemon": "Samurott",
+  "dex": 503,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795671510/503_Samurott_5.jpg"
+ },
+ "official_cards_checked": 26,
+ "lookup": {
+  "en": 19,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "S9a-091",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh4-35",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh10-100",
+   "lang": "en",
+   "name": "Hisuian Samurott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bwp-BW22",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

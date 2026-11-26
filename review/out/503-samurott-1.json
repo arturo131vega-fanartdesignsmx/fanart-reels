@@ -1,0 +1,69 @@
+{
+ "candidate": {
+  "key": "503-samurott-1",
+  "name": "503_Samurott_1",
+  "pokemon": "Samurott",
+  "dex": 503,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670992/503_Samurott_1.jpg"
+ },
+ "official_cards_checked": 26,
+ "lookup": {
+  "en": 19,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "sv10.5w-023",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 30,
+   "set": "White Flare",
+   "illustrator": "rika",
+   "hp": 160,
+   "attacks": [
+    "Energized Slash"
+   ]
+  },
+  {
+   "id": "swsh4-35",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 20,
+   "set": "Vivid Voltage",
+   "illustrator": "Shin Nagasawa",
+   "hp": 160,
+   "attacks": [
+    "Aqua Wash"
+   ]
+  },
+  {
+   "id": "bw7-41",
+   "lang": "en",
+   "name": "Samurott",
+   "pocket": false,
+   "inliers": 18,
+   "set": "Boundaries Crossed",
+   "illustrator": "match",
+   "hp": 140,
+   "attacks": [
+    "Waterfall",
+    "Destructive Whirlpool"
+   ]
+  },
+  {
+   "id": "swsh10-102",
+   "lang": "en",
+   "name": "Hisuian Samurott VSTAR",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Merciless Blade"
+   ]
+  }
+ ]
+}

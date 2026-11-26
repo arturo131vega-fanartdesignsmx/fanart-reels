@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "501-oshawott-2",
+  "name": "501_Oshawhott_2",
+  "pokemon": "Oshawott",
+  "dex": 501,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670982/501_Oshawhott_2.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 15,
+  "ja": 3
+ },
+ "top": [
+  {
+   "id": "swshp-SWSH222",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 213,
+   "set": "SWSH Black Star Promos",
+   "illustrator": null,
+   "hp": 70,
+   "attacks": [
+    "Beat"
+   ]
+  },
+  {
+   "id": "swsh4-33",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv10.5w-105",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv10.5w-021",
+   "lang": "en",
+   "name": "Oshawott",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

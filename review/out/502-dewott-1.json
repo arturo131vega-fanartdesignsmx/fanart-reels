@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "502-dewott-1",
+  "name": "502_Dewott_1",
+  "pokemon": "Dewott",
+  "dex": 502,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795670986/502_Dewott_1.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 10,
+  "ja": 2
+ },
+ "top": [
+  {
+   "id": "swsh4-34",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 165,
+   "set": "Vivid Voltage",
+   "illustrator": "Megumi Higuchi",
+   "hp": 90,
+   "attacks": [
+    "Water Gun",
+    "Aqua Wash"
+   ]
+  },
+  {
+   "id": "xy11-31",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "bw11-38",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh10-042",
+   "lang": "en",
+   "name": "Dewott",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}
