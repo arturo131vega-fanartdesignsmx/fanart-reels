@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "500-emboar-shiny-1",
+  "name": "500_Emboar_Shiny_1",
+  "pokemon": "Emboar",
+  "dex": 500,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653997/500_Emboar_Shiny_1.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv10.5w-013",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 66,
+   "set": "White Flare",
+   "illustrator": "Teeziro",
+   "hp": 180,
+   "attacks": [
+    "Heat Crash"
+   ]
+  },
+  {
+   "id": "bw7-26",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm12-33",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw4-100",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

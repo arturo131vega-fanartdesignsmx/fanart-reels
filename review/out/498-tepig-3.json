@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "498-tepig-3",
+  "name": "498_Tepig_3",
+  "pokemon": "Tepig",
+  "dex": 498,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653982/498_Tepig_3.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 15,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "bw11-25",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 297,
+   "set": "Legendary Treasures",
+   "illustrator": "Kanako Eo",
+   "hp": 70,
+   "attacks": [
+    "Take Down"
+   ]
+  },
+  {
+   "id": "bw1-16",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 9
+  },
+  {
+   "id": "sv10.5w-096",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bwp-BW07",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

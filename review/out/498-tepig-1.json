@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "498-tepig-1",
+  "name": "498_Tepig_1",
+  "pokemon": "Tepig",
+  "dex": 498,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653979/498_Tepig_1.jpg"
+ },
+ "official_cards_checked": 12,
+ "lookup": {
+  "en": 15,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv10.5w-096",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 160,
+   "set": "White Flare",
+   "illustrator": "Orca",
+   "hp": 70,
+   "attacks": [
+    "Tackle",
+    "Rollout"
+   ]
+  },
+  {
+   "id": "sv10.5w-011",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-15",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "bw1-16",
+   "lang": "en",
+   "name": "Tepig",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

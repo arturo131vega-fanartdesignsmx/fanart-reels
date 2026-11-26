@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "500-emboar-5",
+  "name": "500_Emboar_5",
+  "pokemon": "Emboar",
+  "dex": 500,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653995/500_Emboar_5.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "xy9-14",
+   "lang": "en",
+   "name": "Emboar EX",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "bw11-27",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm12-33",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "bwp-BW21",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}

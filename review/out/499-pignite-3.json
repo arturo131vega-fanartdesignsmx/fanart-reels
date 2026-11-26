@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "499-pignite-3",
+  "name": "499_Pignite_3",
+  "pokemon": "Pignite",
+  "dex": 499,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653988/499_Pignite_3.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 10,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "bw11-26",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 219,
+   "set": "Legendary Treasures",
+   "illustrator": "Kanako Eo",
+   "hp": 100,
+   "attacks": [
+    "Rollout",
+    "Flamethrower"
+   ]
+  },
+  {
+   "id": "sv10.5w-012",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm12-32",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw1-17",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

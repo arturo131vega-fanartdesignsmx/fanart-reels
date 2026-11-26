@@ -1,1705 +1,272 @@
 {
- "865-sirfetchd-3": {
-  "name": "865_Sirfetch_d_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh2-95",
-   "lang": "en",
-   "name": "Galarian Sirfetch'd",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 5,
-  "lookup": {
-   "en": 6,
-   "ja": 0
-  }
- },
- "865-sirfetchd-1": {
-  "name": "865_Sirfetch_d_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh6-79",
-   "lang": "en",
-   "name": "Galarian Sirfetch'd",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 5,
-  "lookup": {
-   "en": 6,
-   "ja": 0
-  }
- },
- "865-sirfetchd-2": {
-  "name": "865_Sirfetch_d_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh3-98",
-   "lang": "en",
-   "name": "Galarian Sirfetch'd",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 5,
-  "lookup": {
-   "en": 6,
-   "ja": 0
-  }
- },
- "865-sirfetchd-4": {
-  "name": "865_Sirfetch_d_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh2-95",
-   "lang": "en",
-   "name": "Galarian Sirfetch'd",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 5,
-  "lookup": {
-   "en": 6,
-   "ja": 0
-  }
- },
- "866-mr-rime-2": {
-  "name": "866_Mr._Rime_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh2-38",
-   "lang": "en",
-   "name": "Galarian Mr. Rime",
-   "pocket": false,
-   "inliers": 3
-  },
-  "official_cards_checked": 6,
-  "lookup": {
-   "en": 7,
-   "ja": 2
-  }
- },
- "866-mr-rime-1": {
-  "name": "866_Mr._Rime_1",
+ "498-tepig-1": {
+  "name": "498_Tepig_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swshp-SWSH079",
+   "id": "sv10.5w-096",
    "lang": "en",
-   "name": "Galarian Mr. Rime",
+   "name": "Tepig",
    "pocket": false,
-   "inliers": 92,
-   "set": "SWSH Black Star Promos",
-   "illustrator": "KEIICHIRO ITO",
-   "hp": 120,
-   "attacks": [
-    "Mad Party"
-   ]
-  },
-  "official_cards_checked": 6,
-  "lookup": {
-   "en": 7,
-   "ja": 2
-  }
- },
- "866-mr-rime-3": {
-  "name": "866_Mr._Rime_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh5-35",
-   "lang": "en",
-   "name": "Galarian Mr. Rime",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 6,
-  "lookup": {
-   "en": 7,
-   "ja": 2
-  }
- },
- "936-armarouge-1": {
-  "name": "936_Armarouge_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV1S-080",
-   "lang": "ja",
-   "name": "グレンアルマ",
-   "pocket": false,
-   "inliers": 94,
-   "set": "スカーレットex",
-   "illustrator": "nagimiso",
-   "hp": 130,
-   "attacks": [
-    "フレイムキャノン"
-   ]
-  },
-  "official_cards_checked": 19,
-  "lookup": {
-   "en": 15,
-   "ja": 10
-  }
- },
- "936-armarouge-5": {
-  "name": "936_Armarouge_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV4a-218",
-   "lang": "ja",
-   "name": "グレンアルマ",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 19,
-  "lookup": {
-   "en": 15,
-   "ja": 10
-  }
- },
- "936-armarouge-3": {
-  "name": "936_Armarouge_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me05-086",
-   "lang": "en",
-   "name": "Armarouge",
-   "pocket": false,
-   "inliers": 169,
-   "set": "Pitch Black",
-   "illustrator": "Iwamoto05",
-   "hp": 140,
-   "attacks": [
-    "Flame Legion"
-   ]
-  },
-  "official_cards_checked": 19,
-  "lookup": {
-   "en": 15,
-   "ja": 10
-  }
- },
- "936-armarouge-4": {
-  "name": "936_Armarouge_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv01-203",
-   "lang": "en",
-   "name": "Armarouge",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 19,
-  "lookup": {
-   "en": 15,
-   "ja": 10
-  }
- },
- "936-armarouge-2": {
-  "name": "936_Armarouge_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv03-044",
-   "lang": "en",
-   "name": "Armarouge",
-   "pocket": false,
-   "inliers": 167,
-   "set": "Obsidian Flames",
-   "illustrator": "Souichirou Gunjima",
-   "hp": 120,
-   "attacks": [
-    "Steam Artillery"
-   ]
-  },
-  "official_cards_checked": 19,
-  "lookup": {
-   "en": 15,
-   "ja": 10
-  }
- },
- "937-ceruledge-1": {
-  "name": "937_Ceruledge_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV2D-031",
-   "lang": "ja",
-   "name": "ソウブレイズ",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 10,
-   "ja": 10
-  }
- },
- "937-ceruledge-2": {
-  "name": "937_Ceruledge_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-197",
-   "lang": "en",
-   "name": "Ceruledge",
-   "pocket": false,
-   "inliers": 32,
-   "set": "Surging Sparks",
-   "illustrator": "Rond",
-   "hp": 140,
-   "attacks": [
-    "Cursed Edge",
-    "Black Blaze Slash"
-   ]
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 10,
-   "ja": 10
-  }
- },
- "937-ceruledge-3": {
-  "name": "937_Ceruledge_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "me02-020",
-   "lang": "en",
-   "name": "Ceruledge",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 10,
-   "ja": 10
-  }
- },
- "937-ceruledge-5": {
-  "name": "937_Ceruledge_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV4a-268",
-   "lang": "ja",
-   "name": "ソウブレイズ",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 10,
-   "ja": 10
-  }
- },
- "937-ceruledge-4": {
-  "name": "937_Ceruledge_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08-197",
-   "lang": "en",
-   "name": "Ceruledge",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 10,
-   "ja": 10
-  }
- },
- "909-fuecoco-1": {
-  "name": "909_Fuecoco_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-147",
-   "lang": "en",
-   "name": "Fuecoco ex",
-   "pocket": false,
-   "inliers": 107,
-   "set": "30th Celebration",
-   "illustrator": "Atsushi Furusawa",
-   "hp": 210,
-   "attacks": [
-    "Singe",
-    "Cheerful Flame"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 15,
-   "ja": 12
-  }
- },
- "909-fuecoco-2": {
-  "name": "909_Fuecoco_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV1a-078",
-   "lang": "ja",
-   "name": "ホゲータ",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 15,
-   "ja": 12
-  }
- },
- "909-fuecoco-3": {
-  "name": "909_Fuecoco_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08-029",
-   "lang": "en",
-   "name": "Fuecoco",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 15,
-   "ja": 12
-  }
- },
- "909-fuecoco-4": {
-  "name": "909_Fuecoco_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV8-017",
-   "lang": "ja",
-   "name": "ホゲータ",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 15,
-   "ja": 12
-  }
- },
- "909-fuecoco-5": {
-  "name": "909_Fuecoco_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv01-036",
-   "lang": "en",
-   "name": "Fuecoco",
-   "pocket": false,
-   "inliers": 117,
-   "set": "Scarlet & Violet",
-   "illustrator": "Akira Komayama",
-   "hp": 80,
-   "attacks": [
-    "Gnaw",
-    "Combustion"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 15,
-   "ja": 12
-  }
- },
- "980-clodsire-2": {
-  "name": "980_Clodsire_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2b-093",
-   "lang": "en",
-   "name": "Paldean Clodsire ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 12,
-   "ja": 5
-  }
- },
- "980-clodsire-5": {
-  "name": "980_Clodsire_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "A2b-048",
-   "lang": "en",
-   "name": "Paldean Clodsire ex",
-   "pocket": true,
-   "inliers": 0
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 12,
-   "ja": 5
-  }
- },
- "980-clodsire-4": {
-  "name": "980_Clodsire_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv04.5-059",
-   "lang": "en",
-   "name": "Paldean Clodsire ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 12,
-   "ja": 5
-  }
- },
- "980-clodsire-1": {
-  "name": "980_Clodsire_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV3-069",
-   "lang": "ja",
-   "name": "パルデア ドオー",
-   "pocket": false,
-   "inliers": 50,
-   "set": "黒炎の支配者",
-   "illustrator": "Shin Nagasawa",
-   "hp": 140,
-   "attacks": [
-    "とびちるどく",
-    "ベノムショック"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 12,
-   "ja": 5
-  }
- },
- "980-clodsire-3": {
-  "name": "980_Clodsire_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A2b-085",
-   "lang": "en",
-   "name": "Paldean Clodsire ex",
-   "pocket": true,
-   "inliers": 50,
-   "set": "Shining Revelry",
-   "illustrator": "PLANETA Igarashi",
-   "hp": 160,
-   "attacks": [
-    "Venoshock"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 12,
-   "ja": 5
-  }
- },
- "495-snivy-1": {
-  "name": "495_Snivy_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-087",
-   "lang": "en",
-   "name": "Snivy",
-   "pocket": false,
-   "inliers": 377,
-   "set": "Black Bolt",
-   "illustrator": "Yoshimi Miyoshi",
+   "inliers": 160,
+   "set": "White Flare",
+   "illustrator": "Orca",
    "hp": 70,
    "attacks": [
     "Tackle",
-    "Vine Whip"
+    "Rollout"
    ]
   },
-  "official_cards_checked": 16,
+  "official_cards_checked": 12,
   "lookup": {
-   "en": 20,
-   "ja": 9
+   "en": 15,
+   "ja": 8
   }
  },
- "495-snivy-2": {
-  "name": "495_Snivy_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-001",
-   "lang": "en",
-   "name": "Snivy",
-   "pocket": false,
-   "inliers": 224,
-   "set": "Black Bolt",
-   "illustrator": "Susumu Maeya",
-   "hp": 70,
-   "attacks": [
-    "Tackle",
-    "Vine Whip"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 20,
-   "ja": 9
-  }
- },
- "495-snivy-3": {
-  "name": "495_Snivy_3",
+ "498-tepig-2": {
+  "name": "498_Tepig_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "bw7-11",
+   "id": "sv10.5w-011",
    "lang": "en",
-   "name": "Snivy",
-   "pocket": false,
-   "inliers": 3
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 20,
-   "ja": 9
-  }
- },
- "496-servine-1": {
-  "name": "496_Servine_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-088",
-   "lang": "en",
-   "name": "Servine",
-   "pocket": false,
-   "inliers": 135,
-   "set": "Black Bolt",
-   "illustrator": "Jiro Sasumo",
-   "hp": 100,
-   "attacks": [
-    "Wrap",
-    "Vine Whip"
-   ]
-  },
-  "official_cards_checked": 10,
-  "lookup": {
-   "en": 11,
-   "ja": 4
-  }
- },
- "496-servine-2": {
-  "name": "496_Servine_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-002",
-   "lang": "en",
-   "name": "Servine",
-   "pocket": false,
-   "inliers": 221,
-   "set": "Black Bolt",
-   "illustrator": "Susumu Maeya",
-   "hp": 100,
-   "attacks": [
-    "Wrap",
-    "Vine Whip"
-   ]
-  },
-  "official_cards_checked": 10,
-  "lookup": {
-   "en": 11,
-   "ja": 4
-  }
- },
- "496-servine-3": {
-  "name": "496_Servine_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv10.5b-002",
-   "lang": "en",
-   "name": "Servine",
+   "name": "Tepig",
    "pocket": false,
    "inliers": 0
   },
-  "official_cards_checked": 10,
+  "official_cards_checked": 12,
   "lookup": {
-   "en": 11,
-   "ja": 4
+   "en": 15,
+   "ja": 8
   }
  },
- "497-serperior-5": {
-  "name": "497_Serperior_5",
+ "498-tepig-3": {
+  "name": "498_Tepig_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5b-164",
+   "id": "bw11-25",
    "lang": "en",
-   "name": "Serperior ex",
+   "name": "Tepig",
    "pocket": false,
-   "inliers": 81,
-   "set": "Black Bolt",
-   "illustrator": "Ryota Murayama",
-   "hp": 320,
+   "inliers": 297,
+   "set": "Legendary Treasures",
+   "illustrator": "Kanako Eo",
+   "hp": 70,
    "attacks": [
-    "Command the Grass"
+    "Take Down"
    ]
   },
-  "official_cards_checked": 25,
+  "official_cards_checked": 12,
   "lookup": {
-   "en": 21,
-   "ja": 11
+   "en": 15,
+   "ja": 8
   }
  },
- "497-serperior-4": {
-  "name": "497_Serperior_4",
+ "499-pignite-1": {
+  "name": "499_Pignite_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "S11a-084",
-   "lang": "ja",
-   "name": "ジャローダV",
-   "pocket": false,
-   "inliers": 100,
-   "set": "白熱のアルカナ",
-   "illustrator": "Teeziro",
-   "hp": 210,
-   "attacks": [
-    "けだかいひかり",
-    "ソーラービーム"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-6": {
-  "name": "497_Serperior_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh12-008",
+   "id": "sv10.5w-097",
    "lang": "en",
-   "name": "Serperior VSTAR",
+   "name": "Pignite",
    "pocket": false,
-   "inliers": 41,
-   "set": "Silver Tempest",
-   "illustrator": "PLANETA Mochizuki",
-   "hp": 270,
-   "attacks": [
-    "Regal Blender",
-    "Star Winder"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-shiny-1": {
-  "name": "497_Serperior_Shiny_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-164",
-   "lang": "en",
-   "name": "Serperior ex",
-   "pocket": false,
-   "inliers": 54,
-   "set": "Black Bolt",
-   "illustrator": "Ryota Murayama",
-   "hp": 320,
-   "attacks": [
-    "Command the Grass"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-3": {
-  "name": "497_Serperior_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bw1-6",
-   "lang": "en",
-   "name": "Serperior",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-1": {
-  "name": "497_Serperior_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1a-070",
-   "lang": "en",
-   "name": "Serperior",
-   "pocket": true,
-   "inliers": 337,
-   "set": "Mythical Island",
-   "illustrator": "rika",
+   "inliers": 87,
+   "set": "White Flare",
+   "illustrator": "Masa",
    "hp": 110,
    "attacks": [
-    "Solar Beam"
+    "Combustion",
+    "Heat Crash"
    ]
   },
-  "official_cards_checked": 25,
+  "official_cards_checked": 9,
   "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-2": {
-  "name": "497_Serperior_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "swsh12-170",
-   "lang": "en",
-   "name": "Serperior V",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-serperior-7": {
-  "name": "497_Serperior_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5b-156",
-   "lang": "en",
-   "name": "Serperior ex",
-   "pocket": false,
-   "inliers": 30,
-   "set": "Black Bolt",
-   "illustrator": "N-DESIGN Inc.",
-   "hp": 320,
-   "attacks": [
-    "Command the Grass"
-   ]
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "497-mega-serperior-1": {
-  "name": "497_Mega_Serperior_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S11a-084",
-   "lang": "ja",
-   "name": "ジャローダV",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 25,
-  "lookup": {
-   "en": 21,
-   "ja": 11
-  }
- },
- "984-great-tusk-2": {
-  "name": "984_Great_Tusk_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv01-246",
-   "lang": "en",
-   "name": "Great Tusk ex",
-   "pocket": false,
-   "inliers": 9
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "984-great-tusk-1": {
-  "name": "984_Great_Tusk_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV5K-042",
-   "lang": "ja",
-   "name": "イダイナキバ",
-   "pocket": false,
-   "inliers": 107,
-   "set": "ワイルドフォース",
-   "illustrator": "GIDORA",
-   "hp": 140,
-   "attacks": [
-    "じばんほうかい",
-    "きょだいなキバ"
-   ]
-  },
-  "official_cards_checked": 15,
-  "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "985-scream-tail-1": {
-  "name": "985_Scream_Tail_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV4K-071",
-   "lang": "ja",
-   "name": "サケブシッポ",
-   "pocket": false,
-   "inliers": 164,
-   "set": "古代の咆哮",
-   "illustrator": "GIDORA",
-   "hp": 90,
-   "attacks": [
-    "ビンタ",
-    "ほえさけぶ"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
+   "en": 10,
    "ja": 7
   }
  },
- "985-scream-tail-2": {
-  "name": "985_Scream_Tail_2",
+ "499-pignite-2": {
+  "name": "499_Pignite_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sv08.5-042",
+   "id": "sv10.5w-012",
    "lang": "en",
-   "name": "Scream Tail",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 7
-  }
- },
- "985-scream-tail-3": {
-  "name": "985_Scream_Tail_3",
-  "verdict": "POSSIBLE",
-  "best": {
-   "id": "sv06-094",
-   "lang": "en",
-   "name": "Scream Tail ex",
-   "pocket": false,
-   "inliers": 22,
-   "set": "Twilight Masquerade",
-   "illustrator": "akagi",
-   "hp": 190,
-   "attacks": [
-    "Scream",
-    "Crunch"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 7
-  }
- },
- "987-flutter-mane-2": {
-  "name": "987_Flutter_Mane_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-043",
-   "lang": "en",
-   "name": "Flutter Mane",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 8,
-  "lookup": {
-   "en": 4,
-   "ja": 7
-  }
- },
- "987-flutter-mane-1": {
-  "name": "987_Flutter_Mane_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV5K-076",
-   "lang": "ja",
-   "name": "ハバタクカミ",
-   "pocket": false,
-   "inliers": 34,
-   "set": "ワイルドフォース",
-   "illustrator": "Takumi Wada",
-   "hp": 90,
-   "attacks": [
-    "たたりとばす"
-   ]
-  },
-  "official_cards_checked": 8,
-  "lookup": {
-   "en": 4,
-   "ja": 7
-  }
- },
- "987-flutter-mane-3": {
-  "name": "987_Flutter_Mane_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-043",
-   "lang": "en",
-   "name": "Flutter Mane",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 8,
-  "lookup": {
-   "en": 4,
-   "ja": 7
-  }
- },
- "987-flutter-mane-4": {
-  "name": "987_Flutter_Mane_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-043",
-   "lang": "en",
-   "name": "Flutter Mane",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 8,
-  "lookup": {
-   "en": 4,
-   "ja": 7
-  }
- },
- "989-sandy-shocks-1": {
-  "name": "989_Sandy_Shocks_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-056",
-   "lang": "en",
-   "name": "Sandy Shocks ex",
+   "name": "Pignite",
    "pocket": false,
    "inliers": 0
   },
-  "official_cards_checked": 11,
+  "official_cards_checked": 9,
   "lookup": {
-   "en": 6,
-   "ja": 6
+   "en": 10,
+   "ja": 7
   }
  },
- "989-sandy-shocks-2": {
-  "name": "989_Sandy_Shocks_2",
+ "499-pignite-3": {
+  "name": "499_Pignite_3",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "SV4K-089",
-   "lang": "ja",
-   "name": "スナノケガワex",
-   "pocket": false,
-   "inliers": 207,
-   "set": "古代の咆哮",
-   "illustrator": "Toshinao Aoki",
-   "hp": 220,
-   "attacks": [
-    "グラウンドスパイク"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "989-sandy-shocks-3": {
-  "name": "989_Sandy_Shocks_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-098",
+   "id": "bw11-26",
    "lang": "en",
-   "name": "Sandy Shocks",
+   "name": "Pignite",
    "pocket": false,
-   "inliers": 68,
-   "set": "Temporal Forces",
-   "illustrator": "DOM",
-   "hp": 120,
-   "attacks": [
-    "Magnetic Burst",
-    "Power Gem"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "1005-roaring-moon-5": {
-  "name": "1005_Roaring_Moon_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08.5-162",
-   "lang": "en",
-   "name": "Roaring Moon ex",
-   "pocket": false,
-   "inliers": 81,
-   "set": "Prismatic Evolutions",
-   "illustrator": "Shinji Kanda",
-   "hp": 230,
-   "attacks": [
-    "Frenzied Gouging",
-    "Calamity Storm"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 9,
-   "ja": 8
-  }
- },
- "1005-roaring-moon-4": {
-  "name": "1005_Roaring_Moon_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV4K-090",
-   "lang": "ja",
-   "name": "トドロクツキex",
-   "pocket": false,
-   "inliers": 125,
-   "set": "古代の咆哮",
-   "illustrator": "Ryota Murayama",
-   "hp": 230,
-   "attacks": [
-    "くるいえぐる",
-    "カラミティストーム"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 9,
-   "ja": 8
-  }
- },
- "1005-roaring-moon-2": {
-  "name": "1005_Roaring_Moon_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV8a-100",
-   "lang": "ja",
-   "name": "トドロクツキ",
-   "pocket": false,
-   "inliers": 101,
-   "set": "テラスタルフェスex",
-   "illustrator": "hncl",
-   "hp": 140,
-   "attacks": [
-    "あだうちやばね",
-    "スピードウイング"
-   ]
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 9,
-   "ja": 8
-  }
- },
- "1005-roaring-moon-1": {
-  "name": "1005_Roaring_Moon_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-065",
-   "lang": "en",
-   "name": "Roaring Moon",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 9,
-   "ja": 8
-  }
- },
- "1005-roaring-moon-3": {
-  "name": "1005_Roaring_Moon_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv05-109",
-   "lang": "en",
-   "name": "Roaring Moon",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 16,
-  "lookup": {
-   "en": 9,
-   "ja": 8
-  }
- },
- "1009-walking-wake-3": {
-  "name": "1009_Walking_Wake_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-205",
-   "lang": "en",
-   "name": "Walking Wake ex",
-   "pocket": false,
-   "inliers": 71,
-   "set": "Temporal Forces",
-   "illustrator": "Teeziro",
-   "hp": 220,
-   "attacks": [
-    "Catharsis Roar"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 9
-  }
- },
- "1009-walking-wake-2": {
-  "name": "1009_Walking_Wake_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-178",
-   "lang": "en",
-   "name": "Walking Wake ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 9
-  }
- },
- "1009-walking-wake-shiny-1": {
-  "name": "1009_Walking_Wake_Shiny",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-205",
-   "lang": "en",
-   "name": "Walking Wake ex",
-   "pocket": false,
-   "inliers": 49,
-   "set": "Temporal Forces",
-   "illustrator": "Teeziro",
-   "hp": 220,
-   "attacks": [
-    "Catharsis Roar"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 9
-  }
- },
- "1009-walking-wake-1": {
-  "name": "1009_Walking_Wake_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV5a-026",
-   "lang": "ja",
-   "name": "ウネルミナモ",
-   "pocket": false,
-   "inliers": 3
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 9
-  }
- },
- "1020-gouging-fire-3": {
-  "name": "1020_Gouging_Fire_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-204",
-   "lang": "en",
-   "name": "Gouging Fire ex",
-   "pocket": false,
-   "inliers": 109,
-   "set": "Temporal Forces",
-   "illustrator": "Teeziro",
-   "hp": 230,
-   "attacks": [
-    "Heat Blast",
-    "Blaze Blitz"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1020-gouging-fire-2": {
-  "name": "1020_Gouging_Fire_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08-038",
-   "lang": "en",
-   "name": "Gouging Fire",
-   "pocket": false,
-   "inliers": 43,
-   "set": "Surging Sparks",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 130,
-   "attacks": [
-    "Lunge Out",
-    "Blazing Charge"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1020-gouging-fire-shiny-1": {
-  "name": "1020_Gouging_Fire_Shiny",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-204",
-   "lang": "en",
-   "name": "Gouging Fire ex",
-   "pocket": false,
-   "inliers": 78,
-   "set": "Temporal Forces",
-   "illustrator": "Teeziro",
-   "hp": 230,
-   "attacks": [
-    "Heat Blast",
-    "Blaze Blitz"
-   ]
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1020-gouging-fire-1": {
-  "name": "1020_Gouging_Fire_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv05-188",
-   "lang": "en",
-   "name": "Gouging Fire ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 13,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1021-raging-bolt-3": {
-  "name": "1021_Raging_Bolt_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV5K-095",
-   "lang": "ja",
-   "name": "タケルライコex",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1021-raging-bolt-2": {
-  "name": "1021_Raging_Bolt_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv05-218",
-   "lang": "en",
-   "name": "Raging Bolt ex",
-   "pocket": false,
-   "inliers": 9
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1021-raging-bolt-shiny-1": {
-  "name": "1021_Raging_Bolt_Shiny",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv05-218",
-   "lang": "en",
-   "name": "Raging Bolt ex",
-   "pocket": false,
-   "inliers": 8
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "1021-raging-bolt-1": {
-  "name": "1021_Raging_Bolt_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08.5-166",
-   "lang": "en",
-   "name": "Raging Bolt ex",
-   "pocket": false,
-   "inliers": 73,
-   "set": "Prismatic Evolutions",
-   "illustrator": "Uninori",
-   "hp": 240,
-   "attacks": [
-    "Burst Roar",
-    "Bellowing Thunder"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 7,
-   "ja": 8
-  }
- },
- "990-iron-treads-3": {
-  "name": "990_Iron_Treads_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv01-248",
-   "lang": "en",
-   "name": "Iron Treads ex",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "990-iron-treads-2": {
-  "name": "990_Iron_Treads_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV4a-333",
-   "lang": "ja",
-   "name": "テツノワダチex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "990-iron-treads-1": {
-  "name": "990_Iron_Treads_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV8a-116",
-   "lang": "ja",
-   "name": "テツノワダチ",
-   "pocket": false,
-   "inliers": 47,
-   "set": "テラスタルフェスex",
-   "illustrator": "Tonji Matsuno",
-   "hp": 130,
-   "attacks": [
-    "パスホイール"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "991-iron-bundle-2": {
-  "name": "991_Iron_Bundle_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV8a-047",
-   "lang": "ja",
-   "name": "テツノツツミ",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 10,
-  "lookup": {
-   "en": 5,
-   "ja": 6
-  }
- },
- "991-iron-bundle-1": {
-  "name": "991_Iron_Bundle_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-058",
-   "lang": "en",
-   "name": "Iron Bundle",
-   "pocket": false,
-   "inliers": 32,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Lee HyunJung",
+   "inliers": 219,
+   "set": "Legendary Treasures",
+   "illustrator": "Kanako Eo",
    "hp": 100,
    "attacks": [
-    "Refrigerated Stream"
-   ]
-  },
-  "official_cards_checked": 10,
-  "lookup": {
-   "en": 5,
-   "ja": 6
-  }
- },
- "991-iron-bundle-3": {
-  "name": "991_Iron_Bundle_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV8-031",
-   "lang": "ja",
-   "name": "テツノツツミ",
-   "pocket": false,
-   "inliers": 49,
-   "set": "超電ブレイカー",
-   "illustrator": "rika",
-   "hp": 100,
-   "attacks": [
-    "ガストコリジョン 200-"
-   ]
-  },
-  "official_cards_checked": 10,
-  "lookup": {
-   "en": 5,
-   "ja": 6
-  }
- },
- "992-iron-hands-1": {
-  "name": "992_Iron_Hands_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv04-248",
-   "lang": "en",
-   "name": "Iron Hands ex",
-   "pocket": false,
-   "inliers": 218,
-   "set": "Paradox Rift",
-   "illustrator": "Toshinao Aoki",
-   "hp": 230,
-   "attacks": [
-    "Arm Press",
-    "Amp You Very Much"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "992-iron-hands-2": {
-  "name": "992_Iron_Hands_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-154",
-   "lang": "en",
-   "name": "Iron Hands ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "992-iron-hands-3": {
-  "name": "992_Iron_Hands_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-061",
-   "lang": "en",
-   "name": "Iron Hands",
-   "pocket": false,
-   "inliers": 116,
-   "set": "Temporal Forces",
-   "illustrator": "Souichirou Gunjima",
-   "hp": 140,
-   "attacks": [
-    "Volt Wave",
-    "Superalloy Hands"
-   ]
-  },
-  "official_cards_checked": 11,
-  "lookup": {
-   "en": 6,
-   "ja": 6
-  }
- },
- "995-iron-thorns-1": {
-  "name": "995_Iron_Thorns_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-098",
-   "lang": "en",
-   "name": "Iron Thorns",
-   "pocket": false,
-   "inliers": 48,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Tonji Matsuno",
-   "hp": 140,
-   "attacks": [
-    "Destructo-Press",
-    "Megaton Lariat"
+    "Rollout",
+    "Flamethrower"
    ]
   },
   "official_cards_checked": 9,
   "lookup": {
-   "en": 5,
+   "en": 10,
+   "ja": 7
+  }
+ },
+ "500-emboar-1": {
+  "name": "500_Emboar_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5w-098",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 123,
+   "set": "White Flare",
+   "illustrator": "NC Empire",
+   "hp": 180,
+   "attacks": [
+    "Heat Crash"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
    "ja": 8
   }
  },
- "995-iron-thorns-2": {
-  "name": "995_Iron_Thorns_2",
+ "500-emboar-2": {
+  "name": "500_Emboar_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sm12-33",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 79,
+   "set": "Cosmic Eclipse",
+   "illustrator": "kawayoo",
+   "hp": 170,
+   "attacks": [
+    "Heat Blast"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 8
+  }
+ },
+ "500-emboar-3": {
+  "name": "500_Emboar_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "bw11-27",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 412,
+   "set": "Legendary Treasures",
+   "illustrator": "Kanako Eo",
+   "hp": 150,
+   "attacks": [
+    "Heat Crash"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 8
+  }
+ },
+ "500-emboar-4": {
+  "name": "500_Emboar_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5w-013",
+   "lang": "en",
+   "name": "Emboar",
+   "pocket": false,
+   "inliers": 75,
+   "set": "White Flare",
+   "illustrator": "Teeziro",
+   "hp": 180,
+   "attacks": [
+    "Heat Crash"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 8
+  }
+ },
+ "500-emboar-5": {
+  "name": "500_Emboar_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sv06-077",
+   "id": "xy9-14",
    "lang": "en",
-   "name": "Iron Thorns ex",
+   "name": "Emboar EX",
    "pocket": false,
    "inliers": 3
   },
-  "official_cards_checked": 9,
+  "official_cards_checked": 13,
   "lookup": {
-   "en": 5,
+   "en": 14,
    "ja": 8
   }
  },
- "1006-iron-valiant-5": {
-  "name": "1006_Iron_Valiant_5",
+ "500-emboar-shiny-1": {
+  "name": "500_Emboar_Shiny_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv04-249",
+   "id": "sv10.5w-013",
    "lang": "en",
-   "name": "Iron Valiant ex",
+   "name": "Emboar",
    "pocket": false,
-   "inliers": 52,
-   "set": "Paradox Rift",
-   "illustrator": "kantaro",
-   "hp": 220,
+   "inliers": 66,
+   "set": "White Flare",
+   "illustrator": "Teeziro",
+   "hp": 180,
    "attacks": [
-    "Laser Blade"
+    "Heat Crash"
    ]
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 13,
   "lookup": {
-   "en": 8,
+   "en": 14,
    "ja": 8
   }
  },
- "1006-iron-valiant-4": {
-  "name": "1006_Iron_Valiant_4",
+ "500-mega-emboar-1": {
+  "name": "500_Mega_Emboar_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv05-080",
+   "id": "me02.5-273",
    "lang": "en",
-   "name": "Iron Valiant",
+   "name": "Mega Emboar ex",
    "pocket": false,
-   "inliers": 40,
-   "set": "Temporal Forces",
-   "illustrator": "chibi",
-   "hp": 130,
+   "inliers": 163,
+   "set": "Ascended Heroes",
+   "illustrator": "nagimiso",
+   "hp": 380,
    "attacks": [
-    "Calculation",
-    "Majestic Sword"
+    "Crimson Blast"
    ]
   },
-  "official_cards_checked": 14,
+  "official_cards_checked": 13,
   "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "1006-iron-valiant-3": {
-  "name": "1006_Iron_Valiant_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv08.5-157",
-   "lang": "en",
-   "name": "Iron Valiant ex",
-   "pocket": false,
-   "inliers": 43,
-   "set": "Prismatic Evolutions",
-   "illustrator": "danciao",
-   "hp": 220,
-   "attacks": [
-    "Laser Blade"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "1006-iron-valiant-1": {
-  "name": "1006_Iron_Valiant_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv08.5-157",
-   "lang": "en",
-   "name": "Iron Valiant ex",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "1006-iron-valiant-2": {
-  "name": "1006_Iron_Valiant_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv05-079",
-   "lang": "en",
-   "name": "Iron Valiant",
-   "pocket": false,
-   "inliers": 33,
-   "set": "Temporal Forces",
-   "illustrator": "takuyoa",
-   "hp": 130,
-   "attacks": [
-    "Gemini Laser",
-    "Zen Blade"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 8,
-   "ja": 8
-  }
- },
- "1006-iron-valiant-6": {
-  "name": "1006_Iron_Valiant_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv04-261",
-   "lang": "en",
-   "name": "Iron Valiant ex",
-   "pocket": false,
-   "inliers": 35,
-   "set": "Paradox Rift",
-   "illustrator": "aky CG Works",
-   "hp": 220,
-   "attacks": [
-    "Laser Blade"
-   ]
-  },
-  "official_cards_checked": 14,
-  "lookup": {
-   "en": 8,
+   "en": 14,
    "ja": 8
   }
  }

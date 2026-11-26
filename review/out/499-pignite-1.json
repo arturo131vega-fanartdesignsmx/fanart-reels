@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "499-pignite-1",
+  "name": "499_Pignite_1",
+  "pokemon": "Pignite",
+  "dex": 499,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653984/499_Pignite_1.jpg"
+ },
+ "official_cards_checked": 9,
+ "lookup": {
+  "en": 10,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv10.5w-097",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 87,
+   "set": "White Flare",
+   "illustrator": "Masa",
+   "hp": 110,
+   "attacks": [
+    "Combustion",
+    "Heat Crash"
+   ]
+  },
+  {
+   "id": "bw7-25",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv10.5w-012",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm12-32",
+   "lang": "en",
+   "name": "Pignite",
+   "pocket": false,
+   "inliers": 3
+  }
+ ]
+}
