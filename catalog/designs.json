@@ -10491,5 +10491,213 @@
   "reason": "Official artwork: sv04-261 Iron Valiant ex (35 inliers)",
   "pocket": false,
   "added": "2026-11-25"
+ },
+ "498-tepig-1": {
+  "pokemon": "Tepig",
+  "card_name": "Tepig",
+  "listing_id": 4625825993,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653979/498_Tepig_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 160,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-096 Tepig (160 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "498-tepig-2": {
+  "pokemon": "Tepig",
+  "card_name": "Tepig",
+  "listing_id": 4625825993,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653980/498_Tepig_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; TCG Pocket card text (Energy Zone)",
+  "pocket": true,
+  "added": "2026-11-25"
+ },
+ "498-tepig-3": {
+  "pokemon": "Tepig",
+  "card_name": "Tepig",
+  "listing_id": 4625825993,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653982/498_Tepig_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 297,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: bw11-25 Tepig (297 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "499-pignite-1": {
+  "pokemon": "Pignite",
+  "card_name": "Pignite",
+  "listing_id": 4625834834,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653984/499_Pignite_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 87,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-097 Pignite (87 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "499-pignite-2": {
+  "pokemon": "Pignite",
+  "card_name": "Pignite",
+  "listing_id": 4625834834,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653986/499_Pignite_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "499-pignite-3": {
+  "pokemon": "Pignite",
+  "card_name": "Pignite",
+  "listing_id": 4625834834,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653988/499_Pignite_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 219,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: bw11-26 Pignite (219 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-1": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653989/500_Emboar_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 123,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-098 Emboar (123 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-2": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653991/500_Emboar_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 79,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sm12-33 Emboar (79 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-3": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653992/500_Emboar_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 412,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: bw11-27 Emboar (412 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-4": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653994/500_Emboar_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 75,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-013 Emboar (75 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-5": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653995/500_Emboar_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-emboar-shiny-1": {
+  "pokemon": "Emboar",
+  "card_name": "Emboar Shiny",
+  "listing_id": 4625826143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653997/500_Emboar_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 66,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: sv10.5w-013 Emboar (66 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
+ },
+ "500-mega-emboar-1": {
+  "pokemon": "Emboar",
+  "card_name": "Mega Emboar",
+  "listing_id": 4625834976,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653998/500_Mega_Emboar_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 163,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: me02.5-273 Mega Emboar ex (163 inliers)",
+  "pocket": false,
+  "added": "2026-11-25"
  }
 }
