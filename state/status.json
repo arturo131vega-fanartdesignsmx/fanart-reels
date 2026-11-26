@@ -1863,10 +1863,92 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Giratina EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18155483206543269",
+   "permalink": "https://www.instagram.com/p/DgLxMbNkiA1/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122122509075449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122122509075449530"
+  },
+  "done": "2026-11-26T00:01:13.499729+00:00"
  },
  "2026-11-25-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-25_2026-11-25-r3.jpg",
+  "render": {
+   "duration": 14.733333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 123,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 2.32,
+    "text": "Victini EX brings the victory..."
+   },
+   {
+    "t0": 2.32,
+    "t1": 3.823,
+    "text": "and it fits right in your hand."
+   },
+   {
+    "t0": 4.123,
+    "t1": 5.183,
+    "text": "Crafted by hand,"
+   },
+   {
+    "t0": 5.183,
+    "t1": 6.503,
+    "text": "holographic all over,"
+   },
+   {
+    "t0": 6.503,
+    "t1": 7.828,
+    "text": "in real card size."
+   },
+   {
+    "t0": 8.088,
+    "t1": 9.328,
+    "text": "Two cards or more?"
+   },
+   {
+    "t0": 9.328,
+    "t1": 10.618,
+    "text": "25% off"
+   },
+   {
+    "t0": 10.618,
+    "t1": 11.904,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.204,
+    "t1": 13.732,
+    "text": "Tap the link in my bio."
+   }
+  ],
+  "rendered_at": "2026-11-26T00:02:54.785297+00:00",
+  "render_seconds": 101
  },
  "2026-11-26-r1": {
   "attempts": 0
