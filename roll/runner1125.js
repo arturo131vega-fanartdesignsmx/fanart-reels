@@ -112,6 +112,20 @@
     return true;
   }
   async function moveTo(h, id, target) {
+    try { return await moveTo0(h, id, target); }
+    catch (e) {
+      if (!/move stuck/.test(String(e && e.message))) throw e;
+      // fallback: push the tiles in front of it to the right, one at a time, so it slides left
+      for (let guard = 0; guard < 12; guard++) {
+        const ids = h.ids(); const j = ids.indexOf(String(id));
+        if (j === target) return;
+        if (j < target) throw e;
+        await moveTo0(h, ids[target], j);
+      }
+      throw e;
+    }
+  }
+  async function moveTo0(h, id, target) {
     let tries = 0, lastJ = -1, still = 0, waits = 0;
     while (true) {
       const ids = h.ids(); const j = ids.indexOf(String(id));
