@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "503-samurott-hisui-2",
+  "name": "503_Samurott_Hisui_2",
+  "pokemon": "Hisuian Samurott",
+  "dex": 503,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795673954/503_Samurott_Hisui_2.jpg"
+ },
+ "official_cards_checked": 17,
+ "lookup": {
+  "en": 10,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh10-100",
+   "lang": "en",
+   "name": "Hisuian Samurott",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh10-101",
+   "lang": "en",
+   "name": "Hisuian Samurott V",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh10-102",
+   "lang": "en",
+   "name": "Hisuian Samurott VSTAR",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "swsh10-176",
+   "lang": "en",
+   "name": "Hisuian Samurott V",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

@@ -1,238 +1,101 @@
 {
- "501-oshawott-1": {
-  "name": "501_Oshawhott_1",
+ "503-samurott-hisui-1": {
+  "name": "503_Samurott_Hisui_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5w-105",
-   "lang": "en",
-   "name": "Oshawott",
+   "id": "S12a-229",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキV",
    "pocket": false,
-   "inliers": 104,
-   "set": "White Flare",
-   "illustrator": "OKACHEKE",
-   "hp": 70,
+   "inliers": 123,
+   "set": "VSTARユニバース",
+   "illustrator": "kodama",
+   "hp": 220,
    "attacks": [
-    "Tackle",
-    "Water Gun"
+    "つづらおとし",
+    "シャドースラッシュ"
    ]
   },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 15,
-   "ja": 3
-  }
- },
- "501-oshawott-2": {
-  "name": "501_Oshawhott_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swshp-SWSH222",
-   "lang": "en",
-   "name": "Oshawott",
-   "pocket": false,
-   "inliers": 213,
-   "set": "SWSH Black Star Promos",
-   "illustrator": null,
-   "hp": 70,
-   "attacks": [
-    "Beat"
-   ]
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 15,
-   "ja": 3
-  }
- },
- "501-oshawott-3": {
-  "name": "501_Oshawhott_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5w-021",
-   "lang": "en",
-   "name": "Oshawott",
-   "pocket": false,
-   "inliers": 243,
-   "set": "White Flare",
-   "illustrator": "rika",
-   "hp": 70,
-   "attacks": [
-    "Tackle",
-    "Water Gun"
-   ]
-  },
-  "official_cards_checked": 12,
-  "lookup": {
-   "en": 15,
-   "ja": 3
-  }
- },
- "502-dewott-1": {
-  "name": "502_Dewott_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh4-34",
-   "lang": "en",
-   "name": "Dewott",
-   "pocket": false,
-   "inliers": 165,
-   "set": "Vivid Voltage",
-   "illustrator": "Megumi Higuchi",
-   "hp": 90,
-   "attacks": [
-    "Water Gun",
-    "Aqua Wash"
-   ]
-  },
-  "official_cards_checked": 9,
+  "official_cards_checked": 17,
   "lookup": {
    "en": 10,
-   "ja": 2
-  }
- },
- "502-dewott-2": {
-  "name": "502_Dewott_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5w-106",
-   "lang": "en",
-   "name": "Dewott",
-   "pocket": false,
-   "inliers": 168,
-   "set": "White Flare",
-   "illustrator": "Taira Akitsu",
-   "hp": 100,
-   "attacks": [
-    "Energized Shell"
-   ]
-  },
-  "official_cards_checked": 9,
-  "lookup": {
-   "en": 10,
-   "ja": 2
-  }
- },
- "502-dewott-3": {
-  "name": "502_Dewott_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sv10.5w-106",
-   "lang": "en",
-   "name": "Dewott",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 9,
-  "lookup": {
-   "en": 10,
-   "ja": 2
-  }
- },
- "503-samurott-1": {
-  "name": "503_Samurott_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "sv10.5w-023",
-   "lang": "en",
-   "name": "Samurott",
-   "pocket": false,
-   "inliers": 30,
-   "set": "White Flare",
-   "illustrator": "rika",
-   "hp": 160,
-   "attacks": [
-    "Energized Slash"
-   ]
-  },
-  "official_cards_checked": 26,
-  "lookup": {
-   "en": 19,
    "ja": 11
   }
  },
- "503-samurott-2": {
-  "name": "503_Samurott_2",
+ "503-samurott-hisui-2": {
+  "name": "503_Samurott_Hisui_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh4-35",
+   "id": "swsh10-100",
    "lang": "en",
-   "name": "Samurott",
+   "name": "Hisuian Samurott",
    "pocket": false,
-   "inliers": 8
+   "inliers": 0
   },
-  "official_cards_checked": 26,
+  "official_cards_checked": 17,
   "lookup": {
-   "en": 19,
+   "en": 10,
    "ja": 11
   }
  },
- "503-samurott-3": {
-  "name": "503_Samurott_3",
-  "verdict": "NO_ART_MATCH",
+ "503-samurott-hisui-3": {
+  "name": "503_Samurott_Hisui_3",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "S9a-087",
+   "id": "S12a-230",
    "lang": "ja",
    "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 116,
+   "set": "VSTARユニバース",
+   "illustrator": "Shibuzoh.",
+   "hp": 270,
+   "attacks": [
+    "むじひなやいば"
+   ]
+  },
+  "official_cards_checked": 17,
+  "lookup": {
+   "en": 10,
+   "ja": 11
+  }
+ },
+ "503-samurott-hisui-4": {
+  "name": "503_Samurott_Hisui_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S12a-086",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキV",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 26,
+  "official_cards_checked": 17,
   "lookup": {
-   "en": 19,
+   "en": 10,
    "ja": 11
   }
  },
- "503-samurott-4": {
-  "name": "503_Samurott_4",
+ "503-samurott-hisui-shiny-1": {
+  "name": "503_Samurott_Hisui_Shiny_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "sv10.5w-107",
-   "lang": "en",
-   "name": "Samurott",
+   "id": "S12a-229",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキV",
    "pocket": false,
-   "inliers": 27,
-   "set": "White Flare",
-   "illustrator": "DOM",
-   "hp": 160,
+   "inliers": 40,
+   "set": "VSTARユニバース",
+   "illustrator": "kodama",
+   "hp": 220,
    "attacks": [
-    "Energized Slash"
+    "つづらおとし",
+    "シャドースラッシュ"
    ]
   },
-  "official_cards_checked": 26,
+  "official_cards_checked": 17,
   "lookup": {
-   "en": 19,
-   "ja": 11
-  }
- },
- "503-samurott-shiny-1": {
-  "name": "503_Samurott_Shiny_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bw1-32",
-   "lang": "en",
-   "name": "Samurott",
-   "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 26,
-  "lookup": {
-   "en": 19,
-   "ja": 11
-  }
- },
- "503-samurott-5": {
-  "name": "503_Samurott_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S9a-091",
-   "lang": "ja",
-   "name": "ヒスイ ダイケンキVSTAR",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 26,
-  "lookup": {
-   "en": 19,
+   "en": 10,
    "ja": 11
   }
  }

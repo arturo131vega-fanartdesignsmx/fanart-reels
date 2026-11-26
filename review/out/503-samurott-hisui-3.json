@@ -1,0 +1,62 @@
+{
+ "candidate": {
+  "key": "503-samurott-hisui-3",
+  "name": "503_Samurott_Hisui_3",
+  "pokemon": "Hisuian Samurott",
+  "dex": 503,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795673956/503_Samurott_Hisui_3.jpg"
+ },
+ "official_cards_checked": 17,
+ "lookup": {
+  "en": 10,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "S12a-230",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 116,
+   "set": "VSTARユニバース",
+   "illustrator": "Shibuzoh.",
+   "hp": 270,
+   "attacks": [
+    "むじひなやいば"
+   ]
+  },
+  {
+   "id": "swsh10-197",
+   "lang": "en",
+   "name": "Hisuian Samurott VSTAR",
+   "pocket": false,
+   "inliers": 35,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Merciless Blade"
+   ]
+  },
+  {
+   "id": "swsh10-209",
+   "lang": "en",
+   "name": "Hisuian Samurott VSTAR",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Astral Radiance",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Merciless Blade"
+   ]
+  },
+  {
+   "id": "S9a-087",
+   "lang": "ja",
+   "name": "ヒスイ ダイケンキVSTAR",
+   "pocket": false,
+   "inliers": 10
+  }
+ ]
+}
