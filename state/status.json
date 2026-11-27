@@ -2181,9 +2181,96 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Mega Mewtwo Y EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "18149240203571602",
+   "permalink": "https://www.instagram.com/p/DgOV_tjDae4/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122123131041449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122123131041449530"
+  },
+  "done": "2026-11-27T00:01:19.103936+00:00"
  },
  "2026-11-26-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-26_2026-11-26-r3.jpg",
+  "render": {
+   "duration": 16.8,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 109,
+    "root": 61,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.11,
+    "text": "Mega Salamence"
+   },
+   {
+    "t0": 1.11,
+    "t1": 3.46,
+    "text": "was once a Bagon dreaming of wings..."
+   },
+   {
+    "t0": 3.46,
+    "t1": 4.376,
+    "text": "now look at it."
+   },
+   {
+    "t0": 4.676,
+    "t1": 6.066,
+    "text": "Handmade one at a time,"
+   },
+   {
+    "t0": 6.066,
+    "t1": 7.046,
+    "text": "rainbow holo,"
+   },
+   {
+    "t0": 7.046,
+    "t1": 8.355,
+    "text": "real card size."
+   },
+   {
+    "t0": 8.615,
+    "t1": 10.075,
+    "text": "Pair it with another card"
+   },
+   {
+    "t0": 10.075,
+    "t1": 11.735,
+    "text": "and save 25%"
+   },
+   {
+    "t0": 11.735,
+    "t1": 13.402,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 13.702,
+    "t1": 15.787,
+    "text": "Tap my bio before it flies off!"
+   }
+  ],
+  "rendered_at": "2026-11-27T00:02:30.772757+00:00",
+  "render_seconds": 72
  }
 }
