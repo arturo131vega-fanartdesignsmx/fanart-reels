@@ -3540,7 +3540,9 @@
   "listing_id": 4553590826,
   "design_label": "Design 5",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_6.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 5,
@@ -3574,7 +3576,9 @@
   "listing_id": 4605351097,
   "design_label": "Design 3",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Dialga_9.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 4,
@@ -3778,7 +3782,9 @@
   "listing_id": 4553590412,
   "design_label": "Design 3",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_6.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 6,
@@ -3829,7 +3835,9 @@
   "listing_id": 4553590412,
   "design_label": "Design 6",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/483_Origin_Forme_Dialga_8.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 4,
@@ -9758,10 +9766,12 @@
  },
  "984-great-tusk-2": {
   "pokemon": "Great Tusk",
-  "card_name": "Great Tusk",
+  "card_name": "Great Tusk EX",
   "listing_id": 4625720291,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641798/984_Great_Tusk_2.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 9,
@@ -10382,10 +10392,12 @@
  },
  "995-iron-thorns-2": {
   "pokemon": "Iron Thorns",
-  "card_name": "Iron Thorns",
+  "card_name": "Iron Thorns EX",
   "listing_id": 4625734974,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641866/995_Iron_Thorns_2.jpg",
-  "used": [],
+  "used": [
+   "2026-11-27"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 3,
@@ -10969,6 +10981,320 @@
   },
   "verdict": "rejected",
   "reason": "Official artwork: S12a-229 ヒスイ ダイケンキV (40 inliers)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-1": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_1.jpg",
+  "used": [
+   "2026-11-27"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-2": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 91,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Flygon me02-101 illustration rare (91 inliers, same art crop by eye)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-3": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-4": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 80,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the regular Flygon me02-053 (80 inliers; art box only on the physical card); extended art allowed",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-5": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official in TCGdex; name + ability/attack (Sand Slammer, Dragon Pulse, HP 180) = TCG Pocket Flygon ex (Pulsing Aura B3-126/188/201, set missing in TCGdex)",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "330-flygon-6": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_6.jpg",
+  "used": [
+   "2026-11-27"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-7": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-8": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_8.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-9": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_9.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 3,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official in TCGdex; name + ability/attack (Sand Slammer, Dragon Pulse, HP 180) = TCG Pocket Flygon ex (Pulsing Aura B3, set missing in TCGdex)",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "330-flygon-10": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_10.jpg",
+  "used": [
+   "2026-11-27"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-11": {
+  "pokemon": "Flygon",
+  "card_name": "Flygon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_11.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-flygon-shiny": {
+  "pokemon": "Flygon",
+  "card_name": "Shiny Flygon EX",
+  "listing_id": 4553619070,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_Shiny.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Flygon 9; name + ability/attack = TCG Pocket Flygon ex (Pulsing Aura B3)",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "330-flygon-tera": {
+  "pokemon": "Flygon",
+  "card_name": "Tera Flygon EX",
+  "listing_id": 4553619070,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 112,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: SV7a-079 フライゴンex (112 inliers); also shows an official-style set number",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "330-mega-flygon-1": {
+  "pokemon": "Flygon",
+  "card_name": "Mega Flygon EX",
+  "listing_id": 4543748642,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Mega_Flygon_1.jpg",
+  "used": [
+   "2026-11-27"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 32,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official (32 inliers to me02-053 are only frame/text noise; checked by eye, different artwork)",
+  "pocket": false,
+  "added": "2026-11-26"
+ },
+ "143-snorlax-1": {
+  "pokemon": "Snorlax",
+  "card_name": "Snorlax",
+  "listing_id": 4543746556,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 148
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A1-250, 148 inliers), not a physical card",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "143-snorlax-2": {
+  "pokemon": "Snorlax",
+  "card_name": "Snorlax",
+  "listing_id": 4543746556,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; name + attacks (Massive Body, Mega Punch) appear to be a TCG Pocket Snorlax (Everyday Wonders), treated as pocket",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "143-snorlax-3": {
+  "pokemon": "Snorlax",
+  "card_name": "Snorlax EX",
+  "listing_id": 4543746556,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 95
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (P-A-049, 95 inliers; physical max 7); name + attacks = Pocket Snorlax ex (Full-Mouth Manner, Flop-Down Punch)",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "143-snorlax-4": {
+  "pokemon": "Snorlax",
+  "card_name": "Snorlax EX",
+  "listing_id": 4543746556,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_4.jpg",
+  "used": [
+   "2026-11-27"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 6
+  },
+  "verdict": "approved",
+  "reason": "Artwork not official; attack Flop-Down Punch = TCG Pocket Snorlax ex, treated as pocket",
+  "pocket": true,
+  "added": "2026-11-26"
+ },
+ "143-snorlax-vmax": {
+  "pokemon": "Snorlax",
+  "card_name": "Snorlax VMAX",
+  "listing_id": 4543746556,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_VMAX.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 36,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Snorlax VMAX swsh1-142 (36 inliers, same art by eye); also shows an official-style set number",
   "pocket": false,
   "added": "2026-11-26"
  }
