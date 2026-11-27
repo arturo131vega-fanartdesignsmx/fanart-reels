@@ -1,102 +1,349 @@
 {
- "503-samurott-hisui-1": {
-  "name": "503_Samurott_Hisui_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-229",
-   "lang": "ja",
-   "name": "ヒスイ ダイケンキV",
-   "pocket": false,
-   "inliers": 123,
-   "set": "VSTARユニバース",
-   "illustrator": "kodama",
-   "hp": 220,
-   "attacks": [
-    "つづらおとし",
-    "シャドースラッシュ"
-   ]
-  },
-  "official_cards_checked": 17,
-  "lookup": {
-   "en": 10,
-   "ja": 11
-  }
- },
- "503-samurott-hisui-2": {
-  "name": "503_Samurott_Hisui_2",
+ "330-flygon-1": {
+  "name": "330_Flygon_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh10-100",
+   "id": "xy5-110",
    "lang": "en",
-   "name": "Hisuian Samurott",
-   "pocket": false,
-   "inliers": 0
-  },
-  "official_cards_checked": 17,
-  "lookup": {
-   "en": 10,
-   "ja": 11
-  }
- },
- "503-samurott-hisui-3": {
-  "name": "503_Samurott_Hisui_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S12a-230",
-   "lang": "ja",
-   "name": "ヒスイ ダイケンキVSTAR",
-   "pocket": false,
-   "inliers": 116,
-   "set": "VSTARユニバース",
-   "illustrator": "Shibuzoh.",
-   "hp": 270,
-   "attacks": [
-    "むじひなやいば"
-   ]
-  },
-  "official_cards_checked": 17,
-  "lookup": {
-   "en": 10,
-   "ja": 11
-  }
- },
- "503-samurott-hisui-4": {
-  "name": "503_Samurott_Hisui_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "S12a-086",
-   "lang": "ja",
-   "name": "ヒスイ ダイケンキV",
+   "name": "Flygon",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 17,
+  "official_cards_checked": 31,
   "lookup": {
-   "en": 10,
+   "en": 29,
    "ja": 11
   }
  },
- "503-samurott-hisui-shiny-1": {
-  "name": "503_Samurott_Hisui_Shiny_1",
+ "330-flygon-2": {
+  "name": "330_Flygon_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "S12a-229",
-   "lang": "ja",
-   "name": "ヒスイ ダイケンキV",
+   "id": "me02-101",
+   "lang": "en",
+   "name": "Flygon",
    "pocket": false,
-   "inliers": 40,
-   "set": "VSTARユニバース",
-   "illustrator": "kodama",
-   "hp": 220,
+   "inliers": 91,
+   "set": "Phantasmal Flames",
+   "illustrator": "Ryota Murayama",
+   "hp": 150,
    "attacks": [
-    "つづらおとし",
-    "シャドースラッシュ"
+    "Cutting Wind"
    ]
   },
-  "official_cards_checked": 17,
+  "official_cards_checked": 31,
   "lookup": {
-   "en": 10,
+   "en": 29,
    "ja": 11
+  }
+ },
+ "330-flygon-3": {
+  "name": "330_Flygon_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pl2-5",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-4": {
+  "name": "330_Flygon_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me02-053",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 80,
+   "set": "Phantasmal Flames",
+   "illustrator": "Jerky",
+   "hp": 150,
+   "attacks": [
+    "Cutting Wind"
+   ]
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-5": {
+  "name": "330_Flygon_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "pop4-3",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-6": {
+  "name": "330_Flygon_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "ex3-15",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-7": {
+  "name": "330_Flygon_7",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh9-106",
+   "lang": "en",
+   "name": "Flygon V",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-8": {
+  "name": "330_Flygon_8",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp3-5",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-9": {
+  "name": "330_Flygon_9",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "dp3-5",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 3
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-10": {
+  "name": "330_Flygon_10",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "bwp-BW53",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-11": {
+  "name": "330_Flygon_11",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh3-91",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-shiny": {
+  "name": "330_Flygon_Shiny",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh9-106",
+   "lang": "en",
+   "name": "Flygon V",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-flygon-tera": {
+  "name": "330_Flygon_Tera",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV7a-079",
+   "lang": "ja",
+   "name": "フライゴンex",
+   "pocket": false,
+   "inliers": 112,
+   "set": "楽園ドラゴーナ",
+   "illustrator": "5ban Graphics",
+   "hp": 310,
+   "attacks": [
+    "ストームバック",
+    "ペリドットソニック"
+   ]
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "330-mega-flygon-1": {
+  "name": "330_Mega_Flygon_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me02-053",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Phantasmal Flames",
+   "illustrator": "Jerky",
+   "hp": 150,
+   "attacks": [
+    "Cutting Wind"
+   ]
+  },
+  "official_cards_checked": 31,
+  "lookup": {
+   "en": 29,
+   "ja": 11
+  }
+ },
+ "143-snorlax-1": {
+  "name": "143_Snorlax_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A1-250",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": true,
+   "inliers": 148,
+   "set": "Genetic Apex",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 150,
+   "attacks": [
+    "Rollout"
+   ]
+  },
+  "official_cards_checked": 72,
+  "lookup": {
+   "en": 65,
+   "ja": 22
+  }
+ },
+ "143-snorlax-2": {
+  "name": "143_Snorlax_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh6-224",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 72,
+  "lookup": {
+   "en": 65,
+   "ja": 22
+  }
+ },
+ "143-snorlax-3": {
+  "name": "143_Snorlax_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "P-A-049",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": true,
+   "inliers": 95,
+   "set": "Promos-A",
+   "illustrator": "okayamatakatoshi",
+   "hp": 140,
+   "attacks": [
+    "Collapse"
+   ]
+  },
+  "official_cards_checked": 72,
+  "lookup": {
+   "en": 65,
+   "ja": 22
+  }
+ },
+ "143-snorlax-4": {
+  "name": "143_Snorlax_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh1-141",
+   "lang": "en",
+   "name": "Snorlax V",
+   "pocket": false,
+   "inliers": 6
+  },
+  "official_cards_checked": 72,
+  "lookup": {
+   "en": 65,
+   "ja": 22
+  }
+ },
+ "143-snorlax-vmax": {
+  "name": "143_Snorlax_VMAX",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh1-142",
+   "lang": "en",
+   "name": "Snorlax VMAX",
+   "pocket": false,
+   "inliers": 36,
+   "set": "Sword & Shield",
+   "illustrator": "aky CG Works",
+   "hp": 340,
+   "attacks": [
+    "G-Max Fall"
+   ]
+  },
+  "official_cards_checked": 72,
+  "lookup": {
+   "en": 65,
+   "ja": 22
   }
  }
 }

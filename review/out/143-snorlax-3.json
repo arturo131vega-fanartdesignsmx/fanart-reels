@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "143-snorlax-3",
+  "name": "143_Snorlax_3",
+  "pokemon": "Snorlax",
+  "dex": 143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_3.jpg"
+ },
+ "official_cards_checked": 72,
+ "lookup": {
+  "en": 65,
+  "ja": 22
+ },
+ "top": [
+  {
+   "id": "P-A-049",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": true,
+   "inliers": 95,
+   "set": "Promos-A",
+   "illustrator": "okayamatakatoshi",
+   "hp": 140,
+   "attacks": [
+    "Collapse"
+   ]
+  },
+  {
+   "id": "swsh11-143",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "pl2-33",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv06-136",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

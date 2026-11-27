@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "143-snorlax-1",
+  "name": "143_Snorlax_1",
+  "pokemon": "Snorlax",
+  "dex": 143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_1.jpg"
+ },
+ "official_cards_checked": 72,
+ "lookup": {
+  "en": 65,
+  "ja": 22
+ },
+ "top": [
+  {
+   "id": "A1-250",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": true,
+   "inliers": 148,
+   "set": "Genetic Apex",
+   "illustrator": "HYOGONOSUKE",
+   "hp": 150,
+   "attacks": [
+    "Rollout"
+   ]
+  },
+  {
+   "id": "ex15-10",
+   "lang": "en",
+   "name": "Snorlax δ",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "base2-11",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "ex6-15",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

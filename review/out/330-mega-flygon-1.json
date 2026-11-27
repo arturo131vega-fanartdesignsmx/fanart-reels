@@ -1,0 +1,71 @@
+{
+ "candidate": {
+  "key": "330-mega-flygon-1",
+  "name": "330_Mega_Flygon_1",
+  "pokemon": "Flygon",
+  "dex": 330,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Mega_Flygon_1.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 29,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "me02-053",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Phantasmal Flames",
+   "illustrator": "Jerky",
+   "hp": 150,
+   "attacks": [
+    "Cutting Wind"
+   ]
+  },
+  {
+   "id": "sm12-218",
+   "lang": "en",
+   "name": "Flygon GX",
+   "pocket": false,
+   "inliers": 27,
+   "set": "Cosmic Eclipse",
+   "illustrator": "PLANETA Tsuji",
+   "hp": 240,
+   "attacks": [
+    "Desert Hurricane",
+    "Sonic Edge GX"
+   ]
+  },
+  {
+   "id": "sm12-110",
+   "lang": "en",
+   "name": "Flygon GX",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Cosmic Eclipse",
+   "illustrator": "5ban Graphics",
+   "hp": 240,
+   "attacks": [
+    "Desert Hurricane",
+    "Sonic Edge GX"
+   ]
+  },
+  {
+   "id": "sm12-256",
+   "lang": "en",
+   "name": "Flygon GX",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Cosmic Eclipse",
+   "illustrator": "PLANETA Tsuji",
+   "hp": 240,
+   "attacks": [
+    "Desert Hurricane",
+    "Sonic Edge GX"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "143-snorlax-2",
+  "name": "143_Snorlax_2",
+  "pokemon": "Snorlax",
+  "dex": 143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_2.jpg"
+ },
+ "official_cards_checked": 72,
+ "lookup": {
+  "en": 65,
+  "ja": 22
+ },
+ "top": [
+  {
+   "id": "swsh6-224",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "dp1-37",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "bw7-109",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SVLN-010",
+   "lang": "ja",
+   "name": "カビゴン",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

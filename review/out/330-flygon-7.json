@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "330-flygon-7",
+  "name": "330_Flygon_7",
+  "pokemon": "Flygon",
+  "dex": 330,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_7.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 29,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "swsh9-106",
+   "lang": "en",
+   "name": "Flygon V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sm12-256",
+   "lang": "en",
+   "name": "Flygon GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "np-25",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV7a-027",
+   "lang": "ja",
+   "name": "フライゴンex",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

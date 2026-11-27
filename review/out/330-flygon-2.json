@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "330-flygon-2",
+  "name": "330_Flygon_2",
+  "pokemon": "Flygon",
+  "dex": 330,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/330_Flygon_2.jpg"
+ },
+ "official_cards_checked": 31,
+ "lookup": {
+  "en": 29,
+  "ja": 11
+ },
+ "top": [
+  {
+   "id": "me02-101",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 91,
+   "set": "Phantasmal Flames",
+   "illustrator": "Ryota Murayama",
+   "hp": 150,
+   "attacks": [
+    "Cutting Wind"
+   ]
+  },
+  {
+   "id": "pop4-3",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh9-164",
+   "lang": "en",
+   "name": "Flygon V",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh3-91",
+   "lang": "en",
+   "name": "Flygon",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

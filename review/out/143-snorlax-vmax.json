@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "143-snorlax-vmax",
+  "name": "143_Snorlax_VMAX",
+  "pokemon": "Snorlax",
+  "dex": 143,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/143_Snorlax_VMAX.jpg"
+ },
+ "official_cards_checked": 72,
+ "lookup": {
+  "en": 65,
+  "ja": 22
+ },
+ "top": [
+  {
+   "id": "swsh1-142",
+   "lang": "en",
+   "name": "Snorlax VMAX",
+   "pocket": false,
+   "inliers": 36,
+   "set": "Sword & Shield",
+   "illustrator": "aky CG Works",
+   "hp": 340,
+   "attacks": [
+    "G-Max Fall"
+   ]
+  },
+  {
+   "id": "xy2-80",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 8
+  },
+  {
+   "id": "gym1-33",
+   "lang": "en",
+   "name": "Rocket's Snorlax",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm115-50",
+   "lang": "en",
+   "name": "Snorlax",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
