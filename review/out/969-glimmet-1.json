@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "969-glimmet-1",
+  "name": "969_Glimmet_1",
+  "pokemon": "Glimmet",
+  "dex": 969,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810194/969_Glimmet_1.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv03-122",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 98,
+   "set": "Obsidian Flames",
+   "illustrator": "GIDORA",
+   "hp": 70,
+   "attacks": [
+    "Poison Shard"
+   ]
+  },
+  {
+   "id": "SV3-064",
+   "lang": "ja",
+   "name": "キラーメ",
+   "pocket": false,
+   "inliers": 91,
+   "set": "黒炎の支配者",
+   "illustrator": "GIDORA",
+   "hp": 70,
+   "attacks": [
+    "どくのはへん"
+   ]
+  },
+  {
+   "id": "sv08-114",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV3-063",
+   "lang": "ja",
+   "name": "キラーメ",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

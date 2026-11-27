@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "561-sigilyph-3",
+  "name": "561_Sigilyph_3",
+  "pokemon": "Sigilyph",
+  "dex": 561,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810172/561_Sigilyph_3.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 19,
+  "ja": 13
+ },
+ "top": [
+  {
+   "id": "swsh8-123",
+   "lang": "en",
+   "name": "Sigilyph",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S9-051",
+   "lang": "ja",
+   "name": "シンボラー",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm8-98",
+   "lang": "en",
+   "name": "Sigilyph GX",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sm8-202",
+   "lang": "en",
+   "name": "Sigilyph GX",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

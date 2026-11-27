@@ -1,0 +1,72 @@
+{
+ "candidate": {
+  "key": "561-sigilyph-5",
+  "name": "561_Sigilyph_5",
+  "pokemon": "Sigilyph",
+  "dex": 561,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810175/561_Sigilyph_5.jpg"
+ },
+ "official_cards_checked": 23,
+ "lookup": {
+  "en": 19,
+  "ja": 13
+ },
+ "top": [
+  {
+   "id": "sv10.5w-038",
+   "lang": "en",
+   "name": "Sigilyph",
+   "pocket": false,
+   "inliers": 128,
+   "set": "White Flare",
+   "illustrator": "Krgc",
+   "hp": 120,
+   "attacks": [
+    "Reflect",
+    "Telekinesis"
+   ]
+  },
+  {
+   "id": "sm8-98",
+   "lang": "en",
+   "name": "Sigilyph GX",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Lost Thunder",
+   "illustrator": "PLANETA Otani",
+   "hp": 170,
+   "attacks": [
+    "Sonic Wing",
+    "Intercept GX"
+   ]
+  },
+  {
+   "id": "sm8-202",
+   "lang": "en",
+   "name": "Sigilyph GX",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Lost Thunder",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 170,
+   "attacks": [
+    "Sonic Wing",
+    "Intercept GX"
+   ]
+  },
+  {
+   "id": "sm8-222",
+   "lang": "en",
+   "name": "Sigilyph GX",
+   "pocket": false,
+   "inliers": 13,
+   "set": "Lost Thunder",
+   "illustrator": "PLANETA Igarashi",
+   "hp": 170,
+   "attacks": [
+    "Sonic Wing",
+    "Intercept GX"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "candidate": {
+  "key": "970-glimmora-2",
+  "name": "970_Glimmora_2",
+  "pokemon": "Glimmora",
+  "dex": 970,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810199/970_Glimmora_2.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 6,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "SV8-068",
+   "lang": "ja",
+   "name": "キラフロル",
+   "pocket": false,
+   "inliers": 46,
+   "set": "超電ブレイカー",
+   "illustrator": "takashi shiraishi",
+   "hp": 130,
+   "attacks": [
+    "むしばむはへん",
+    "いわおとし"
+   ]
+  },
+  {
+   "id": "sv08-115",
+   "lang": "en",
+   "name": "Glimmora",
+   "pocket": false,
+   "inliers": 38,
+   "set": "Surging Sparks",
+   "illustrator": "takashi shiraishi",
+   "hp": 130,
+   "attacks": [
+    "Corrosive Shards",
+    "Rock Throw"
+   ]
+  },
+  {
+   "id": "sv04.5-218",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 30,
+   "set": "Paldean Fates",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  },
+  {
+   "id": "sv03-123",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Obsidian Flames",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  }
+ ]
+}

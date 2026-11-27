@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "141-kabutops-3",
+  "name": "141_Kabutops_3",
+  "pokemon": "Kabutops",
+  "dex": 141,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810156/141_Kabutops_3.jpg"
+ },
+ "official_cards_checked": 20,
+ "lookup": {
+  "en": 20,
+  "ja": 3
+ },
+ "top": [
+  {
+   "id": "base3-9",
+   "lang": "en",
+   "name": "Kabutops",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A1-159",
+   "lang": "en",
+   "name": "Kabutops",
+   "pocket": true,
+   "inliers": 3
+  },
+  {
+   "id": "ecard3-14",
+   "lang": "en",
+   "name": "Kabutops",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "pl4-4",
+   "lang": "en",
+   "name": "Kabutops",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

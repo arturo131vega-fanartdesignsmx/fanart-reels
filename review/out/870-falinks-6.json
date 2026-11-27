@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "870-falinks-6",
+  "name": "870_Falinks_6",
+  "pokemon": "Falinks",
+  "dex": 870,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810191/870_Falinks_6.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV1a-051",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "swsh5-83",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "swsh2-109",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv07-088",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

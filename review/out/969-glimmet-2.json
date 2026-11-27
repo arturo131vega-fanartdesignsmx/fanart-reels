@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "969-glimmet-2",
+  "name": "969_Glimmet_2",
+  "pokemon": "Glimmet",
+  "dex": 969,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810195/969_Glimmet_2.jpg"
+ },
+ "official_cards_checked": 15,
+ "lookup": {
+  "en": 7,
+  "ja": 8
+ },
+ "top": [
+  {
+   "id": "sv03-121",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv02-125",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV2P-042",
+   "lang": "ja",
+   "name": "キラーメ",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV2P-043",
+   "lang": "ja",
+   "name": "キラーメ",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

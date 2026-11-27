@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "447-riolu-5",
+  "name": "447_Riolu_5",
+  "pokemon": "Riolu",
+  "dex": 447,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810166/447_Riolu_5.jpg"
+ },
+ "official_cards_checked": 42,
+ "lookup": {
+  "en": 38,
+  "ja": 21
+ },
+ "top": [
+  {
+   "id": "sm5-66",
+   "lang": "en",
+   "name": "Riolu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv07-081",
+   "lang": "en",
+   "name": "Riolu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "pl1-91",
+   "lang": "en",
+   "name": "Riolu",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv08.5-050",
+   "lang": "en",
+   "name": "Riolu",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

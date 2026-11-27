@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "870-falinks-2",
+  "name": "870_Falinks_2",
+  "pokemon": "Falinks",
+  "dex": 870,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810185/870_Falinks_2.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "swsh5-83",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 109,
+   "set": "Battle Styles",
+   "illustrator": "Hasuno",
+   "hp": 110,
+   "attacks": [
+    "Rapid Strike Squad"
+   ]
+  },
+  {
+   "id": "SV1a-051",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh11-110",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh2-110",
+   "lang": "en",
+   "name": "Falinks V",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

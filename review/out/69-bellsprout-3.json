@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "69-bellsprout-3",
+  "name": "69_Bellsprout_3",
+  "pokemon": "Bellsprout",
+  "dex": 69,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810158/69_Bellsprout_3.jpg"
+ },
+ "official_cards_checked": 21,
+ "lookup": {
+  "en": 20,
+  "ja": 10
+ },
+ "top": [
+  {
+   "id": "swsh5-1",
+   "lang": "en",
+   "name": "Bellsprout",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm7-1",
+   "lang": "en",
+   "name": "Bellsprout",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "sm2-1",
+   "lang": "en",
+   "name": "Bellsprout",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "xy3-1",
+   "lang": "en",
+   "name": "Bellsprout",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

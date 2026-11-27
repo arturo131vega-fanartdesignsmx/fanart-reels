@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "870-falinks-1",
+  "name": "870_Falinks_1",
+  "pokemon": "Falinks",
+  "dex": 870,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810183/870_Falinks_1.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "B2-092",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": true,
+   "inliers": 21,
+   "set": "Fantastical Parade",
+   "illustrator": "Yuu Nishida",
+   "hp": 70,
+   "attacks": [
+    "Invade"
+   ]
+  },
+  {
+   "id": "B2-172",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": true,
+   "inliers": 20,
+   "set": "Fantastical Parade",
+   "illustrator": "okayamatakatoshi",
+   "hp": 70,
+   "attacks": [
+    "Invade"
+   ]
+  },
+  {
+   "id": "swsh2-185",
+   "lang": "en",
+   "name": "Falinks V",
+   "pocket": false,
+   "inliers": 16,
+   "set": "Rebel Clash",
+   "illustrator": "aky CG Works",
+   "hp": 160,
+   "attacks": [
+    "Giga Impact"
+   ]
+  },
+  {
+   "id": "swsh2-110",
+   "lang": "en",
+   "name": "Falinks V",
+   "pocket": false,
+   "inliers": 14,
+   "set": "Rebel Clash",
+   "illustrator": "aky CG Works",
+   "hp": 160,
+   "attacks": [
+    "Giga Impact"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "970-mega-glimmora-2",
+  "name": "970_Mega_Glimmora_2",
+  "pokemon": "Glimmora",
+  "dex": 970,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810204/970_Mega_Glimmora_2.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 6,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv06-109",
+   "lang": "en",
+   "name": "Glimmora",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "SV8-068",
+   "lang": "ja",
+   "name": "キラフロル",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "sv03-123",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 2
+  },
+  {
+   "id": "sv03-213",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 1
+  }
+ ]
+}

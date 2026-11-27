@@ -1,349 +1,500 @@
 {
- "330-flygon-1": {
-  "name": "330_Flygon_1",
+ "141-kabutops-3": {
+  "name": "141_Kabutops_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "xy5-110",
+   "id": "base3-9",
    "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-2": {
-  "name": "330_Flygon_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-101",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 91,
-   "set": "Phantasmal Flames",
-   "illustrator": "Ryota Murayama",
-   "hp": 150,
-   "attacks": [
-    "Cutting Wind"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-3": {
-  "name": "330_Flygon_3",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pl2-5",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-4": {
-  "name": "330_Flygon_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-053",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 80,
-   "set": "Phantasmal Flames",
-   "illustrator": "Jerky",
-   "hp": 150,
-   "attacks": [
-    "Cutting Wind"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-5": {
-  "name": "330_Flygon_5",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "pop4-3",
-   "lang": "en",
-   "name": "Flygon",
+   "name": "Kabutops",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 31,
+  "official_cards_checked": 20,
   "lookup": {
-   "en": 29,
-   "ja": 11
+   "en": 20,
+   "ja": 3
   }
  },
- "330-flygon-6": {
-  "name": "330_Flygon_6",
+ "69-bellsprout-3": {
+  "name": "69_Bellsprout_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "ex3-15",
+   "id": "swsh5-1",
    "lang": "en",
-   "name": "Flygon",
+   "name": "Bellsprout",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 21,
+  "lookup": {
+   "en": 20,
+   "ja": 10
+  }
+ },
+ "359-mega-absol-z-3": {
+  "name": "359_Mega_Absol_Z_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me02-063",
+   "lang": "en",
+   "name": "Absol",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 31,
+  "official_cards_checked": 42,
   "lookup": {
-   "en": 29,
-   "ja": 11
+   "en": 36,
+   "ja": 17
   }
  },
- "330-flygon-7": {
-  "name": "330_Flygon_7",
+ "359-mega-absol-z-4": {
+  "name": "359_Mega_Absol_Z_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh9-106",
+   "id": "swsh10-097",
    "lang": "en",
-   "name": "Flygon V",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-8": {
-  "name": "330_Flygon_8",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp3-5",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-9": {
-  "name": "330_Flygon_9",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "dp3-5",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 3
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-10": {
-  "name": "330_Flygon_10",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "bwp-BW53",
-   "lang": "en",
-   "name": "Flygon",
+   "name": "Absol",
    "pocket": false,
    "inliers": 7
   },
-  "official_cards_checked": 31,
+  "official_cards_checked": 42,
   "lookup": {
-   "en": 29,
-   "ja": 11
+   "en": 36,
+   "ja": 17
   }
  },
- "330-flygon-11": {
-  "name": "330_Flygon_11",
+ "418-buizel-4": {
+  "name": "418_Buizel_4",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh3-91",
+   "id": "sv01-046",
    "lang": "en",
-   "name": "Flygon",
+   "name": "Buizel",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 31,
+  "official_cards_checked": 22,
   "lookup": {
-   "en": 29,
-   "ja": 11
+   "en": 20,
+   "ja": 7
   }
  },
- "330-flygon-shiny": {
-  "name": "330_Flygon_Shiny",
+ "445-mega-garchomp-z-3": {
+  "name": "445_Mega_Garchomp_Z_3",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh9-106",
+   "id": "A2a-084",
    "lang": "en",
-   "name": "Flygon V",
-   "pocket": false,
-   "inliers": 6
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-flygon-tera": {
-  "name": "330_Flygon_Tera",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV7a-079",
-   "lang": "ja",
-   "name": "フライゴンex",
-   "pocket": false,
-   "inliers": 112,
-   "set": "楽園ドラゴーナ",
-   "illustrator": "5ban Graphics",
-   "hp": 310,
-   "attacks": [
-    "ストームバック",
-    "ペリドットソニック"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "330-mega-flygon-1": {
-  "name": "330_Mega_Flygon_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02-053",
-   "lang": "en",
-   "name": "Flygon",
-   "pocket": false,
-   "inliers": 32,
-   "set": "Phantasmal Flames",
-   "illustrator": "Jerky",
-   "hp": 150,
-   "attacks": [
-    "Cutting Wind"
-   ]
-  },
-  "official_cards_checked": 31,
-  "lookup": {
-   "en": 29,
-   "ja": 11
-  }
- },
- "143-snorlax-1": {
-  "name": "143_Snorlax_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A1-250",
-   "lang": "en",
-   "name": "Snorlax",
+   "name": "Garchomp ex",
    "pocket": true,
-   "inliers": 148,
-   "set": "Genetic Apex",
-   "illustrator": "HYOGONOSUKE",
-   "hp": 150,
-   "attacks": [
-    "Rollout"
-   ]
+   "inliers": 4
   },
-  "official_cards_checked": 72,
+  "official_cards_checked": 55,
   "lookup": {
-   "en": 65,
-   "ja": 22
+   "en": 45,
+   "ja": 28
   }
  },
- "143-snorlax-2": {
-  "name": "143_Snorlax_2",
+ "447-riolu-5": {
+  "name": "447_Riolu_5",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh6-224",
+   "id": "sm5-66",
    "lang": "en",
-   "name": "Snorlax",
+   "name": "Riolu",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 72,
+  "official_cards_checked": 42,
   "lookup": {
-   "en": 65,
-   "ja": 22
+   "en": 38,
+   "ja": 21
   }
  },
- "143-snorlax-3": {
-  "name": "143_Snorlax_3",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "P-A-049",
-   "lang": "en",
-   "name": "Snorlax",
-   "pocket": true,
-   "inliers": 95,
-   "set": "Promos-A",
-   "illustrator": "okayamatakatoshi",
-   "hp": 140,
-   "attacks": [
-    "Collapse"
-   ]
-  },
-  "official_cards_checked": 72,
-  "lookup": {
-   "en": 65,
-   "ja": 22
-  }
- },
- "143-snorlax-4": {
-  "name": "143_Snorlax_4",
+ "561-sigilyph-1": {
+  "name": "561_Sigilyph_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "swsh1-141",
+   "id": "A1a-033",
    "lang": "en",
-   "name": "Snorlax V",
-   "pocket": false,
-   "inliers": 6
+   "name": "Sigilyph",
+   "pocket": true,
+   "inliers": 0
   },
-  "official_cards_checked": 72,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 65,
-   "ja": 22
+   "en": 19,
+   "ja": 13
   }
  },
- "143-snorlax-vmax": {
-  "name": "143_Snorlax_VMAX",
+ "561-sigilyph-2": {
+  "name": "561_Sigilyph_2",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh1-142",
+   "id": "sv10.5w-121",
    "lang": "en",
-   "name": "Snorlax VMAX",
+   "name": "Sigilyph",
    "pocket": false,
-   "inliers": 36,
-   "set": "Sword & Shield",
-   "illustrator": "aky CG Works",
-   "hp": 340,
+   "inliers": 97,
+   "set": "White Flare",
+   "illustrator": "mingo",
+   "hp": 120,
    "attacks": [
-    "G-Max Fall"
+    "Reflect",
+    "Telekinesis"
    ]
   },
-  "official_cards_checked": 72,
+  "official_cards_checked": 23,
   "lookup": {
-   "en": 65,
-   "ja": 22
+   "en": 19,
+   "ja": 13
+  }
+ },
+ "561-sigilyph-3": {
+  "name": "561_Sigilyph_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh8-123",
+   "lang": "en",
+   "name": "Sigilyph",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 23,
+  "lookup": {
+   "en": 19,
+   "ja": 13
+  }
+ },
+ "561-sigilyph-4": {
+  "name": "561_Sigilyph_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV9-040",
+   "lang": "ja",
+   "name": "Nのシンボラー",
+   "pocket": false,
+   "inliers": 242,
+   "set": "バトルパートナーズ",
+   "illustrator": "Shiburingaru",
+   "hp": 110,
+   "attacks": [
+    "ねんどうだん",
+    "ビクトリーシンボル"
+   ]
+  },
+  "official_cards_checked": 23,
+  "lookup": {
+   "en": 19,
+   "ja": 13
+  }
+ },
+ "561-sigilyph-5": {
+  "name": "561_Sigilyph_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv10.5w-038",
+   "lang": "en",
+   "name": "Sigilyph",
+   "pocket": false,
+   "inliers": 128,
+   "set": "White Flare",
+   "illustrator": "Krgc",
+   "hp": 120,
+   "attacks": [
+    "Reflect",
+    "Telekinesis"
+   ]
+  },
+  "official_cards_checked": 23,
+  "lookup": {
+   "en": 19,
+   "ja": 13
+  }
+ },
+ "561-sigilyph-shiny-1": {
+  "name": "561_Sigilyph_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv10.5w-038",
+   "lang": "en",
+   "name": "Sigilyph",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 23,
+  "lookup": {
+   "en": 19,
+   "ja": 13
+  }
+ },
+ "870-falinks-1": {
+  "name": "870_Falinks_1",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "B2-092",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": true,
+   "inliers": 21,
+   "set": "Fantastical Parade",
+   "illustrator": "Yuu Nishida",
+   "hp": 70,
+   "attacks": [
+    "Invade"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-2": {
+  "name": "870_Falinks_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh5-83",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 109,
+   "set": "Battle Styles",
+   "illustrator": "Hasuno",
+   "hp": 110,
+   "attacks": [
+    "Rapid Strike Squad"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-3": {
+  "name": "870_Falinks_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh5-83",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-4": {
+  "name": "870_Falinks_4",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "swsh5-83",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-5": {
+  "name": "870_Falinks_5",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV7-060",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 246,
+   "set": "ステラミラクル",
+   "illustrator": "Gapao",
+   "hp": 110,
+   "attacks": [
+    "じんけいをくむ",
+    "いっせいこうげき"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-6": {
+  "name": "870_Falinks_6",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV1a-051",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 7
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "870-falinks-shiny-1": {
+  "name": "870_Falinks_Shiny_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV7-060",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 110,
+   "set": "ステラミラクル",
+   "illustrator": "Gapao",
+   "hp": 110,
+   "attacks": [
+    "じんけいをくむ",
+    "いっせいこうげき"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 14,
+   "ja": 6
+  }
+ },
+ "969-glimmet-1": {
+  "name": "969_Glimmet_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv03-122",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 98,
+   "set": "Obsidian Flames",
+   "illustrator": "GIDORA",
+   "hp": 70,
+   "attacks": [
+    "Poison Shard"
+   ]
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "969-glimmet-2": {
+  "name": "969_Glimmet_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv03-121",
+   "lang": "en",
+   "name": "Glimmet",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 15,
+  "lookup": {
+   "en": 7,
+   "ja": 8
+  }
+ },
+ "970-glimmora-1": {
+  "name": "970_Glimmora_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv02-126",
+   "lang": "en",
+   "name": "Glimmora",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 6,
+   "ja": 7
+  }
+ },
+ "970-glimmora-2": {
+  "name": "970_Glimmora_2",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8-068",
+   "lang": "ja",
+   "name": "キラフロル",
+   "pocket": false,
+   "inliers": 46,
+   "set": "超電ブレイカー",
+   "illustrator": "takashi shiraishi",
+   "hp": 130,
+   "attacks": [
+    "むしばむはへん",
+    "いわおとし"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 6,
+   "ja": 7
+  }
+ },
+ "970-glimmora-3": {
+  "name": "970_Glimmora_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "sv04.5-218",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 39,
+   "set": "Paldean Fates",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 6,
+   "ja": 7
+  }
+ },
+ "970-mega-glimmora-1": {
+  "name": "970_Mega_Glimmora_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "SV6-063",
+   "lang": "ja",
+   "name": "キラフロル",
+   "pocket": false,
+   "inliers": 2
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 6,
+   "ja": 7
+  }
+ },
+ "970-mega-glimmora-2": {
+  "name": "970_Mega_Glimmora_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sv06-109",
+   "lang": "en",
+   "name": "Glimmora",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 13,
+  "lookup": {
+   "en": 6,
+   "ja": 7
   }
  }
 }

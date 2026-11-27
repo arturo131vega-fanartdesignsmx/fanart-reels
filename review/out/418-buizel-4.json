@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "418-buizel-4",
+  "name": "418_Buizel_4",
+  "pokemon": "Buizel",
+  "dex": 418,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810163/418_Buizel_4.jpg"
+ },
+ "official_cards_checked": 22,
+ "lookup": {
+  "en": 20,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv01-046",
+   "lang": "en",
+   "name": "Buizel",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sv03-048",
+   "lang": "en",
+   "name": "Buizel",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A2b-074",
+   "lang": "en",
+   "name": "Buizel",
+   "pocket": true,
+   "inliers": 4
+  },
+  {
+   "id": "dp2-75",
+   "lang": "en",
+   "name": "Buizel",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "870-falinks-shiny-1",
+  "name": "870_Falinks_Shiny_1",
+  "pokemon": "Falinks",
+  "dex": 870,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810192/870_Falinks_Shiny_1.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 14,
+  "ja": 6
+ },
+ "top": [
+  {
+   "id": "SV7-060",
+   "lang": "ja",
+   "name": "タイレーツ",
+   "pocket": false,
+   "inliers": 110,
+   "set": "ステラミラクル",
+   "illustrator": "Gapao",
+   "hp": 110,
+   "attacks": [
+    "じんけいをくむ",
+    "いっせいこうげき"
+   ]
+  },
+  {
+   "id": "sv07-088",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 89,
+   "set": "Stellar Crown",
+   "illustrator": "Gapao",
+   "hp": 110,
+   "attacks": [
+    "Form Ranks",
+    "All-Out Attack"
+   ]
+  },
+  {
+   "id": "swsh8-154",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "swsh8-155",
+   "lang": "en",
+   "name": "Falinks",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}

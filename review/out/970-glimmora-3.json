@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "970-glimmora-3",
+  "name": "970_Glimmora_3",
+  "pokemon": "Glimmora",
+  "dex": 970,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810200/970_Glimmora_3.jpg"
+ },
+ "official_cards_checked": 13,
+ "lookup": {
+  "en": 6,
+  "ja": 7
+ },
+ "top": [
+  {
+   "id": "sv04.5-218",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 39,
+   "set": "Paldean Fates",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  },
+  {
+   "id": "sv03-213",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 32,
+   "set": "Obsidian Flames",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  },
+  {
+   "id": "sv02-126",
+   "lang": "en",
+   "name": "Glimmora",
+   "pocket": false,
+   "inliers": 24,
+   "set": "Paldea Evolved",
+   "illustrator": "Shin Nagasawa",
+   "hp": 130,
+   "attacks": [
+    "Poison Petals"
+   ]
+  },
+  {
+   "id": "sv03-123",
+   "lang": "en",
+   "name": "Glimmora ex",
+   "pocket": false,
+   "inliers": 19,
+   "set": "Obsidian Flames",
+   "illustrator": "5ban Graphics",
+   "hp": 270,
+   "attacks": [
+    "Poisonous Gem"
+   ]
+  }
+ ]
+}
