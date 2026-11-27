@@ -2390,10 +2390,97 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Flygon EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "17950486347085736",
+   "permalink": "https://www.instagram.com/p/DgQRlklgOyV/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122123456991449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122123456991449530"
+  },
+  "done": "2026-11-27T18:01:15.558834+00:00"
  },
  "2026-11-27-r2": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-r2.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-r2.jpg",
+  "render": {
+   "duration": 14.933333333333334,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 116,
+    "root": 57,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 1.24,
+    "text": "Great Tusk EX"
+   },
+   {
+    "t0": 1.24,
+    "t1": 3.11,
+    "text": "charged out of the ancient past..."
+   },
+   {
+    "t0": 3.11,
+    "t1": 4.42,
+    "text": "straight into your binder."
+   },
+   {
+    "t0": 4.72,
+    "t1": 5.6,
+    "text": "Hand-finished,"
+   },
+   {
+    "t0": 5.6,
+    "t1": 6.61,
+    "text": "dipped in holo,"
+   },
+   {
+    "t0": 6.61,
+    "t1": 7.494,
+    "text": "real card size."
+   },
+   {
+    "t0": 7.754,
+    "t1": 8.934,
+    "text": "Add a second card"
+   },
+   {
+    "t0": 8.934,
+    "t1": 10.594,
+    "text": "and 25% comes off"
+   },
+   {
+    "t0": 10.594,
+    "t1": 12.101,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.401,
+    "t1": 13.904,
+    "text": "Stampede over to my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-27T18:02:45.846096+00:00",
+  "render_seconds": 90
  },
  "2026-11-27-c2": {
   "attempts": 0
