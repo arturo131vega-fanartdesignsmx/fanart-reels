@@ -11297,5 +11297,437 @@
   "reason": "Official artwork: Snorlax VMAX swsh1-142 (36 inliers, same art by eye); also shows an official-style set number",
   "pocket": false,
   "added": "2026-11-26"
+ },
+ "141-kabutops-3": {
+  "pokemon": "Kabutops",
+  "card_name": "Kabutops 3",
+  "listing_id": 4543731047,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810156/141_Kabutops_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "69-bellsprout-3": {
+  "pokemon": "Bellsprout",
+  "card_name": "Bellsprout 3",
+  "listing_id": 4543682695,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810158/69_Bellsprout_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "359-mega-absol-z-3": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol Z 3",
+  "listing_id": 4627079026,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810160/359_Mega_Absol_Z_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "359-mega-absol-z-4": {
+  "pokemon": "Absol",
+  "card_name": "Mega Absol Z 4",
+  "listing_id": 4627079026,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810161/359_Mega_Absol_Z_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 7 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "418-buizel-4": {
+  "pokemon": "Buizel",
+  "card_name": "Buizel 4",
+  "listing_id": 4543728016,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810163/418_Buizel_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "445-mega-garchomp-z-3": {
+  "pokemon": "Garchomp",
+  "card_name": "Mega Garchomp Z 3",
+  "listing_id": 4543736082,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810165/445_Mega_Garchomp_Z_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "447-riolu-5": {
+  "pokemon": "Riolu",
+  "card_name": "Riolu 5",
+  "listing_id": 4543709139,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810166/447_Riolu_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-1": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph 1",
+  "listing_id": 4627066863,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810168/561_Sigilyph_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-2": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph 2",
+  "listing_id": 4627078196,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810169/561_Sigilyph_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 97,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Sigilyph sv10.5w-121 (97 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-3": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph 3",
+  "listing_id": 4627066863,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810172/561_Sigilyph_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-4": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph 4",
+  "listing_id": 4627078196,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810173/561_Sigilyph_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 242,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Nのシンボラー SV9-040 (242 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-5": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph 5",
+  "listing_id": 4627078196,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810175/561_Sigilyph_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 128,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Sigilyph sv10.5w-038 (128 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "561-sigilyph-shiny-1": {
+  "pokemon": "Sigilyph",
+  "card_name": "Sigilyph Shiny 1",
+  "listing_id": 4627066863,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810176/561_Sigilyph_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-1": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 1",
+  "listing_id": 4627078356,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810183/870_Falinks_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 21,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 21 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-2": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 2",
+  "listing_id": 4627078356,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810185/870_Falinks_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 109,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Falinks swsh5-83 (109 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-3": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 3",
+  "listing_id": 4627078356,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810187/870_Falinks_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-4": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 4",
+  "listing_id": 4627078356,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810188/870_Falinks_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-5": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 5",
+  "listing_id": 4627078482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810189/870_Falinks_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 246,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: タイレーツ SV7-060 (246 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-6": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks 6",
+  "listing_id": 4627078482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810191/870_Falinks_6.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 7 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "870-falinks-shiny-1": {
+  "pokemon": "Falinks",
+  "card_name": "Falinks Shiny 1",
+  "listing_id": 4627078482,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810192/870_Falinks_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 110,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Shiny recolor of official artwork (タイレーツ SV7-060, 110 inliers; shiny of Falinks 5)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "969-glimmet-1": {
+  "pokemon": "Glimmet",
+  "card_name": "Glimmet 1",
+  "listing_id": 4627067385,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810194/969_Glimmet_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 98,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Glimmet sv03-122 (98 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "969-glimmet-2": {
+  "pokemon": "Glimmet",
+  "card_name": "Glimmet 2",
+  "listing_id": 4627067385,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810195/969_Glimmet_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "970-glimmora-1": {
+  "pokemon": "Glimmora",
+  "card_name": "Glimmora 1",
+  "listing_id": 4627078766,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810197/970_Glimmora_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "970-glimmora-2": {
+  "pokemon": "Glimmora",
+  "card_name": "Glimmora 2",
+  "listing_id": 4627078766,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810199/970_Glimmora_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 46,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: キラフロル SV8-068 (46 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "970-glimmora-3": {
+  "pokemon": "Glimmora",
+  "card_name": "Glimmora 3",
+  "listing_id": 4627078766,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810200/970_Glimmora_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 39,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Glimmora ex sv04.5-218 (39 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "970-mega-glimmora-1": {
+  "pokemon": "Glimmora",
+  "card_name": "Mega Glimmora 1",
+  "listing_id": 4627067635,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810202/970_Mega_Glimmora_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 2,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 2 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "970-mega-glimmora-2": {
+  "pokemon": "Glimmora",
+  "card_name": "Mega Glimmora 2",
+  "listing_id": 4627067635,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810204/970_Mega_Glimmora_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
  }
 }
