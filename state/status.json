@@ -2373,7 +2373,24 @@
   "done": "2026-11-27T14:01:10.146405+00:00"
  },
  "2026-11-27-c1": {
-  "attempts": 0
+  "attempts": 0,
+  "slides": [
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-c1_slide1.jpg",
+    "alt": "Flygon EX Pokémon fan art card streaking through a rainbow sky, holographic full art handmade proxy card by Fanart Designs MX"
+   },
+   {
+    "video": "https://res.cloudinary.com/rntnboij/video/upload/c_crop,w_720,h_720,x_0,y_185/c_scale,w_1080/q_auto/v1795034320/ig_holo_video.mp4"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-c1_slide3.jpg",
+    "alt": "Mega Flygon EX in a red canyon, Flygon EX in a flowering jungle and Flygon under a starry desert sky: Pokémon fan art cards fanned out, handmade holographic proxy cards"
+   },
+   {
+    "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
+    "alt": "More handmade holographic Pokémon proxy cards like Flygon EX from Fanart Designs MX"
+   }
+  ]
  },
  "2026-11-27-r2": {
   "attempts": 0
