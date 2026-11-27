@@ -2480,7 +2480,16 @@
    }
   ],
   "rendered_at": "2026-11-27T18:02:45.846096+00:00",
-  "render_seconds": 90
+  "render_seconds": 90,
+  "ig": {
+   "media_id": "18082694093727447",
+   "permalink": "https://www.instagram.com/reel/DgQfTLki14_/"
+  },
+  "fb": {
+   "video_id": "1129135666634999",
+   "permalink": "https://www.facebook.com/reel/1129135666634999/"
+  },
+  "done": "2026-11-27T20:01:43.944572+00:00"
  },
  "2026-11-27-c2": {
   "attempts": 0
