@@ -11729,5 +11729,149 @@
   "reason": "No official match (max 4 inliers)",
   "pocket": false,
   "added": "2026-11-27"
+ },
+ "701-hawlucha-1": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha 1",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828133/701_Hawlucha_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 10,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 10 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-hawlucha-2": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha 2",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828134/701_Hawlucha_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 86,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Hawlucha svp-007 (86 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-hawlucha-3": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha 3",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828136/701_Hawlucha_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-hawlucha-4": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha 4",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828138/701_Hawlucha_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 7 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-hawlucha-5": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha 5",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828140/701_Hawlucha_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-hawlucha-shiny-1": {
+  "pokemon": "Hawlucha",
+  "card_name": "Hawlucha Shiny 1",
+  "listing_id": 4627241390,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828141/701_Hawlucha_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-mega-hawlucha-1": {
+  "pokemon": "Hawlucha",
+  "card_name": "Mega Hawlucha 1",
+  "listing_id": 4627241464,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828142/701_Mega_Hawlucha_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-mega-hawlucha-2": {
+  "pokemon": "Hawlucha",
+  "card_name": "Mega Hawlucha 2",
+  "listing_id": 4627241464,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828144/701_Mega_Hawlucha_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 84,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Hawlucha ex me02.5-283 (84 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "701-mega-hawlucha-3": {
+  "pokemon": "Hawlucha",
+  "card_name": "Mega Hawlucha 3",
+  "listing_id": 4627241464,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828145/701_Mega_Hawlucha_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 344,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Mega Hawlucha ex me02.5-268 (344 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
  }
 }
