@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "700-sylveon-shiny-1",
+  "name": "700_Sylveon_Shiny_1",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793137/700_Sylveon_Shiny_1.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A3b-089",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 79,
+   "set": "Eevee Grove",
+   "illustrator": "Yuu Nishida",
+   "hp": 140,
+   "attacks": [
+    "Fairy Wind"
+   ]
+  },
+  {
+   "id": "sv06.5-022",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy3-72",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3b-076",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": true,
+   "inliers": 4
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "700-sylveon-vmax",
+  "name": "700_Sylveon_VMAX",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793185/700_Sylveon_VMAX.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "swsh7-212",
+   "lang": "en",
+   "name": "Sylveon VMAX",
+   "pocket": false,
+   "inliers": 47,
+   "set": "Evolving Skies",
+   "illustrator": "Taira Akitsu",
+   "hp": 310,
+   "attacks": [
+    "Precious Touch",
+    "Max Harmony"
+   ]
+  },
+  {
+   "id": "A3b-081",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "swshp-SWSH134",
+   "lang": "en",
+   "name": "Dark Sylveon V",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv06.5-022",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "700-sylveon-tera",
+  "name": "700_Sylveon_Tera",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793161/700_Sylveon_Tera.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "SV8a-212",
+   "lang": "ja",
+   "name": "ニンフィアex",
+   "pocket": false,
+   "inliers": 90,
+   "set": "テラスタルフェスex",
+   "illustrator": "Cona Nitanda",
+   "hp": 270,
+   "attacks": [
+    "マジカルチャーム",
+    "エンジェライト"
+   ]
+  },
+  {
+   "id": "sv08.5-156",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 55,
+   "set": "Prismatic Evolutions",
+   "illustrator": "Cona Nitanda",
+   "hp": 270,
+   "attacks": [
+    "Magical Charm",
+    "Angelite"
+   ]
+  },
+  {
+   "id": "30th-071",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV8a-068",
+   "lang": "ja",
+   "name": "ニンフィア",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

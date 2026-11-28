@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "700-sylveon-7",
+  "name": "700_Sylveon_7",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793172/700_Sylveon_7.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "30th-153",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 61,
+   "set": "30th Celebration",
+   "illustrator": "You Iribi",
+   "hp": 270,
+   "attacks": [
+    "Colorful Harmony"
+   ]
+  },
+  {
+   "id": "30th-071",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm10-130",
+   "lang": "en",
+   "name": "Gardevoir & Sylveon GX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "A3b-089",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 5
+  }
+ ]
+}

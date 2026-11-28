@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "700-sylveon-2",
+  "name": "700_Sylveon_2",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793157/700_Sylveon_2.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "sm10-130",
+   "lang": "en",
+   "name": "Gardevoir & Sylveon GX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "sm2-140",
+   "lang": "en",
+   "name": "Sylveon GX",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "A3b-089",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 3
+  },
+  {
+   "id": "sv06.5-022",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

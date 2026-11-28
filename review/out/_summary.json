@@ -1,100 +1,229 @@
 {
- "765-oranguru-1": {
-  "name": "765_Oranguru_1",
+ "700-sylveon-vmax": {
+  "name": "700_Sylveon_VMAX",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "swsh7-212",
+   "lang": "en",
+   "name": "Sylveon VMAX",
+   "pocket": false,
+   "inliers": 47,
+   "set": "Evolving Skies",
+   "illustrator": "Taira Akitsu",
+   "hp": 310,
+   "attacks": [
+    "Precious Touch",
+    "Max Harmony"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-4": {
+  "name": "700_Sylveon_4",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A3b-089",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 96,
+   "set": "Eevee Grove",
+   "illustrator": "Yuu Nishida",
+   "hp": 140,
+   "attacks": [
+    "Fairy Wind"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-shiny-2": {
+  "name": "700_Sylveon_Shiny_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A3a-059",
+   "id": "30th-153",
    "lang": "en",
-   "name": "Oranguru",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-5": {
+  "name": "700_Sylveon_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "A3b-034",
+   "lang": "en",
+   "name": "Sylveon ex",
    "pocket": true,
+   "inliers": 5
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-7": {
+  "name": "700_Sylveon_7",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "30th-153",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 61,
+   "set": "30th Celebration",
+   "illustrator": "You Iribi",
+   "hp": 270,
+   "attacks": [
+    "Colorful Harmony"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-3": {
+  "name": "700_Sylveon_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A3b-076",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": true,
+   "inliers": 50,
+   "set": "Eevee Grove",
+   "illustrator": "saino misaki",
+   "hp": 90,
+   "attacks": [
+    "Evoharmony"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-6": {
+  "name": "700_Sylveon_6",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "A3b-081",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 78,
+   "set": "Eevee Grove",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Fairy Wind"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-1": {
+  "name": "700_Sylveon_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "svp-172",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 66,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Susumu Maeya",
+   "hp": 120,
+   "attacks": [
+    "Mystical Return",
+    "Disarming Voice"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-tera": {
+  "name": "700_Sylveon_Tera",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "SV8a-212",
+   "lang": "ja",
+   "name": "ニンフィアex",
+   "pocket": false,
+   "inliers": 90,
+   "set": "テラスタルフェスex",
+   "illustrator": "Cona Nitanda",
+   "hp": 270,
+   "attacks": [
+    "マジカルチャーム",
+    "エンジェライト"
+   ]
+  },
+  "official_cards_checked": 43,
+  "lookup": {
+   "en": 43,
+   "ja": 24
+  }
+ },
+ "700-sylveon-2": {
+  "name": "700_Sylveon_2",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "sm10-130",
+   "lang": "en",
+   "name": "Gardevoir & Sylveon GX",
+   "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 21,
+  "official_cards_checked": 43,
   "lookup": {
-   "en": 17,
-   "ja": 15
+   "en": 43,
+   "ja": 24
   }
  },
- "765-oranguru-2": {
-  "name": "765_Oranguru_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV1a-039",
-   "lang": "ja",
-   "name": "ヤレユータン",
-   "pocket": false,
-   "inliers": 7
-  },
-  "official_cards_checked": 21,
-  "lookup": {
-   "en": 17,
-   "ja": 15
-  }
- },
- "765-oranguru-3": {
-  "name": "765_Oranguru_3",
+ "700-sylveon-shiny-1": {
+  "name": "700_Sylveon_Shiny_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh10-133",
+   "id": "A3b-089",
    "lang": "en",
-   "name": "Oranguru V",
-   "pocket": false,
-   "inliers": 29,
-   "set": "Astral Radiance",
-   "illustrator": "Uta",
-   "hp": 210,
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 79,
+   "set": "Eevee Grove",
+   "illustrator": "Yuu Nishida",
+   "hp": 140,
    "attacks": [
-    "Psychic"
+    "Fairy Wind"
    ]
   },
-  "official_cards_checked": 21,
+  "official_cards_checked": 43,
   "lookup": {
-   "en": 17,
-   "ja": 15
-  }
- },
- "765-oranguru-4": {
-  "name": "765_Oranguru_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "S10P-058",
-   "lang": "ja",
-   "name": "ヤレユータンV",
-   "pocket": false,
-   "inliers": 33,
-   "set": "スペースジャグラー",
-   "illustrator": "Uta",
-   "hp": 210,
-   "attacks": [
-    "サイコキネシス"
-   ]
-  },
-  "official_cards_checked": 21,
-  "lookup": {
-   "en": 17,
-   "ja": 15
-  }
- },
- "765-oranguru-5": {
-  "name": "765_Oranguru_5",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "swsh10-179",
-   "lang": "en",
-   "name": "Oranguru V",
-   "pocket": false,
-   "inliers": 33,
-   "set": "Astral Radiance",
-   "illustrator": "Toyste Beach",
-   "hp": 210,
-   "attacks": [
-    "Psychic"
-   ]
-  },
-  "official_cards_checked": 21,
-  "lookup": {
-   "en": 17,
-   "ja": 15
+   "en": 43,
+   "ja": 24
   }
  }
 }

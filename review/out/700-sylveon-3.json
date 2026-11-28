@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "700-sylveon-3",
+  "name": "700_Sylveon_3",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_3.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A3b-076",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": true,
+   "inliers": 50,
+   "set": "Eevee Grove",
+   "illustrator": "saino misaki",
+   "hp": 90,
+   "attacks": [
+    "Evoharmony"
+   ]
+  },
+  {
+   "id": "swsh7-211",
+   "lang": "en",
+   "name": "Sylveon VMAX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "swsh7-212",
+   "lang": "en",
+   "name": "Sylveon VMAX",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "30th-153",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "700-sylveon-1",
+  "name": "700_Sylveon_1",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793165/700_Sylveon_1.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "svp-172",
+   "lang": "en",
+   "name": "Sylveon",
+   "pocket": false,
+   "inliers": 66,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Susumu Maeya",
+   "hp": 120,
+   "attacks": [
+    "Mystical Return",
+    "Disarming Voice"
+   ]
+  },
+  {
+   "id": "SV8a-068",
+   "lang": "ja",
+   "name": "ニンフィア",
+   "pocket": false,
+   "inliers": 53,
+   "set": "テラスタルフェスex",
+   "illustrator": "Susumu Maeya",
+   "hp": 120,
+   "attacks": [
+    "ミスティックリターン",
+    "チャームボイス"
+   ]
+  },
+  {
+   "id": "30th-071",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sv08-086",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

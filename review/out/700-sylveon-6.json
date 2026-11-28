@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "700-sylveon-6",
+  "name": "700_Sylveon_6",
+  "pokemon": "Sylveon",
+  "dex": 700,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_6.jpg"
+ },
+ "official_cards_checked": 43,
+ "lookup": {
+  "en": 43,
+  "ja": 24
+ },
+ "top": [
+  {
+   "id": "A3b-081",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 78,
+   "set": "Eevee Grove",
+   "illustrator": "PLANETA CG Works",
+   "hp": 140,
+   "attacks": [
+    "Fairy Wind"
+   ]
+  },
+  {
+   "id": "B2-229",
+   "lang": "en",
+   "name": "Sylveon ex",
+   "pocket": true,
+   "inliers": 9
+  },
+  {
+   "id": "sm2-140",
+   "lang": "en",
+   "name": "Sylveon GX",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "swsh7-211",
+   "lang": "en",
+   "name": "Sylveon VMAX",
+   "pocket": false,
+   "inliers": 4
+  }
+ ]
+}
