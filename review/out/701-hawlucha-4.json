@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "701-hawlucha-4",
+  "name": "701_Hawlucha_4",
+  "pokemon": "Hawlucha",
+  "dex": 701,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828138/701_Hawlucha_4.jpg"
+ },
+ "official_cards_checked": 30,
+ "lookup": {
+  "en": 22,
+  "ja": 16
+ },
+ "top": [
+  {
+   "id": "sm6-70",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "me02.5-268",
+   "lang": "en",
+   "name": "Mega Hawlucha ex",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sv08.5-089",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV8a-084",
+   "lang": "ja",
+   "name": "ルチャブル",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

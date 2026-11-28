@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "701-hawlucha-3",
+  "name": "701_Hawlucha_3",
+  "pokemon": "Hawlucha",
+  "dex": 701,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828136/701_Hawlucha_3.jpg"
+ },
+ "official_cards_checked": 30,
+ "lookup": {
+  "en": 22,
+  "ja": 16
+ },
+ "top": [
+  {
+   "id": "SV4a-106",
+   "lang": "ja",
+   "name": "ルチャブル",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "SV4a-282",
+   "lang": "ja",
+   "name": "ルチャブル",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S9a-043",
+   "lang": "ja",
+   "name": "かがやくルチャブル",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "svp-007",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

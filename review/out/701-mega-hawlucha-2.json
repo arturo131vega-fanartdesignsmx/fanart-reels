@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "701-mega-hawlucha-2",
+  "name": "701_Mega_Hawlucha_2",
+  "pokemon": "Hawlucha",
+  "dex": 701,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828144/701_Mega_Hawlucha_2.jpg"
+ },
+ "official_cards_checked": 30,
+ "lookup": {
+  "en": 22,
+  "ja": 16
+ },
+ "top": [
+  {
+   "id": "me02.5-283",
+   "lang": "en",
+   "name": "Mega Hawlucha ex",
+   "pocket": false,
+   "inliers": 84,
+   "set": "Ascended Heroes",
+   "illustrator": "AKIRA EGAWA",
+   "hp": 250,
+   "attacks": [
+    "Somersault Dive"
+   ]
+  },
+  {
+   "id": "swsh2-148",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "xy10-48",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "SV8a-084",
+   "lang": "ja",
+   "name": "ルチャブル",
+   "pocket": false,
+   "inliers": 6
+  }
+ ]
+}

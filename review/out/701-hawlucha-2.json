@@ -1,0 +1,56 @@
+{
+ "candidate": {
+  "key": "701-hawlucha-2",
+  "name": "701_Hawlucha_2",
+  "pokemon": "Hawlucha",
+  "dex": 701,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828134/701_Hawlucha_2.jpg"
+ },
+ "official_cards_checked": 30,
+ "lookup": {
+  "en": 22,
+  "ja": 16
+ },
+ "top": [
+  {
+   "id": "svp-007",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 86,
+   "set": "SVP Black Star Promos",
+   "illustrator": "Yuya Oka",
+   "hp": 70,
+   "attacks": [
+    "Wing Attack"
+   ]
+  },
+  {
+   "id": "SV4a-106",
+   "lang": "ja",
+   "name": "ルチャブル",
+   "pocket": false,
+   "inliers": 71,
+   "set": "シャイニートレジャーex",
+   "illustrator": "Yuya Oka",
+   "hp": 70,
+   "attacks": [
+    "つばさでうつ"
+   ]
+  },
+  {
+   "id": "me02.5-116",
+   "lang": "en",
+   "name": "Mega Hawlucha ex",
+   "pocket": false,
+   "inliers": 6
+  },
+  {
+   "id": "sm6-70",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}

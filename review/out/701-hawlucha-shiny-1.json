@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "701-hawlucha-shiny-1",
+  "name": "701_Hawlucha_Shiny_1",
+  "pokemon": "Hawlucha",
+  "dex": 701,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828141/701_Hawlucha_Shiny_1.jpg"
+ },
+ "official_cards_checked": 30,
+ "lookup": {
+  "en": 22,
+  "ja": 16
+ },
+ "top": [
+  {
+   "id": "xy6-39",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "sv06-107",
+   "lang": "en",
+   "name": "Hawlucha",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me02.5-116",
+   "lang": "en",
+   "name": "Mega Hawlucha ex",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "S9a-043",
+   "lang": "ja",
+   "name": "かがやくルチャブル",
+   "pocket": false,
+   "inliers": 5
+  }
+ ]
+}
