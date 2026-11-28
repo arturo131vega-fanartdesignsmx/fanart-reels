@@ -2509,9 +2509,91 @@
     "image": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/main/design/more_designs_v2.jpg",
     "alt": "More handmade holographic Pokémon proxy cards like Dialga EX from Fanart Designs MX"
    }
-  ]
+  ],
+  "ig": {
+   "media_id": "17969755428229287",
+   "permalink": "https://www.instagram.com/p/DgQ602-FWYF/"
+  },
+  "fb": {
+   "post_id": "1199826319888363_122123484111449530",
+   "permalink": "https://www.facebook.com/1199826319888363_122123484111449530"
+  },
+  "done": "2026-11-28T00:01:33.471692+00:00"
  },
  "2026-11-27-r3": {
-  "attempts": 0
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-r3.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-27_2026-11-27-r3.jpg",
+  "render": {
+   "duration": 15.233333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 111,
+    "root": 55,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 2.65,
+    "text": "Snorlax EX is fast asleep..."
+   },
+   {
+    "t0": 2.65,
+    "t1": 4.061,
+    "text": "right in the middle of your feed."
+   },
+   {
+    "t0": 4.361,
+    "t1": 5.461,
+    "text": "Each one handmade,"
+   },
+   {
+    "t0": 5.461,
+    "t1": 6.491,
+    "text": "holo that glows,"
+   },
+   {
+    "t0": 6.491,
+    "t1": 7.711,
+    "text": "real card size."
+   },
+   {
+    "t0": 7.971,
+    "t1": 9.431,
+    "text": "Take home two or more"
+   },
+   {
+    "t0": 9.431,
+    "t1": 11.051,
+    "text": "and save 25%"
+   },
+   {
+    "t0": 11.051,
+    "t1": 12.332,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 12.632,
+    "t1": 14.223,
+    "text": "Wake it up through my bio link!"
+   }
+  ],
+  "rendered_at": "2026-11-28T00:03:20.800836+00:00",
+  "render_seconds": 107
  }
 }
