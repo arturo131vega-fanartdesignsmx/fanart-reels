@@ -2604,5 +2604,98 @@
    "permalink": "https://www.facebook.com/reel/1459759669643579/"
   },
   "done": "2026-11-28T02:31:06.655411+00:00"
+ },
+ "2026-11-28-r1": {
+  "attempts": 0,
+  "video_url": "https://res.cloudinary.com/rntnboij/video/fetch/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-28_2026-11-28-r1.mp4",
+  "cover_url": "https://res.cloudinary.com/rntnboij/image/fetch/f_jpg,q_90/https://raw.githubusercontent.com/arturo131vega-fanartdesignsmx/fanart-reels/cdn/out/2026-11-28_2026-11-28-r1.jpg",
+  "render": {
+   "duration": 14.633333333333333,
+   "variant": {
+    "tilt_deg": 17.0,
+    "period": 4.3,
+    "pitch_deg": 0.0,
+    "phase": 0.0,
+    "card_w": 620,
+    "entrance": "none",
+    "bg": "dark",
+    "zoom_dir": 1.0,
+    "title_anim": "pop",
+    "title_hl": 0,
+    "pill": "outline",
+    "subs": "keywords"
+   },
+   "music": {
+    "bpm": 113,
+    "root": 59,
+    "minor": false
+   }
+  },
+  "subs": [
+   {
+    "t0": 0.2,
+    "t1": 0.72,
+    "text": "Uxie,"
+   },
+   {
+    "t0": 0.72,
+    "t1": 2.08,
+    "text": "the guardian of knowledge..."
+   },
+   {
+    "t0": 2.08,
+    "t1": 3.275,
+    "text": "just stepped out of the app."
+   },
+   {
+    "t0": 3.575,
+    "t1": 4.645,
+    "text": "Now it's handmade,"
+   },
+   {
+    "t0": 4.645,
+    "t1": 5.505,
+    "text": "coated in holo,"
+   },
+   {
+    "t0": 5.505,
+    "t1": 6.762,
+    "text": "at true card size."
+   },
+   {
+    "t0": 7.022,
+    "t1": 8.272,
+    "text": "Pick any two or more"
+   },
+   {
+    "t0": 8.272,
+    "t1": 9.982,
+    "text": "and 25% vanishes"
+   },
+   {
+    "t0": 9.982,
+    "t1": 11.412,
+    "text": "with code 25OFF"
+   },
+   {
+    "t0": 11.712,
+    "t1": 13.631,
+    "text": "Don't forget: link in my bio!"
+   }
+  ],
+  "rendered_at": "2026-11-28T11:14:51.040894+00:00",
+  "render_seconds": 104
+ },
+ "2026-11-28-c1": {
+  "attempts": 0
+ },
+ "2026-11-28-r2": {
+  "attempts": 0
+ },
+ "2026-11-28-c2": {
+  "attempts": 0
+ },
+ "2026-11-28-r3": {
+  "attempts": 0
  }
 }
