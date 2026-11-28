@@ -12151,5 +12151,197 @@
   "reason": "No official match (max 5 inliers); shiny recolor of Sylveon 5, do not pair them in one post",
   "pocket": false,
   "added": "2026-11-28"
+ },
+ "650-chespin-1": {
+  "pokemon": "Chespin",
+  "card_name": "Chespin 1",
+  "listing_id": 4627362762,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846454/650_Chespin_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 163,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Chespin me04-087 extended full art (163 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "650-chespin-2": {
+  "pokemon": "Chespin",
+  "card_name": "Chespin 2",
+  "listing_id": 4627362762,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846455/650_Chespin_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "650-chespin-3": {
+  "pokemon": "Chespin",
+  "card_name": "Chespin 3",
+  "listing_id": 4627362762,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846457/650_Chespin_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 289,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Chespin xy8-7 extended full art (289 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "651-quilladin-1": {
+  "pokemon": "Quilladin",
+  "card_name": "Quilladin 1",
+  "listing_id": 4627362862,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846458/651_Quilladin_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 164,
+   "pocket_max": 6
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Quilladin me04-006 extended full art (164 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "651-quilladin-2": {
+  "pokemon": "Quilladin",
+  "card_name": "Quilladin 2",
+  "listing_id": 4627362862,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846460/651_Quilladin_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-1": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught 1",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846461/652_Chesnaught_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-2": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught 2",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846463/652_Chesnaught_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-3": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught 3",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846467/652_Chesnaught_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 8,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 8 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-4": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught 4",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846468/652_Chesnaught_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 13,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 13 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-5": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught 5",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846470/652_Chesnaught_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-chesnaught-shiny-1": {
+  "pokemon": "Chesnaught",
+  "card_name": "Chesnaught Shiny 1",
+  "listing_id": 4627350687,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846471/652_Chesnaught_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 2
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of Chesnaught 5; no official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "652-mega-chesnaught-1": {
+  "pokemon": "Chesnaught",
+  "card_name": "Mega Chesnaught 1",
+  "listing_id": 4627350767,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846473/652_Mega_Chesnaught_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 0,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 0 inliers)",
+  "pocket": false,
+  "added": "2026-11-28"
  }
 }
