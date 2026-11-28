@@ -1,39 +1,81 @@
 {
  "candidates": [
   {
-   "key": "765-oranguru-1",
-   "name": "765_Oranguru_1",
-   "pokemon": "Oranguru",
-   "dex": 765,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810179/765_Oranguru_1.jpg"
+   "key": "700-sylveon-vmax",
+   "name": "700_Sylveon_VMAX",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793185/700_Sylveon_VMAX.jpg"
   },
   {
-   "key": "765-oranguru-2",
-   "name": "765_Oranguru_2",
-   "pokemon": "Oranguru",
-   "dex": 765,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833143/765_Oranguru_2.jpg"
+   "key": "700-sylveon-4",
+   "name": "700_Sylveon_4",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793184/700_Sylveon_4.jpg"
   },
   {
-   "key": "765-oranguru-3",
-   "name": "765_Oranguru_3",
-   "pokemon": "Oranguru",
-   "dex": 765,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833145/765_Oranguru_3.jpg"
+   "key": "700-sylveon-shiny-2",
+   "name": "700_Sylveon_Shiny_2",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793180/700_Sylveon_Shiny_2.jpg"
   },
   {
-   "key": "765-oranguru-4",
-   "name": "765_Oranguru_4",
-   "pokemon": "Oranguru",
-   "dex": 765,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833511/765_Oranguru_4.jpg"
+   "key": "700-sylveon-5",
+   "name": "700_Sylveon_5",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793178/700_Sylveon_5.jpg"
   },
   {
-   "key": "765-oranguru-5",
-   "name": "765_Oranguru_5",
-   "pokemon": "Oranguru",
-   "dex": 765,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833148/765_Oranguru_5.jpg"
+   "key": "700-sylveon-7",
+   "name": "700_Sylveon_7",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793172/700_Sylveon_7.jpg"
+  },
+  {
+   "key": "700-sylveon-3",
+   "name": "700_Sylveon_3",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_3.jpg"
+  },
+  {
+   "key": "700-sylveon-6",
+   "name": "700_Sylveon_6",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_6.jpg"
+  },
+  {
+   "key": "700-sylveon-1",
+   "name": "700_Sylveon_1",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793165/700_Sylveon_1.jpg"
+  },
+  {
+   "key": "700-sylveon-tera",
+   "name": "700_Sylveon_Tera",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793161/700_Sylveon_Tera.jpg"
+  },
+  {
+   "key": "700-sylveon-2",
+   "name": "700_Sylveon_2",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793157/700_Sylveon_2.jpg"
+  },
+  {
+   "key": "700-sylveon-shiny-1",
+   "name": "700_Sylveon_Shiny_1",
+   "pokemon": "Sylveon",
+   "dex": 700,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793137/700_Sylveon_Shiny_1.jpg"
   }
  ]
 }
