@@ -1,229 +1,221 @@
 {
- "700-sylveon-vmax": {
-  "name": "700_Sylveon_VMAX",
+ "650-chespin-1": {
+  "name": "650_Chespin_1",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "swsh7-212",
+   "id": "me04-087",
    "lang": "en",
-   "name": "Sylveon VMAX",
+   "name": "Chespin",
    "pocket": false,
-   "inliers": 47,
-   "set": "Evolving Skies",
-   "illustrator": "Taira Akitsu",
-   "hp": 310,
+   "inliers": 163,
+   "set": "Chaos Rising",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 70,
    "attacks": [
-    "Precious Touch",
-    "Max Harmony"
+    "Beat",
+    "Spike Sting"
    ]
   },
-  "official_cards_checked": 43,
+  "official_cards_checked": 10,
   "lookup": {
-   "en": 43,
-   "ja": 24
+   "en": 13,
+   "ja": 4
   }
  },
- "700-sylveon-4": {
-  "name": "700_Sylveon_4",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3b-089",
-   "lang": "en",
-   "name": "Sylveon ex",
-   "pocket": true,
-   "inliers": 96,
-   "set": "Eevee Grove",
-   "illustrator": "Yuu Nishida",
-   "hp": 140,
-   "attacks": [
-    "Fairy Wind"
-   ]
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-shiny-2": {
-  "name": "700_Sylveon_Shiny_2",
+ "650-chespin-2": {
+  "name": "650_Chespin_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "30th-153",
+   "id": "xy0-3",
    "lang": "en",
-   "name": "Sylveon ex",
+   "name": "Chespin",
    "pocket": false,
    "inliers": 5
   },
-  "official_cards_checked": 43,
+  "official_cards_checked": 10,
   "lookup": {
-   "en": 43,
-   "ja": 24
+   "en": 13,
+   "ja": 4
   }
  },
- "700-sylveon-5": {
-  "name": "700_Sylveon_5",
+ "650-chespin-3": {
+  "name": "650_Chespin_3",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "xy8-7",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 289,
+   "set": "BREAKthrough",
+   "illustrator": "Megumi Mizutani",
+   "hp": 60,
+   "attacks": [
+    "Nosh",
+    "Seed Bomb"
+   ]
+  },
+  "official_cards_checked": 10,
+  "lookup": {
+   "en": 13,
+   "ja": 4
+  }
+ },
+ "651-quilladin-1": {
+  "name": "651_Quilladin_1",
+  "verdict": "ART_MATCH",
+  "best": {
+   "id": "me04-006",
+   "lang": "en",
+   "name": "Quilladin",
+   "pocket": false,
+   "inliers": 164,
+   "set": "Chaos Rising",
+   "illustrator": "Hideki Ishikawa",
+   "hp": 100,
+   "attacks": [
+    "Leafy Charge",
+    "Vine Whip"
+   ]
+  },
+  "official_cards_checked": 5,
+  "lookup": {
+   "en": 5,
+   "ja": 1
+  }
+ },
+ "651-quilladin-2": {
+  "name": "651_Quilladin_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A3b-034",
+   "id": "xy0-4",
    "lang": "en",
-   "name": "Sylveon ex",
-   "pocket": true,
-   "inliers": 5
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-7": {
-  "name": "700_Sylveon_7",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "30th-153",
-   "lang": "en",
-   "name": "Sylveon ex",
+   "name": "Quilladin",
    "pocket": false,
-   "inliers": 61,
-   "set": "30th Celebration",
-   "illustrator": "You Iribi",
-   "hp": 270,
-   "attacks": [
-    "Colorful Harmony"
-   ]
+   "inliers": 0
   },
-  "official_cards_checked": 43,
+  "official_cards_checked": 5,
   "lookup": {
-   "en": 43,
-   "ja": 24
+   "en": 5,
+   "ja": 1
   }
  },
- "700-sylveon-3": {
-  "name": "700_Sylveon_3",
-  "verdict": "ART_MATCH",
+ "652-chesnaught-1": {
+  "name": "652_Chesnaught_1",
+  "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A3b-076",
-   "lang": "en",
-   "name": "Sylveon",
-   "pocket": true,
-   "inliers": 50,
-   "set": "Eevee Grove",
-   "illustrator": "saino misaki",
-   "hp": 90,
-   "attacks": [
-    "Evoharmony"
-   ]
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-6": {
-  "name": "700_Sylveon_6",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "A3b-081",
-   "lang": "en",
-   "name": "Sylveon ex",
-   "pocket": true,
-   "inliers": 78,
-   "set": "Eevee Grove",
-   "illustrator": "PLANETA CG Works",
-   "hp": 140,
-   "attacks": [
-    "Fairy Wind"
-   ]
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-1": {
-  "name": "700_Sylveon_1",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-172",
-   "lang": "en",
-   "name": "Sylveon",
-   "pocket": false,
-   "inliers": 66,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Susumu Maeya",
-   "hp": 120,
-   "attacks": [
-    "Mystical Return",
-    "Disarming Voice"
-   ]
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-tera": {
-  "name": "700_Sylveon_Tera",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "SV8a-212",
+   "id": "S12-009",
    "lang": "ja",
-   "name": "ニンフィアex",
-   "pocket": false,
-   "inliers": 90,
-   "set": "テラスタルフェスex",
-   "illustrator": "Cona Nitanda",
-   "hp": 270,
-   "attacks": [
-    "マジカルチャーム",
-    "エンジェライト"
-   ]
-  },
-  "official_cards_checked": 43,
-  "lookup": {
-   "en": 43,
-   "ja": 24
-  }
- },
- "700-sylveon-2": {
-  "name": "700_Sylveon_2",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm10-130",
-   "lang": "en",
-   "name": "Gardevoir & Sylveon GX",
+   "name": "ブリガロンV",
    "pocket": false,
    "inliers": 4
   },
-  "official_cards_checked": 43,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 43,
-   "ja": 24
+   "en": 10,
+   "ja": 3
   }
  },
- "700-sylveon-shiny-1": {
-  "name": "700_Sylveon_Shiny_1",
-  "verdict": "ART_MATCH",
+ "652-chesnaught-2": {
+  "name": "652_Chesnaught_2",
+  "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "A3b-089",
+   "id": "xy0-5",
    "lang": "en",
-   "name": "Sylveon ex",
-   "pocket": true,
-   "inliers": 79,
-   "set": "Eevee Grove",
-   "illustrator": "Yuu Nishida",
-   "hp": 140,
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 3
+  }
+ },
+ "652-chesnaught-3": {
+  "name": "652_Chesnaught_3",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "xy0-5",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 8
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 3
+  }
+ },
+ "652-chesnaught-4": {
+  "name": "652_Chesnaught_4",
+  "verdict": "POSSIBLE",
+  "best": {
+   "id": "swsh12-171",
+   "lang": "en",
+   "name": "Chesnaught V",
+   "pocket": false,
+   "inliers": 13,
+   "set": "Silver Tempest",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 230,
    "attacks": [
-    "Fairy Wind"
+    "Touchdown"
    ]
   },
-  "official_cards_checked": 43,
+  "official_cards_checked": 11,
   "lookup": {
-   "en": 43,
-   "ja": 24
+   "en": 10,
+   "ja": 3
+  }
+ },
+ "652-chesnaught-5": {
+  "name": "652_Chesnaught_5",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "me04-007",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 3
+  }
+ },
+ "652-chesnaught-shiny-1": {
+  "name": "652_Chesnaught_Shiny_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "S12-009",
+   "lang": "ja",
+   "name": "ブリガロンV",
+   "pocket": false,
+   "inliers": 4
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 3
+  }
+ },
+ "652-mega-chesnaught-1": {
+  "name": "652_Mega_Chesnaught_1",
+  "verdict": "NO_ART_MATCH",
+  "best": {
+   "id": "xy0-5",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 0
+  },
+  "official_cards_checked": 11,
+  "lookup": {
+   "en": 10,
+   "ja": 3
   }
  }
 }

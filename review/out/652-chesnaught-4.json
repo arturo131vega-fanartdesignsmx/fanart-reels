@@ -1,0 +1,50 @@
+{
+ "candidate": {
+  "key": "652-chesnaught-4",
+  "name": "652_Chesnaught_4",
+  "pokemon": "Chesnaught",
+  "dex": 652,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846468/652_Chesnaught_4.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 3
+ },
+ "top": [
+  {
+   "id": "swsh12-171",
+   "lang": "en",
+   "name": "Chesnaught V",
+   "pocket": false,
+   "inliers": 13,
+   "set": "Silver Tempest",
+   "illustrator": "N-DESIGN Inc.",
+   "hp": 230,
+   "attacks": [
+    "Touchdown"
+   ]
+  },
+  {
+   "id": "me04-007",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy1-14",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy0-5",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

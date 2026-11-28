@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "650-chespin-1",
+  "name": "650_Chespin_1",
+  "pokemon": "Chespin",
+  "dex": 650,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846454/650_Chespin_1.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 13,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "me04-087",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 163,
+   "set": "Chaos Rising",
+   "illustrator": "Atsushi Furusawa",
+   "hp": 70,
+   "attacks": [
+    "Beat",
+    "Spike Sting"
+   ]
+  },
+  {
+   "id": "xy0-3",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "xy8-8",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "xyp-XY88",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 2
+  }
+ ]
+}

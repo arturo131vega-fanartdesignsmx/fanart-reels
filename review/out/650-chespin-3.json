@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "key": "650-chespin-3",
+  "name": "650_Chespin_3",
+  "pokemon": "Chespin",
+  "dex": 650,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846457/650_Chespin_3.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 13,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "xy8-7",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 289,
+   "set": "BREAKthrough",
+   "illustrator": "Megumi Mizutani",
+   "hp": 60,
+   "attacks": [
+    "Nosh",
+    "Seed Bomb"
+   ]
+  },
+  {
+   "id": "xy8-8",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 51,
+   "set": "BREAKthrough",
+   "illustrator": "Megumi Mizutani",
+   "hp": 60,
+   "attacks": [
+    "Work",
+    "Seed Bomb"
+   ]
+  },
+  {
+   "id": "xy0-3",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "me04-005",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

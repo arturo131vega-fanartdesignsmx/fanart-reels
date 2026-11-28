@@ -1,0 +1,51 @@
+{
+ "candidate": {
+  "key": "651-quilladin-1",
+  "name": "651_Quilladin_1",
+  "pokemon": "Quilladin",
+  "dex": 651,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846458/651_Quilladin_1.jpg"
+ },
+ "official_cards_checked": 5,
+ "lookup": {
+  "en": 5,
+  "ja": 1
+ },
+ "top": [
+  {
+   "id": "me04-006",
+   "lang": "en",
+   "name": "Quilladin",
+   "pocket": false,
+   "inliers": 164,
+   "set": "Chaos Rising",
+   "illustrator": "Hideki Ishikawa",
+   "hp": 100,
+   "attacks": [
+    "Leafy Charge",
+    "Vine Whip"
+   ]
+  },
+  {
+   "id": "B2-009",
+   "lang": "en",
+   "name": "Quilladin",
+   "pocket": true,
+   "inliers": 6
+  },
+  {
+   "id": "xy1-13",
+   "lang": "en",
+   "name": "Quilladin",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "xy0-4",
+   "lang": "en",
+   "name": "Quilladin",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

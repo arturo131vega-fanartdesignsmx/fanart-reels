@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "650-chespin-2",
+  "name": "650_Chespin_2",
+  "pokemon": "Chespin",
+  "dex": 650,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846455/650_Chespin_2.jpg"
+ },
+ "official_cards_checked": 10,
+ "lookup": {
+  "en": 13,
+  "ja": 4
+ },
+ "top": [
+  {
+   "id": "xy0-3",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 5
+  },
+  {
+   "id": "me04-005",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xyp-XY88",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy8-7",
+   "lang": "en",
+   "name": "Chespin",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

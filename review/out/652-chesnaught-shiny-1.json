@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "652-chesnaught-shiny-1",
+  "name": "652_Chesnaught_Shiny_1",
+  "pokemon": "Chesnaught",
+  "dex": 652,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846471/652_Chesnaught_Shiny_1.jpg"
+ },
+ "official_cards_checked": 11,
+ "lookup": {
+  "en": 10,
+  "ja": 3
+ },
+ "top": [
+  {
+   "id": "S12-009",
+   "lang": "ja",
+   "name": "ブリガロンV",
+   "pocket": false,
+   "inliers": 4
+  },
+  {
+   "id": "xy0-5",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "xy8-11",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": false,
+   "inliers": 3
+  },
+  {
+   "id": "B2-010",
+   "lang": "en",
+   "name": "Chesnaught",
+   "pocket": true,
+   "inliers": 2
+  }
+ ]
+}
