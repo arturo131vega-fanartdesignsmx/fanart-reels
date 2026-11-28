@@ -1,81 +1,88 @@
 {
  "candidates": [
   {
-   "key": "700-sylveon-vmax",
-   "name": "700_Sylveon_VMAX",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793185/700_Sylveon_VMAX.jpg"
+   "key": "650-chespin-1",
+   "name": "650_Chespin_1",
+   "pokemon": "Chespin",
+   "dex": 650,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846454/650_Chespin_1.jpg"
   },
   {
-   "key": "700-sylveon-4",
-   "name": "700_Sylveon_4",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793184/700_Sylveon_4.jpg"
+   "key": "650-chespin-2",
+   "name": "650_Chespin_2",
+   "pokemon": "Chespin",
+   "dex": 650,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846455/650_Chespin_2.jpg"
   },
   {
-   "key": "700-sylveon-shiny-2",
-   "name": "700_Sylveon_Shiny_2",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793180/700_Sylveon_Shiny_2.jpg"
+   "key": "650-chespin-3",
+   "name": "650_Chespin_3",
+   "pokemon": "Chespin",
+   "dex": 650,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846457/650_Chespin_3.jpg"
   },
   {
-   "key": "700-sylveon-5",
-   "name": "700_Sylveon_5",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793178/700_Sylveon_5.jpg"
+   "key": "651-quilladin-1",
+   "name": "651_Quilladin_1",
+   "pokemon": "Quilladin",
+   "dex": 651,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846458/651_Quilladin_1.jpg"
   },
   {
-   "key": "700-sylveon-7",
-   "name": "700_Sylveon_7",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793172/700_Sylveon_7.jpg"
+   "key": "651-quilladin-2",
+   "name": "651_Quilladin_2",
+   "pokemon": "Quilladin",
+   "dex": 651,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846460/651_Quilladin_2.jpg"
   },
   {
-   "key": "700-sylveon-3",
-   "name": "700_Sylveon_3",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_3.jpg"
+   "key": "652-chesnaught-1",
+   "name": "652_Chesnaught_1",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846461/652_Chesnaught_1.jpg"
   },
   {
-   "key": "700-sylveon-6",
-   "name": "700_Sylveon_6",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793168/700_Sylveon_6.jpg"
+   "key": "652-chesnaught-2",
+   "name": "652_Chesnaught_2",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846463/652_Chesnaught_2.jpg"
   },
   {
-   "key": "700-sylveon-1",
-   "name": "700_Sylveon_1",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793165/700_Sylveon_1.jpg"
+   "key": "652-chesnaught-3",
+   "name": "652_Chesnaught_3",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846467/652_Chesnaught_3.jpg"
   },
   {
-   "key": "700-sylveon-tera",
-   "name": "700_Sylveon_Tera",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793161/700_Sylveon_Tera.jpg"
+   "key": "652-chesnaught-4",
+   "name": "652_Chesnaught_4",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846468/652_Chesnaught_4.jpg"
   },
   {
-   "key": "700-sylveon-2",
-   "name": "700_Sylveon_2",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793157/700_Sylveon_2.jpg"
+   "key": "652-chesnaught-5",
+   "name": "652_Chesnaught_5",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846470/652_Chesnaught_5.jpg"
   },
   {
-   "key": "700-sylveon-shiny-1",
-   "name": "700_Sylveon_Shiny_1",
-   "pokemon": "Sylveon",
-   "dex": 700,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1794793137/700_Sylveon_Shiny_1.jpg"
+   "key": "652-chesnaught-shiny-1",
+   "name": "652_Chesnaught_Shiny_1",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846471/652_Chesnaught_Shiny_1.jpg"
+  },
+  {
+   "key": "652-mega-chesnaught-1",
+   "name": "652_Mega_Chesnaught_1",
+   "pokemon": "Chesnaught",
+   "dex": 652,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795846473/652_Mega_Chesnaught_1.jpg"
   }
  ]
 }
