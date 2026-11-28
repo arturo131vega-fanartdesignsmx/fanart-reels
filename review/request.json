@@ -1,193 +1,67 @@
 {
  "candidates": [
   {
-   "key": "141-kabutops-3",
-   "name": "141_Kabutops_3",
-   "pokemon": "Kabutops",
-   "dex": 141,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810156/141_Kabutops_3.jpg"
+   "key": "701-hawlucha-1",
+   "name": "701_Hawlucha_1",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828133/701_Hawlucha_1.jpg"
   },
   {
-   "key": "69-bellsprout-3",
-   "name": "69_Bellsprout_3",
-   "pokemon": "Bellsprout",
-   "dex": 69,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810158/69_Bellsprout_3.jpg"
+   "key": "701-hawlucha-2",
+   "name": "701_Hawlucha_2",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828134/701_Hawlucha_2.jpg"
   },
   {
-   "key": "359-mega-absol-z-3",
-   "name": "359_Mega_Absol_Z_3",
-   "pokemon": "Absol",
-   "dex": 359,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810160/359_Mega_Absol_Z_3.jpg"
+   "key": "701-hawlucha-3",
+   "name": "701_Hawlucha_3",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828136/701_Hawlucha_3.jpg"
   },
   {
-   "key": "359-mega-absol-z-4",
-   "name": "359_Mega_Absol_Z_4",
-   "pokemon": "Absol",
-   "dex": 359,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810161/359_Mega_Absol_Z_4.jpg"
+   "key": "701-hawlucha-4",
+   "name": "701_Hawlucha_4",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828138/701_Hawlucha_4.jpg"
   },
   {
-   "key": "418-buizel-4",
-   "name": "418_Buizel_4",
-   "pokemon": "Buizel",
-   "dex": 418,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810163/418_Buizel_4.jpg"
+   "key": "701-hawlucha-5",
+   "name": "701_Hawlucha_5",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828140/701_Hawlucha_5.jpg"
   },
   {
-   "key": "445-mega-garchomp-z-3",
-   "name": "445_Mega_Garchomp_Z_3",
-   "pokemon": "Garchomp",
-   "dex": 445,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810165/445_Mega_Garchomp_Z_3.jpg"
+   "key": "701-hawlucha-shiny-1",
+   "name": "701_Hawlucha_Shiny_1",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828141/701_Hawlucha_Shiny_1.jpg"
   },
   {
-   "key": "447-riolu-5",
-   "name": "447_Riolu_5",
-   "pokemon": "Riolu",
-   "dex": 447,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810166/447_Riolu_5.jpg"
+   "key": "701-mega-hawlucha-1",
+   "name": "701_Mega_Hawlucha_1",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828142/701_Mega_Hawlucha_1.jpg"
   },
   {
-   "key": "561-sigilyph-1",
-   "name": "561_Sigilyph_1",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810168/561_Sigilyph_1.jpg"
+   "key": "701-mega-hawlucha-2",
+   "name": "701_Mega_Hawlucha_2",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828144/701_Mega_Hawlucha_2.jpg"
   },
   {
-   "key": "561-sigilyph-2",
-   "name": "561_Sigilyph_2",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810169/561_Sigilyph_2.jpg"
-  },
-  {
-   "key": "561-sigilyph-3",
-   "name": "561_Sigilyph_3",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810172/561_Sigilyph_3.jpg"
-  },
-  {
-   "key": "561-sigilyph-4",
-   "name": "561_Sigilyph_4",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810173/561_Sigilyph_4.jpg"
-  },
-  {
-   "key": "561-sigilyph-5",
-   "name": "561_Sigilyph_5",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810175/561_Sigilyph_5.jpg"
-  },
-  {
-   "key": "561-sigilyph-shiny-1",
-   "name": "561_Sigilyph_Shiny_1",
-   "pokemon": "Sigilyph",
-   "dex": 561,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810176/561_Sigilyph_Shiny_1.jpg"
-  },
-  {
-   "key": "870-falinks-1",
-   "name": "870_Falinks_1",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810183/870_Falinks_1.jpg"
-  },
-  {
-   "key": "870-falinks-2",
-   "name": "870_Falinks_2",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810185/870_Falinks_2.jpg"
-  },
-  {
-   "key": "870-falinks-3",
-   "name": "870_Falinks_3",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810187/870_Falinks_3.jpg"
-  },
-  {
-   "key": "870-falinks-4",
-   "name": "870_Falinks_4",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810188/870_Falinks_4.jpg"
-  },
-  {
-   "key": "870-falinks-5",
-   "name": "870_Falinks_5",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810189/870_Falinks_5.jpg"
-  },
-  {
-   "key": "870-falinks-6",
-   "name": "870_Falinks_6",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810191/870_Falinks_6.jpg"
-  },
-  {
-   "key": "870-falinks-shiny-1",
-   "name": "870_Falinks_Shiny_1",
-   "pokemon": "Falinks",
-   "dex": 870,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810192/870_Falinks_Shiny_1.jpg"
-  },
-  {
-   "key": "969-glimmet-1",
-   "name": "969_Glimmet_1",
-   "pokemon": "Glimmet",
-   "dex": 969,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810194/969_Glimmet_1.jpg"
-  },
-  {
-   "key": "969-glimmet-2",
-   "name": "969_Glimmet_2",
-   "pokemon": "Glimmet",
-   "dex": 969,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810195/969_Glimmet_2.jpg"
-  },
-  {
-   "key": "970-glimmora-1",
-   "name": "970_Glimmora_1",
-   "pokemon": "Glimmora",
-   "dex": 970,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810197/970_Glimmora_1.jpg"
-  },
-  {
-   "key": "970-glimmora-2",
-   "name": "970_Glimmora_2",
-   "pokemon": "Glimmora",
-   "dex": 970,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810199/970_Glimmora_2.jpg"
-  },
-  {
-   "key": "970-glimmora-3",
-   "name": "970_Glimmora_3",
-   "pokemon": "Glimmora",
-   "dex": 970,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810200/970_Glimmora_3.jpg"
-  },
-  {
-   "key": "970-mega-glimmora-1",
-   "name": "970_Mega_Glimmora_1",
-   "pokemon": "Glimmora",
-   "dex": 970,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810202/970_Mega_Glimmora_1.jpg"
-  },
-  {
-   "key": "970-mega-glimmora-2",
-   "name": "970_Mega_Glimmora_2",
-   "pokemon": "Glimmora",
-   "dex": 970,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810204/970_Mega_Glimmora_2.jpg"
+   "key": "701-mega-hawlucha-3",
+   "name": "701_Mega_Hawlucha_3",
+   "pokemon": "Hawlucha",
+   "dex": 701,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828145/701_Mega_Hawlucha_3.jpg"
   }
  ]
 }
