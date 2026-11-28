@@ -3387,7 +3387,9 @@
   "listing_id": 4553581027,
   "design_label": "Design 2 Uxie",
   "image": "https://res.cloudinary.com/rntnboij/image/upload/480_Uxie_1.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 3,
@@ -9561,7 +9563,9 @@
   "card_name": "Snivy",
   "listing_id": 4625724376,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795641727/495_Snivy_3.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 3,
@@ -10669,7 +10673,9 @@
   "card_name": "Emboar",
   "listing_id": 4625826143,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795653995/500_Emboar_5.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 3,
@@ -11511,7 +11517,9 @@
   "card_name": "Falinks 1",
   "listing_id": 4627078356,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810183/870_Falinks_1.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 21,
@@ -11543,7 +11551,9 @@
   "card_name": "Falinks 3",
   "listing_id": 4627078356,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810187/870_Falinks_3.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 4,
@@ -11559,7 +11569,9 @@
   "card_name": "Falinks 4",
   "listing_id": 4627078356,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810188/870_Falinks_4.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 0,
@@ -11591,7 +11603,9 @@
   "card_name": "Falinks 6",
   "listing_id": 4627078482,
   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810191/870_Falinks_6.jpg",
-  "used": [],
+  "used": [
+   "2026-11-28"
+  ],
   "own": false,
   "art_check": {
    "printed_max": 7,
@@ -11953,5 +11967,189 @@
   "reason": "Recolor (shiny) of Oranguru 4 = official Oranguru V artwork swsh10-133 (33 inliers)",
   "pocket": false,
   "added": "2026-11-27"
+ },
+ "700-sylveon-vmax": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon VMAX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_VMAX.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 47,
+   "pocket_max": 6
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Sylveon VMAX swsh7-212 alternate art (47 inliers, same illustration and crop by eye; also shows a set number 13/95)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-1": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 66,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Extended art of the official Sylveon svp-172 / SV8a-068 illustration (66/53 inliers): the art is expanded beyond the official art window, so that card does not exist physically (allowed per Arturo 20-nov-2026 extended-art rule). Never claim authorship",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-2": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_2.jpg",
+  "used": [
+   "2026-11-28"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 3
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers); name + attacks (Soothing Ribbon, Magical Shot) = TCG Pocket Sylveon (Everyday Wonders), treated as pocket",
+  "pocket": true,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-3": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_3.jpg",
+  "used": [
+   "2026-11-28"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 50
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A3b-076, 50 inliers), no physical card >=12: Pocket card made physical",
+  "pocket": true,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-4": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 6,
+   "pocket_max": 96
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A3b-089, 96 inliers), no physical card >=12: Pocket card made physical",
+  "pocket": true,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-5": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_5.jpg",
+  "used": [
+   "2026-11-28"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 5
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers); attacks Dream Gift / Symphony Whip not found as an official or TCG Pocket card in web search",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-6": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_6.jpg",
+  "used": [
+   "2026-11-28"
+  ],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 78
+  },
+  "verdict": "approved",
+  "reason": "TCG Pocket artwork (A3b-081, 78 inliers; B2-229 Pocket 9), no physical card >=12: Pocket card made physical",
+  "pocket": true,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-7": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_7.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 61,
+   "pocket_max": 5
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Sylveon ex 30th-153 (61 inliers, same full art illustration and crop by eye)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-tera": {
+  "pokemon": "Sylveon",
+  "card_name": "Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_Tera.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 90,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Sylveon ex SV8a-212 / sv08.5-156 special art rare (90/55 inliers, same illustration by eye; also shows a set number 13/95)",
+  "pocket": false,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-shiny-1": {
+  "pokemon": "Sylveon",
+  "card_name": "Shiny Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_Shiny_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 79
+  },
+  "verdict": "approved",
+  "reason": "Shiny recolor of TCG Pocket artwork A3b-089 (79 inliers), no physical card >=12; same art as Sylveon 4, do not pair them in one post",
+  "pocket": true,
+  "added": "2026-11-28"
+ },
+ "700-sylveon-shiny-2": {
+  "pokemon": "Sylveon",
+  "card_name": "Shiny Sylveon EX",
+  "listing_id": null,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/700_Sylveon_Shiny_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 5,
+   "pocket_max": 4
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 5 inliers); shiny recolor of Sylveon 5, do not pair them in one post",
+  "pocket": false,
+  "added": "2026-11-28"
  }
 }
