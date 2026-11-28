@@ -11873,5 +11873,85 @@
   "reason": "Official artwork: Mega Hawlucha ex me02.5-268 (344 inliers)",
   "pocket": false,
   "added": "2026-11-27"
+ },
+ "765-oranguru-1": {
+  "pokemon": "Oranguru",
+  "card_name": "Oranguru 1",
+  "listing_id": 4627279954,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810179/765_Oranguru_1.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 4,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 4 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "765-oranguru-2": {
+  "pokemon": "Oranguru",
+  "card_name": "Oranguru 2",
+  "listing_id": 4627279954,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833143/765_Oranguru_2.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 7,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "No official match (max 7 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "765-oranguru-3": {
+  "pokemon": "Oranguru",
+  "card_name": "Oranguru 3",
+  "listing_id": 4627279954,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833145/765_Oranguru_3.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 29,
+   "pocket_max": 0
+  },
+  "verdict": "approved",
+  "reason": "Own illustration by eye; 29 inliers vs swsh10-133 come from copied attack text/frame",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "765-oranguru-4": {
+  "pokemon": "Oranguru",
+  "card_name": "Oranguru 4",
+  "listing_id": 4627279954,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833511/765_Oranguru_4.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Official artwork: Oranguru V swsh10-133 / S10P-058 (33 inliers, same illustration by eye)",
+  "pocket": false,
+  "added": "2026-11-27"
+ },
+ "765-oranguru-5": {
+  "pokemon": "Oranguru",
+  "card_name": "Oranguru 5",
+  "listing_id": 4627279954,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833148/765_Oranguru_5.jpg",
+  "used": [],
+  "own": false,
+  "art_check": {
+   "printed_max": 33,
+   "pocket_max": 0
+  },
+  "verdict": "rejected",
+  "reason": "Recolor (shiny) of Oranguru 4 = official Oranguru V artwork swsh10-133 (33 inliers)",
+  "pocket": false,
+  "added": "2026-11-27"
  }
 }
