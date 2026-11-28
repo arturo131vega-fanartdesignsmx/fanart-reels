@@ -1,0 +1,44 @@
+{
+ "candidate": {
+  "key": "765-oranguru-2",
+  "name": "765_Oranguru_2",
+  "pokemon": "Oranguru",
+  "dex": 765,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833143/765_Oranguru_2.jpg"
+ },
+ "official_cards_checked": 21,
+ "lookup": {
+  "en": 17,
+  "ja": 15
+ },
+ "top": [
+  {
+   "id": "SV1a-039",
+   "lang": "ja",
+   "name": "ヤレユータン",
+   "pocket": false,
+   "inliers": 7
+  },
+  {
+   "id": "sm4-48",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": false,
+   "inliers": 0
+  },
+  {
+   "id": "A3a-059",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": true,
+   "inliers": 0
+  },
+  {
+   "id": "sv02-094",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": false,
+   "inliers": 0
+  }
+ ]
+}

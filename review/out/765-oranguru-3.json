@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "765-oranguru-3",
+  "name": "765_Oranguru_3",
+  "pokemon": "Oranguru",
+  "dex": 765,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833145/765_Oranguru_3.jpg"
+ },
+ "official_cards_checked": 21,
+ "lookup": {
+  "en": 17,
+  "ja": 15
+ },
+ "top": [
+  {
+   "id": "swsh10-133",
+   "lang": "en",
+   "name": "Oranguru V",
+   "pocket": false,
+   "inliers": 29,
+   "set": "Astral Radiance",
+   "illustrator": "Uta",
+   "hp": 210,
+   "attacks": [
+    "Psychic"
+   ]
+  },
+  {
+   "id": "sma-SV44",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": false,
+   "inliers": 25,
+   "set": "Hidden Fates Shiny Vault",
+   "illustrator": "Akira Komayama",
+   "hp": 120,
+   "attacks": [
+    "Psychic"
+   ]
+  },
+  {
+   "id": "smp-SM13",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": false,
+   "inliers": 24,
+   "set": "SM Black Star Promos",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 120,
+   "attacks": [
+    "Psychic"
+   ]
+  },
+  {
+   "id": "swsh10-179",
+   "lang": "en",
+   "name": "Oranguru V",
+   "pocket": false,
+   "inliers": 23,
+   "set": "Astral Radiance",
+   "illustrator": "Toyste Beach",
+   "hp": 210,
+   "attacks": [
+    "Psychic"
+   ]
+  }
+ ]
+}

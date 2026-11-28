@@ -1,164 +1,100 @@
 {
- "701-hawlucha-1": {
-  "name": "701_Hawlucha_1",
+ "765-oranguru-1": {
+  "name": "765_Oranguru_1",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "sv01-118",
+   "id": "A3a-059",
    "lang": "en",
-   "name": "Hawlucha",
-   "pocket": false,
-   "inliers": 10
+   "name": "Oranguru",
+   "pocket": true,
+   "inliers": 4
   },
-  "official_cards_checked": 30,
+  "official_cards_checked": 21,
   "lookup": {
-   "en": 22,
-   "ja": 16
+   "en": 17,
+   "ja": 15
   }
  },
- "701-hawlucha-2": {
-  "name": "701_Hawlucha_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "svp-007",
-   "lang": "en",
-   "name": "Hawlucha",
-   "pocket": false,
-   "inliers": 86,
-   "set": "SVP Black Star Promos",
-   "illustrator": "Yuya Oka",
-   "hp": 70,
-   "attacks": [
-    "Wing Attack"
-   ]
-  },
-  "official_cards_checked": 30,
-  "lookup": {
-   "en": 22,
-   "ja": 16
-  }
- },
- "701-hawlucha-3": {
-  "name": "701_Hawlucha_3",
+ "765-oranguru-2": {
+  "name": "765_Oranguru_2",
   "verdict": "NO_ART_MATCH",
   "best": {
-   "id": "SV4a-106",
+   "id": "SV1a-039",
    "lang": "ja",
-   "name": "ルチャブル",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 30,
-  "lookup": {
-   "en": 22,
-   "ja": 16
-  }
- },
- "701-hawlucha-4": {
-  "name": "701_Hawlucha_4",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "sm6-70",
-   "lang": "en",
-   "name": "Hawlucha",
+   "name": "ヤレユータン",
    "pocket": false,
    "inliers": 7
   },
-  "official_cards_checked": 30,
+  "official_cards_checked": 21,
   "lookup": {
-   "en": 22,
-   "ja": 16
+   "en": 17,
+   "ja": 15
   }
  },
- "701-hawlucha-5": {
-  "name": "701_Hawlucha_5",
-  "verdict": "NO_ART_MATCH",
+ "765-oranguru-3": {
+  "name": "765_Oranguru_3",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "sm6-70",
+   "id": "swsh10-133",
    "lang": "en",
-   "name": "Hawlucha",
+   "name": "Oranguru V",
    "pocket": false,
-   "inliers": 5
+   "inliers": 29,
+   "set": "Astral Radiance",
+   "illustrator": "Uta",
+   "hp": 210,
+   "attacks": [
+    "Psychic"
+   ]
   },
-  "official_cards_checked": 30,
+  "official_cards_checked": 21,
   "lookup": {
-   "en": 22,
-   "ja": 16
+   "en": 17,
+   "ja": 15
   }
  },
- "701-hawlucha-shiny-1": {
-  "name": "701_Hawlucha_Shiny_1",
-  "verdict": "NO_ART_MATCH",
+ "765-oranguru-4": {
+  "name": "765_Oranguru_4",
+  "verdict": "ART_MATCH",
   "best": {
-   "id": "xy6-39",
-   "lang": "en",
-   "name": "Hawlucha",
-   "pocket": false,
-   "inliers": 5
-  },
-  "official_cards_checked": 30,
-  "lookup": {
-   "en": 22,
-   "ja": 16
-  }
- },
- "701-mega-hawlucha-1": {
-  "name": "701_Mega_Hawlucha_1",
-  "verdict": "NO_ART_MATCH",
-  "best": {
-   "id": "SV4a-282",
+   "id": "S10P-058",
    "lang": "ja",
-   "name": "ルチャブル",
+   "name": "ヤレユータンV",
    "pocket": false,
-   "inliers": 4
-  },
-  "official_cards_checked": 30,
-  "lookup": {
-   "en": 22,
-   "ja": 16
-  }
- },
- "701-mega-hawlucha-2": {
-  "name": "701_Mega_Hawlucha_2",
-  "verdict": "ART_MATCH",
-  "best": {
-   "id": "me02.5-283",
-   "lang": "en",
-   "name": "Mega Hawlucha ex",
-   "pocket": false,
-   "inliers": 84,
-   "set": "Ascended Heroes",
-   "illustrator": "AKIRA EGAWA",
-   "hp": 250,
+   "inliers": 33,
+   "set": "スペースジャグラー",
+   "illustrator": "Uta",
+   "hp": 210,
    "attacks": [
-    "Somersault Dive"
+    "サイコキネシス"
    ]
   },
-  "official_cards_checked": 30,
+  "official_cards_checked": 21,
   "lookup": {
-   "en": 22,
-   "ja": 16
+   "en": 17,
+   "ja": 15
   }
  },
- "701-mega-hawlucha-3": {
-  "name": "701_Mega_Hawlucha_3",
+ "765-oranguru-5": {
+  "name": "765_Oranguru_5",
   "verdict": "ART_MATCH",
   "best": {
-   "id": "me02.5-268",
+   "id": "swsh10-179",
    "lang": "en",
-   "name": "Mega Hawlucha ex",
+   "name": "Oranguru V",
    "pocket": false,
-   "inliers": 344,
-   "set": "Ascended Heroes",
-   "illustrator": "Taiga Kasai",
-   "hp": 250,
+   "inliers": 33,
+   "set": "Astral Radiance",
+   "illustrator": "Toyste Beach",
+   "hp": 210,
    "attacks": [
-    "Somersault Dive"
+    "Psychic"
    ]
   },
-  "official_cards_checked": 30,
+  "official_cards_checked": 21,
   "lookup": {
-   "en": 22,
-   "ja": 16
+   "en": 17,
+   "ja": 15
   }
  }
 }

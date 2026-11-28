@@ -1,0 +1,68 @@
+{
+ "candidate": {
+  "key": "765-oranguru-5",
+  "name": "765_Oranguru_5",
+  "pokemon": "Oranguru",
+  "dex": 765,
+  "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833148/765_Oranguru_5.jpg"
+ },
+ "official_cards_checked": 21,
+ "lookup": {
+  "en": 17,
+  "ja": 15
+ },
+ "top": [
+  {
+   "id": "swsh10-179",
+   "lang": "en",
+   "name": "Oranguru V",
+   "pocket": false,
+   "inliers": 33,
+   "set": "Astral Radiance",
+   "illustrator": "Toyste Beach",
+   "hp": 210,
+   "attacks": [
+    "Psychic"
+   ]
+  },
+  {
+   "id": "S12a-130",
+   "lang": "ja",
+   "name": "ヤレユータンV",
+   "pocket": false,
+   "inliers": 28,
+   "set": "VSTARユニバース",
+   "illustrator": "Uta",
+   "hp": 210,
+   "attacks": [
+    "サイコキネシス"
+   ]
+  },
+  {
+   "id": "S10P-058",
+   "lang": "ja",
+   "name": "ヤレユータンV",
+   "pocket": false,
+   "inliers": 26,
+   "set": "スペースジャグラー",
+   "illustrator": "Uta",
+   "hp": 210,
+   "attacks": [
+    "サイコキネシス"
+   ]
+  },
+  {
+   "id": "smp-SM13",
+   "lang": "en",
+   "name": "Oranguru",
+   "pocket": false,
+   "inliers": 24,
+   "set": "SM Black Star Promos",
+   "illustrator": "Mitsuhiro Arita",
+   "hp": 120,
+   "attacks": [
+    "Psychic"
+   ]
+  }
+ ]
+}
