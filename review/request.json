@@ -1,67 +1,39 @@
 {
  "candidates": [
   {
-   "key": "701-hawlucha-1",
-   "name": "701_Hawlucha_1",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828133/701_Hawlucha_1.jpg"
+   "key": "765-oranguru-1",
+   "name": "765_Oranguru_1",
+   "pokemon": "Oranguru",
+   "dex": 765,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795810179/765_Oranguru_1.jpg"
   },
   {
-   "key": "701-hawlucha-2",
-   "name": "701_Hawlucha_2",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828134/701_Hawlucha_2.jpg"
+   "key": "765-oranguru-2",
+   "name": "765_Oranguru_2",
+   "pokemon": "Oranguru",
+   "dex": 765,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833143/765_Oranguru_2.jpg"
   },
   {
-   "key": "701-hawlucha-3",
-   "name": "701_Hawlucha_3",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828136/701_Hawlucha_3.jpg"
+   "key": "765-oranguru-3",
+   "name": "765_Oranguru_3",
+   "pokemon": "Oranguru",
+   "dex": 765,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833145/765_Oranguru_3.jpg"
   },
   {
-   "key": "701-hawlucha-4",
-   "name": "701_Hawlucha_4",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828138/701_Hawlucha_4.jpg"
+   "key": "765-oranguru-4",
+   "name": "765_Oranguru_4",
+   "pokemon": "Oranguru",
+   "dex": 765,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833511/765_Oranguru_4.jpg"
   },
   {
-   "key": "701-hawlucha-5",
-   "name": "701_Hawlucha_5",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828140/701_Hawlucha_5.jpg"
-  },
-  {
-   "key": "701-hawlucha-shiny-1",
-   "name": "701_Hawlucha_Shiny_1",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828141/701_Hawlucha_Shiny_1.jpg"
-  },
-  {
-   "key": "701-mega-hawlucha-1",
-   "name": "701_Mega_Hawlucha_1",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828142/701_Mega_Hawlucha_1.jpg"
-  },
-  {
-   "key": "701-mega-hawlucha-2",
-   "name": "701_Mega_Hawlucha_2",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828144/701_Mega_Hawlucha_2.jpg"
-  },
-  {
-   "key": "701-mega-hawlucha-3",
-   "name": "701_Mega_Hawlucha_3",
-   "pokemon": "Hawlucha",
-   "dex": 701,
-   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795828145/701_Mega_Hawlucha_3.jpg"
+   "key": "765-oranguru-5",
+   "name": "765_Oranguru_5",
+   "pokemon": "Oranguru",
+   "dex": 765,
+   "image": "https://res.cloudinary.com/rntnboij/image/upload/v1795833148/765_Oranguru_5.jpg"
   }
  ]
 }
